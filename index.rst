@@ -1,6 +1,6 @@
 
 Welcome to PubMed Standards documentation!
-=========================================
+==========================================
 
 The purpose of this document is to provide simple, but detailed guide to the realm of PubMed corrections.
 
