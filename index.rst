@@ -2,9 +2,7 @@
 Welcome to PubMed Standards documentation!
 ==========================================
 
-The purpose of this document is to provide simple, but detailed guide to the realm of PubMed corrections.
-
-We suggest starting with "Getting started" page and working your way through the rest of the pages step by step.
+The purpose of this document is to provide a simple, but detailed guide to the realm of PubMed corrections.
 
 Happy hunting!
 
@@ -24,3 +22,9 @@ Happy hunting!
 
    HTML <editorials_news_html>
    PDF <editorials_news_pdf>
+
+
+.. toctree::
+   :caption: Appendix:
+
+   vocabulary
