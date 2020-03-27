@@ -2,7 +2,7 @@
 
 .. _title_editorials_news:
 
-PDF: Editorials and News only
+HTML: Editorials and News only
 =============================
 
 
