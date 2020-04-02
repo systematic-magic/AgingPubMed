@@ -23,57 +23,123 @@ For other Latin terms and gene names either italics or :ref:`plain text<plain_te
 
 1.6. Check that species and gene names are written in italics.
 
+|
+.. _author_list_research_papers:
+
+2. Author List
+--------------
+
+2.1. Check that all author names in author list are separated by commas (,). No other separators allowed.
+
+2.2. Check that there is no period (or any other punctuation mark) after the last author name.
+
+.. image:: /_static/html_author_list_separ.png
+   :alt: Author list separators
+   :scale: 60%
+
+
+2.3. Check the format of the author name. 
+
+Allowed formats:
+
+	+  :sample:`FirstName LastName`
+	+  :sample:`FirstName MiddleName LastName`
+	+  :sample:`FirstName MiddleName MiddleName LastName` (there can any number of middle names)
+	+  :sample:`FirstName MN. LastName` (MN. are initials of middle names; up to 4 letters)
+	+  :sample:`FirstName M.N. LastName` (M.N. are initials of middle names; up to 4 letters)
+	+  :sample:`F. MiddleName LastName` (F. is an initial of first name)
+	+  :sample:`F. MiddleName MiddleName LastName` (F. is initial of first name and there can any number of middle names)
+
+.. Important::
+	As a general rule, we don't want to keep initials for first names. Request the expanded name from the author in this situation. If the authors insist on a first initial, then the middle name(s) must be present and fully expanded. |br| |br|
+	LastName **cannot** be presented as initial (even if authors insist on this). LastName should always be presented in full.
+
+
+Please note that last names can be compound, can have prepositions, suffixes, prefixes or be :ref:`mononyms<mononym>`. For example:
+
+	- Compound last names: :sample:`Garcia-Closas, Gomez Jimenez`
+	- Last name related prepositions: :sample:`Van den Brandt, van der Ent`
+	- Suffixes: :sample:`Williams 3rd, Rowland Jr`
+	- Prefixes: :sample:`McCann, O'Kelly`
+	- Mononym: :sample:`Govindjee`
+
+If you see that author name does not comply to these standards, please contact corresponding author and ask to provide author name in correct format.
+
+2.4. Check that each author name contains a number linked to the affiliation text (i.e. affiliation number). One author name can contain a few affiliation numbers.
+
+.. image:: /_static/html_aff_texts_and_authors.png
+	:scale: 60%
+	:alt: Affiliation texts and authors
+
+If there is only one affiliation text for all authors, then each author name should have "1" next to it. 
+
+.. image:: /_static/html_one_affiliation_all_auth.png
+   :alt: One affiliation for all authors
+   :scale: 60%
+
+2.5. Check that all affiliation numbers of the author list are separated by commas (,). No other separator is allowed.
+
+2.6. Check that all affiliation numbers of the author list are formatted in superscript. See below.
+
+.. image:: /_static/html_affiliation_numbers.png
+   :alt: Affiliation Numbers
+
+.. Note::
+	
+	Occasionally you can see a symbol (\*, #, \**, \*** etc) next to the author name together with affiliation number. This symbol is related to Author Notes. |br|
+	:ref:`Author Notes checks<author_notes>` can be found below.
+
 
 |
 .. _affiliations_research_papers:          
 
-2. Affiliations
+3. Affiliations
 ---------------
 
-2.1. Check spelling of English words only
+3.1. Check spelling of English words only
 
-2.2. Check that there are NO street addresses and house numbers included in affiliation.
+3.2. Check that there are NO street addresses and house numbers included in affiliation.
 
-2.3. Check that country and city names are present in affiliation.
+3.3. Check that country and city names are present in affiliation.
 
-2.4. Check that country and city names are NOT written in ALL CAPS (capital letters).
+3.4. Check that country and city names are NOT written in ALL CAPS (capital letters).
 
-2.5. China affiliations: zip code is allowed for both city and county/district. If zip code is present, it must be positioned after city/county/district and there must be no comma between city/county/district and zip code. Zip code for is optional for any of the elements (city/county/district).
+3.5. China affiliations: zip code is allowed for both city and county/district. If zip code is present, it must be positioned after city/county/district and there must be no comma between city/county/district and zip code. Zip code for is optional for any of the elements (city/county/district).
 
 .. image:: /_static/aff_text_zip_china.png
    :alt: No comma between city/county/district and zip code
 
-2.6. USA affiliations: check that there is no comma between state and zip code. State must be positioned before zip code. Zip code must be present.
+3.6. USA affiliations: check that there is no comma between state and zip code. State must be positioned before zip code. Zip code must be present.
 
-2.7. Non-USA affiliations: check that there is no comma between city and zip code. City must be positioned before zip code. Zip code is optional.
+3.7. Non-USA affiliations: check that there is no comma between city and zip code. City must be positioned before zip code. Zip code is optional.
 
 .. image:: /_static/aff_text_zip_state_city.png
    :alt: No comma between zip code and state (US) / city (non-US)
 
-2.8. Check that each affiliation number has only one complete affiliation. One affiliation – one number. |br|
+3.8. Check that each affiliation number has only one complete affiliation. One affiliation – one number. |br|
 One exclusion: affiliations of Chinese authors, where Key Laboratory combines different institutions. In that case one number can contains two affiliations.
 
-2.9. Occasionally affiliations can contain “Current/Present address:” title. If it is present, check that it has a separate affiliation number and that is followed by colon (:). |br| One address - one affiliation number. 
+3.9. Occasionally affiliations can contain “Current/Present address:” title. If it is present, check that it has a separate affiliation number and that is followed by colon (:). |br| One address - one affiliation number. 
 	
 All acceptable combinations of “Current/Present address” are depicted on the screenshot below: 
 
 .. image:: /_static/aff_current_address.png
    :alt: Current/Present address
 
-2.10. Check that only commas are used to separate parts of affiliations (i.e. department, institution, etc.).
+3.10. Check that only commas are used to separate parts of affiliations (i.e. department, institution, etc.).
 
 .. image:: /_static/aff_parts.png
    :alt: Affiliation format
 
-2.11. Check that first word of Author Notes starts with a capital letter.
+3.11. Check that first word of Author Notes starts with a capital letter.
 
-2.12. Check that Author Notes are preceded by a symbol (or group of symbols). |br|
+3.12. Check that Author Notes are preceded by a symbol (or group of symbols). |br|
 Most used symbols are: \*, #, †
 
 .. image:: /_static/aff_auth_note.png
    :alt: Author Notes
 
-2.13. Check that Author Notes symbol is linked to author(s) in the author list. 
+3.13. Check that Author Notes symbol is linked to author(s) in the author list. 
 
 .. image:: /_static/aff_auth_note_symbol.png
    :alt: Author Notes Symbol
