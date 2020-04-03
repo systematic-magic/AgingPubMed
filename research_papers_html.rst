@@ -175,22 +175,22 @@ If there are several author notes, then each note should have **different** symb
 
 5.1. Check that correspondence section has a title “CORRESPONDING AUTHORS” (ALL CAPS)
 
-5.2. Check that correspondence section has one or more Author + Email address pairs. Occasionally an Author can have 2 or more emails.
+5.2. Check that correspondence section has one or more Author + Email address pairs. Occasionally an author can have 2 or more emails.
 
-5.3. Check that Author FullName line does not have any puncutation marks at the end.
+5.3. Check that author’s name does not have any punctuation marks at the end.
 
-5.4. Check that email line is located below the Author FullName nad does not have any punctuation marks at the end.
+5.4. Check that email line is located below the author’s name and does not have any punctuation marks at the end.
 
 5.5. Check that multiple Author + Email pairs are divided by a blank line.
 
 .. image:: /_static/corr_format.png
    :alt: Correspondence format
 
-5.6. Check that Author FullName does NOT contain titles and/or degrees (e.g. Dr., Ph.D., M.D., etc.)
+5.6. Check that author’s name does NOT contain titles and/or degrees (e.g. Dr., Ph.D., M.D., etc.)
 
-5.7. Check that email address is hyperlinked
+5.7. Check that email address is hyperlinked.
 
-5.8. Check that Author FullName matches corresponding name in the author list (including the middle initials if any)
+5.8. Check that author’s name completely matches corresponding name in the author list (including the middle initials if any).
 
 .. image:: /_static/corr_auth_mtch.png
    :alt: Correspondence author match
