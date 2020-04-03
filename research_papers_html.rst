@@ -145,29 +145,52 @@ Most used symbols are: \*, #, †
    :alt: Author Notes Symbol
 
 |
+.. _author_notes:
+
+4. Author Notes
+---------------
+
+Author notes are optional. Article can have several or no author notes.
+
+4.1. Check that author notes are denoted by symbol (no numbers allowed). It can be any symbol, but most often used are: \*, †, +, #, \**, \***.
+If there are several author notes, then each note should have **different** symbol.
+
+4.2. Check that author notes line is written in sentence case.
+
+4.3. Check that there are no punctuation marks at the end of author notes line.
+
+4.4. Check that author notes symbols are formatted in superscript.
+
+4.5. Check that author notes symbol is present next to author name(s).
+
+.. image:: /_static/html_author_notes.png
+   	:alt: Author Notes
+	:scale: 45%
+
+|
 .. _correspondece_research_papers:
 
-3. Correspondence
+5. Correspondence
 -----------------
 
-3.1. Check that correspondence section has a title “CORRESPONDING AUTHORS” (ALL CAPS)
+5.1. Check that correspondence section has a title “CORRESPONDING AUTHORS” (ALL CAPS)
 
-3.2. Check that correspondence section has one or more Author + Email address pairs. Occasionally an Author can have 2 or more emails.
+5.2. Check that correspondence section has one or more Author + Email address pairs. Occasionally an Author can have 2 or more emails.
 
-3.3. Check that Author FullName line does not have any puncutation marks at the end.
+5.3. Check that Author FullName line does not have any puncutation marks at the end.
 
-3.4. Check that email line is located below the Author FullName nad does not have any punctuation marks at the end.
+5.4. Check that email line is located below the Author FullName nad does not have any punctuation marks at the end.
 
-3.5. Check that multiple Author + Email pairs are divided by a blank line.
+5.5. Check that multiple Author + Email pairs are divided by a blank line.
 
 .. image:: /_static/corr_format.png
    :alt: Correspondence format
 
-3.6. Check that Author FullName does NOT contain titles and/or degrees (e.g. Dr., Ph.D., M.D., etc.)
+5.6. Check that Author FullName does NOT contain titles and/or degrees (e.g. Dr., Ph.D., M.D., etc.)
 
-3.7. Check that email address is hyperlinked
+5.7. Check that email address is hyperlinked
 
-3.8. Check that Author FullName matches corresponding name in the author list (including the middle initials if any)
+5.8. Check that Author FullName matches corresponding name in the author list (including the middle initials if any)
 
 .. image:: /_static/corr_auth_mtch.png
    :alt: Correspondence author match
@@ -175,14 +198,14 @@ Most used symbols are: \*, #, †
 |
 .. _keywords_research_papers:
 
-4. Keywords
+6. Keywords
 -----------
 
-4.1. Check that Keywords section has a title "KEYWORDS” (ALL CAPS)
+6.1. Check that Keywords section has a title "KEYWORDS” (ALL CAPS)
 
-4.2. Check that article has at least 1 keyword (Note: number of keywords is not limited).
+6.2. Check that article has at least 1 keyword (Note: number of keywords is not limited).
 
-4.3. Check that keywords start with a small letter (exception: special terms, genes, proteins, species names etc, which normally start with capital letter).
+6.3. Check that keywords start with a small letter (exception: special terms, genes, proteins, species names etc, which normally start with capital letter).
 
 |
 .. _dates_research_papers:
