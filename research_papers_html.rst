@@ -247,7 +247,7 @@ If there are several author notes, then each note should have **different** symb
 
 and followed by:
 
-:sample:`This is an open-access article distributed under the terms of the Creative Commons Attribution (CC BY) 3.0 License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.`
+:sample:`This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY 3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.`
 
 
 .. image:: /_static/cpright_format.png
