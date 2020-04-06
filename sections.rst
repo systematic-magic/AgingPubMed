@@ -1,4 +1,6 @@
-.. role:: red
+.. role:: blue
+.. role:: wronbl
+.. role:: headr2
 
 9. Section headers
 ------------------
