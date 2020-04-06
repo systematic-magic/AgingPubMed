@@ -25,6 +25,8 @@ body span.blue {
 }
 
 body span.wtonbl {
+	text-indent: 50px;
+	line-height: 1.8;
 	color: #fff;
 	background-color: #0053b5;
 	font-weight: 700;
