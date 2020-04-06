@@ -1,6 +1,7 @@
 .. role:: blue
 .. role:: wtonbl
 .. role:: headr2
+.. role:: red
 
 9. Section headers
 ------------------
@@ -29,9 +30,9 @@ Also if you notice that the order of the sections need to be changed (to comply 
 
 		:blue:`Abstract` - mandatory - [sentance case, in blue]
 
-		:wtonbl:`Introduction` - mandatory - [sentance case, in white on blue background]
+		:wtonbl:`  Introduction  ` - mandatory - [sentance case, in white on blue background]
 
-		:wtonbl:`Results` - mandatory - [sentance case, in white on blue background]
+		:wtonbl:`  Results  ` - mandatory - [sentance case, in white on blue background]
 
 		:red:`DISCUSSION` - mandatory - [all caps, in red]
 
