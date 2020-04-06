@@ -21,6 +21,7 @@ body span.sample {
 
 body span.blue {
 	color: #00479b;
+	font-size: 18px;
 	font-weight: 700;
 }
 
@@ -30,14 +31,15 @@ body span.wtonbl {
   	padding-right: 5px;
   	padding-bottom: 5px;
   	padding-left: 5px;
+  	font-size: 18px;
 	color: #fff;
 	background-color: #0053b5;
-	font-weight: 900;
+	font-weight: 700;
 }
 
 body span.headr2 {
 	color: #2e4057;
-	font-weight: 900;
+	font-weight:700;
 }
 
 body span.red {
