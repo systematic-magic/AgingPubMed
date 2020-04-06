@@ -18,3 +18,19 @@ body span.sample {
 	font-weight: 400;
 
 }
+
+body span.blue {
+	color: #00479b;
+	font-weight: 700;
+}
+
+body span.wtonbl {
+	color: #fff;
+	background-color: #0053b5;
+	font-weight: 700;
+}
+
+body span.headr2 {
+	color: #2e4057;
+	font-weight: 700;
+}

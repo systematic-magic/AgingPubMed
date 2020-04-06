@@ -28,3 +28,4 @@ Happy hunting!
    :caption: Appendix:
 
    vocabulary
+   sections
