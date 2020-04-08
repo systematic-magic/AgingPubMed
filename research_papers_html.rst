@@ -1,4 +1,8 @@
 .. role:: sample
+.. role:: blue
+.. role:: wtonbl
+.. role:: headr2
+.. role:: red
 
 .. _title_research_papers:
 
@@ -273,6 +277,228 @@ and followed by:
 10.1. Check that all links in the text are hyperlinked.
 
 10.2. Check that hyperlinks lead to the valid page.
+
+|
+.. _section_headers_research_papers:
+
+11. Section Headers
+------------------
+.. _start_of_check:
+
+Section headers should comply to below mentioned requirements in respect of order, letter case, colour and spelling. Also, no variations (except for alternatives explicitly mentioned in these standards) are allowed. For example, standards have "Author contributions" section with no alternatives specified, which means that all other variations (like "Authors' contributions, Author contribution, Contribution of author, etc") are not allowed.
+
+If you see any deviations of section naming in articles, please contact authors and check whether they agree to change section header in question in accordance with these standards.
+
+Also if you notice that the order of the sections need to be changed (to comply with the standards), please contact author to confirm section order changes with him/her.
+
+
+11.1. Check that article has the following sections in the following order:
+
+| NAVIGATE TO:
+|	:ref:`Research papers (as well as Special Section Research papers)<research_papers>`
+|	:ref:`Clinical Research papers and Meta-Analysis<clinical_research_papers>`
+|	:ref:`Reviews<reviews>`
+|	:ref:`Editorials and News<editorials_news>`
+|	:ref:`Case reports<case_reports>`
+|	:ref:`Research perspectives and Meeting reports<research_perspectives>`
+
+.. _research_papers:
+
+	- **Research papers (as well as Special Section Research papers)**
+
+		:blue:`Abstract` - mandatory - [title case, in blue]
+
+		:wtonbl:`Introduction` - mandatory - [title case, in white on blue background]
+
+		:wtonbl:`Results` - mandatory - [title case, in white on blue background]
+
+		:wtonbl:`Discussion` - mandatory - [title case, in white on blue background]
+
+		:wtonbl:`Methods` - mandatory (alternatively can be :wtonbl:`Materials and Methods`, :wtonbl:`Patients and Methods`, :wtonbl:`Experimental Methods` - all other alternatives not allowed) - [title case, in white on blue background]
+
+		:wtonbl:`Conclusions` - optional - [title case, in white on blue background]
+
+		:wtonbl:`Abbreviations` - optional - [title case, in white on blue background]
+
+		:wtonbl:`Author Contributions` - optional - [title case, in white on blue background]
+
+		:wtonbl:`Acknowledgments` - optional (alternatively can be :wtonbl:`Acknowledgments and Funding` - in this case there should be no :wtonbl:`Funding` section) - [title case, in white on blue background]
+
+		:wtonbl:`Ethics statement` - optional - [sentence case, in white on blue background] - (can be present as subheader in :wtonbl:`Methods` section, as a subheader it should be bold, in sentence case and in :headr2:`black`)
+
+		:wtonbl:`Conflicts of Interest` - mandatory - [title case, in white on blue background]
+
+		:wtonbl:`Funding` - optional (alternatively :wtonbl:`Funding Support`, :wtonbl:`Grant Support` - if article contains :wtonbl:`Acknowledgments and Funding` section, then :wtonbl:`Funding ` section should be removed) - [title case, in white on blue background]
+
+		:wtonbl:`Editorial note` - optional - [sentence case, in white on blue background]
+
+		:wtonbl:`References` - mandatory - [title case, in white on blue background]
+
+
+| NAVIGATE TO:
+| :ref:`next check<next_check>`
+| :ref:`start of this check<start_of_check>`
+
+.. _clinical_research_papers:
+
+	- **Clinical Research papers and Meta-Analysis**
+
+		:blue:`Abstract` - mandatory - [title case, in blue]
+
+		:wtonbl:`Introduction` - mandatory - [title case, in white on blue background]
+
+			:wtonbl:`Methods` - mandatory - either before :wtonbl:`Results` section or after :wtonbl:`Discussion` - (alternatively can be :wtonbl:`Materials and Methods`, :wtonbl:`Patients and Methods`, :wtonbl:`Experimental Methods` - all other alternatives not allowed) - [title case, in white on blue background]
+
+		:wtonbl:`Results` - mandatory - [title case, in white on blue background]
+
+		:wtonbl:`Discussion` - mandatory - [title case, in white on blue background]
+
+			:wtonbl:`Methods` - mandatory - either before :wtonbl:`Results` section or after :wtonbl:`Discussion` - (alternatively can be :wtonbl:`Materials and Methods`, :wtonbl:`Patients and Methods`, :wtonbl:`Experimental Methods` - all other alternatives not allowed) - [title case, in white on blue background]
+
+		:wtonbl:`Conclusions` - optional - [title case, in white on blue background]
+
+		:wtonbl:`Abbreviations` - optional - [title case, in white on blue background]
+
+		:wtonbl:`Author Contributions` - optional - [title case, in white on blue background]
+
+		:wtonbl:`Acknowledgments` - optional (alternatively can be :wtonbl:`Acknowledgments and Funding` - in this case there should be no :wtonbl:`Funding` section) - [title case, in white on blue background]
+
+		:wtonbl:`Ethics statement` - optional - [sentence case, in white on blue background] - (can be present as subheader in :wtonbl:`Methods` section, as a subheader it should be bold, in sentence case and in :headr2:`black`)
+
+		:wtonbl:`Conflicts of Interest` - mandatory - [title case, in white on blue background]
+
+		:wtonbl:`Funding` - optional (alternatively :wtonbl:`Funding Support`, :wtonbl:`Grant Support` - if article contains :wtonbl:`Acknowledgments and Funding` section, then :wtonbl:`Funding ` section should be removed) - [title case, in white on blue background]
+
+		:wtonbl:`Editorial note` - optional - [sentence case, in white on blue background]
+
+		:wtonbl:`References` - mandatory - [title case, in white on blue background]
+
+| NAVIGATE TO:
+| :ref:`next check<next_check>`
+| :ref:`start of this check<start_of_check>`
+
+.. _reviews:
+
+	- **Reviews**
+
+		:blue:`Abstract` - mandatory - [title case, in blue]
+
+		:wtonbl:`Introduction` - mandatory - [title case, in white on blue background]
+
+
+		Reviews usually have free-style (research related) section headers. These headers can be formatted in sentence case and coloured in white on blue background.
+
+
+		:wtonbl:`Abbreviations` - optional - [title case, in white on blue background]
+
+		:wtonbl:`Author Contributions` - optional - [title case, in white on blue background]
+
+		:wtonbl:`Acknowledgments` - optional (alternatively can be :wtonbl:`Acknowledgments and Funding` - in this case there should be no :wtonbl:`Funding` section) - [title case, in white on blue background]
+
+		:wtonbl:`Ethics statement` - optional - [sentence case, in white on blue background] - (can be present as subheader in :wtonbl:`Methods` section, as a subheader it should be bold, in sentence case and in :headr2:`black`)
+
+		:wtonbl:`Conflicts of Interest` - mandatory - [title case, in white on blue background]
+
+		:wtonbl:`Funding` - optional (alternatively :wtonbl:`Funding Support`, :wtonbl:`Grant Support` - if article contains :wtonbl:`Acknowledgments and Funding` section, then :wtonbl:`Funding ` section should be removed) - [title case, in white on blue background]
+
+		:wtonbl:`Editorial note` - optional - [sentence case, in white on blue background]
+
+		:wtonbl:`References` - mandatory - [title case, in white on blue background]
+
+| NAVIGATE TO:
+| :ref:`next check<next_check>`
+| :ref:`start of this check<start_of_check>`
+
+.. _editorials_news:
+
+	- **Editorials and News**
+
+		Editorials and News usually do not have any sections except:
+
+		:wtonbl:`References` - mandatory - [title case, in white on blue background]
+
+| NAVIGATE TO:
+| :ref:`next check<next_check>`
+| :ref:`start of this check<start_of_check>`
+
+.. _case_reports:
+
+	- **Case Reports**
+
+		:blue:`Abstract` - mandatory - [title case, in blue]
+
+		:wtonbl:`Introduction` - mandatory - [title case, in white on blue background]
+
+	
+		Case reports usually have free-style (research related) section headers. Occasionally case reports can be formatted as regular research papers.
+
+
+		:wtonbl:`Case Report` - optional - (alternatively :wtonbl:`Case Presentation`) - [title case, in white on blue background]
+
+		:wtonbl:`Discussion` - optional - [title case, in white on blue background]
+
+		:wtonbl:`Abbreviations` - optional - [title case, in white on blue background]
+
+		:wtonbl:`Author Contributions` - optional - [title case, in white on blue background]
+
+		:wtonbl:`Acknowledgments` - optional (alternatively can be :wtonbl:`Acknowledgments and Funding` - in this case there should be no :wtonbl:`Funding` section) - [title case, in white on blue background]
+
+		:wtonbl:`Ethics statement` - optional - [sentence case, in white on blue background] - (can be present as subheader in :wtonbl:`Methods` section, as a subheader it should be bold, in sentence case and in :headr2:`black`)
+
+		:wtonbl:`Conflicts of Interest` - mandatory - [title case, in white on blue background]
+
+		:wtonbl:`Funding` - optional (alternatively :wtonbl:`Funding Support`, :wtonbl:`Grant Support` - if article contains :wtonbl:`Acknowledgments and Funding` section, then :wtonbl:`Funding ` section should be removed) - [title case, in white on blue background]
+
+		:wtonbl:`Editorial note` - optional - [sentence case, in white on blue background]
+
+		:wtonbl:`References` - mandatory - [title case, in white on blue background]
+
+| NAVIGATE TO:
+| :ref:`next check<next_check>`
+| :ref:`start of this check<start_of_check>`
+
+.. _research_perspectives:
+
+	- **Research Perspectives and Meeting Reports**
+		
+		:blue:`Abstract` - mandatory - [title case, in blue]
+	
+
+		Research Perspectives and Meeting Reports usually have free-style (research related) section headers.
+	
+
+		:wtonbl:`Abbreviations` - optional - [title case, in white on blue background]
+
+		:wtonbl:`Author Contributions` - optional - [title case, in white on blue background]
+
+		:wtonbl:`Acknowledgments` - optional (alternatively can be :wtonbl:`Acknowledgments and Funding` - in this case there should be no :wtonbl:`Funding` section) - [title case, in white on blue background]
+
+		:wtonbl:`Ethics statement` - optional - [sentence case, in white on blue background] - (can be present as subheader in :wtonbl:`Methods` section, as a subheader it should be bold, in sentence case and in :headr2:`black`)
+
+		:wtonbl:`Conflicts of Interest` - mandatory - [title case, in white on blue background]
+
+		:wtonbl:`Funding` - optional (alternatively :wtonbl:`Funding Support`, :wtonbl:`Grant Support` - if article contains :wtonbl:`Acknowledgments and Funding` section, then :wtonbl:`Funding ` section should be removed) - [title case, in white on blue background]
+
+		:wtonbl:`Editorial note` - optional - [sentence case, in white on blue background]
+
+		:wtonbl:`References` - mandatory - [title case, in white on blue background]
+
+
+.. _next_check:
+
+11.2. Check the format of all subsection headers in the article:
+	
+	- Check that **all** subsection headers in the article are written in :ref:`sentence case<sentence_case>`.
+
+	- Check that subsection headers are formatted in bold and coloured in :headr2:`black`. 
+
+	- Check that there are **no** underlining or italics (except for Latin terms and gene names) in the headers.
+
+	- Check that there is no period (.) at the end of the subsection header.
+
+.. image:: /_static/html_subsection_header.png
+	:alt: Subsection headers
+	:scale: 99%
 
 |
 .. _callouts_research_papers:
