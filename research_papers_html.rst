@@ -270,18 +270,9 @@ and followed by:
 9.3. Check that Last name of first author matches last name of the first author in the Author List. In case of 2 authors, check that last names match names in the Author List.
 
 |
-.. _hyperlinks_research_papers:
-
-10. Hyperlinks
---------------
-10.1. Check that all links in the text are hyperlinked.
-
-10.2. Check that hyperlinks lead to the valid page.
-
-|
 .. _section_headers_research_papers:
 
-11. Section Headers
+10. Section Headers
 ------------------
 .. _start_of_check:
 
@@ -292,7 +283,7 @@ If you see any deviations of section naming in articles, please contact authors 
 Also if you notice that the order of the sections need to be changed (to comply with the standards), please contact author to confirm section order changes with him/her.
 
 
-11.1. Check that article has the following sections in the following order:
+10.1. Check that article has the following sections in the following order:
 
 | NAVIGATE TO:
 |	:ref:`Research papers (as well as Special Section Research papers)<research_papers>`
@@ -486,7 +477,7 @@ Also if you notice that the order of the sections need to be changed (to comply 
 
 .. _next_check:
 
-11.2. Check the format of all subsection headers in the article:
+10.2. Check the format of all subsection headers in the article:
 	
 	- Check that **all** subsection headers in the article are written in :ref:`sentence case<sentence_case>`.
 
@@ -499,6 +490,24 @@ Also if you notice that the order of the sections need to be changed (to comply 
 .. image:: /_static/html_subsection_header.png
 	:alt: Subsection headers
 	:scale: 99%
+
+|
+.. _text_research_papers:
+
+11. Text
+--------
+
+11.1. Check that font type and size is consistent across all sections (except for References) of the article. 
+
+11.2. Check that there is a period (.) at the end of the Abstract text.
+
+11.3. Check Materials and Methods section (or its alternatives - see in Section Headers) for erroneously placed hyperlinks (e.g. hyperlinked numbers in compound names).
+
+11.4. Check all website addresses in article text:
+
+	- Check that all website addresses are hyperlinked.
+
+	- Check that all website addresses lead to valid page.
 
 |
 .. _callouts_research_papers:
