@@ -510,23 +510,38 @@ Also if you notice that the order of the sections need to be changed (to comply 
 	- Check that all website addresses lead to valid page.
 
 |
-.. _callouts_research_papers:
+.. _reference_callouts_research_papers:
 
-8. Callouts
------------
-8.1. Check whether there is one callout for each of the references in the article text. Callout can be a number, set of numbers divided by comma or a range of numbers separated by en dash, wrapped in sqare brakets. Callout should be hyperlinked to the corresponding reference. |br|
-Callouts can be found in text, figures and tables. |br|
-Here are exmples of callouts: [1] [2, 3, 4] [5-7] [1, 3, 7, 8-10]. See also screenshot below.
+14. Reference Callouts
+----------------------
 
-.. image:: /_static/callouts_format.png
-   :alt: Callouts format
+14.1. Check reference callouts in the text:
 
-8.2. Check that callout number for each of the references is present in the text or is covered in the range of numbers. I.e. in the range of [1-3] reference 2 is not present in the text, but covered in the range. This is acceptable case.
+	- Check the format of reference callouts:
 
-8.3. Check that there are no callouts for non-existing references (i.e. there is a callout, but there is no reference).
+	| :sample:`[N]` (where N is the order number of the corresponding reference)
+	|
+	| `Examples:`
+	| :sample:`[1]`
+	| :sample:`[1, 2]`
+	| :sample:`[1–3]`
+	| :sample:`[1, 3–4]`
 
-8.4. Check that there are no references for which callouts are missing (i.e. there is a reference, but there is no callout for it).
+	.. image:: /_static/callouts_format.png
+		:alt: Callouts format
+	|
+	- Check that only comma (,) and :ref:`en dash<en_dash>` (–) are used as a separators. No other separators are allowed. 
 
+	- Check that there is a space after comma (,) and no space before and after en dash (–).
+
+	- Check that reference callouts are in :ref:`plain text<plain_text>` and a number (or numbers in case of ranges) is hyperlinked.
+
+14.2. Check that callout number for each of the references is present in the text or is covered in the range of numbers. i.e. in the range of [1-3] reference 2 is not present in the text, but covered in the range. This case is acceptable. |br|
+Callouts can be found in text, figures and tables.
+
+14.3. Check that there are no callouts for non-existing references (i.e. there is a callout, but there is no reference).
+
+14.4. Check that there are no references for which callouts are missing (i.e. there is a reference, but there is no callout for it).
 
 |
 .. _references_research_papers:
