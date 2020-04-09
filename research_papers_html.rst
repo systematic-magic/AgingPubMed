@@ -546,13 +546,13 @@ Callouts can be found in text, figures and tables.
 |
 .. _references_research_papers:
 
-9. References
+15. References
 --------------
 
 .. _author_list_research_papers:
 
-9.1. Author List
-----------------
+15.1. Author List
+^^^^^^^^^^^^^^^^
 9.1.1. Check that author names in the List of Authors are in-line with the following format: |br|
 |span_format_start| LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th) |span_end|
 
@@ -560,11 +560,11 @@ Callouts can be found in text, figures and tables.
 .. image:: /_static/pic9_author_name_format.png
    :alt: Author Names format
 
-9.1.2. Check that initials have no more than 4 letters and have NO hyphens or spaces in-between.
+15.1.2. Check that initials have no more than 4 letters and have NO hyphens or spaces in-between.
 
-9.1.3. Check all the mononyms (names which have no initials) to be “true” mononyms (check PubMed site).
+15.1.3. Check all the mononyms (names which have no initials) to be “true” mononyms (check PubMed site).
 
-9.1.4. Check that List of Authors contains no more than either:
+15.1.4. Check that List of Authors contains no more than either:
 
 - 13 authors followed by “et al.”  OR
 
@@ -577,15 +577,15 @@ Callouts can be found in text, figures and tables.
 .. image:: /_static/pic11_author_etal_number.png
    :alt: Max number of authors followed by et al
 
-9.1.5. Check that authors are separated by comma (,) followed by space.
+15.1.5. Check that authors are separated by comma (,) followed by space.
 
-9.1.6. Check that et al is separated from List of Authors by comma (,).
+15.1.6. Check that et al is separated from List of Authors by comma (,).
 
-9.1.7. Check that there is a dot (.) after last author in the List of Authors or after et al (if it is present).
+15.1.7. Check that there is a dot (.) after last author in the List of Authors or after et al (if it is present).
 
-9.1.8. List of Authors can contain Group Authorship (see screenshot below). Check that Group Authorship is positioned at the end of List of Authors. Other positions are not allowed.
+15.1.8. List of Authors can contain Group Authorship (see screenshot below). Check that Group Authorship is positioned at the end of List of Authors. Other positions are not allowed.
 
-9.1.9. Group Authorship must be separated from author list by comma (,) and "and" word. Group Authorship is not counted against total number of authors in the author list quota.
+15.1.9. Group Authorship must be separated from author list by comma (,) and "and" word. Group Authorship is not counted against total number of authors in the author list quota.
 
 
 .. image:: /_static/ref_etal_group_auth.png
@@ -595,7 +595,7 @@ Callouts can be found in text, figures and tables.
    :alt: Group Authorship
 
 
-9.1.10. If there are multiple Group Authorshipts, then those should be separated by comma (,) and "and" word. 
+15.1.10. If there are multiple Group Authorshipts, then those should be separated by comma (,) and "and" word. 
 
 .. image:: /_static/ref_mult_group_auth.png
    :alt: Group Authorship
@@ -603,20 +603,20 @@ Callouts can be found in text, figures and tables.
 |
 .. _reference_title_research_papers:
 
-9.2. Reference Title
---------------------
+15.2. Reference Title
+^^^^^^^^^^^^^^^^^^^^
 
-9.2.1. Title can be written in Sentance case, Title case or in ALL CAPS. All these formats are allowed. Format of title is allowed to be inconsistent accross all references in the article.
+15.2.1. Title can be written in Sentance case, Title case or in ALL CAPS. All these formats are allowed. Format of title is allowed to be inconsistent accross all references in the article.
 
 
 |
 .. _citation_data_research_papers:
 
-9.3. Citation-Data
--------------------
+15.3. Citation-Data
+^^^^^^^^^^^^^^^^^^
 Citation data is a part of a reference, which contains Journal Title, year, volume, pages and doi.
 
-9.3.1.Check that journal citation-data has the following elements in this order: |br|
+15.3.1.Check that journal citation-data has the following elements in this order: |br|
 |span_format_start| JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
 
 .. image:: /_static/citation_data.png
@@ -640,9 +640,9 @@ In rare cases reference can contain just a first page number. This is also allow
 - [PubMed] should be an active link leading to the article page on the PubMed website. There must be no dot at the end.
 
 
-9.3.2. Check that all elements of citation-data are present in the correct format (see above).
+15.3.2. Check that all elements of citation-data are present in the correct format (see above).
 
-9.3.3. There can be references to the articles in which have been published "ahead of print". The format of citation data for such articles is as follows:
+15.3.3. There can be references to the articles in which have been published "ahead of print". The format of citation data for such articles is as follows:
 |span_format_start| JournalTitle. year. [Epub ahead of print]. DOI [PubMed] |span_end|
 
 - Check that there is a dot (.) after Year
@@ -656,14 +656,14 @@ In rare cases reference can contain just a first page number. This is also allow
 |
 .. _general_checks_research_papers:
 
-9.4. General checks
-------------------
+15.4. General checks
+^^^^^^^^^^^^^^^^^^^
 
-9.4.1. Check for duplicates in the reference list. 
+15.4.1. Check for duplicates in the reference list. 
 
 If you find duplicate references, please contact production team and ask to correct the reference list.
 
-9.4.2. Check for references translated into English from other language (usually you can spot those by keywords: translation, translated from, in Chinese, in French etc). Those references should comply to the following format:
+15.4.2. Check for references translated into English from other language (usually you can spot those by keywords: translation, translated from, in Chinese, in French etc). Those references should comply to the following format:
 
    | :sample:`Author list. [Title of the article]. Journal Name. 1072; 1: 1-2.` (doi is optional)
    |
@@ -671,28 +671,28 @@ If you find duplicate references, please contact production team and ask to corr
    | 34. Yang XM, Yang H. [Expression of high mobility group box-1 in the lung tissue and serum of patients with pulmonary tuberculosis]. Zhonghua Jie He He Hu Xi Za Zhi. 2013; 36:497-500.
 
 
-9.4.3. Check for references containing journal title in English and original language (e.g. "International journal of cancer" and "Journal international du cancer"). Remove title in original language and leave English version. If there is just a "foreign language" version present, it is OK to leave that version (no need to find Eglish one).
+15.4.3. Check for references containing journal title in English and original language (e.g. "International journal of cancer" and "Journal international du cancer"). Remove title in original language and leave English version. If there is just a "foreign language" version present, it is OK to leave that version (no need to find Eglish one).
 
-9.4.4. Check for extra information to the references (i.e. in addition to "standard" information). Remove all extra information.
+15.4.4. Check for extra information to the references (i.e. in addition to "standard" information). Remove all extra information.
    
    | `Example:`
    | ":official publication of the society of…"
 
 
-9.4.5. Remove any instances of “[Internet]”, "[pii]" and empty (blank) doi.
+15.4.5. Remove any instances of “[Internet]”, "[pii]" and empty (blank) doi.
 
-9.4.6. Remove “PMID” and “PMCID” details, if present in any reference.
+15.4.6. Remove “PMID” and “PMCID” details, if present in any reference.
 
 
 |
 .. _websites_research_papers:
 
-9.5 Websites
--------------
+15.5 Websites
+^^^^^^^^^^^^
 
-9.5.1. There is no standard for website references. Authors are allowed to accompany a web link with any information they think appropriate. 
+15.5.1. There is no standard for website references. Authors are allowed to accompany a web link with any information they think appropriate. 
 
-9.5.2. Check that website link is valid (i.e. it points to the referenced web resources, rather to error or other not relevant page).
+15.5.2. Check that website link is valid (i.e. it points to the referenced web resources, rather to error or other not relevant page).
 
 If the link is not valid, please contact author to provide a working link.
 
@@ -700,10 +700,10 @@ If the link is not valid, please contact author to provide a working link.
 |
 .. _books_research_papers:
 
-9.6 Books and reports
----------------------
+15.6 Books and reports
+^^^^^^^^^^^^^^^^^^^^^
 
-9.6.1. There is no standard for books and reports. However at least "Title, Year, (Author name for book references)" should be there. 
+15.6.1. There is no standard for books and reports. However at least "Title, Year, (Author name for book references)" should be there. 
 
 
 
