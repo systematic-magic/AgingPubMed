@@ -553,7 +553,7 @@ Callouts can be found in text, figures and tables.
 
 15.1. Author List
 ^^^^^^^^^^^^^^^^
-9.1.1. Check that author names in the List of Authors are in-line with the following format: |br|
+15.1.1. Check that author names in the List of Authors are in-line with the following format: |br|
 |span_format_start| LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th) |span_end|
 
 
