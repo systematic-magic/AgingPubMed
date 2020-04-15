@@ -3,6 +3,8 @@
 .. role:: wtonbl
 .. role:: headr2
 .. role:: red
+.. role:: sampleb
+.. role:: sampleu
 
 .. _title_research_papers:
 
@@ -510,6 +512,139 @@ Also if you notice that the order of the sections need to be changed (to comply 
 	- Check that all website addresses lead to valid page.
 
 |
+.. _figures_research_papers:
+
+12. Figures
+------------
+
+12.1. Check that figure image has text and graphics which are clear and large enough to read (i.e. image text is not smaller than article text itself).
+
+If image is hard to read, please contact Production team and asfk to provide clearer images. If Production team does not have better images, then contact corresponding author.
+
+12.2. Check whether figures have :ref:`panel letters<figure_pannel>`. Both lower case and upper case :ref:`panel letters<figure_pannel>` are allowed. However, they should be used consistently: either all figures have lower case :ref:`panel letters<figure_pannel>` or all have upper case letters. Mix of formats is not allowed.
+
+12.3. Check the figure description text (figure legend):
+
+	- Check that figure legend has a figure number:
+
+	|	:sampleb:`Figure N:` (where N is a number of the figure)
+
+	- Check that number is followed by period (.).
+
+	- Check that figure number is formatted in bold and coloured in black.
+
+	- If figure number is followed by text, then check that the first sentence of that text is formatted in bold and coloured in black. The rest of the text should be in plain text.
+
+	|	:sampleb:`Figure 1: First sentence of legend text in sentence case.` :sample:`Second sentence and rest of text.`
+	
+	.. image:: /_static/html_figure_number.png
+   	  	:alt: Figure number
+   	  	:scale: 99%
+
+	`Exclusion:` if first sentence contains :ref:`panel letters<figure_pannel>`, then it should be formatted in plain text.
+
+	|	:sampleb:`Figure 2:` :sample:`First sentence of legend text containing panel letter (`:sampleb:`A`:sample:`) and letter (`:sampleb:`B`:sample:`) in a sentence case. Second sentence and rest of text.`
+
+
+	.. image:: /_static/html_figure_number_exception.png
+   	  	:alt: Figure number
+   	  	:scale: 99%
+
+	- If figure image has :ref:`panel letters<figure_pannel>`, then check that reference to each panel is present in figure legend. Reference is denoted by :ref:`panel letter<figure_pannel>` and is formatted in bold.
+
+	| There is one allowed format for the panel reference (case of letter should match letter case in figure image):
+
+	|	:sample:`(`:sampleb:`A`:sample:`)` or :sample:`(`:sampleb:`a`:sample:`)` - i.e. letter wrapped parentheses ()
+
+	| Panel letters can be combined in different ways in the figure legend text:
+
+	| :sample:`(`:sampleb:`A` :sample:`and` :sampleb:`B`:sample:`)`
+
+	.. image:: /_static/html_fig_reference_br_anb.png
+   	  	:alt: Figure number
+   	  	:scale: 99%
+
+	| :sample:`(`:sampleb:`A`:sample:`,` :sampleb:`B`:sample:`)`
+
+	.. image:: /_static/html_fig_reference_br_acomb.png
+   	  	:alt: Figure number
+   	  	:scale: 99%
+
+	| :sample:`(`:sampleb:`A–C`:sample:`)`
+
+	.. image:: /_static/html_fig_reference_br_a-c.png
+   	  	:alt: Figure number
+   	  	:scale: 99%
+
+	| Same variations are allowed for lower case panel letters.
+
+
+	If a reference to :ref:`panel letter<figure_pannel>` is missing, then please ask author to provide one.
+
+
+12.4. Check that figure numbers are assigned to figures continuously and there are no gaps in a sequence. In other words there should be no situation when there are figures 1, 3 and 4 in the article, but figure 2 is missing.
+
+At the same time, upon authors request, figures can appear in the text in any order. E.g. figure 2 before figure 1 is OK.
+
+If you see that there are gaps in number sequence, then check with corresponding author whether some figures are missing or whether it is possible to re-number the figures to eliminate the gaps.
+
+12.5. Check figure callouts in the text:
+
+	- Check the format of figure callouts:
+
+	| :sampleu:`Fig. 1`
+	| :sampleu:`Figure 1`
+
+
+	.. image:: /_static/html_fig_callouts.png
+   	  	:alt: Figure number
+   	  	:scale: 99%
+    |
+	If figure has panels, then callout can have a letter (letter case should be the same as on figure image):
+
+	| :sampleu:`Fig. 1A` 	
+	| :sampleu:`Fig. 1a`
+	
+	.. image:: /_static/html_fig_callout_short_letters.png
+   	  	:alt: Figure number
+   	  	:scale: 99%
+   	|
+	| :sampleu:`Figure 1A`
+	| :sampleu:`Figure 1a`
+
+	.. image:: /_static/html_fig_callout_full_letters.png
+   	  	:alt: Figure number
+   	  	:scale: 99%
+   	|
+	Both formats (Fig. and Figure) are acceptable. However, they should be used consistently: either all callouts have "Fig." or all callouts have "Figure".
+
+	| `Examples of callout combinations:`
+	| :sampleu:`Figure 1`
+	| :sampleu:`Figure 3C`
+	| :sampleu:`Figure 2B` :sample:`and` :sampleu:`2C` (note that there is no "s" at the end of "Figure" word)
+	| :sampleu:`Figure 5B`:sample:`,` :sampleu:`5C`
+	| :sampleu:`Figure 1E`:sample:`–`:sampleu:`1G`
+
+	.. image:: /_static/html_fig_callout_variations.png
+   	  	:alt: Figure number
+   	  	:scale: 99%
+
+	Same variations are allowed for "Fig."
+
+
+	- Check that words "Figure" or "Fig." as well as number (and letter) are hyperlinked.
+
+	- Check that each figure has at least 1 callout in the text.
+
+	If one or more callouts are missing in the text, please contact author.
+
+
+.. Important::
+
+	There is a different callout format for Supplementary Figures.
+	It is described in Supplementary Materials Check here.
+
+|
 .. _reference_callouts_research_papers:
 
 14. Reference Callouts
@@ -581,9 +716,9 @@ Callouts can be found in text, figures and tables.
 
 15.1.6. Check that et al is separated from List of Authors by comma (,).
 
-15.1.7. Check that there is a dot (.) after last author in the List of Authors or after et al (if it is present).
+15.1.7. Check that there is a dot (.) either after the last author name (if there are less or equal to 14 authors), or after et al (if there are exactly 13 authors + et al), or after Group Authorship (if present).
 
-15.1.8. List of Authors can contain Group Authorship (see screenshot below). Check that Group Authorship is positioned at the end of List of Authors. Other positions are not allowed.
+15.1.8. List of Authors can contain :ref:`Group Authorship<group_authorship>` (see screenshot below). Check that Group Authorship is positioned at the end of List of Authors. Other positions are not allowed.
 
 15.1.9. Group Authorship must be separated from author list by comma (,) and "and" word. Group Authorship is not counted against total number of authors in the author list quota.
 
@@ -595,7 +730,7 @@ Callouts can be found in text, figures and tables.
    :alt: Group Authorship
 
 
-15.1.10. If there are multiple Group Authorshipts, then those should be separated by comma (,) and "and" word. 
+15.1.10. If there are multiple Group Authorships, then those should be separated by comma (,) and "and" word. 
 
 .. image:: /_static/ref_mult_group_auth.png
    :alt: Group Authorship
@@ -606,7 +741,7 @@ Callouts can be found in text, figures and tables.
 15.2. Reference Title
 ^^^^^^^^^^^^^^^^^^^^
 
-15.2.1. Title can be written in Sentance case, Title case or in ALL CAPS. All these formats are allowed. Format of title is allowed to be inconsistent accross all references in the article.
+15.2.1. Title can be written in Sentence case, Title case or in ALL CAPS. All these formats are allowed. Format of title is allowed to be inconsistent accross all references in the article.
 
 
 |
