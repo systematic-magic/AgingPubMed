@@ -645,6 +645,85 @@ If you see that there are gaps in number sequence, then check with corresponding
 	It is described in Supplementary Materials Check here.
 
 |
+.. _tables_research_papers:
+
+13. Tables
+----------
+
+13.1.  Check that table font size is large enough to read.
+
+If table is hard to read, please contact Production team and ask to increase font size.
+
+.. _table_title_check:
+
+13.2. Check table title:
+
+	- Check that there is a title above the table.
+
+	- Check that title has table number:
+
+	| :sampleb:`Table N.` (where N is a number of the table)
+
+	In rare cases table number can contain a letter:
+
+	| :sampleb:`Table 1A.` (where Table 1A and 1B, 1C etc are separate tables)
+
+	- Check that number is followed by period (.).
+
+	- Check that table number is followed by table title. Table title should be a single sentence. It is not allowed to have more than 1 sentence as a table title.
+
+	| :sampleb:`Table 2. Table title in sentence case.`
+
+	.. image:: /_static/html_table_title.png
+   	  	:alt: Table title
+   	  	:scale: 99%
+
+	- Check that title has period (.) at the end.
+
+	- Check that title is written in :ref:`sentence case<sentence_case>` and coloured in black.
+
+13.3. Check that table-related additional information is presented below the table as a note in :ref:`plain text<plain_text>`.
+
+.. image:: /_static/html_table_notes.png
+	:alt: Table notes
+	:scale: 99%
+
+13.4. Check that table font, title font and notes (additional information) fonts are used consistently within the article (i.e. font should not vary from table to table).
+
+13.5. Check table numbers. Tables should be numbered continuously, so there are no gaps in the sequence. In other words, there should be no situation when there are tables 1, 3 and 4 in the article, but table 2 is missing.
+
+At the same time, upon authors request, tables can appear in the text in any order. E.g. table 2 before table 1 is OK.
+
+If you see that there are gaps in number sequence, then check with corresponding author whether some tables are missing or whether it is possible to re-number the tables to eliminate the gaps.
+
+13.6. Check table callouts in the text:
+
+	- Check the format of table callouts:
+
+	| :sampleu:`Table 1` (or in rare cases :sampleu:`Table 1A`)
+	|
+	| `Examples:`
+	| :sampleu:`Table 1`
+	| :sampleu:`Table 2A`
+	| :sampleu:`Tables 1` :sample:`and` :sampleu:`2` (note that there is an "s" at the end of "Table" word)
+	| :sampleu:`Tables 3A` :sample:`and` :sampleu:`3B` (where 3A and 3B are separate tables)
+
+	.. image:: /_static/html_table_callouts.png
+		:alt: Table callouts
+		:scale: 99%
+	|
+	- Check that word "Table" (or "Tables") as well as number (and letter) are hyperlinked.
+
+	- Check that each table has at least 1 callout in the text.
+
+	If one or more callouts are missing in the text, please contact author.
+
+.. Important::
+
+	There is a different callout format for Supplementary Tables.
+	It is described in Supplementary Materials Check here.
+
+|
 .. _reference_callouts_research_papers:
 
 14. Reference Callouts
