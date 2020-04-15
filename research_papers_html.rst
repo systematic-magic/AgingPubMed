@@ -527,7 +527,7 @@ If image is hard to read, please contact Production team and asfk to provide cle
 
 	- Check that figure legend has a figure number:
 
-	|	:sampleb:`Figure N:` (where N is a number of the figure)
+	|	:sampleb:`Figure N.` (where N is a number of the figure)
 
 	- Check that number is followed by period (.).
 
@@ -535,7 +535,7 @@ If image is hard to read, please contact Production team and asfk to provide cle
 
 	- If figure number is followed by text, then check that the first sentence of that text is formatted in bold and coloured in black. The rest of the text should be in plain text.
 
-	|	:sampleb:`Figure 1: First sentence of legend text in sentence case.` :sample:`Second sentence and rest of text.`
+	|	:sampleb:`Figure 1. First sentence of legend text in sentence case.` :sample:`Second sentence and rest of text.`
 	
 	.. image:: /_static/html_figure_number.png
    	  	:alt: Figure number
@@ -543,7 +543,7 @@ If image is hard to read, please contact Production team and asfk to provide cle
 
 	`Exclusion:` if first sentence contains :ref:`panel letters<figure_pannel>`, then it should be formatted in plain text.
 
-	|	:sampleb:`Figure 2:` :sample:`First sentence of legend text containing panel letter (`:sampleb:`A`:sample:`) and letter (`:sampleb:`B`:sample:`) in a sentence case. Second sentence and rest of text.`
+	|	:sampleb:`Figure 2.` :sample:`First sentence of legend text containing panel letter (`:sampleb:`A`:sample:`) and letter (`:sampleb:`B`:sample:`) in a sentence case. Second sentence and rest of text.`
 
 
 	.. image:: /_static/html_figure_number_exception.png
