@@ -221,7 +221,7 @@ If there are several author notes, then each note should have **different** symb
 
 Abbreviations are optional.
 
-7.1. Abbreviations should not appear in the Abstract section and should only appear in the final sections as is noted in Section Headers.
+7.1. Abbreviations should not appear in the Abstract section and should only appear in the final sections as is noted in :ref:`Section Headers<section_headers_research_papers>`.
 
 |
 .. _dates_research_papers:
