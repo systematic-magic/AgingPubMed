@@ -871,7 +871,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 - Check that there is a period (.) after year.
 - Check that there is a period (.) after “[Epub ahead of print]”.
 - Check that “[Epub ahead of print]” appears after year and before DOI.
-- If you come across an Epub reference, be sure to verify whether publishing information has since been released. If publishing information is available, then please add vol, pg numbers, etc. and format as directed above in section 15.3.1.
+- If you come across an Epub reference, be sure to verify whether publishing information has since been released. If publishing information is available, then please add vol, pg numbers, etc. and format as directed above in section 15.3.2.
 
 .. image:: /_static/ref_ahead_of_print.png
    :alt: Ahead of Print
