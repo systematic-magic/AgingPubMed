@@ -876,18 +876,61 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 .. image:: /_static/ref_ahead_of_print.png
    :alt: Ahead of Print
 
+|
+.. _citation_data_other_journals_research_papers:
+
+15.4. Citation-Data (other journals)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. ATTENTION::
+	
+	This section is applicable to all journals **except for in-house journals**.
+
+Citation data is a part of a reference, which contains Journal Title, year, volume, pages and doi.
+
+
+15.4.1.Check that journal citation-data has the following elements in this order: |br|
+|span_format_start| JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
+
+.. image:: /_static/citation_data.png
+   :alt: Citation-Data format
+
+- Journal title should be followed by period (.) There should be a space after period.
+    - Journal title can be abbreviated or written in full. If abbreviated, check that it is written the same way as on PubMed site. You can look up journal titles here: https://www.ncbi.nlm.nih.gov/nlmcatalog/journals.
+    - If both full and abbreviated title are present in the reference, then delete abbreviation and leave full title (you can spot such cases by presence of colon (:) in the title; e.g. Rapid Communications in Mass Spectrometry : RCM.)
+
+- Year should be presented in full (4 digits) and should be followed by semicolon (;). There can be a space after semicolon (not mandatory, but consistency should be maintained).
+
+- Volume should be followed by colon (:). There can be a space after colon (but this is not mandatory).
+
+- Page numbers must be written in shortened format (12063-74) and followed by a period (.). There should be a space after period. Occasionally, there are cases where a reference may only have one page number, which is fine.
+
+- DOI must be present (when available) and in "https://doi.org" format. It should be highlighted in blue and should be an active link leading to the correct article page. There must be no period at the end. When checking for DOI’s, please consult the PubMed site, crossref.org or the applicable journal website, if necessary.
+
+- “[PubMed]” link must be present (when available), should be highlighted in blue and should be an active link leading to the article page on the PubMed website. There must be no period at the end.
+
+15.4.2. There can be references to the articles in which have been published "ahead of print". The format of citation data for such articles is as follows:
+|span_format_start| JournalTitle. year. [Epub ahead of print]. DOI [PubMed] |span_end|
+
+- Check that there is a period (.) after year followed by a space.
+- Check that there is a period (.) after “[Epub ahead of print]” followed by a space. 
+- Check that “[Epub ahead of print]” appears after year and before DOI.
+- If you come across an Epub reference, be sure to verify whether publishing information has since been released. If publishing information is available, then please add vol, pg numbers, etc. and format as directed above in section 15.4.1.
+
+.. image:: /_static/ref_ahead_of_print.png
+   :alt: Ahead of Print
 
 |
 .. _general_checks_research_papers:
 
-15.4. General checks
+15.5. General checks
 ^^^^^^^^^^^^^^^^^^^
 
-15.4.1. Check for duplicates in the reference list. 
+15.5.1. Check for duplicates in the reference list. 
 
 If you find duplicate references, please contact production team and ask to correct the reference list.
 
-15.4.2. Check for references translated into English from other language (usually you can spot those by keywords: translation, translated from, in Chinese, in French etc). Those references should comply to the following format:
+15.5.2. Check for references translated into English from other language (usually you can spot those by keywords: translation, translated from, in Chinese, in French etc). Those references should comply to the following format:
 
    | :sample:`Author list. [Title of the article]. Journal Name. 1072; 1: 1-2.` (doi is optional)
    |
@@ -895,28 +938,28 @@ If you find duplicate references, please contact production team and ask to corr
    | 34. Yang XM, Yang H. [Expression of high mobility group box-1 in the lung tissue and serum of patients with pulmonary tuberculosis]. Zhonghua Jie He He Hu Xi Za Zhi. 2013; 36:497-500.
 
 
-15.4.3. Check for references containing journal title in English and original language (e.g. "International journal of cancer" and "Journal international du cancer"). Remove title in original language and leave English version. If there is just a "foreign language" version present, it is OK to leave that version (no need to find Eglish one).
+15.5.3. Check for references containing journal title in English and original language (e.g. "International journal of cancer" and "Journal international du cancer"). Remove title in original language and leave English version. If there is just a "foreign language" version present, it is OK to leave that version (no need to find Eglish one).
 
-15.4.4. Check for extra information to the references (i.e. in addition to "standard" information). Remove all extra information.
+15.5.4. Check for extra information to the references (i.e. in addition to "standard" information). Remove all extra information.
    
    | `Example:`
    | ":official publication of the society of…"
 
 
-15.4.5. Remove any instances of “[Internet]”, "[pii]" and empty (blank) doi.
+15.5.5. Remove any instances of “[Internet]”, "[pii]" and empty (blank) doi.
 
-15.4.6. Remove “PMID” and “PMCID” details, if present in any reference.
+15.5.6. Remove “PMID” and “PMCID” details, if present in any reference.
 
 
 |
 .. _websites_research_papers:
 
-15.5 Websites
+15.6 Websites
 ^^^^^^^^^^^^
 
-15.5.1. There is no standard for website references. Authors are allowed to accompany a web link with any information they think appropriate. 
+15.6.1. There is no standard for website references. Authors are allowed to accompany a web link with any information they think appropriate. 
 
-15.5.2. Check that website link is valid (i.e. it points to the referenced web resources, rather to error or other not relevant page).
+15.6.2. Check that website link is valid (i.e. it points to the referenced web resources, rather to error or other not relevant page).
 
 If the link is not valid, please contact author to provide a working link.
 
@@ -924,10 +967,10 @@ If the link is not valid, please contact author to provide a working link.
 |
 .. _books_research_papers:
 
-15.6 Books and reports
+15.7 Books and reports
 ^^^^^^^^^^^^^^^^^^^^^
 
-15.6.1. There is no standard for books and reports. However at least "Title, Year, (Author name for book references)" should be there. 
+15.7.1. There is no standard for books and reports. However at least "Title, Year, (Author name for book references)" should be there. 
 
 
 
