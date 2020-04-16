@@ -172,7 +172,7 @@ If there are several author notes, then each note should have **different** symb
 
 .. image:: /_static/html_author_notes.png
    	:alt: Author Notes
-	:scale: 45%
+	:scale: 99%
 
 |
 .. _correspondece_research_papers:
