@@ -889,7 +889,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 Citation data is a part of a reference, which contains Journal Title, year, volume, pages and doi.
 
 
-15.4.1.Check that journal citation-data has the following elements in this order: |br|
+15.4.1. Check that journal citation-data has the following elements in this order: |br|
 |span_format_start| JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
 
 .. image:: /_static/citation_data.png
@@ -905,7 +905,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 
 - Page numbers must be written in shortened format (12063-74) and followed by a period (.). There should be a space after period. Occasionally, there are cases where a reference may only have one page number, which is fine.
 
-- DOI must be present (when available) and in "https://doi.org" format. It should be highlighted in blue and should be an active link leading to the correct article page. There must be no period at the end. When checking for DOI’s, please consult the PubMed site, crossref.org or the applicable journal website, if necessary.
+- DOI must be present (when available) and in "https://doi.org" format. It should be highlighted in blue and should be an active link leading to the correct article page. There must be no period at the end. When checking for DOI’s, please consult the PubMed site, www.crossref.org or the applicable journal website, if necessary.
 
 - “[PubMed]” link must be present (when available), should be highlighted in blue and should be an active link leading to the article page on the PubMed website. There must be no period at the end.
 
