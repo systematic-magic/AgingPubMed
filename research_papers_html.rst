@@ -861,7 +861,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 
 - Page numbers must be written in shortened format (12063-74) and followed by a period (.). There should be a space after period. Occasionally, there are cases where a reference may only have one page number, which is fine.
 
-- DOI must be present and in "https://doi.org" format. It should be highlighted in blue and should be an active link leading to the correct article page There must be no period at the end.
+- DOI must be present and in "https://doi.org" format. It should be highlighted in blue and should be an active link leading to the correct article page. There must be no period at the end.
 
 - “[PubMed]” link must be present (when available), should be highlighted in blue and should be an active link leading to the article page on the PubMed website. There must be no period at the end.
 
