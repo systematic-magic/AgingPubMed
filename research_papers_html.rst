@@ -859,7 +859,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 
 - Volume should be followed by colon (:). There can be a space after colon (but this is not mandatory).
 
-- Page numbers must be written in shortened format (12063-74) and followed by a period (.). Occasionally, there are cases where a reference may only have one page number, which is fine.
+- Page numbers must be written in shortened format (12063-74) and followed by a period (.). There should be a space after period. Occasionally, there are cases where a reference may only have one page number, which is fine.
 
 - DOI must be present and in "https://doi.org" format. There must be no period at the end.
 
