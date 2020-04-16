@@ -796,7 +796,7 @@ Callouts can be found in text, figures and tables.
 
 15.1.6. Check that et al is separated from List of Authors by comma (,).
 
-15.1.7. Check that there is a dot (.) either after the last author name (if there are less or equal to 14 authors), or after et al (if there are exactly 13 authors + et al), or after Group Authorship (if present).
+15.1.7. Check that there is a period (.) either after the last author name (if there are less or equal to 14 authors), or after et al (if there are exactly 13 authors + et al), or after Group Authorship (if present).
 
 15.1.8. List of Authors can contain :ref:`Group Authorship<group_authorship>` (see screenshot below). Check that Group Authorship is positioned at the end of List of Authors. Other positions are not allowed.
 
@@ -823,46 +823,55 @@ Callouts can be found in text, figures and tables.
 
 15.2.1. Title can be written in Sentence case, Title case or in ALL CAPS. All these formats are allowed. Format of title is allowed to be inconsistent accross all references in the article.
 
+15.2.2. Check that title is followed by a period (.)
 
 |
-.. _citation_data_research_papers:
+.. _citation_data_in_house_research_papers:
 
-15.3. Citation-Data
-^^^^^^^^^^^^^^^^^^
+15.3. Citation-Data (in-house)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. ATTENTION::
+	
+	This section is applicable ONLY to in-house journals: |br|
+	 **Oncotarget, Oncoscience, Aging (Albany NY), Genes Cancer**.
+
 Citation data is a part of a reference, which contains Journal Title, year, volume, pages and doi.
 
-15.3.1.Check that journal citation-data has the following elements in this order: |br|
+15.3.1. Check that citation data has correct journal title. The following titles are allowed:
+
+	| :sample:`Oncotarget`
+	| :sample:`Oncoscience`
+	| :sample:`Aging (Albany NY)`
+	| :sample:`Genes Cancer`
+
+	This is the only acceptable spelling. No variations are allowed.
+
+15.3.2.Check that journal citation-data has the following elements in this order: |br|
 |span_format_start| JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
 
 .. image:: /_static/citation_data.png
    :alt: Citation-Data format
 
-- JournalTitle should be followed by dot (.)
+- Journal title should be followed by period (.) There should be a space after period.
 
-- Year should be followed by semicolon (;)
+- Year should be presented in full (4 digits) and should be followed by semicolon (;). There can be a space after semicolon (not mandatory, but consistency should be maintained).
 
-- Volume should be followed by colon (:)
+- Volume should be followed by colon (:). There can be a space after colon (but this is not mandatory).
 
-- Page numbers should be followed by dot (.)
+- Page numbers must be written in shortened format (12063-74) and followed by a period (.). Occasionally, there are cases where a reference may only have one page number, which is fine.
 
-- Space is allowed (but not mandatory) after semicolon and colon. Space is mandatory after both (JournalName and page numbers) dots. Other spaces are not allowed.
+- DOI must be present and in "https://doi.org" format. There must be no period at the end.
 
-- Page number range must be written either in shorten format (12063-74). Only shortened format is allowed. |br| 
-In rare cases reference can contain just a first page number. This is also allowed.
-
-- DOI must be in "https://doi.org" format. There must be no dot at the end.
-
-- [PubMed] should be an active link leading to the article page on the PubMed website. There must be no dot at the end.
-
-
-15.3.2. Check that all elements of citation-data are present in the correct format (see above).
+- “[PubMed]” link must be present (when available), should be highlighted in blue and should be an active link leading to the article page on the PubMed website. There must be no period at the end.
 
 15.3.3. There can be references to the articles in which have been published "ahead of print". The format of citation data for such articles is as follows:
 |span_format_start| JournalTitle. year. [Epub ahead of print]. DOI [PubMed] |span_end|
 
-- Check that there is a dot (.) after Year
-- Check that there is a dot (.) after [Epub ahead of print]
-- Check that [Epub ahead of print] goes after Year and before DOI.
+- Check that there is a period (.) after year.
+- Check that there is a period (.) after “[Epub ahead of print]”.
+- Check that “[Epub ahead of print]” appears after year and before DOI.
+- If you come across an Epub reference, be sure to verify whether publishing information has since been released. If publishing information is available, then please add vol, pg numbers, etc. and format as directed above in section 15.3.1.
 
 .. image:: /_static/ref_ahead_of_print.png
    :alt: Ahead of Print
