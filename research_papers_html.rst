@@ -643,7 +643,7 @@ If you see that there are gaps in number sequence, then check with corresponding
 .. Important::
 
 	There is a different callout format for Supplementary Figures.
-	It is described in Supplementary Materials Check here.
+	It is described in Supplementary Materials Check :ref:`here<supplementary>`.
 
 |
 .. _tables_research_papers:
@@ -722,7 +722,7 @@ If you see that there are gaps in number sequence, then check with corresponding
 .. Important::
 
 	There is a different callout format for Supplementary Tables.
-	It is described in Supplementary Materials Check here.
+	It is described in Supplementary Materials Check :ref:`here<supplementary>`.
 
 |
 .. _reference_callouts_research_papers:
