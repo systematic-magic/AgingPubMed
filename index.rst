@@ -9,7 +9,7 @@ Happy hunting!
 
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: ALL PAPERS (except Editorials & News):
 
    HTML <research_papers_html>
