@@ -2,6 +2,11 @@
 
 .. role:: red
 
+.. _supplementary_research_papers:
+
+Supplementary Materials
+=======================
+
 1. Title
 --------
 
