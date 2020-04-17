@@ -923,30 +923,30 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 |
 .. _general_checks_research_papers:
 
-15.5. General checks
+15.5. General Checks
 ^^^^^^^^^^^^^^^^^^^
 
 15.5.1. Check for duplicates in the reference list. 
 
-If you find duplicate references, please contact production team and ask to correct the reference list.
+If you find duplicate references, please contact author and ask to correct the reference list along with renumbering reference call-outs.
 
-15.5.2. Check for references translated into English from other language (usually you can spot those by keywords: translation, translated from, in Chinese, in French etc). Those references should comply to the following format:
+15.5.2. Check for references translated into English from another language (usually you can spot those by keywords: translation, translated from, in Chinese, in French etc). Those references should comply to the following format:
 
-   | :sample:`Author list. [Title of the article]. Journal Name. 1072; 1: 1-2.` (doi is optional)
+   | :sample:`Author list. [Title of the article]. Journal Name. 1072; 1: 1-2.` (doi, if available) (PubMed link, if available)
    |
    | `Example:`
    | 34. Yang XM, Yang H. [Expression of high mobility group box-1 in the lung tissue and serum of patients with pulmonary tuberculosis]. Zhonghua Jie He He Hu Xi Za Zhi. 2013; 36:497-500.
 
 
-15.5.3. Check for references containing journal title in English and original language (e.g. "International journal of cancer" and "Journal international du cancer"). Remove title in original language and leave English version. If there is just a "foreign language" version present, it is OK to leave that version (no need to find Eglish one).
+15.5.3. Check for references containing journal title in English and original language (e.g. "International journal of cancer" and "Journal international du cancer"). Remove title in original language and leave English version. If there is just a "foreign language" version present, it is OK to leave that version (no need to find English one). Consult PubMed if in doubt of the correct journal name.
 
-15.5.4. Check for extra information to the references (i.e. in addition to "standard" information). Remove all extra information.
+15.5.4. Check for extra information in the references (i.e. in addition to "standard" information). Remove all extra information.
    
    | `Example:`
    | ":official publication of the society of…"
 
 
-15.5.5. Remove any instances of “[Internet]”, "[pii]" and empty (blank) doi.
+15.5.5. Remove any instances of “[Internet]”, "[pii]" Accessed dates (ex: “Accessed November 6, 2017.”) and empty (blank) doi.
 
 15.5.6. Remove “PMID” and “PMCID” details, if present in any reference.
 
@@ -967,7 +967,7 @@ If the link is not valid, please contact author to provide a working link.
 |
 .. _books_research_papers:
 
-15.7 Books and reports
+15.7 Books and Reports
 ^^^^^^^^^^^^^^^^^^^^^
 
 15.7.1. There is no standard for books and reports. However at least "Title, Year, (Author name for book references)" should be there. 
