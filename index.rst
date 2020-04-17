@@ -14,6 +14,7 @@ Happy hunting!
 
    HTML <research_papers_html>
    PDF <research_papers_pdf>
+   Supplementary Materials <supplementary>
 
 
 .. toctree::
