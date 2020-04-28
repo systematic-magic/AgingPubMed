@@ -678,7 +678,7 @@ If table is hard to read, please contact Production team and ask to increase fon
 	.. image:: /_static/html_table_title.png
    	  	:alt: Table title
    	  	:scale: 99%
-
+	|
 	- Check that title has period (.) at the end.
 
 	- Check that title is written in :ref:`sentence case<sentence_case>` and coloured in black.
