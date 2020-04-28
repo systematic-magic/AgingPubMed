@@ -180,7 +180,7 @@ If there are several author notes, then each note should have **different** symb
 5. Correspondence
 -----------------
 
-5.1. Check that correspondence section has a title “CORRESPONDING AUTHORS” (ALL CAPS)
+5.1. Check that correspondence section has a title “CORRESPONDING AUTHORS” for more than one author or “CORRESPONDING AUTHOR” for one author (ALL CAPS).
 
 5.2. Check that correspondence section has one or more Author + Email address pairs. Occasionally an author can have 2 or more emails.
 
