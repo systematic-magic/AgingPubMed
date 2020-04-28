@@ -212,7 +212,7 @@ If there are several author notes, then each note should have **different** symb
 
 6.2. Check that keywords are written in lower case, unless proper nouns as well as exceptions such as special terms, genes, proteins, species names etc, which normally start with capital letter. Check that capitalisation of scientific terms is correct. We suggest the you use the :ref:`following procedure<correct_case_check>`, if in you are in doubt regarding this or that term.
 
-6.3. Check that article has at least 1 keyword (Note: number of keywords is not limited).
+6.3. Check that article has at least 1 keyword and not more than 8 keywords.
 
 |
 .. _abbreviations_research_papers:
