@@ -214,6 +214,10 @@ If there are several author notes, then each note should have **different** symb
 
 6.3. Check that article has at least 1 keyword and not more than 8 keywords.
 
+.. image:: /_static/html_keywords.png
+   	  	:alt: Keywords
+   	  	:scale: 99%
+
 |
 .. _abbreviations_research_papers:
 
