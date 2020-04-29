@@ -81,17 +81,9 @@ No PDF-specific checks
 
 6.2. Check that "Keywords:" is in black and bold font
 
-6.3. Check that article has at least 1 keyword (Note: number of keywords is not limited).
+6.3. If there are multiple keywords, check that they are divided by a comma (,)
 
-6.4. If there are multiple keywords, ckeck that those are divided by comma (,)
-
-6.5. Check that there is no punctuation mark at the end of the last keyword
-
-6.6. Check that keywords start with a small letter (exception: special terms, genes, proteins, species names etc, which normally start with capital letter).
-
-
-.. image:: /_static/keywords.png
-   :alt: Keywords
+6.4. Check that there is no punctuation mark at the end of the last keyword
 
 |
 .. _abbreviations_pdf_research_papers:
