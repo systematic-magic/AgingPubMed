@@ -768,7 +768,7 @@ Callouts can be found in text, figures and tables.
 15. References
 --------------
 
-.. _author_list_research_papers:
+.. _refs_author_list_research_papers:
 
 15.1. Author List
 ^^^^^^^^^^^^^^^^
