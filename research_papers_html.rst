@@ -258,7 +258,7 @@ Abbreviations are optional.
 ------------
 9.1. Check that copyright section has a title "Copyright ©" (starts with capital letter and followed by copyright symbol (©))
 
-9.2. Check that copyright sting starts with a YEAR followed by:
+9.2. Check that copyright string starts with a YEAR followed by:
 
 :sample:`Last name of first author et al.`
 
