@@ -122,7 +122,7 @@ No PDF-specific checks
 
 9.2. Check that "Copyright:" is formatted in black and bold font
 
-9.3. Check that copyright sting starts with:
+9.3. Check that copyright string starts with:
 
 :sample:`Last name of first author et al.`
 
@@ -138,8 +138,6 @@ source are credited.`
 
 .. image:: /_static/pdf_cpright_format.png
    :alt: PDF Copyright format 
-
-9.4. Check that Last name of first author matches last name of the first author in the Author List. In case of 2 authors, check that last names match names in the Author List.
 
 
 
