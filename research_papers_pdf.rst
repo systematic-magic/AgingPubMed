@@ -21,7 +21,7 @@ PDF: All Papers (except Editorials and News)
 
 2. Author List
 ---------------
-No PDF-specific checks
+2.1. Check that author list is written in **black** and bold font.
 
 `+ HTML checks`
 
