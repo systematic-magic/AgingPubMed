@@ -181,7 +181,10 @@ No PDF-specific checks
 
 13. Tables
 --------------
-No PDF-specific checks
+13.1. Check that callouts are formatted in plain text and are not hyperlinked.
+
+.. image:: /_static/pdf_table_callouts.png
+   :alt: Table callouts
 
 `+ HTML checks`
 
