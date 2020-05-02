@@ -169,7 +169,10 @@ No PDF-specific checks
 
 12. Figures
 --------------
-No PDF-specific checks
+12.1. Check that callouts are formatted in plain text and are not hyperlinked.
+
+.. image:: /_static/pdf_figure_callouts.png
+   :alt: Figure callouts
 
 `+ HTML checks`
 
