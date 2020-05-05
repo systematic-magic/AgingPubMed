@@ -85,6 +85,8 @@ No PDF-specific checks
 
 6.4. Check that there is no punctuation mark at the end of the last keyword
 
+`+ HTML checks`
+
 |
 .. _abbreviations_pdf_research_papers:
 
