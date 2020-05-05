@@ -5,7 +5,8 @@ PDF: All Papers (except Editorials and News)
 
 .. ATTENTION::
    	PDF checks are the same as HTML checks with some exceptions. This page explains the cases where PDF requirements **differ** from HTML checks.
-   	Please use a merge of HTML and PDF checks for PDF review.
+   	Please use a merge of HTML and PDF checks for PDF review. Aside from noted differences below, all elements of the HTML should match the PDF.
+
 
 
 .. _title_pdf_research_papers:
