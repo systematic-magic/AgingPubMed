@@ -643,6 +643,11 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 	If one or more callouts are missing in the text, please contact author.
 
+12.6. Check that figures and their legends are displaying properly in pop-out window
+
+	.. image:: /_static/html_fig_popout.png
+   	  	:alt: Figure number
+   	  	:scale: 50%
 
 .. Important::
 
