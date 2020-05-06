@@ -794,11 +794,11 @@ Callouts can be found in text, figures and tables.
 
 - 14 authors
 
-.. image:: /_static/pic10_author_number.png
+.. image:: /_static/html_pic10_author_number.png
    :alt: Max number of authors
 
 
-.. image:: /_static/pic11_author_etal_number.png
+.. image:: /_static/html_pic11_author_etal_number.png
    :alt: Max number of authors followed by et al
 
 15.1.5. Check that authors are separated by comma (,) followed by space.
