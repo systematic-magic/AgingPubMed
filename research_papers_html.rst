@@ -655,7 +655,9 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 	- Check that each figure has at least 1 callout in the text.
 
-	If one or more callouts are missing in the text, please contact author.
+	- Check that figure callouts appear in linear order throughout the manuscript. 1, 2, 3 and so on. Once a figure has initially been called out, it can be called out again in any order. For example, 1, 2, 3, 1, 2, 4 is OK.
+
+	If one or more callouts are missing or are being called out of linear order in the text, please contact author.
 
 12.6. Check that figures and their legends are displaying properly in pop-out window
 
