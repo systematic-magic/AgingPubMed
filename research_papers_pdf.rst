@@ -107,7 +107,7 @@ No PDF-specific checks
 
 8.2. Check that “Received:”, “Accepted:”, “Published:” is in black and bold font
 
-8.3. Check that dates are saparated by white space 
+8.3. Check that dates are separated by white space 
 
 .. image:: /_static/dates.png
    :alt: Dates
