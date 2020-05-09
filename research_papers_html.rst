@@ -490,7 +490,7 @@ Also if you notice that the order of the sections need to be changed (to comply 
 
 	- Check that subsection headers are formatted in bold and coloured in :headr2:`black`. 
 
-	- Check that there are **no** underlining or italics (except for Latin terms and gene names) in the headers.
+	- Check that there is **no** underlining or italics (except for Latin terms and gene names) in the headers.
 
 	- Check that there is no period (.) at the end of the subsection header.
 
@@ -503,6 +503,8 @@ Also if you notice that the order of the sections need to be changed (to comply 
 	- Check that **all** subsubsection headers in the article are written in :ref:`sentence case<sentence_case>`.
 
 	- Check that subsubsection headers are formatted in *italics*, bold and coloured in :headr2:`black`.
+
+	- Check that there is **no** underlining in the headers.
 
 	- Check that there is no period (.) at the end of the subsubsection header.
 
