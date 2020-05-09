@@ -109,12 +109,13 @@ Supplementary Materials
 	| :sample:`Supplementary Table 1`
 	| :sample:`Supplementary Tables 1 and 2` (there is "s" at the end of "Table" word)
 
-	- Check that Supplementary table collouts are formatted in :ref:`plain text<plain_text>`.
+	- Check that Supplementary table callouts are formatted in :ref:`plain text<plain_text>`.
 
 	- Check that each table has at least 1 callout in the text.
 
-	If one or more callouts are missing in the text, please contact author.
+	- Check that table callouts appear in linear order throughout the manuscript. 1, 2, 3 and so on. Once a table has initially been called out, it can be called out again in any order. For example, 1, 2, 3, 1, 2, 4 is OK.
 
+	If one or more callouts are missing or are being called out of linear order in the text, please contact author.
 
 5. References
 -------------
