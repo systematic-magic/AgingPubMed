@@ -498,6 +498,18 @@ Also if you notice that the order of the sections need to be changed (to comply 
 	:alt: Subsection headers
 	:scale: 99%
 
+10.3. Check the format of all subsubsection headers in the article:
+
+	- Check that **all** subsubsection headers in the article are written in :ref:`sentence case<sentence_case>`.
+
+	- Check that subsubsection headers are formatted in *italics*, bold and coloured in :headr2:`black`.
+
+	- Check that there is no period (.) at the end of the subsubsection header.
+
+.. image:: /_static/html_subsubsection_header.png
+	:alt: Subsubsection headers
+	:scale: 99%
+
 |
 .. _text_research_papers:
 
