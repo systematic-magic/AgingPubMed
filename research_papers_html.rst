@@ -522,9 +522,11 @@ Also if you notice that the order of the sections need to be changed (to comply 
 
 11.2. Check that there is a period (.) at the end of the Abstract text.
 
-11.3. Check Materials and Methods section (or its alternatives - see in Section Headers) for erroneously placed hyperlinks (e.g. hyperlinked numbers in compound names).
+11.3. Check that no references are being called out in the Abstract text.
 
-11.4. Check all website addresses in article text:
+11.4. Check Materials and Methods section (or its alternatives - see in Section Headers) for erroneously placed hyperlinks (e.g. hyperlinked numbers in compound names).
+
+11.5. Check all website addresses in article text:
 
 	- Check that all website addresses are hyperlinked.
 
