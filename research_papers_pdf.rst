@@ -187,6 +187,8 @@ source are credited.`
 .. image:: /_static/pdf_figure_callouts.png
    :alt: Figure callouts
 
+12.2. Figures should be positioned at the bottom of the page when not occupying a full page in PDF.
+
 `+ HTML checks`
 
 |
