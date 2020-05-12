@@ -201,6 +201,8 @@ source are credited.`
 .. image:: /_static/pdf_table_callouts.png
    :alt: Table callouts
 
+13.2. Tables should be positioned at the top of the page when not occupying a full page in PDF.
+
 `+ HTML checks`
 
 |
