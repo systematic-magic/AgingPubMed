@@ -785,6 +785,11 @@ Callouts can be found in text, figures and tables.
 
 14.4. Check that there are no references for which callouts are missing (i.e. there is a reference, but there is no callout for it).
 
+14.5. Check that reference callouts appear in linear order throughout the manuscript. 1, 2, 3 and so on. Once a reference has initially been called out, it can be called out again in any order. For example, 1, 2, 3, 1, 2, 4 is OK.
+
+	If one or more references or callouts are missing or are being called out of linear order in the text, please contact author.
+
+
 |
 .. _references_research_papers:
 
