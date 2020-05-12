@@ -887,7 +887,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 
 - Journal title should be followed by period (.) There should be a space after period.
 
-- Year should be presented in full (4 digits) and should be followed by semicolon (;). There can be a space after semicolon (not mandatory, but consistency should be maintained).
+- Year should be presented in full (4 digits) and should be followed by semicolon (;). There should be a space after semicolon.
 
 - Volume should be followed by colon (:). There can be a space after colon (but this is not mandatory).
 
