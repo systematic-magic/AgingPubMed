@@ -149,7 +149,17 @@ source are credited.`
 
 10. Section Headers
 --------------
-No PDF-specific checks
+10.1. All main section headers should be formatted in ALL CAPS, blue and bold font. A few examples below:
+
+.. image:: /_static/pdf_section_headers.png
+   :scale: 99%
+   :alt: PDF Section headers format
+
+	- Abbreviations section is an exception. It should be formatted title case and in blue and bold font.
+
+.. image:: /_static/pdf_abbreviations_header.png
+   :scale: 99%
+   :alt: PDF Abbreviations header format
 
 `+ HTML checks`
 
