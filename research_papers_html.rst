@@ -659,16 +659,16 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 	If one or more callouts are missing or are being called out of linear order in the text, please contact author.
 
+.. Important::
+
+	There is a different callout format for Supplementary Figures.
+	It is described in Supplementary Materials Check :ref:`here<supplementary_research_papers>`.
+
 12.6. Check that figures and their legends are displaying properly in pop-out window
 
 	.. image:: /_static/html_fig_popout.png
    	  	:alt: Figure number
    	  	:scale: 50%
-
-.. Important::
-
-	There is a different callout format for Supplementary Figures.
-	It is described in Supplementary Materials Check :ref:`here<supplementary_research_papers>`.
 
 |
 .. _tables_research_papers:
