@@ -320,13 +320,13 @@ Also if you notice that the order of the sections need to be changed (to comply 
 
 		:wtonbl:`Author Contributions` - optional - [title case, in white on blue background]
 
-		:wtonbl:`Acknowledgements` - optional (alternatively can be :wtonbl:`Acknowledgements and Funding` - in this case there should be no :wtonbl:`Funding` section) - [title case, in white on blue background]
+		:wtonbl:`Acknowledgments` - optional (alternatively can be :wtonbl:`Acknowledgments and Funding` - in this case there should be no :wtonbl:`Funding` section) - [title case, in white on blue background]
 
 		:wtonbl:`Ethics statement` - optional - [sentence case, in white on blue background] - (can be present as subheader in :wtonbl:`Methods` section, as a subheader it should be bold, in sentence case and in :headr2:`black`)
 
 		:wtonbl:`Conflicts of Interest` - mandatory - [title case, in white on blue background]
 
-		:wtonbl:`Funding` - optional (alternatively :wtonbl:`Funding Support`, :wtonbl:`Grant Support` - if article contains :wtonbl:`Acknowledgements and Funding` section, then :wtonbl:`Funding ` section should be removed) - [title case, in white on blue background]
+		:wtonbl:`Funding` - optional (alternatively :wtonbl:`Funding Support`, :wtonbl:`Grant Support` - if article contains :wtonbl:`Acknowledgments and Funding` section, then :wtonbl:`Funding ` section should be removed) - [title case, in white on blue background]
 
 		:wtonbl:`Editorial note` - optional - [sentence case, in white on blue background]
 
@@ -359,13 +359,13 @@ Also if you notice that the order of the sections need to be changed (to comply 
 
 		:wtonbl:`Author Contributions` - optional - [title case, in white on blue background]
 
-		:wtonbl:`Acknowledgements` - optional (alternatively can be :wtonbl:`Acknowledgements and Funding` - in this case there should be no :wtonbl:`Funding` section) - [title case, in white on blue background]
+		:wtonbl:`Acknowledgments` - optional (alternatively can be :wtonbl:`Acknowledgments and Funding` - in this case there should be no :wtonbl:`Funding` section) - [title case, in white on blue background]
 
 		:wtonbl:`Ethics statement` - optional - [sentence case, in white on blue background] - (can be present as subheader in :wtonbl:`Methods` section, as a subheader it should be bold, in sentence case and in :headr2:`black`)
 
 		:wtonbl:`Conflicts of Interest` - mandatory - [title case, in white on blue background]
 
-		:wtonbl:`Funding` - optional (alternatively :wtonbl:`Funding Support`, :wtonbl:`Grant Support` - if article contains :wtonbl:`Acknowledgements and Funding` section, then :wtonbl:`Funding ` section should be removed) - [title case, in white on blue background]
+		:wtonbl:`Funding` - optional (alternatively :wtonbl:`Funding Support`, :wtonbl:`Grant Support` - if article contains :wtonbl:`Acknowledgments and Funding` section, then :wtonbl:`Funding ` section should be removed) - [title case, in white on blue background]
 
 		:wtonbl:`Editorial note` - optional - [sentence case, in white on blue background]
 
@@ -391,13 +391,13 @@ Also if you notice that the order of the sections need to be changed (to comply 
 
 		:wtonbl:`Author Contributions` - optional - [title case, in white on blue background]
 
-		:wtonbl:`Acknowledgements` - optional (alternatively can be :wtonbl:`Acknowledgements and Funding` - in this case there should be no :wtonbl:`Funding` section) - [title case, in white on blue background]
+		:wtonbl:`Acknowledgments` - optional (alternatively can be :wtonbl:`Acknowledgments and Funding` - in this case there should be no :wtonbl:`Funding` section) - [title case, in white on blue background]
 
 		:wtonbl:`Ethics statement` - optional - [sentence case, in white on blue background] - (can be present as subheader in :wtonbl:`Methods` section, as a subheader it should be bold, in sentence case and in :headr2:`black`)
 
 		:wtonbl:`Conflicts of Interest` - mandatory - [title case, in white on blue background]
 
-		:wtonbl:`Funding` - optional (alternatively :wtonbl:`Funding Support`, :wtonbl:`Grant Support` - if article contains :wtonbl:`Acknowledgements and Funding` section, then :wtonbl:`Funding ` section should be removed) - [title case, in white on blue background]
+		:wtonbl:`Funding` - optional (alternatively :wtonbl:`Funding Support`, :wtonbl:`Grant Support` - if article contains :wtonbl:`Acknowledgments and Funding` section, then :wtonbl:`Funding ` section should be removed) - [title case, in white on blue background]
 
 		:wtonbl:`Editorial note` - optional - [sentence case, in white on blue background]
 
@@ -439,13 +439,13 @@ Also if you notice that the order of the sections need to be changed (to comply 
 
 		:wtonbl:`Author Contributions` - optional - [title case, in white on blue background]
 
-		:wtonbl:`Acknowledgements` - optional (alternatively can be :wtonbl:`Acknowledgements and Funding` - in this case there should be no :wtonbl:`Funding` section) - [title case, in white on blue background]
+		:wtonbl:`Acknowledgments` - optional (alternatively can be :wtonbl:`Acknowledgments and Funding` - in this case there should be no :wtonbl:`Funding` section) - [title case, in white on blue background]
 
 		:wtonbl:`Ethics statement` - optional - [sentence case, in white on blue background] - (can be present as subheader in :wtonbl:`Methods` section, as a subheader it should be bold, in sentence case and in :headr2:`black`)
 
 		:wtonbl:`Conflicts of Interest` - mandatory - [title case, in white on blue background]
 
-		:wtonbl:`Funding` - optional (alternatively :wtonbl:`Funding Support`, :wtonbl:`Grant Support` - if article contains :wtonbl:`Acknowledgements and Funding` section, then :wtonbl:`Funding ` section should be removed) - [title case, in white on blue background]
+		:wtonbl:`Funding` - optional (alternatively :wtonbl:`Funding Support`, :wtonbl:`Grant Support` - if article contains :wtonbl:`Acknowledgments and Funding` section, then :wtonbl:`Funding ` section should be removed) - [title case, in white on blue background]
 
 		:wtonbl:`Editorial note` - optional - [sentence case, in white on blue background]
 
@@ -469,13 +469,13 @@ Also if you notice that the order of the sections need to be changed (to comply 
 
 		:wtonbl:`Author Contributions` - optional - [title case, in white on blue background]
 
-		:wtonbl:`Acknowledgements` - optional (alternatively can be :wtonbl:`Acknowledgements and Funding` - in this case there should be no :wtonbl:`Funding` section) - [title case, in white on blue background]
+		:wtonbl:`Acknowledgments` - optional (alternatively can be :wtonbl:`Acknowledgments and Funding` - in this case there should be no :wtonbl:`Funding` section) - [title case, in white on blue background]
 
 		:wtonbl:`Ethics statement` - optional - [sentence case, in white on blue background] - (can be present as subheader in :wtonbl:`Methods` section, as a subheader it should be bold, in sentence case and in :headr2:`black`)
 
 		:wtonbl:`Conflicts of Interest` - mandatory - [title case, in white on blue background]
 
-		:wtonbl:`Funding` - optional (alternatively :wtonbl:`Funding Support`, :wtonbl:`Grant Support` - if article contains :wtonbl:`Acknowledgements and Funding` section, then :wtonbl:`Funding ` section should be removed) - [title case, in white on blue background]
+		:wtonbl:`Funding` - optional (alternatively :wtonbl:`Funding Support`, :wtonbl:`Grant Support` - if article contains :wtonbl:`Acknowledgments and Funding` section, then :wtonbl:`Funding ` section should be removed) - [title case, in white on blue background]
 
 		:wtonbl:`Editorial note` - optional - [sentence case, in white on blue background]
 
