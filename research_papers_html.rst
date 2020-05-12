@@ -933,7 +933,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
     - Journal title can be abbreviated or written in full. If abbreviated, check that it is written the same way as on PubMed site. You can look up journal titles here: https://www.ncbi.nlm.nih.gov/nlmcatalog/journals.
     - If both full and abbreviated title are present in the reference, then delete abbreviation and leave full title (you can spot such cases by presence of colon (:) in the title; e.g. Rapid Communications in Mass Spectrometry : RCM.)
 
-- Year should be presented in full (4 digits) and should be followed by semicolon (;). There can be a space after semicolon (not mandatory, but consistency should be maintained).
+- Year should be presented in full (4 digits) and should be followed by semicolon (;). There should be a space after semicolon.
 
 - Volume should be followed by colon (:). There can be a space after colon (but this is not mandatory).
 
