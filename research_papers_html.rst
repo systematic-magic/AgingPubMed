@@ -661,11 +661,6 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 	If one or more callouts are missing or are being called out of linear order in the text, please contact author.
 
-.. Important::
-
-	There is a different callout format for Supplementary Figures.
-	It is described in Supplementary Materials Check :ref:`here<supplementary_research_papers>`.
-
 12.6. Check that figures and their legends are displaying properly in pop-out window
 
 	.. image:: /_static/html_fig_popout.png
@@ -747,11 +742,6 @@ If you see that there are gaps in number sequence, then check with corresponding
 	- Check that table callouts appear in linear order throughout the manuscript. 1, 2, 3 and so on. Once a table has initially been called out, it can be called out again in any order. For example, 1, 2, 3, 1, 2, 4 is OK.
 
 	If one or more callouts are missing or are being called out of linear order in the text, please contact author.
-
-.. Important::
-
-	There is a different callout format for Supplementary Tables.
-	It is described in Supplementary Materials Check :ref:`here<supplementary_research_papers>`.
 
 |
 .. _reference_callouts_research_papers:
