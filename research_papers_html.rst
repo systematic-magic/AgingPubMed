@@ -548,7 +548,7 @@ If image is hard to read, please contact Production team and asfk to provide cle
 
 	- Check that figure legend has a figure number:
 
-	|	:sampleb:`Figure N.` (where N is a number of the figure)
+	|	:sampleb:`Figure N.` (where “N” is a number of the figure)
 
 	- Check that number is followed by period (.).
 
@@ -690,7 +690,7 @@ If table is hard to read, please contact Production team and ask to increase fon
 
 	- Check that title has table number:
 
-	| :sampleb:`Table N.` (where N is a number of the table)
+	| :sampleb:`Table N.` (where “N” is a number of the table)
 
 	In rare cases table number can contain a letter:
 
@@ -763,7 +763,7 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 	- Check the format of reference callouts:
 
-	| :sample:`[N]` (where N is the order number of the corresponding reference)
+	| :sample:`[N]` (where “N” is the order number of the corresponding reference)
 	|
 	| `Examples:`
 	| :sample:`[1]`
