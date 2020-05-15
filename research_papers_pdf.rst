@@ -310,6 +310,129 @@ No PDF-specific checks
 
 `+ HTML checks`
 
+|
+.. _pdf_supplementary_research_papers:
+
+16. Supplementary Materials
+---------------------------
+
+Supplementary materials should be located after the references of the main MS in the PDF.
+
+Check to make sure that all supplementary materials in the PDF match what we have on the website.
+
+
+16.1. Download File Names
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Not applicable to PDF check.
+
+16.2. Title and Footer
+^^^^^^^^^^^^^^^^^^^^^^
+
+**16.2.1. Main Title**
+
+- Main title should appear at the top of the first page of the supplementary materials. Title should be SUPPLEMENTARY MATERIALS - ALL CAPS, blue and bold font.
+
+.. image:: /_static/suppl_main_ms_pdf.png
+  	:alt: Supplementary Materials main title
+  	:scale: 99%
+
+**16.2.2. Supplementary Figures**
+
+- When multiple figures are present, title should be Supplementary Figures - Title case, blue and bold font.
+
+.. image:: /_static/suppl_mult_figs_ms_pdf.png
+  	:alt: Supplementary Figures title
+  	:scale: 99%
+
+- When only a single figure is present, title should be Supplementary Figure - Title case, blue and bold font.
+
+.. image:: /_static/suppl_one_fig_ms_pdf.png
+  	:alt: Supplementary Figure title
+  	:scale: 99%
+
+**16.2.3. Supplementary Tables**
+
+- When multiple tables are present, title should be Supplementary Tables - Title case, blue and bold font.
+
+.. image:: /_static/suppl_mult_tables_ms_pdf.png
+  	:alt: Supplementary Tables title
+  	:scale: 99%
+
+- When only a single table is present, title should be Supplementary Table - Title case, blue and bold font.
+
+.. image:: /_static/suppl_one_table_ms_pdf.png
+  	:alt: Supplementary Table title
+  	:scale: 99%
+
+**16.2.4. Supplementary References**
+
+- Title should be Supplementary References - Title case, blue and bold font.
+
+.. image:: /_static/suppl_refs_ms_pdf.png
+  	:alt: Supplementary References title
+  	:scale: 99%
+
+**16.2.5. Supplementary Materials**
+
+- Title should be SUPPLEMENTARY MATERIALS - Title case, blue and bold font.
+
+.. image:: /_static/suppl_materials_pdf.png
+  	:alt: Supplementary materials title
+  	:scale: 99%
+
+**16.2.6. Footer**
+
+- Not applicable to PDF check.
+
+Numbered footers will most likely be present, but these will be renumbered to accord with issue page numbers and checked in the next stage of publishing.
+
+16.3. Text
+^^^^^^^^^^
+
+16.3.1. Check that there are links/references to any external supplementary files (e.g. tables, videos etc) that could not be included in the PDF due to size or format.
+
+`+ HTML checks`
+
+16.4. Figures
+^^^^^^^^^^^^^
+
+16.4.1. Supplementary figure callouts are not hyperlinked in PDF.
+
+.. image:: /_static/suppl_fig_callouts_pdf.png
+   :alt: Supplementary figure callouts
+   :scale: 99%
+
+`+ HTML checks`
+
+16.5. Tables
+^^^^^^^^^^^^
+
+16.5.1. Supplementary table callouts are not hyperlinked in PDF.
+
+.. image:: /_static/suppl_table_callouts_pdf.png
+   :alt: Supplementary table callouts
+   :scale: 99%
+
+`+ HTML checks`
+
+16.6. References
+^^^^^^^^^^^^^^^^
+
+No PDF-specific checks
+
+`+ HTML checks`
+
+
+.. _large_tables_check:
+
+16.7. Large Tables
+^^^^^^^^^^^^^^^^^^
+
+No PDF-specific checks
+
+`+ HTML checks`
+
 
 
 .. |br| raw:: html
