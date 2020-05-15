@@ -1000,12 +1000,12 @@ If the link is not valid, please contact author to provide a working link.
 
 
 16. Supplementary Materials
-=======================
+---------------------------
 
 Check each supplementary file to verify contents.
 
 16.1. Download File Names
-----------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Supplementary materials, figures, tables, references, etc. are kept as separate downloads in HTML. When possible, a single file is used for each.
 
@@ -1078,7 +1078,7 @@ Download file names should be descriptive of what is inside the file.
   	:scale: 99%
 
 16.2. Title and Footer
--------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 16.2.1. Supplementary Figures
 
@@ -1133,7 +1133,7 @@ Download file names should be descriptive of what is inside the file.
   	:scale: 99%
 
 16.3. Text
--------
+^^^^^^^^^^
 
 16.3.1. Check that font face and size is used consistently throughout the supplementary file(s).
 
@@ -1142,7 +1142,7 @@ Download file names should be descriptive of what is inside the file.
 16.3.3. Check that there are links/references to the other supplementary files (e.g. tables, videos etc) in the first supplementary file.
 
 16.4. Figures
-----------
+^^^^^^^^^^^^^
 
 16.4.1. HTML :ref:`Figures checks from 12.1. to 12.4<figures_research_papers>` (inclusive) are applicable to supplementary figures with one exclusion: instead of **Figure N**, figure legends should be named as **Supplementary Figure N**.
 
@@ -1159,7 +1159,7 @@ Download file names should be descriptive of what is inside the file.
    :scale: 99%
 
 16.5. Tables
----------
+^^^^^^^^^^^^
 
 .. IMPORTANT::
 
@@ -1182,7 +1182,7 @@ Download file names should be descriptive of what is inside the file.
    :scale: 99%
 
 16.6. References
--------------
+^^^^^^^^^^^^^^^^
 
 16.6.1. If there are references present in the supplementary materials, then they should be checked in accordance with PDF :ref:`References checks<references_pdf_research_papers>`.
 
@@ -1198,7 +1198,7 @@ On the other hand, if there is a reference list but no callouts to it in the sup
 .. _large_tables_check:
 
 16.7. Large Tables
----------------
+^^^^^^^^^^^^^^^^^^
 
 Tables which fit into 2 pages are "normal tables" and should be published as PDF for convenient printing. Tables which span across 3 or more pages are considered "large tables". Large tables should be published as separate supplementary files (preferably in Excel (.xlsx) format).
 
