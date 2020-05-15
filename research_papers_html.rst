@@ -1061,7 +1061,7 @@ Download file names should be descriptive of what is inside the file.
   	:alt: Supplementary references
   	:scale: 99%
 
-**16.1.4 Supplementary Materials**
+**16.1.4. Supplementary Materials**
 
 - Should be named Supplementary Materials - Title case, blue and bold font.
 
@@ -1069,7 +1069,7 @@ Download file names should be descriptive of what is inside the file.
   	:alt: Supplementary materials
   	:scale: 99%
 
-**16.1.5 Supplementary Movies**
+**16.1.5. Supplementary Movies**
 
 - Should be named Supplementary Movie N (“N” being the movie number) - Title case, blue and bold font. If there is only one movie in total, “Supplementary Movie” is acceptable as well.
 
@@ -1116,7 +1116,7 @@ Download file names should be descriptive of what is inside the file.
   	:alt: Supplementary references title
   	:scale: 99%
 
-**16.2.4 Supplementary Materials**
+**16.2.4. Supplementary Materials**
 
 - Title should be SUPPLEMENTARY MATERIALS - Title case, blue and bold font.
 
@@ -1124,7 +1124,7 @@ Download file names should be descriptive of what is inside the file.
   	:alt: Supplementary materials title
   	:scale: 99%
 
-**16.2.5 Footer**
+**16.2.5. Footer**
 
 - All supplementary PDF documents should have numbered footers on each page.
 
