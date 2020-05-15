@@ -978,7 +978,7 @@ If you find duplicate references, please contact author and ask to correct the r
 |
 .. _websites_research_papers:
 
-15.6 Websites
+15.6. Websites
 ^^^^^^^^^^^^
 
 15.6.1. There is no standard for website references. Authors are allowed to accompany a web link with any information they think appropriate. 
@@ -991,7 +991,7 @@ If the link is not valid, please contact author to provide a working link.
 |
 .. _books_research_papers:
 
-15.7 Books and Reports
+15.7. Books and Reports
 ^^^^^^^^^^^^^^^^^^^^^
 
 15.7.1. There is no standard for books and reports. However at least "Title, Year, (Author name for book references)" should be there. 
