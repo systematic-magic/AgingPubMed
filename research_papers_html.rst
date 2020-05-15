@@ -1025,7 +1025,7 @@ Download file names should be descriptive of what is inside the file.
   	:alt: Supplementary figures all kept in file
   	:scale: 99%
 
-- When only one figure is kept in one file, it should be named Supplementary Figure N (“N” being the figure number) - Title case, blue and bold font.
+- When a single figure is kept in one file, it should be named Supplementary Figure N (“N” being the figure number) - Title case, blue and bold font.
 
 .. image:: /_static/suppl_one_fig_dl.png
   	:alt: One supplementary figure kept in file
@@ -1041,13 +1041,13 @@ Download file names should be descriptive of what is inside the file.
   	:alt: Supplementary tables all kept in file
   	:scale: 99%
 
-- When only one table is kept in one file, it should be named Supplementary Table N (“N” being the table number) - Title case, blue and bold font.
+- When a single table is kept in one file, it should be named Supplementary Table N (“N” being the table number) - Title case, blue and bold font.
 
 .. image:: /_static/suppl_one_table_dl.png
   	:alt: One supplementary table kept in file
   	:scale: 99%
 
-- When multiple, but not all, tables are kept in one file, it should be named Supplementary Tables N, N, N…, Supplementary Figures N–N (“N” being the table number) or other similar variations - Title case, blue and bold font.
+- When multiple, but not all, tables are kept in one file, it should be named Supplementary Tables N, N, N…, Supplementary Tables N–N (“N” being the table number) or other similar variations - Title case, blue and bold font.
 
 .. image:: /_static/suppl_mult_tables_dl.png
   	:alt: Multiple supplementary tables kept in file
@@ -1069,7 +1069,7 @@ Download file names should be descriptive of what is inside the file.
   	:alt: Supplementary materials
   	:scale: 99%
 
-16.1.5 Supplementary Movie
+16.1.5 Supplementary Movies
 
 - Should be named Supplementary Movie N (“N” being the movie number) - Title case, blue and bold font. If there is only one movie in total, “Supplementary Movie” is acceptable as well.
 
@@ -1088,7 +1088,7 @@ Download file names should be descriptive of what is inside the file.
   	:alt: Supplementary Figures title
   	:scale: 99%
 
-- When only one figure is contained in a PDF, title should be SUPPLEMENTARY FIGURE - ALL CAPS, blue and bold font.
+- When a single figure is contained in a PDF, title should be SUPPLEMENTARY FIGURE - ALL CAPS, blue and bold font.
 
 .. image:: /_static/suppl_one_fig_pdf.png
   	:alt: Supplementary Figure title
@@ -1102,7 +1102,7 @@ Download file names should be descriptive of what is inside the file.
   	:alt: Supplementary Tables title
   	:scale: 99%
 
-- When only one table is contained in a PDF, title should be SUPPLEMENTARY TABLE - ALL CAPS, blue and bold font.
+- When a single table is contained in a PDF, title should be SUPPLEMENTARY TABLE - ALL CAPS, blue and bold font.
 
 .. image:: /_static/suppl_one_table_pdf.png
   	:alt: Supplementary Table title
@@ -1150,7 +1150,7 @@ Download file names should be descriptive of what is inside the file.
    :alt: Supplementary figure name
    :scale: 99%
 
-16.4.2. Check supplementary figures callouts in the article text:
+16.4.2. Check supplementary figure callouts in the supplementary materials:
 
 	- HTML :ref:`Figures checks from 12.5<figures_research_papers>` (inclusive) are applicable to supplementary figure callouts with one exclusion: instead of **Figure N**, callouts should appear as **Supplementary Figure N**.
 
@@ -1164,7 +1164,7 @@ Download file names should be descriptive of what is inside the file.
 .. IMPORTANT::
 
 	If table spans across 3 or more pages, then it is considered as "large table".
-	For :ref:`large tables<large_tables_check>` handling instructions, check :ref:`here<large_tables_check>`.
+	For large tables handling instructions, check :ref:`here<large_tables_check>`.
 
 
 16.5.1. HTML :ref:`Tables checks from 13.1. to 13.5<tables_research_papers>` (inclusive) are applicable to supplementary tables with one exclusion: instead of **Table N**, tables should be named as **Supplementary Table N**.
@@ -1213,7 +1213,7 @@ Tables which fit into 2 pages are "normal tables" and should be published as PDF
 16.7.3. Check that tables in Excel (or Word) format have table number and header compliant to HTML :ref:`Tables check 13.2.<table_title_check>`
 
 .. image:: /_static/suppl_xl_table.png
-   :alt: Supplementary figure
+   :alt: Supplementary table
    :scale: 99%
 
 |
