@@ -1015,7 +1015,7 @@ Supplementary materials, figures, tables, references, etc. are kept as separate 
 
 Download file names should be descriptive of what is inside the file.
 
-16.1.1. Supplementary Figures
+**16.1.1. Supplementary Figures**
 
 - Figures will most often be kept in one PDF. Occasionally, unusually large figures may be kept separately.
 
@@ -1033,7 +1033,7 @@ Download file names should be descriptive of what is inside the file.
 
 - When multiple, but not all, figures are kept in one file, it should be named Supplementary Figures N, N, N…, Supplementary Figures N–N (“N” being the figure number) or other similar variations - Title case, blue and bold font.
 
-16.1.2. Supplementary Tables
+**16.1.2. Supplementary Tables**
 
 - When all tables can be kept in one file, it should be named Supplementary Tables - Title case, blue and bold font.
 
@@ -1053,7 +1053,7 @@ Download file names should be descriptive of what is inside the file.
   	:alt: Multiple supplementary tables kept in file
   	:scale: 99%
 
-16.1.3. Supplementary References
+**16.1.3. Supplementary References**
 
 - Should be named Supplementary References - Title case, blue and bold font.
 
@@ -1061,7 +1061,7 @@ Download file names should be descriptive of what is inside the file.
   	:alt: Supplementary references
   	:scale: 99%
 
-16.1.4 Supplementary Materials
+**16.1.4 Supplementary Materials**
 
 - Should be named Supplementary Materials - Title case, blue and bold font.
 
@@ -1069,7 +1069,7 @@ Download file names should be descriptive of what is inside the file.
   	:alt: Supplementary materials
   	:scale: 99%
 
-16.1.5 Supplementary Movies
+**16.1.5 Supplementary Movies**
 
 - Should be named Supplementary Movie N (“N” being the movie number) - Title case, blue and bold font. If there is only one movie in total, “Supplementary Movie” is acceptable as well.
 
@@ -1080,7 +1080,7 @@ Download file names should be descriptive of what is inside the file.
 16.2. Title and Footer
 ^^^^^^^^^^^^^^^^^^^^^^
 
-16.2.1. Supplementary Figures
+**16.2.1. Supplementary Figures**
 
 - When one or more figures are contained in a PDF, title should be SUPPLEMENTARY FIGURES - ALL CAPS, blue and bold font.
 
@@ -1094,7 +1094,7 @@ Download file names should be descriptive of what is inside the file.
   	:alt: Supplementary Figure title
   	:scale: 99%
 
-16.2.2. Supplementary Tables
+**16.2.2. Supplementary Tables**
 
 - When one or more tables are contained in a PDF, title should be SUPPLEMENTARY TABLES - ALL CAPS, blue and bold font.
 
@@ -1108,7 +1108,7 @@ Download file names should be descriptive of what is inside the file.
   	:alt: Supplementary Table title
   	:scale: 99%
 
-16.2.3. Supplementary References
+**16.2.3. Supplementary References**
 
 - Title should be SUPPLEMENTARY REFERENCES - ALL CAPS, blue and bold font.
 
@@ -1116,7 +1116,7 @@ Download file names should be descriptive of what is inside the file.
   	:alt: Supplementary references title
   	:scale: 99%
 
-16.2.4 Supplementary Materials
+**16.2.4 Supplementary Materials**
 
 - Title should be SUPPLEMENTARY MATERIALS - Title case, blue and bold font.
 
@@ -1124,7 +1124,7 @@ Download file names should be descriptive of what is inside the file.
   	:alt: Supplementary materials title
   	:scale: 99%
 
-16.2.5 Footer
+**16.2.5 Footer**
 
 - All supplementary PDF documents should have numbered footers on each page.
 
