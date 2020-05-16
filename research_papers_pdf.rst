@@ -394,7 +394,15 @@ Numbered footers will most likely be present, but these will be renumbered to ac
 16.3. Text
 ^^^^^^^^^^
 
-16.3.1. Check that there are links/references to any external supplementary files (e.g. tables, movies etc) that could not be included in the PDF due to size or format.
+16.3.1. Check that there are callouts to any external supplementary files (e.g. tables, movies etc) that could not be included in the PDF due to size or format.
+
+- Callout text should be “Please browse Full Text version to see the data of”…
+
+- Any applicable information such as table title should appear below the callout.
+
+.. image:: /_static/suppl_ext_callouts_ms_pdf.png
+  	:alt: Supplementary materials title
+  	:scale: 99%
 
 `+ HTML checks`
 
