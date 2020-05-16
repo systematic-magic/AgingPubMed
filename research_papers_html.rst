@@ -1118,7 +1118,7 @@ Download file names should be descriptive of what is inside the file.
 
 **16.2.4. Supplementary Materials**
 
-- Title should be SUPPLEMENTARY MATERIALS - Title case, blue and bold font.
+- Title should be SUPPLEMENTARY MATERIALS - ALL CAPS, blue and bold font.
 
 .. image:: /_static/suppl_materials_pdf.png
   	:alt: Supplementary materials title
@@ -1193,7 +1193,7 @@ On the other hand, if there is a reference list but no callouts to it in the sup
 
 16.6.2. Check supplementary reference callouts in the supplementary materials:
 
-	- Supplementary references should be checked in accordance with PDF :ref:`References Callouts checks<reference_callouts_pdf_research_papers>`.
+	- Supplementary reference callouts should be checked in accordance with PDF :ref:`References Callouts checks<reference_callouts_pdf_research_papers>`.
 
 .. _large_tables_check:
 
