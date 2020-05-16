@@ -318,20 +318,25 @@ No PDF-specific checks
 
 Supplementary materials should be located after the references of the main MS in the PDF.
 
+.. image:: /_static/suppl_location_ms_pdf.png
+  	:alt: Supplementary Materials location
+  	:scale: 99%
+
 Check to make sure that all supplementary materials in the PDF match what we have on the website.
 
 
 16.1. Download File Names
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Not applicable to PDF check.
+Not applicable to PDF check
 
 16.2. Title and Footer
 ^^^^^^^^^^^^^^^^^^^^^^
 
 **16.2.1. Main Title**
 
-- Main title should appear at the top of the first page of the supplementary materials. Title should be SUPPLEMENTARY MATERIALS - ALL CAPS, blue and bold font.
+- Main title should appear at the top of the first page of the supplementary materials. Title should be 
+ - ALL CAPS, blue and bold font.
 
 .. image:: /_static/suppl_main_ms_pdf.png
   	:alt: Supplementary Materials main title
@@ -375,15 +380,15 @@ Not applicable to PDF check.
 
 **16.2.5. Supplementary Materials**
 
-- Title should be SUPPLEMENTARY MATERIALS - Title case, blue and bold font.
+- Title should be Supplementary Materials - Title case, blue and bold font. This heading is used for any supplementary information, methods, etc. and should not be confused with the main SUPPLEMENTARY MATERIALS title referred to in 16.2.1.
 
-.. image:: /_static/suppl_materials_pdf.png
+.. image:: /_static/suppl_materials_ms_pdf.png
   	:alt: Supplementary materials title
   	:scale: 99%
 
 **16.2.6. Footer**
 
-- Not applicable to PDF check.
+- Not applicable to PDF check
 
 Numbered footers will most likely be present, but these will be renumbered to accord with issue page numbers and checked in the next stage of publishing.
 
