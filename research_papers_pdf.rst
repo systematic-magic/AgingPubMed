@@ -335,9 +335,7 @@ Not applicable to PDF check
 
 **16.2.1. Main Title**
 
-- Main title should appear at the top of the first page of the supplementary materials. - 
-
-- Title should be ALL CAPS, blue and bold font.
+- Main title should appear at the top of the first page of the supplementary materials - Title should be ALL CAPS, blue and bold font.
 
 .. image:: /_static/suppl_main_ms_pdf.png
   	:alt: Supplementary Materials main title
@@ -396,7 +394,7 @@ Numbered footers will most likely be present, but these will be renumbered to ac
 16.3. Text
 ^^^^^^^^^^
 
-16.3.1. Check that there are links/references to any external supplementary files (e.g. tables, videos etc) that could not be included in the PDF due to size or format.
+16.3.1. Check that there are links/references to any external supplementary files (e.g. tables, movies etc) that could not be included in the PDF due to size or format.
 
 `+ HTML checks`
 
