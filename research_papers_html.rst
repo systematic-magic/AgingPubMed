@@ -1017,7 +1017,8 @@ Download file names should be descriptive of what is inside the file.
 
 **16.1.1. Supplementary Figures**
 
-- Figures will most often be kept in one PDF. Occasionally, unusually large figures may be kept separately.
+Figures will most often be kept in one PDF. Occasionally, unusually large figures may be kept separately.
+
 
 - When all figures can be kept in one file, it should be named Supplementary Figures - Title case, blue and bold font.
 
@@ -1139,8 +1140,6 @@ Download file names should be descriptive of what is inside the file.
 
 16.3.2. Check that there are no blank pages (i.e. all the pages have content).
 
-16.3.3. Check that there are links/references to the other supplementary files (e.g. tables, videos etc) in the first supplementary file.
-
 16.4. Figures
 ^^^^^^^^^^^^^
 
@@ -1210,7 +1209,7 @@ Tables which fit into 2 pages are "normal tables" and should be published as PDF
 
 - If conversion to Excel (.xlsx) is **not** feasible, then such large table is to be published as a separate Word (.docx) supplementary file.
 
-16.7.3. Check that tables in Excel (or Word) format have table number and header compliant to HTML :ref:`Tables check 13.2.<table_title_check>`
+16.7.3. Check that tables in Excel or Word format have table number and header compliant to HTML :ref:`Tables check 13.2.<table_title_check>`
 
 .. image:: /_static/suppl_xl_table.png
    :alt: Supplementary table
