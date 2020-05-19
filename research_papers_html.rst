@@ -25,7 +25,7 @@ HTML: All Papers (except Editorials)
 We suggest the you use the :ref:`following procedure<correct_case_check>`, if in you are in doubt regarding this or that term.
 
 1.5. Check that following Latin terms are written in italics: *in vivo, in vitro, in utero, in situ, via*. 
-For other Latin terms and gene names either italics or :ref:`plain text<plain_text>` is acceptable.
+For other Latin terms either italics or :ref:`plain text<plain_text>` is acceptable.
 
 1.6. Check that species and gene names are written in italics.
 
