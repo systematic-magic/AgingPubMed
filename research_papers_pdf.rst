@@ -387,9 +387,7 @@ Not applicable to PDF check
 
 **16.2.6. Footer**
 
-- Not applicable to PDF check
-
-Numbered footers will most likely be present, but these will be renumbered to accord with issue page numbers and checked in the next stage of publishing.
+Not applicable to PDF check - Numbered footers will most likely be present, but these will be renumbered to accord with issue page numbers and checked in the next stage of publishing.
 
 16.3. Text
 ^^^^^^^^^^
@@ -434,9 +432,6 @@ Numbered footers will most likely be present, but these will be renumbered to ac
 No PDF-specific checks
 
 `+ HTML checks`
-
-
-.. _large_tables_check:
 
 16.7. Large Tables
 ^^^^^^^^^^^^^^^^^^
