@@ -392,7 +392,7 @@ Not applicable to PDF check - Numbered footers will most likely be present, but 
 16.3. Text
 ^^^^^^^^^^
 
-16.3.1. Check that there are callouts to any external supplementary files (e.g. tables, movies etc) that could not be included in the PDF due to size or format.
+16.3.1. Check that there are callouts to any external supplementary files (e.g. tables, video etc) that could not be included in the PDF due to size or format.
 
 - Callout text should be “Please browse Full Text version to see the data of”…
 
