@@ -1072,7 +1072,7 @@ Figures will most often be kept in one PDF. Occasionally, unusually large figure
 
 **16.1.5. Supplementary Videos**
 
-- Should be named Supplementary Video N (“N” being the Video number) - Title case, blue and bold font. If there is only one Video in total, “Supplementary Video” is acceptable as well.
+- Should be named Supplementary Video N (“N” being the video number) - Title case, blue and bold font. If there is only one video in total, “Supplementary Video” is acceptable as well.
 
 .. image:: /_static/suppl_video_dl.png
   	:alt: Supplementary videos
