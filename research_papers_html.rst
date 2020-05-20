@@ -1070,12 +1070,12 @@ Figures will most often be kept in one PDF. Occasionally, unusually large figure
   	:alt: Supplementary materials
   	:scale: 99%
 
-**16.1.5. Supplementary Movies**
+**16.1.5. Supplementary Videos**
 
-- Should be named Supplementary Movie N (“N” being the movie number) - Title case, blue and bold font. If there is only one movie in total, “Supplementary Movie” is acceptable as well.
+- Should be named Supplementary Video N (“N” being the Video number) - Title case, blue and bold font. If there is only one Video in total, “Supplementary Video” is acceptable as well.
 
-.. image:: /_static/suppl_movie_dl.png
-  	:alt: Supplementary movie
+.. image:: /_static/suppl_video_dl.png
+  	:alt: Supplementary videos
   	:scale: 99%
 
 16.2. Title and Footer
