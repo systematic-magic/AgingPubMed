@@ -283,11 +283,11 @@ and followed by:
 ------------------
 .. _start_of_check:
 
-Section headers should comply to below mentioned requirements in respect of order, letter case, colour and spelling. Also, no variations (except for alternatives explicitly mentioned in these standards) are allowed. For example, standards have "Author Contributions" section with no alternatives specified, which means that all other variations (like "Authors' Contributions, Author Contribution, Contribution of Author, etc") are not allowed.
+Section headers should comply with below mentioned requirements in respect to order, letter case, colour and spelling. Also, no variations (except for alternatives explicitly mentioned in these standards) are allowed. For example, standards have "Author Contributions" section with no alternatives specified, which means that all other variations (like "Authors' Contributions, Author Contribution, Contribution of Author, etc") are not allowed.
 
 If you see any deviations of section naming in articles, please contact authors and check whether they agree to change section header in question in accordance with these standards.
 
-Also if you notice that the order of the sections need to be changed (to comply with the standards), please contact author to confirm section order changes with him/her.
+Also, if you notice that the order of the sections need to be changed (to comply with the standards), please contact author to confirm section order changes with him/her.
 
 
 10.1. Check that article has the following sections in the following order:
@@ -306,15 +306,15 @@ Also if you notice that the order of the sections need to be changed (to comply 
 
 		:wtonbl:`Introduction` - mandatory - [title case, in white on blue background]
 
-		:wtonbl:`Results` - mandatory (alternatively can be :wtonbl:`Results and Discussion`) - [title case, in white on blue background]
+		:wtonbl:`Results` - mandatory - (alternatively can be :wtonbl:`Results and Discussion`) - [title case, in white on blue background]
 
-		:wtonbl:`Discussion` - mandatory (alternatively can be :wtonbl:`Discussion and Conclusion` or :wtonbl:`Discussion and Conclusions`) - [title case, in white on blue background]
+		:wtonbl:`Discussion` - mandatory - (alternatively can be :wtonbl:`Discussion and Conclusions` or :wtonbl:`Discussion and Conclusion`) - [title case, in white on blue background]
 
 		:wtonbl:`Conclusions` or :wtonbl:`Conclusion` - optional - [title case, in white on blue background]
 
-		:wtonbl:`Materials and Methods` - mandatory (alternatively can be :wtonbl:`Methods` or :wtonbl:`Patients and Methods`) - [title case, in white on blue background]
+		:wtonbl:`Materials and Methods` - mandatory - (alternatively can be :wtonbl:`Methods` or :wtonbl:`Patients and Methods`) - [title case, in white on blue background]
 
-		:headr2:`Ethics statement` - optional (if present, it should only appear as a subheader in MATERIALS AND METHODS section) [sentence case, in black)
+		:headr2:`Ethics statement` - optional - (if present, it should only appear as a subheader in :wtonbl:`MATERIALS AND METHODS` section) [sentence case, in black)
 
 		:wtonbl:`Supplementary Materials` - optional - [title case, in white on blue background]
 
@@ -390,7 +390,7 @@ Also if you notice that the order of the sections need to be changed (to comply 
 		:blue:`Abstract` - mandatory - [title case, in blue]
 	
 
-		Research Perspectives and Meeting Reports usually have free-style (research related) section headers.
+		Research Perspectives usually have free-style (research related) section headers.
 	
 
 		:wtonbl:`Abbreviations` - optional - [title case, in white on blue background]
