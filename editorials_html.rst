@@ -9,7 +9,7 @@ HTML: Editorials
 1. Title
 --------
 
-1.1. Check that title is in sentence case.
+1.1. Check that title is in :ref:`sentence case<sentence_case>`.
 
 1.2. Check title spelling.
 
