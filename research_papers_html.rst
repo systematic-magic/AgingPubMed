@@ -283,7 +283,7 @@ and followed by:
 ------------------
 .. _start_of_check:
 
-Section headers should comply to below mentioned requirements in respect of order, letter case, colour and spelling. Also, no variations (except for alternatives explicitly mentioned in these standards) are allowed. For example, standards have "Author contributions" section with no alternatives specified, which means that all other variations (like "Authors' contributions, Author contribution, Contribution of author, etc") are not allowed.
+Section headers should comply to below mentioned requirements in respect of order, letter case, colour and spelling. Also, no variations (except for alternatives explicitly mentioned in these standards) are allowed. For example, standards have "Author Contributions" section with no alternatives specified, which means that all other variations (like "Authors' Contributions, Author Contribution, Contribution of Author, etc") are not allowed.
 
 If you see any deviations of section naming in articles, please contact authors and check whether they agree to change section header in question in accordance with these standards.
 
@@ -293,83 +293,43 @@ Also if you notice that the order of the sections need to be changed (to comply 
 10.1. Check that article has the following sections in the following order:
 
 | NAVIGATE TO:
-|	:ref:`Research papers (as well as Special Section Research papers)<research_papers>`
-|	:ref:`Clinical Research papers and Meta-Analysis<clinical_research_papers>`
+|	:ref:`Research Papers<research_papers>`
 |	:ref:`Reviews<reviews>`
-|	:ref:`Editorials and News<editorials_news>`
-|	:ref:`Case reports<case_reports>`
-|	:ref:`Research perspectives and Meeting reports<research_perspectives>`
+|	:ref:`Editorials<editorials>`
+|	:ref:`Research Perspectives<research_perspectives>`
 
 .. _research_papers:
 
-	- **Research papers (as well as Special Section Research papers)**
+	- **Research Papers**
 
 		:blue:`Abstract` - mandatory - [title case, in blue]
 
 		:wtonbl:`Introduction` - mandatory - [title case, in white on blue background]
 
-		:wtonbl:`Results` - mandatory - [title case, in white on blue background]
+		:wtonbl:`Results` - mandatory (alternatively can be :wtonbl:`Results and Discussion`) - [title case, in white on blue background]
 
-		:wtonbl:`Discussion` - mandatory - [title case, in white on blue background]
+		:wtonbl:`Discussion` - mandatory (alternatively can be :wtonbl:`Discussion and Conclusion` or :wtonbl:`Discussion and Conclusions`) - [title case, in white on blue background]
 
-		:wtonbl:`Methods` - mandatory (alternatively can be :wtonbl:`Materials and Methods`, :wtonbl:`Patients and Methods`, :wtonbl:`Experimental Methods` - all other alternatives not allowed) - [title case, in white on blue background]
+		:wtonbl:`Conclusions` or :wtonbl:`Conclusion` - optional - [title case, in white on blue background]
 
-		:wtonbl:`Conclusions` - optional - [title case, in white on blue background]
+		:wtonbl:`Materials and Methods` - mandatory (alternatively can be :wtonbl:`Methods` or :wtonbl:`Patients and Methods`) - [title case, in white on blue background]
 
-		:wtonbl:`Abbreviations` - optional - [title case, in white on blue background]
+		:headr2:`Ethics statement` - optional (if present, it should only appear as a subheader in MATERIALS AND METHODS section) [sentence case, in black)
 
-		:wtonbl:`Author Contributions` - optional - [title case, in white on blue background]
-
-		:wtonbl:`Acknowledgments` - optional (alternatively can be :wtonbl:`Acknowledgments and Funding` - in this case there should be no :wtonbl:`Funding` section) - [title case, in white on blue background]
-
-		:wtonbl:`Ethics statement` - optional - [sentence case, in white on blue background] - (can be present as subheader in :wtonbl:`Methods` section, as a subheader it should be bold, in sentence case and in :headr2:`black`)
-
-		:wtonbl:`Conflicts of Interest` - mandatory - [title case, in white on blue background]
-
-		:wtonbl:`Funding` - optional (alternatively :wtonbl:`Funding Support`, :wtonbl:`Grant Support` - if article contains :wtonbl:`Acknowledgments and Funding` section, then :wtonbl:`Funding ` section should be removed) - [title case, in white on blue background]
-
-		:wtonbl:`Editorial note` - optional - [sentence case, in white on blue background]
-
-		:wtonbl:`References` - mandatory - [title case, in white on blue background]
-
-
-| NAVIGATE TO:
-| :ref:`next check<next_check>`
-| :ref:`start of this check<start_of_check>`
-
-.. _clinical_research_papers:
-
-	- **Clinical Research papers and Meta-Analysis**
-
-		:blue:`Abstract` - mandatory - [title case, in blue]
-
-		:wtonbl:`Introduction` - mandatory - [title case, in white on blue background]
-
-			:wtonbl:`Methods` - mandatory - either before :wtonbl:`Results` section or after :wtonbl:`Discussion` - (alternatively can be :wtonbl:`Materials and Methods`, :wtonbl:`Patients and Methods`, :wtonbl:`Experimental Methods` - all other alternatives not allowed) - [title case, in white on blue background]
-
-		:wtonbl:`Results` - mandatory - [title case, in white on blue background]
-
-		:wtonbl:`Discussion` - mandatory - [title case, in white on blue background]
-
-			:wtonbl:`Methods` - mandatory - either before :wtonbl:`Results` section or after :wtonbl:`Discussion` - (alternatively can be :wtonbl:`Materials and Methods`, :wtonbl:`Patients and Methods`, :wtonbl:`Experimental Methods` - all other alternatives not allowed) - [title case, in white on blue background]
-
-		:wtonbl:`Conclusions` - optional - [title case, in white on blue background]
+		:wtonbl:`Supplementary Materials` - optional - [title case, in white on blue background]
 
 		:wtonbl:`Abbreviations` - optional - [title case, in white on blue background]
 
 		:wtonbl:`Author Contributions` - optional - [title case, in white on blue background]
 
-		:wtonbl:`Acknowledgments` - optional (alternatively can be :wtonbl:`Acknowledgments and Funding` - in this case there should be no :wtonbl:`Funding` section) - [title case, in white on blue background]
-
-		:wtonbl:`Ethics statement` - optional - [sentence case, in white on blue background] - (can be present as subheader in :wtonbl:`Methods` section, as a subheader it should be bold, in sentence case and in :headr2:`black`)
+		:wtonbl:`Acknowledgments` - optional - [title case, in white on blue background]
 
 		:wtonbl:`Conflicts of Interest` - mandatory - [title case, in white on blue background]
 
-		:wtonbl:`Funding` - optional (alternatively :wtonbl:`Funding Support`, :wtonbl:`Grant Support` - if article contains :wtonbl:`Acknowledgments and Funding` section, then :wtonbl:`Funding ` section should be removed) - [title case, in white on blue background]
-
-		:wtonbl:`Editorial note` - optional - [sentence case, in white on blue background]
+		:wtonbl:`Funding` - optional - [title case, in white on blue background]
 
 		:wtonbl:`References` - mandatory - [title case, in white on blue background]
+
 
 | NAVIGATE TO:
 | :ref:`next check<next_check>`
@@ -381,7 +341,7 @@ Also if you notice that the order of the sections need to be changed (to comply 
 
 		:blue:`Abstract` - mandatory - [title case, in blue]
 
-		:wtonbl:`Introduction` - mandatory - [title case, in white on blue background]
+		:wtonbl:`Introduction` - optional - [title case, in white on blue background]
 
 
 		Reviews usually have free-style (research related) section headers. These headers can be formatted in sentence case and coloured in white on blue background.
@@ -391,15 +351,11 @@ Also if you notice that the order of the sections need to be changed (to comply 
 
 		:wtonbl:`Author Contributions` - optional - [title case, in white on blue background]
 
-		:wtonbl:`Acknowledgments` - optional (alternatively can be :wtonbl:`Acknowledgments and Funding` - in this case there should be no :wtonbl:`Funding` section) - [title case, in white on blue background]
-
-		:wtonbl:`Ethics statement` - optional - [sentence case, in white on blue background] - (can be present as subheader in :wtonbl:`Methods` section, as a subheader it should be bold, in sentence case and in :headr2:`black`)
+		:wtonbl:`Acknowledgments` - optional - [title case, in white on blue background]
 
 		:wtonbl:`Conflicts of Interest` - mandatory - [title case, in white on blue background]
 
-		:wtonbl:`Funding` - optional (alternatively :wtonbl:`Funding Support`, :wtonbl:`Grant Support` - if article contains :wtonbl:`Acknowledgments and Funding` section, then :wtonbl:`Funding ` section should be removed) - [title case, in white on blue background]
-
-		:wtonbl:`Editorial note` - optional - [sentence case, in white on blue background]
+		:wtonbl:`Funding` - optional - [title case, in white on blue background]
 
 		:wtonbl:`References` - mandatory - [title case, in white on blue background]
 
@@ -407,47 +363,19 @@ Also if you notice that the order of the sections need to be changed (to comply 
 | :ref:`next check<next_check>`
 | :ref:`start of this check<start_of_check>`
 
-.. _editorials_news:
+.. _editorials:
 
-	- **Editorials and News**
+	- **Editorials**
 
-		Editorials and News usually do not have any sections except:
-
-		:wtonbl:`References` - mandatory - [title case, in white on blue background]
-
-| NAVIGATE TO:
-| :ref:`next check<next_check>`
-| :ref:`start of this check<start_of_check>`
-
-.. _case_reports:
-
-	- **Case Reports**
-
-		:blue:`Abstract` - mandatory - [title case, in blue]
-
-		:wtonbl:`Introduction` - mandatory - [title case, in white on blue background]
-
-	
-		Case reports usually have free-style (research related) section headers. Occasionally case reports can be formatted as regular research papers.
-
-
-		:wtonbl:`Case Report` - optional - (alternatively :wtonbl:`Case Presentation`) - [title case, in white on blue background]
-
-		:wtonbl:`Discussion` - optional - [title case, in white on blue background]
+		Editorials usually do not have any sections except:
 
 		:wtonbl:`Abbreviations` - optional - [title case, in white on blue background]
 
-		:wtonbl:`Author Contributions` - optional - [title case, in white on blue background]
+		:wtonbl:`Acknowledgments` - optional - [title case, in white on blue background]
 
-		:wtonbl:`Acknowledgments` - optional (alternatively can be :wtonbl:`Acknowledgments and Funding` - in this case there should be no :wtonbl:`Funding` section) - [title case, in white on blue background]
+		:wtonbl:`Conflicts of Interest` - optional - [title case, in white on blue background]
 
-		:wtonbl:`Ethics statement` - optional - [sentence case, in white on blue background] - (can be present as subheader in :wtonbl:`Methods` section, as a subheader it should be bold, in sentence case and in :headr2:`black`)
-
-		:wtonbl:`Conflicts of Interest` - mandatory - [title case, in white on blue background]
-
-		:wtonbl:`Funding` - optional (alternatively :wtonbl:`Funding Support`, :wtonbl:`Grant Support` - if article contains :wtonbl:`Acknowledgments and Funding` section, then :wtonbl:`Funding ` section should be removed) - [title case, in white on blue background]
-
-		:wtonbl:`Editorial note` - optional - [sentence case, in white on blue background]
+		:wtonbl:`Funding` - optional - [title case, in white on blue background]
 
 		:wtonbl:`References` - mandatory - [title case, in white on blue background]
 
@@ -457,7 +385,7 @@ Also if you notice that the order of the sections need to be changed (to comply 
 
 .. _research_perspectives:
 
-	- **Research Perspectives and Meeting Reports**
+	- **Research Perspectives**
 		
 		:blue:`Abstract` - mandatory - [title case, in blue]
 	
@@ -469,18 +397,13 @@ Also if you notice that the order of the sections need to be changed (to comply 
 
 		:wtonbl:`Author Contributions` - optional - [title case, in white on blue background]
 
-		:wtonbl:`Acknowledgments` - optional (alternatively can be :wtonbl:`Acknowledgments and Funding` - in this case there should be no :wtonbl:`Funding` section) - [title case, in white on blue background]
-
-		:wtonbl:`Ethics statement` - optional - [sentence case, in white on blue background] - (can be present as subheader in :wtonbl:`Methods` section, as a subheader it should be bold, in sentence case and in :headr2:`black`)
+		:wtonbl:`Acknowledgments` - optional - [title case, in white on blue background]
 
 		:wtonbl:`Conflicts of Interest` - mandatory - [title case, in white on blue background]
 
-		:wtonbl:`Funding` - optional (alternatively :wtonbl:`Funding Support`, :wtonbl:`Grant Support` - if article contains :wtonbl:`Acknowledgments and Funding` section, then :wtonbl:`Funding ` section should be removed) - [title case, in white on blue background]
-
-		:wtonbl:`Editorial note` - optional - [sentence case, in white on blue background]
+		:wtonbl:`Funding` - optional - [title case, in white on blue background]
 
 		:wtonbl:`References` - mandatory - [title case, in white on blue background]
-
 
 .. _next_check:
 
