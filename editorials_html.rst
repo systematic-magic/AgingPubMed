@@ -223,7 +223,7 @@ If there are several author notes, then each note should have **different** symb
 
 Abbreviations are optional.
 
-7.1. Abbreviations should not appear in the Abstract section and should only appear in the final sections as is noted in :ref:`Section Headers<section_headers_research_papers>`.
+7.1. Abbreviations should not appear in the Abstract section and should only appear in the final sections as is noted in :ref:`Section Headers<section_headers_html_editorials>`.
 
 |
 .. _dates_html_editorials:
@@ -278,7 +278,7 @@ and followed by:
 
 10. Section Headers
 ------------------
-.. _start_of_check_pdf_editorials:
+.. _start_of_check_html_editorials:
 
 Section headers should comply with below mentioned requirements in respect to order, letter case, colour and spelling. Also, no variations (except for alternatives explicitly mentioned in these standards) are allowed. For example, standards have "Author Contributions" section with no alternatives specified, which means that all other variations (like "Authors' Contributions, Author Contribution, Contribution of Author, etc") are not allowed.
 
@@ -289,78 +289,6 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 10.1. Check that article has the following sections in the following order:
 
-| NAVIGATE TO:
-|	:ref:`Research Papers<research_papers>`
-|	:ref:`Reviews<reviews>`
-|	:ref:`Editorials<editorials>`
-|	:ref:`Research Perspectives<research_perspectives>`
-
-.. _research_papers:
-
-	- **Research Papers**
-
-		:blue:`Abstract` - mandatory - [title case, in blue]
-
-		:wtonbl:`Introduction` - mandatory - [title case, in white on blue background]
-
-		:wtonbl:`Results` - mandatory - (alternatively can be :wtonbl:`Results and Discussion`) - [title case, in white on blue background]
-
-		:wtonbl:`Discussion` - mandatory - (alternatively can be :wtonbl:`Discussion and Conclusions` or :wtonbl:`Discussion and Conclusion`) - [title case, in white on blue background]
-
-		:wtonbl:`Conclusions` or :wtonbl:`Conclusion` - optional - [title case, in white on blue background]
-
-		:wtonbl:`Materials and Methods` - mandatory - (alternatively can be :wtonbl:`Methods` or :wtonbl:`Patients and Methods`) - [title case, in white on blue background]
-
-		:headr2:`Ethics statement` - optional - (if present, it should only appear as a subheader in :wtonbl:`MATERIALS AND METHODS` section) [sentence case, in black]
-
-		:wtonbl:`Supplementary Materials` - optional - [title case, in white on blue background]
-
-		:wtonbl:`Abbreviations` - optional - [title case, in white on blue background]
-
-		:wtonbl:`Author Contributions` - optional - [title case, in white on blue background]
-
-		:wtonbl:`Acknowledgments` - optional - [title case, in white on blue background]
-
-		:wtonbl:`Conflicts of Interest` - mandatory - [title case, in white on blue background]
-
-		:wtonbl:`Funding` - optional - [title case, in white on blue background]
-
-		:wtonbl:`References` - mandatory - [title case, in white on blue background]
-
-
-| NAVIGATE TO:
-| :ref:`next check<next_check_pdf_editorials>`
-| :ref:`start of this check<start_of_check_pdf_editorials>`
-
-.. _reviews:
-
-	- **Reviews**
-
-		:blue:`Abstract` - mandatory - [title case, in blue]
-
-		:wtonbl:`Introduction` - optional - [title case, in white on blue background]
-
-
-		Reviews usually have free-style (research related) section headers. These headers can be formatted in sentence case and coloured in white on blue background.
-
-
-		:wtonbl:`Abbreviations` - optional - [title case, in white on blue background]
-
-		:wtonbl:`Author Contributions` - optional - [title case, in white on blue background]
-
-		:wtonbl:`Acknowledgments` - optional - [title case, in white on blue background]
-
-		:wtonbl:`Conflicts of Interest` - mandatory - [title case, in white on blue background]
-
-		:wtonbl:`Funding` - optional - [title case, in white on blue background]
-
-		:wtonbl:`References` - mandatory - [title case, in white on blue background]
-
-| NAVIGATE TO:
-| :ref:`next check<next_check_pdf_editorials>`
-| :ref:`start of this check<start_of_check_pdf_editorials>`
-
-.. _editorials:
 
 	- **Editorials**
 
@@ -375,34 +303,6 @@ Also, if you notice that the order of the sections need to be changed (to comply
 		:wtonbl:`Funding` - optional - [title case, in white on blue background]
 
 		:wtonbl:`References` - mandatory - [title case, in white on blue background]
-
-| NAVIGATE TO:
-| :ref:`next check<next_check_pdf_editorials>`
-| :ref:`start of this check<start_of_check_pdf_editorials>`
-
-.. _research_perspectives:
-
-	- **Research Perspectives**
-		
-		:blue:`Abstract` - mandatory - [title case, in blue]
-	
-
-		Research Perspectives usually have free-style (research related) section headers.
-	
-
-		:wtonbl:`Abbreviations` - optional - [title case, in white on blue background]
-
-		:wtonbl:`Author Contributions` - optional - [title case, in white on blue background]
-
-		:wtonbl:`Acknowledgments` - optional - [title case, in white on blue background]
-
-		:wtonbl:`Conflicts of Interest` - mandatory - [title case, in white on blue background]
-
-		:wtonbl:`Funding` - optional - [title case, in white on blue background]
-
-		:wtonbl:`References` - mandatory - [title case, in white on blue background]
-
-.. _next_check_pdf_editorials:
 
 10.2. Check the format of all subsection headers in the article:
 	
@@ -1063,7 +963,7 @@ Figures will most often be kept in one PDF. Occasionally, unusually large figure
 16.4. Figures
 ^^^^^^^^^^^^^
 
-16.4.1. HTML :ref:`Figures checks from 12.1. to 12.4<figures_research_papers>` (inclusive) are applicable to supplementary figures with one exclusion: instead of **Figure N**, figure legends should be named as **Supplementary Figure N**.
+16.4.1. HTML :ref:`Figures checks from 12.1. to 12.4<figures_html_editorials>` (inclusive) are applicable to supplementary figures with one exclusion: instead of **Figure N**, figure legends should be named as **Supplementary Figure N**.
 
 .. image:: /_static/suppl_fig_name.png
    :alt: Supplementary figure name
@@ -1071,7 +971,7 @@ Figures will most often be kept in one PDF. Occasionally, unusually large figure
 
 16.4.2. Check supplementary figure callouts in the supplementary materials:
 
-	- HTML :ref:`Figures checks from 12.5<figures_research_papers>` (inclusive) are applicable to supplementary figure callouts with one exclusion: instead of **Figure N**, callouts should appear as **Supplementary Figure N**.
+	- HTML :ref:`Figures checks from 12.5<figures_html_editorials>` (inclusive) are applicable to supplementary figure callouts with one exclusion: instead of **Figure N**, callouts should appear as **Supplementary Figure N**.
 
 .. image:: /_static/suppl_fig_callouts.png
    :alt: Supplementary figure callouts
@@ -1086,7 +986,7 @@ Figures will most often be kept in one PDF. Occasionally, unusually large figure
 	For large tables handling instructions, check :ref:`here<large_tables_check_html_editorials>`.
 
 
-16.5.1. HTML :ref:`Tables checks from 13.1. to 13.5<tables_research_papers>` (inclusive) are applicable to supplementary tables with one exclusion: instead of **Table N**, tables should be named as **Supplementary Table N**.
+16.5.1. HTML :ref:`Tables checks from 13.1. to 13.5<tables_html_editorials>` (inclusive) are applicable to supplementary tables with one exclusion: instead of **Table N**, tables should be named as **Supplementary Table N**.
 
 .. image:: /_static/suppl_table_name.png
    :alt: Supplementary table name
@@ -1094,7 +994,7 @@ Figures will most often be kept in one PDF. Occasionally, unusually large figure
 
 16.5.2. Check supplementary table callouts in the article text:
 
-	- HTML :ref:`Tables checks from 13.6<tables_research_papers>` (inclusive) are applicable to supplementary table callouts with one exclusion: instead of **Table N**, callouts should appear as **Supplementary Table N**.
+	- HTML :ref:`Tables checks from 13.6<tables_html_editorials>` (inclusive) are applicable to supplementary table callouts with one exclusion: instead of **Table N**, callouts should appear as **Supplementary Table N**.
 
 .. image:: /_static/suppl_table_callouts.png
    :alt: Supplementary table callouts
@@ -1103,7 +1003,7 @@ Figures will most often be kept in one PDF. Occasionally, unusually large figure
 16.6. References
 ^^^^^^^^^^^^^^^^
 
-16.6.1. If there are references present in the supplementary materials, then they should be checked in accordance with PDF :ref:`References checks<references_pdf_research_papers>`.
+16.6.1. If there are references present in the supplementary materials, then they should be checked in accordance with PDF :ref:`References checks<references_pdf_editorials>`.
 
 	- The supplementary materials must have its own reference list (separate from the reference list in the main manuscript) when references are being called out there.
 
@@ -1112,7 +1012,7 @@ On the other hand, if there is a reference list but no callouts to it in the sup
 
 16.6.2. Check supplementary reference callouts in the supplementary materials:
 
-	- Supplementary reference callouts should be checked in accordance with PDF :ref:`References Callouts checks<reference_callouts_pdf_research_papers>`.
+	- Supplementary reference callouts should be checked in accordance with PDF :ref:`References Callouts checks<reference_callouts_pdf_edtorials>`.
 
 .. _large_tables_check_html_editorials:
 
