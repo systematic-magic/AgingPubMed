@@ -280,7 +280,7 @@ and followed by:
 ------------------
 .. _start_of_check_html_editorials:
 
-Section headers should comply with below mentioned requirements in respect to order, letter case, colour and spelling. Also, no variations (except for alternatives explicitly mentioned in these standards) are allowed. For example, standards have "Author Contributions" section with no alternatives specified, which means that all other variations (like "Authors' Contributions, Author Contribution, Contribution of Author, etc") are not allowed.
+Section headers should comply with below mentioned requirements in respect to order, letter case, colour and spelling. Also, no variations (except for alternatives explicitly mentioned in these standards) are allowed.
 
 If you see any deviations of section naming in articles, please contact authors and check whether they agree to change section header in question in accordance with these standards.
 
