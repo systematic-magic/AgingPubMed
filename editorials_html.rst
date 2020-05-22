@@ -1,4 +1,9 @@
 .. role:: sample
+.. role:: blue
+.. role:: wtonbl
+.. role:: headr2
+.. role:: sampleb
+.. role:: sampleu
 
 .. _title_html_editorials:
 
