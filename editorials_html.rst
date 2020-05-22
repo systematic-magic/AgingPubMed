@@ -273,7 +273,7 @@ and followed by:
 
 10. Section Headers
 ------------------
-.. _start_of_check:
+.. _start_of_check_pdf_editorials:
 
 Section headers should comply with below mentioned requirements in respect to order, letter case, colour and spelling. Also, no variations (except for alternatives explicitly mentioned in these standards) are allowed. For example, standards have "Author Contributions" section with no alternatives specified, which means that all other variations (like "Authors' Contributions, Author Contribution, Contribution of Author, etc") are not allowed.
 
@@ -324,8 +324,8 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 
 | NAVIGATE TO:
-| :ref:`next check<next_check>`
-| :ref:`start of this check<start_of_check>`
+| :ref:`next check<next_check_pdf_editorials>`
+| :ref:`start of this check<start_of_check_pdf_editorials>`
 
 .. _reviews:
 
@@ -352,8 +352,8 @@ Also, if you notice that the order of the sections need to be changed (to comply
 		:wtonbl:`References` - mandatory - [title case, in white on blue background]
 
 | NAVIGATE TO:
-| :ref:`next check<next_check>`
-| :ref:`start of this check<start_of_check>`
+| :ref:`next check<next_check_pdf_editorials>`
+| :ref:`start of this check<start_of_check_pdf_editorials>`
 
 .. _editorials:
 
@@ -372,8 +372,8 @@ Also, if you notice that the order of the sections need to be changed (to comply
 		:wtonbl:`References` - mandatory - [title case, in white on blue background]
 
 | NAVIGATE TO:
-| :ref:`next check<next_check>`
-| :ref:`start of this check<start_of_check>`
+| :ref:`next check<next_check_pdf_editorials>`
+| :ref:`start of this check<start_of_check_pdf_editorials>`
 
 .. _research_perspectives:
 
@@ -397,7 +397,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 		:wtonbl:`References` - mandatory - [title case, in white on blue background]
 
-.. _next_check:
+.. _next_check_pdf_editorials:
 
 10.2. Check the format of all subsection headers in the article:
 	
