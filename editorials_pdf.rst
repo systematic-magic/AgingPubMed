@@ -1,6 +1,6 @@
 .. role:: sample
 
-.. _title_editorials_news:
+.. _title_pdf_editorials:
 
 PDF: Editorials and News only
 =============================
@@ -25,7 +25,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
    :alt: Title
 
 |
-.. _author_list_editorials_news:
+.. _author_list_pdf_editorials:
 
 2. Author list
 --------------
@@ -46,7 +46,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 
 
 |
-.. _references_editorials_news:
+.. _references_pdf_editorials:
 
 3. References
 -------------
@@ -111,7 +111,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 
 
 |
-.. _corresp_author_editorials_news:
+.. _corresp_author_pdf_editorials:
 
 4. Corresponding author and affiliations
 ----------------------------------------
@@ -139,7 +139,7 @@ Corresponding author and affiliations can be found at the end of the article rig
    :alt: Corresponding author and affiliations
 
 |
-.. _correspondence_editorials_news:
+.. _correspondence_pdf_editorials:
 
 5. Correspondence
 -----------------
@@ -161,7 +161,7 @@ Corresponding author and affiliations can be found at the end of the article rig
    :alt: Correspondence
 
 |
-.. _email_editorials_news:
+.. _email_pdf_editorials:
 
 6. Email
 --------
@@ -183,7 +183,7 @@ Corresponding author and affiliations can be found at the end of the article rig
    :alt: Email
 
 |
-.. _keywords_editorials_news:
+.. _keywords_pdf_editorials:
 
 7. Keywords
 -----------
@@ -204,7 +204,7 @@ Corresponding author and affiliations can be found at the end of the article rig
    :alt: Keywords
 
 |
-.. _copyright_editorials_news:
+.. _copyright_pdf_editorials:
 
 8. Copyright
 ------------
@@ -236,7 +236,7 @@ Corresponding author and affiliations can be found at the end of the article rig
    :alt: Copyright
 
 |
-.. _dates_editorials_news:
+.. _dates_pdf_editorials:
 
 9. Dates
 --------
