@@ -362,26 +362,6 @@ Also, if you notice that the order of the sections need to be changed (to comply
 | :ref:`next check<next_check_html_research_papers>`
 | :ref:`start of this check<start_of_check_html_research_papers>`
 
-.. _html_research_papers_editorials:
-
-	- **Editorials**
-
-		Editorials usually do not have any sections except:
-
-		:wtonbl:`Abbreviations` - optional - [title case, in white on blue background]
-
-		:wtonbl:`Acknowledgments` - optional - [title case, in white on blue background]
-
-		:wtonbl:`Conflicts of Interest` - optional - [title case, in white on blue background]
-
-		:wtonbl:`Funding` - optional - [title case, in white on blue background]
-
-		:wtonbl:`References` - mandatory - [title case, in white on blue background]
-
-| NAVIGATE TO:
-| :ref:`next check<next_check_html_research_papers>`
-| :ref:`start of this check<start_of_check_html_research_papers>`
-
 .. _html_research_papers_research_perspectives:
 
 	- **Research Perspectives**
