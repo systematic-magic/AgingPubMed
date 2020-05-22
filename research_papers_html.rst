@@ -2,11 +2,10 @@
 .. role:: blue
 .. role:: wtonbl
 .. role:: headr2
-.. role:: red
 .. role:: sampleb
 .. role:: sampleu
 
-.. _title_research_papers:
+.. _title_html_research_papers:
 
 HTML: All Papers (except Editorials)
 ====================================
@@ -30,7 +29,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 1.6. Check that species and gene names are written in italics.
 
 |
-.. _author_list_research_papers:
+.. _author_list_html_research_papers:
 
 2. Author List
 --------------
@@ -98,7 +97,7 @@ If there is only one affiliation text for all authors, then each author name sho
 
 
 |
-.. _affiliations_research_papers:          
+.. _affiliations_html_research_papers:          
 
 3. Affiliations
 ---------------
@@ -175,7 +174,7 @@ If there are several author notes, then each note should have **different** symb
 	:scale: 99%
 
 |
-.. _correspondece_research_papers:
+.. _correspondece_html_research_papers:
 
 5. Correspondence
 -----------------
@@ -203,7 +202,7 @@ If there are several author notes, then each note should have **different** symb
    :alt: Correspondence author match
 
 |
-.. _keywords_research_papers:
+.. _keywords_html_research_papers:
 
 6. Keywords
 -----------
@@ -219,17 +218,17 @@ If there are several author notes, then each note should have **different** symb
    	  	:scale: 99%
 
 |
-.. _abbreviations_research_papers:
+.. _abbreviations_html_research_papers:
 
 7. Abbreviations
 ----------------
 
 Abbreviations are optional.
 
-7.1. Abbreviations should not appear in the Abstract section and should only appear in the final sections as is noted in :ref:`Section Headers<section_headers_research_papers>`.
+7.1. Abbreviations should not appear in the Abstract section and should only appear in the final sections as is noted in :ref:`Section Headers<section_headers_html_research_papers>`.
 
 |
-.. _dates_research_papers:
+.. _dates_html_research_papers:
 
 8. Dates
 --------
@@ -252,7 +251,7 @@ Abbreviations are optional.
 .. note:: Pay attention to years.
 
 |
-.. _copyright_research_papers:
+.. _copyright_html_research_papers:
 
 9. Copyright
 ------------
@@ -277,7 +276,7 @@ and followed by:
 9.3. Check that Last name of first author matches last name of the first author in the Author List. In case of 2 authors, check that last names match names in the Author List.
 
 |
-.. _section_headers_research_papers:
+.. _section_headers_html_research_papers:
 
 10. Section Headers
 ------------------
@@ -293,12 +292,12 @@ Also, if you notice that the order of the sections need to be changed (to comply
 10.1. Check that article has the following sections in the following order:
 
 | NAVIGATE TO:
-|	:ref:`Research Papers<research_papers>`
-|	:ref:`Reviews<reviews>`
-|	:ref:`Editorials<editorials>`
-|	:ref:`Research Perspectives<research_perspectives>`
+|	:ref:`Research Papers<html_research_papers_research_papers>`
+|	:ref:`Reviews<html_research_papers_reviews>`
+|	:ref:`Editorials<html_research_papers_editorials>`
+|	:ref:`Research Perspectives<html_research_papers_research_perspectives>`
 
-.. _research_papers:
+.. _html_research_papers_research_papers:
 
 	- **Research Papers**
 
@@ -335,7 +334,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 | :ref:`next check<next_check_html_research_papers>`
 | :ref:`start of this check<start_of_check_html_research_papers>`
 
-.. _reviews:
+.. _html_research_papers_reviews:
 
 	- **Reviews**
 
@@ -363,7 +362,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 | :ref:`next check<next_check_html_research_papers>`
 | :ref:`start of this check<start_of_check_html_research_papers>`
 
-.. _editorials:
+.. _html_research_papers_editorials:
 
 	- **Editorials**
 
@@ -383,7 +382,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 | :ref:`next check<next_check_html_research_papers>`
 | :ref:`start of this check<start_of_check_html_research_papers>`
 
-.. _research_perspectives:
+.. _html_research_papers_research_perspectives:
 
 	- **Research Perspectives**
 		
@@ -436,7 +435,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 	:scale: 99%
 
 |
-.. _text_research_papers:
+.. _text_html_research_papers:
 
 11. Text
 --------
@@ -456,7 +455,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 	- Check that all website addresses lead to valid page.
 
 |
-.. _figures_research_papers:
+.. _figures_html_research_papers:
 
 12. Figures
 ------------
@@ -591,7 +590,7 @@ If you see that there are gaps in number sequence, then check with corresponding
    	  	:scale: 50%
 
 |
-.. _tables_research_papers:
+.. _tables_html_research_papers:
 
 13. Tables
 ----------
@@ -667,7 +666,7 @@ If you see that there are gaps in number sequence, then check with corresponding
 	If one or more callouts are missing or are being called out of linear order in the text, please contact author.
 
 |
-.. _reference_callouts_research_papers:
+.. _reference_callouts_html_research_papers:
 
 14. Reference Callouts
 ----------------------
@@ -706,12 +705,12 @@ Callouts can be found in text, figures and tables.
 
 
 |
-.. _references_research_papers:
+.. _references_html_research_papers:
 
 15. References
 --------------
 
-.. _refs_author_list_research_papers:
+.. _refs_author_list_html_research_papers:
 
 15.1. Author List
 ^^^^^^^^^^^^^^^^
@@ -763,7 +762,7 @@ Callouts can be found in text, figures and tables.
    :alt: Group Authorship
 
 |
-.. _reference_title_research_papers:
+.. _reference_title_html_research_papers:
 
 15.2. Reference Title
 ^^^^^^^^^^^^^^^^^^^^
@@ -773,7 +772,7 @@ Callouts can be found in text, figures and tables.
 15.2.2. Check that title is followed by a period (.). There should be a space after period.
 
 |
-.. _citation_data_in_house_research_papers:
+.. _citation_data_in_house_html_research_papers:
 
 15.3. Citation-Data (in-house)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -824,7 +823,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
    :alt: Ahead of Print
 
 |
-.. _citation_data_other_journals_research_papers:
+.. _citation_data_other_journals_html_research_papers:
 
 15.4. Citation-Data (other journals)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -868,7 +867,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
    :alt: Ahead of Print
 
 |
-.. _general_checks_research_papers:
+.. _general_checks_html_research_papers:
 
 15.5. General Checks
 ^^^^^^^^^^^^^^^^^^^
@@ -899,7 +898,7 @@ If you find duplicate references, please contact author and ask to correct the r
 
 
 |
-.. _websites_research_papers:
+.. _websites_html_research_papers:
 
 15.6. Websites
 ^^^^^^^^^^^^
@@ -912,14 +911,14 @@ If the link is not valid, please contact author to provide a working link.
 
 
 |
-.. _books_research_papers:
+.. _books_html_research_papers:
 
 15.7. Books and Reports
 ^^^^^^^^^^^^^^^^^^^^^
 
 15.7.1. There is no standard for books and reports. However at least "Title, Year, (Author name for book references)" should be there. 
 
-.. _supplementary_research_papers:
+.. _supplementary_html_research_papers:
 
 
 16. Supplementary Materials
@@ -1066,7 +1065,7 @@ Figures will most often be kept in one PDF. Occasionally, unusually large figure
 16.4. Figures
 ^^^^^^^^^^^^^
 
-16.4.1. HTML :ref:`Figures checks from 12.1. to 12.4<figures_research_papers>` (inclusive) are applicable to supplementary figures with one exclusion: instead of **Figure N**, figure legends should be named as **Supplementary Figure N**.
+16.4.1. HTML :ref:`Figures checks from 12.1. to 12.4<figures_html_research_papers>` (inclusive) are applicable to supplementary figures with one exclusion: instead of **Figure N**, figure legends should be named as **Supplementary Figure N**.
 
 .. image:: /_static/suppl_fig_name.png
    :alt: Supplementary figure name
@@ -1074,7 +1073,7 @@ Figures will most often be kept in one PDF. Occasionally, unusually large figure
 
 16.4.2. Check supplementary figure callouts in the supplementary materials:
 
-	- HTML :ref:`Figures checks from 12.5<figures_research_papers>` (inclusive) are applicable to supplementary figure callouts with one exclusion: instead of **Figure N**, callouts should appear as **Supplementary Figure N**.
+	- HTML :ref:`Figures checks from 12.5<figures_html_research_papers>` (inclusive) are applicable to supplementary figure callouts with one exclusion: instead of **Figure N**, callouts should appear as **Supplementary Figure N**.
 
 .. image:: /_static/suppl_fig_callouts.png
    :alt: Supplementary figure callouts
@@ -1089,7 +1088,7 @@ Figures will most often be kept in one PDF. Occasionally, unusually large figure
 	For large tables handling instructions, check :ref:`here<large_tables_check>`.
 
 
-16.5.1. HTML :ref:`Tables checks from 13.1. to 13.5<tables_research_papers>` (inclusive) are applicable to supplementary tables with one exclusion: instead of **Table N**, tables should be named as **Supplementary Table N**.
+16.5.1. HTML :ref:`Tables checks from 13.1. to 13.5<tables_html_research_papers>` (inclusive) are applicable to supplementary tables with one exclusion: instead of **Table N**, tables should be named as **Supplementary Table N**.
 
 .. image:: /_static/suppl_table_name.png
    :alt: Supplementary table name
@@ -1097,7 +1096,7 @@ Figures will most often be kept in one PDF. Occasionally, unusually large figure
 
 16.5.2. Check supplementary table callouts in the article text:
 
-	- HTML :ref:`Tables checks from 13.6<tables_research_papers>` (inclusive) are applicable to supplementary table callouts with one exclusion: instead of **Table N**, callouts should appear as **Supplementary Table N**.
+	- HTML :ref:`Tables checks from 13.6<tables_html_research_papers>` (inclusive) are applicable to supplementary table callouts with one exclusion: instead of **Table N**, callouts should appear as **Supplementary Table N**.
 
 .. image:: /_static/suppl_table_callouts.png
    :alt: Supplementary table callouts
