@@ -497,7 +497,7 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 If table is hard to read, please contact Production team and ask to increase font size.
 
-.. _table_title_check:
+.. _table_title_check_html_editorials:
 
 13.2. Check table title:
 
@@ -1029,7 +1029,7 @@ Tables which fit into 2 pages are "normal tables" and should be published as PDF
 
 - If conversion to Excel (.xlsx) is **not** feasible, then such large table is to be published as a separate Word (.docx) supplementary file.
 
-16.7.3. Check that tables in Excel or Word format have table number and header compliant to HTML :ref:`Tables check 13.2.<table_title_check>`
+16.7.3. Check that tables in Excel or Word format have table number and header compliant to HTML :ref:`Tables check 13.2.<table_title_check_html_editorials>`
 
 .. image:: /_static/suppl_xl_table.png
    :alt: Supplementary table
