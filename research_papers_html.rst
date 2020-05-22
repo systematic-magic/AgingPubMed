@@ -294,7 +294,6 @@ Also, if you notice that the order of the sections need to be changed (to comply
 | NAVIGATE TO:
 |	:ref:`Research Papers<html_research_papers_research_papers>`
 |	:ref:`Reviews<html_research_papers_reviews>`
-|	:ref:`Editorials<html_research_papers_editorials>`
 |	:ref:`Research Perspectives<html_research_papers_research_perspectives>`
 
 .. _html_research_papers_research_papers:
