@@ -155,7 +155,7 @@ source are credited.`
    :scale: 99%
    :alt: PDF Section headers format
 
-	- Abbreviations section is an exception. It should be formatted title case and in blue and bold font.
+- Abbreviations section is an exception. It should be formatted title case and in blue and bold font.
 
 .. image:: /_static/pdf_abbreviations_header.png
    :scale: 99%
