@@ -110,7 +110,7 @@ If there is only one affiliation text for all authors, then each author name sho
 
 3.4. Check that country and city names are NOT written in ALL CAPS (capital letters).
 
-3.5. China affiliations: zip code is allowed for both city and county/district. If zip code is present, it must be positioned after city/county/district and there must be no comma between city/county/district and zip code. Zip code is optional for any of the elements (city/county/district).
+3.5. Chinese affiliations: zip code is allowed for both city and county/district. If zip code is present, it must be positioned after city/county/district and there must be no comma between city/county/district and zip code. Zip code is optional for any of the elements (city/county/district).
 
 .. image:: /_static/aff_text_zip_china.png
    :alt: No comma between city/county/district and zip code
@@ -123,7 +123,7 @@ If there is only one affiliation text for all authors, then each author name sho
    :alt: No comma between zip code and state (US) / city (non-US)
 
 3.8. Check that each affiliation number has only one complete affiliation. One affiliation – one number. |br|
-One exclusion: affiliations of Chinese authors, where Key Laboratory combines different institutions. In that case one number can contains two affiliations.
+One exclusion: affiliations of Chinese authors, where Key Laboratory combines different institutions. In that case one number can contain two affiliations.
 
 3.9. Occasionally affiliations can contain “Current/Present address:” title. If it is present, check that it has a separate affiliation number and that is followed by colon (:). |br| One address - one affiliation number. 
 	
