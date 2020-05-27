@@ -639,9 +639,7 @@ Callouts can be found in text, figures and tables.
 15.2. Reference Title
 ^^^^^^^^^^^^^^^^^^^^
 
-15.2.1. Title can be written in Sentence case, Title case or in ALL CAPS. All these formats are allowed. Format of title is allowed to be inconsistent accross all references in the article.
-
-15.2.2. Check that title is followed by a period (.). There should be a space after period.
+15.2.1. Reference title should not be present.
 
 |
 .. _citation_data_in_house_html_editorials:
