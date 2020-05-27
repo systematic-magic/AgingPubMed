@@ -125,7 +125,7 @@ If there is only one affiliation text for all authors, then each author name sho
 3.8. Check that each affiliation number has only one complete affiliation. One affiliation – one number. |br|
 One exclusion: affiliations of Chinese authors, where Key Laboratory combines different institutions. In that case one number can contain two affiliations.
 
-3.9. Occasionally affiliations can contain “Current/Present address:” title. If it is present, check that it has a separate affiliation number and that is followed by colon (:). |br| One address - one affiliation number. 
+3.9. Occasionally affiliations can contain “Current/Present address:” title. If it is present, check that it has a separate affiliation number and that the title is followed by colon (:). |br| One address - one affiliation number. 
 	
 All acceptable combinations of “Current/Present address” are depicted on the screenshot below: 
 
