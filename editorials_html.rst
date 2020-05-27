@@ -631,6 +631,7 @@ Callouts can be found in text, figures and tables.
 
 .. image:: /_static/html_editorials_ref_auth.png
    :alt: Max number of authors
+   :scale: 99%
 
 |
 .. _reference_title_html_editorials:
