@@ -623,41 +623,14 @@ Callouts can be found in text, figures and tables.
 
 15.1.3. Check all the mononyms (names which have no initials) to be “true” mononyms (check PubMed site).
 
-15.1.4. Check that List of Authors contains no more than either:
+15.1.4. Check that List of Authors contains either of the following:
 
-- 13 authors followed by “et al.”  OR
+- One author name followed by comma (,) and “et al.”
 
-- 14 authors
+- Two author names divided by comma (,) and followed by dot (.)
 
-.. image:: /_static/html_pic10_author_number.png
+.. image:: /_static/html_editorials_ref_auth.png
    :alt: Max number of authors
-
-
-.. image:: /_static/html_pic11_author_etal_number.png
-   :alt: Max number of authors followed by et al
-
-15.1.5. Check that authors are separated by comma (,) followed by space.
-
-15.1.6. Check that et al is separated from List of Authors by comma (,).
-
-15.1.7. Check that there is a period (.) either after the last author name (if there are less or equal to 14 authors), or after et al (if there are exactly 13 authors + et al), or after Group Authorship (if present).
-
-15.1.8. List of Authors can contain :ref:`Group Authorship<group_authorship>` (see screenshot below). Check that Group Authorship is positioned at the end of List of Authors. Other positions are not allowed.
-
-15.1.9. Group Authorship must be separated from author list by comma (,) and "and" word. Group Authorship is not counted against total number of authors in the author list quota.
-
-
-.. image:: /_static/ref_etal_group_auth.png
-   :alt: Group Authorship
-
-.. image:: /_static/ref_no_etal_group_auth.png
-   :alt: Group Authorship
-
-
-15.1.10. If there are multiple Group Authorships, then those should be separated by comma (,) and "and" word. 
-
-.. image:: /_static/ref_mult_group_auth.png
-   :alt: Group Authorship
 
 |
 .. _reference_title_html_editorials:
