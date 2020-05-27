@@ -663,10 +663,10 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 
 	This is the only acceptable spelling. No variations are allowed.
 
-15.3.2.Check that journal citation-data has the following elements in this order: |br|
+15.3.2. Check that journal citation-data has the following elements in this order: |br|
 |span_format_start| JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
 
-.. image:: /_static/citation_data_inhouse.png
+.. image:: /_static/html_editorial_citation_data_inhouse.png
    :alt: Citation-Data format
 
 - Journal title should be followed by period (.) There should be a space after period.
@@ -689,7 +689,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 - Check that “[Epub ahead of print]” appears after year and before DOI.
 - If you come across an Epub reference, be sure to verify whether publishing information has since been released. If publishing information is available, then please add vol, pg numbers, etc. and format as directed above in section 15.3.2.
 
-.. image:: /_static/ref_ahead_of_print.png
+.. image:: /_static/html_editorials_ref_ahead_of_print.png
    :alt: Ahead of Print
 
 |
@@ -708,7 +708,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 15.4.1. Check that journal citation-data has the following elements in this order: |br|
 |span_format_start| JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
 
-.. image:: /_static/citation_data.png
+.. image:: /_static/html_editorial_citation_data.png
    :alt: Citation-Data format
 
 - Journal title should be followed by period (.) There should be a space after period.
@@ -733,7 +733,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 - Check that “[Epub ahead of print]” appears after year and before DOI.
 - If you come across an Epub reference, be sure to verify whether publishing information has since been released. If publishing information is available, then please add vol, pg numbers, etc. and format as directed above in section 15.4.1.
 
-.. image:: /_static/ref_ahead_of_print.png
+.. image:: /_static/html_editorials_ref_ahead_of_print.png
    :alt: Ahead of Print
 
 |
@@ -746,25 +746,17 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 
 If you find duplicate references, please contact author and ask to correct the reference list along with renumbering reference call-outs.
 
-15.5.2. Check for references translated into English from another language (usually you can spot those by keywords: translation, translated from, in Chinese, in French etc). Those references should comply to the following format:
+15.5.2. Check for references containing journal title in English and original language (e.g. "International journal of cancer" and "Journal international du cancer"). Remove title in original language and leave English version. If there is just a "foreign language" version present, it is OK to leave that version (no need to find English one). Consult PubMed if in doubt of the correct journal name.
 
-   | :sample:`Author list. [Title of the article]. Journal Name. 1072; 1: 1-2.` (doi, if available) (PubMed link, if available)
-   |
-   | `Example:`
-   | 34. Yang XM, Yang H. [Expression of high mobility group box-1 in the lung tissue and serum of patients with pulmonary tuberculosis]. Zhonghua Jie He He Hu Xi Za Zhi. 2013; 36:497-500.
-
-
-15.5.3. Check for references containing journal title in English and original language (e.g. "International journal of cancer" and "Journal international du cancer"). Remove title in original language and leave English version. If there is just a "foreign language" version present, it is OK to leave that version (no need to find English one). Consult PubMed if in doubt of the correct journal name.
-
-15.5.4. Check for extra information in the references (i.e. in addition to "standard" information). Remove all extra information.
+15.5.3. Check for extra information in the references (i.e. in addition to "standard" information). Remove all extra information.
    
    | `Example:`
    | ":official publication of the society of…"
 
 
-15.5.5. Remove any instances of “[Internet]”, "[pii]" Accessed dates (ex: “Accessed November 6, 2017.”) and empty (blank) doi.
+15.5.4. Remove any instances of “[Internet]”, "[pii]" Accessed dates (ex: “Accessed November 6, 2017.”) and empty (blank) doi.
 
-15.5.6. Remove “PMID” and “PMCID” details, if present in any reference.
+15.5.5. Remove “PMID” and “PMCID” details, if present in any reference.
 
 
 |
