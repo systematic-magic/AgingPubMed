@@ -666,7 +666,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 15.3.2. Check that journal citation-data has the following elements in this order: |br|
 |span_format_start| JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
 
-.. image:: /_static/html_editorial_citation_data_inhouse.png
+.. image:: /_static/html_editorials_citation_data_inhouse.png
    :alt: Citation-Data format
 
 - Journal title should be followed by period (.) There should be a space after period.
