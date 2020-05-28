@@ -897,6 +897,7 @@ If the link is not valid, please contact author to provide a working link.
 
 15.7.1. There is no standard for books and reports. However at least "Title, Year, (Author name for book references)" should be there. 
 
+|
 .. _supplementary_html_research_papers:
 
 
