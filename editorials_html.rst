@@ -360,7 +360,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 12.1. Check that figure image has text and graphics which are clear and large enough to read (i.e. image text is not smaller than article text itself).
 
-If image is hard to read, please contact Production team and asfk to provide clearer images. If Production team does not have better images, then contact corresponding author.
+If image is hard to read, please contact Production team and ask to provide clearer images. If Production team does not have better images, then contact corresponding author.
 
 12.2. Check whether figures have :ref:`panel letters<figure_pannel>`. Both lower case and upper case :ref:`panel letters<figure_pannel>` are allowed. However, they should be used consistently: either all figures have lower case :ref:`panel letters<figure_pannel>` or all have upper case letters. Mix of formats is not allowed.
 
