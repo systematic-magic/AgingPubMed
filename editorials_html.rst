@@ -619,7 +619,7 @@ Callouts can be found in text, figures and tables.
 
 .. Note::
 	
-	Maximum allowed number of references is 8. Please check all deviations with Olga at kurenova@impactaging.com while copying PubMed team manager. |br|
+	Maximum allowed number of references is 8. Please check all deviations with Olga at krasnova@impactaging.com while copying PubMed team manager. |br|
 
 .. _refs_author_list_html_editorials:
 
