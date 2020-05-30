@@ -100,6 +100,8 @@ No PDF-specific checks
 
 7.3. Check that “Abbreviations:” is in black and bold font.
 
+7.4. Check that there is no punctuation mark at the end of the abbreviations line.
+
 .. image:: /_static/html_abbreviations.png
 	:alt: Abbreviations
 	:scale: 99%
