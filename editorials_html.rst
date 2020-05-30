@@ -367,6 +367,10 @@ Also, if you notice that the order of the sections need to be changed (to comply
 12. Figures
 ------------
 
+.. Note::
+	
+	Only one figure should be used for editorials. Please check all deviations with Olga at krasnova@impactaging.com while copying PubMed team manager. |br|
+
 12.1. Check that figure image has text and graphics which are clear and large enough to read (i.e. image text is not smaller than article text itself).
 
 If image is hard to read, please contact Production team and ask to provide clearer images. If Production team does not have better images, then contact corresponding author.
@@ -502,75 +506,7 @@ If you see that there are gaps in number sequence, then check with corresponding
 13. Tables
 ----------
 
-13.1.  Check that table font size is large enough to read.
-
-If table is hard to read, please contact Production team and ask to increase font size.
-
-.. _table_title_check_html_editorials:
-
-13.2. Check table title:
-
-	- Check that there is a title above the table.
-
-	- Check that title has table number:
-
-	| :sampleb:`Table N.` (where “N” is a number of the table)
-
-	In rare cases table number can contain a letter:
-
-	| :sampleb:`Table 1A.` (where Table 1A and 1B, 1C etc are separate tables)
-
-	- Check that number is followed by period (.).
-
-	- Check that table number is followed by table title. Table title should be a single sentence. It is not allowed to have more than 1 sentence as a table title.
-
-	| :sampleb:`Table 2. Table title in sentence case.`
-
-	.. image:: /_static/html_table_title.png
-   	  	:alt: Table title
-   	  	:scale: 99%
-	|
-	- Check that title has period (.) at the end.
-
-	- Check that title is written in :ref:`sentence case<sentence_case>` and coloured in black.
-
-13.3. Check that table-related additional information is presented below the table as a note in :ref:`plain text<plain_text>`.
-
-.. image:: /_static/html_table_notes.png
-	:alt: Table notes
-	:scale: 99%
-
-13.4. Check that table font, title font and notes (additional information) fonts are used consistently within the article (i.e. font should not vary from table to table).
-
-13.5. Check table numbers. Tables should be numbered continuously, so there are no gaps in the sequence. In other words, there should be no situation when there are tables 1, 3 and 4 in the article, but table 2 is missing.
-
-At the same time, upon authors request, tables can appear in the text in any order. E.g. table 2 before table 1 is OK.
-
-If you see that there are gaps in number sequence, then check with corresponding author whether some tables are missing or whether it is possible to re-number the tables to eliminate the gaps.
-
-13.6. Check table callouts in the text:
-
-	- Check the format of table callouts:
-
-	| :sampleu:`Table 1` (or in rare cases :sampleu:`Table 1A`)
-	|
-	| `Examples:`
-	| :sampleu:`Table 1`
-	| :sampleu:`Table 2A`
-	| :sampleu:`Tables 1` :sample:`and` :sampleu:`2` (note that there is an "s" at the end of "Table" word)
-	| :sampleu:`Tables 3A` :sample:`and` :sampleu:`3B` (where 3A and 3B are separate tables)
-
-	.. image:: /_static/html_table_callouts.png
-		:alt: Table callouts
-		:scale: 99%
-	|
-	- Check that word "Table" (or "Tables") as well as number (and letter) are hyperlinked.
-
-	- Check that each table has at least 1 callout in the text.
-
-	- Check that table callouts appear in linear order throughout the manuscript. 1, 2, 3 and so on. Once a table has initially been called out, it can be called out again in any order. For example, 1, 2, 3, 1, 2, 4 is OK.
-
-	If one or more callouts are missing or are being called out of linear order in the text, please contact author.
+Tables are not used for editorials. Please check all deviations with Olga at krasnova@impactaging.com while copying PubMed team manager.
 
 |
 .. _reference_callouts_html_editorials:
