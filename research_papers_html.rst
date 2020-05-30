@@ -227,6 +227,15 @@ Abbreviations are optional.
 
 7.1. Abbreviations should not appear in the Abstract section and should only appear in the final sections as is noted in :ref:`Section Headers<section_headers_html_research_papers>`.
 
+7.2. Check the format of the abbreviations line:
+
+	|	:sample:`ABRVTN: expanded text; ABRVTN: expanded text`
+
+
+	- Check that abbreviation part is separated from expanded part by a colon (:). No other separators allowed.
+
+	- Check that abbreviation pairs (i.e. abbreviation and corresponding expanded text) are separated from each other by semicolons (;). No other separators allowed.
+
 |
 .. _dates_html_research_papers:
 
