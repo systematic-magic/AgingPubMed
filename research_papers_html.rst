@@ -106,7 +106,7 @@ If there is only one affiliation text for all authors, then each author name sho
 
 3.2. Check that there are NO street addresses and house numbers included in affiliation.
 
-3.3. Check that country and city names are present in affiliation.
+3.3. Check that country and city names are present in affiliation. State is also required in U.S. affiliations.
 
 3.4. Check that country and city names are NOT written in ALL CAPS (capital letters).
 
