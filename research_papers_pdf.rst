@@ -93,7 +93,16 @@ No PDF-specific checks
 
 7. Abbreviations
 ---------------
-No PDF-specific checks
+
+7.1. Abbreviations should be kept underneath keywords in the abstract section when there are 5 or less present. Please note that this is only applicable to the PDF, and Abbreviations are always kept in the final sections for HTML.
+
+7.2. Check that abbreviations section has a title “Abbreviations:”. It should start with capital letter and be followed by colon (:).
+
+7.3. Check that “Abbreviations:” is in black and bold font.
+
+.. image:: /_static/html_abbreviations.png
+	:alt: Abbreviations
+	:scale: 99%
 
 `+ HTML checks`
 
