@@ -245,7 +245,7 @@ source are credited.`
 |
 .. _refs_author_list_pdf_research_papers:
 
-15.1 Author List
+15.1. Author List
 ^^^^^^^^^^^^^^^^
 No PDF-specific checks
 
@@ -254,7 +254,7 @@ No PDF-specific checks
 |
 .. _reference_title_pdf_research_papers:
 
-15.2 Reference Title
+15.2. Reference Title
 ^^^^^^^^^^^^^^^^^^^^
 No PDF-specific checks
 
@@ -299,7 +299,7 @@ No PDF-specific checks
 |
 .. _general_checks_pdf_research_papers:
 
-15.5 General Checks
+15.5. General Checks
 ^^^^^^^^^^^^^^^^^^^
 No PDF-specific checks
 
@@ -309,7 +309,7 @@ No PDF-specific checks
 |
 .. _websites_pdf_research_papers:
 
-15.6 Websites
+15.6. Websites
 ^^^^^^^^^^^^^
 No PDF-specific checks
 
@@ -318,7 +318,7 @@ No PDF-specific checks
 |
 .. _books_pdf_research_papers:
 
-15.7 Books and Reports
+15.7. Books and Reports
 ^^^^^^^^^^^^^^^^^^^^^^
 No PDF-specific checks
 
