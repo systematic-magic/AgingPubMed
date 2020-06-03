@@ -313,34 +313,6 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 		:wtonbl:`References` - mandatory - [title case, in white on blue background]
 
-10.2. Check the format of all subsection headers in the article:
-	
-	- Check that **all** subsection headers in the article are written in :ref:`sentence case<sentence_case>`.
-
-	- Check that subsection headers are formatted in bold and coloured in :headr2:`black`. 
-
-	- Check that there is **no** underlining or italics (except for Latin terms and gene names) in the headers.
-
-	- Check that there is no period (.) at the end of the subsection header.
-
-.. image:: /_static/html_subsection_header.png
-	:alt: Subsection headers
-	:scale: 99%
-
-10.3. Check the format of all subsubsection headers in the article:
-
-	- Check that **all** subsubsection headers in the article are written in :ref:`sentence case<sentence_case>`.
-
-	- Check that subsubsection headers are formatted in *italics*, bold and coloured in :headr2:`black`.
-
-	- Check that there is **no** underlining in the headers.
-
-	- Check that there is no period (.) at the end of the subsubsection header.
-
-.. image:: /_static/html_subsubsection_header.png
-	:alt: Subsubsection headers
-	:scale: 99%
-
 |
 .. _text_html_editorials:
 
