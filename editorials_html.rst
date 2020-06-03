@@ -137,19 +137,6 @@ All acceptable combinations of “Current/Present address” are depicted on the
 .. image:: /_static/aff_parts.png
    :alt: Affiliation format
 
-3.11. Check that first word of Author Notes starts with a capital letter.
-
-3.12. Check that Author Notes are preceded by a symbol (or group of symbols). |br|
-Most used symbols are: \*, #, †
-
-.. image:: /_static/aff_auth_note.png
-   :alt: Author Notes
-
-3.13. Check that Author Notes symbol is linked to author(s) in the author list. 
-
-.. image:: /_static/aff_auth_note_symbol.png
-   :alt: Author Notes Symbol
-
 |
 .. _correspondece_html_editorials:
 
