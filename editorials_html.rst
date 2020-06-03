@@ -34,9 +34,11 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 2. Author list
 --------------
 
-2.1. Check that all author names in author list are separated by commas (,). No other separators allowed.
+2.1. The number of authors is limited to three.
 
-2.2. Check that there is no period (or any other punctuation mark) after the last author name.
+2.2. Check that all author names in author list are separated by commas (,). No other separators allowed.
+
+2.3. Check that there is no period (or any other punctuation mark) after the last author name.
 
 .. image:: /_static/html_author_list_separ.png
    :alt: Author list separators
