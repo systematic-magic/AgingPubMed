@@ -678,7 +678,7 @@ If the link is not valid, please contact author to provide a working link.
 14.7. Books and Reports
 ^^^^^^^^^^^^^^^^^^^^^
 
-14.7.1. There is no standard for books and reports. However at least "Title, Year, (Author name for book references)" should be there. 
+14.7.1. There is no standard for books and reports. However, author name, year, publisher and page numbers should be present, where applicable.
 
 |
 
