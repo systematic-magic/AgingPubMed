@@ -172,6 +172,9 @@ source are credited.`
    :scale: 99%
    :alt: PDF Abbreviations header format
 
+- Free-style main sections in reviews are an exception. These should be formatted in sentence case and blue font.
+
+
 `+ HTML checks`
 
 |
