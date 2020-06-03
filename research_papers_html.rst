@@ -137,19 +137,6 @@ All acceptable combinations of “Current/Present address” are depicted on the
 .. image:: /_static/aff_parts.png
    :alt: Affiliation format
 
-3.11. Check that first word of Author Notes starts with a capital letter.
-
-3.12. Check that Author Notes are preceded by a symbol (or group of symbols). |br|
-Most used symbols are: \*, #, †
-
-.. image:: /_static/aff_auth_note.png
-   :alt: Author Notes
-
-3.13. Check that Author Notes symbol is linked to author(s) in the author list. 
-
-.. image:: /_static/aff_auth_note_symbol.png
-   :alt: Author Notes Symbol
-
 |
 .. _author_notes:
 
@@ -158,16 +145,18 @@ Most used symbols are: \*, #, †
 
 Author notes are optional. Article can have several or no author notes.
 
-4.1. Check that author notes are denoted by symbol (no numbers allowed). It can be any symbol, but most often used are: \*, †, +, #, \**, \***.
+4.1. Check that first word of author notes starts with a capital letter.
+
+4.2. Check that author notes are denoted by symbol (no numbers allowed). It can be any symbol, but most often used are: \*, †, +, #, \**, \***.
 If there are several author notes, then each note should have **different** symbol.
 
-4.2. Check that author notes line is written in sentence case.
+4.3. Check that author notes line is written in sentence case.
 
-4.3. Check that there are no punctuation marks at the end of author notes line.
+4.4. Check that there are no punctuation marks at the end of author notes line.
 
-4.4. Check that author notes symbols are formatted in superscript.
+4.5. Check that author notes symbols are formatted in superscript.
 
-4.5. Check that author notes symbol is present next to author name(s).
+4.6. Check that author notes symbol is present next to author name(s).
 
 .. image:: /_static/html_author_notes.png
    	:alt: Author Notes
