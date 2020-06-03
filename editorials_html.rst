@@ -508,9 +508,7 @@ Callouts can be found in text, figures and tables.
 	
 	Maximum allowed number of references is 8. Please check all deviations with Olga at krasnova@impactaging.com while copying PubMed team manager. 
 
-Also, references in editorials do not have article title component.
-
-|br|
+Also, references in editorials do not have article title component.|br|
 
 .. _refs_author_list_html_editorials:
 
