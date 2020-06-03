@@ -351,7 +351,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 		:wtonbl:`Introduction` - optional - [title case, in white on blue background]
 
 
-		Reviews usually have free-style (research related) section headers. These headers can be formatted in sentence case and coloured in white on blue background.
+		Reviews usually have free-style (research related) section headers. These headers should be formatted in sentence case and can be coloured in white on blue background.
 
 
 		:wtonbl:`Abbreviations` - optional - [title case, in white on blue background]
