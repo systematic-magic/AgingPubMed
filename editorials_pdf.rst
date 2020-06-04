@@ -34,7 +34,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 
 2.2. Check that author names are written formatted in black and bold font. 
 
-2.3. Check that there is no punctuation mark at the end of aurhor list
+2.3. Check that there is no punctuation mark at the end of author list.
 
 2.4. Check that author names do not have affiliation numbers.
 
@@ -65,11 +65,11 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 4. Figures
 ----------
 
-4.1. HTML :ref:`Figures checks from 12.1. to 12.4<figures_html_editorials>` (inclusive) are the same for figures in the PDF.
+4.1. HTML :ref:`Figures checks from 11.1. to 11.4<figures_html_editorials>` (inclusive) are the same for figures in the PDF.
 
 4.2. Check figure callouts in text:
 
-	- HTML :ref:`Figures checks from 12.5<figures_html_editorials>` (inclusive) are the same for figure callouts in the PDF with one exclusion: Figure callouts are formatted in plain text and are not hyperlinked.
+	- HTML :ref:`Figures checks from 11.5<figures_html_editorials>` (inclusive) are the same for figure callouts in the PDF with one exclusion: Figure callouts are formatted in plain text and are not hyperlinked.
 
 .. image:: /_static/pdf_figure_callouts.png
    :alt: Figure callouts
@@ -81,15 +81,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 5. Tables
 ---------
 
-5.1. HTML :ref:`Tables checks from 13.1. to 13.5<tables_html_editorials>` (inclusive) are the same for tables in the PDF.
-
-5.2. Check table callouts in the text:
-
-	- HTML :ref:`Tables checks from 13.6<tables_html_editorials>` (inclusive) are the same for table callouts in the PDF with one exclusion: Table callouts are formatted in plain text and are not hyperlinked.
-
-.. image:: /_static/pdf_table_callouts.png
-   :alt: Table callouts
-   :scale: 99%
+5.1. HTML :ref:`Tables checks<tables_html_editorials>` (inclusive) are the same for tables in the PDF.
 
 |
 
@@ -113,8 +105,6 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 
 .. ATTENTION::
    	Font of the references differs from rest of the article. This is OK. 
-
-|
 
 |
 .. _refs_author_list_pdf_research_papers:
