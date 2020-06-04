@@ -236,7 +236,7 @@ Abbreviations are optional.
 8.2. Check that month is spelled out as a word and dates are in-line with the following format: Month Day, Year
 (e.g. June 1, 2017, April 12, 2016, December 31, 2015, etc.) Note: if a day is presented by single digit, there should be no leading 0.
 
-8.3. Check spelling of the month
+8.3. Check spelling of the month.
 
 .. image:: /_static/dates_format.png
    :alt: Dates format
