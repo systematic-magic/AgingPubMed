@@ -114,11 +114,9 @@ No PDF-specific checks
 8. Dates
 --------
 
-8.1. Check that Dates section has titles “Received:”, “Accepted:”, “Published:” (starts with capital letter and followed by colon (:))
+8.1. Check that “Received:”, “Accepted:”, “Published:” is in black and bold font.
 
-8.2. Check that “Received:”, “Accepted:”, “Published:” is in black and bold font
-
-8.3. Check that dates are separated by white space 
+8.2. Check that dates are separated by white space.
 
 .. image:: /_static/dates.png
    :alt: Dates
