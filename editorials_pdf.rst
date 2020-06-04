@@ -2,8 +2,8 @@
 
 .. _title_pdf_editorials:
 
-PDF: Editorials and News only
-=============================
+PDF: Editorials
+================
 
 
 1. Title
@@ -27,7 +27,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 |
 .. _author_list_pdf_editorials:
 
-2. Author list
+2. Author List
 --------------
 
 2.1. Check that author lists contains full names of authors divided by comma (,). If there are only 2 authors, then check that they are divided by "and" word.
@@ -44,96 +44,171 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 .. image:: /_static/editorial_authors.png
    :alt: Editorials Author format
 
+|
+.. _text_pdf_editorials:
+
+3. Text
+-------
+
+3.1. Check that font type and size is consistent throughout the body of the article.
+
+3.2. Check all website addresses in article text:
+
+	- Check that all website addresses are hyperlinked in blue color and underlined font.
+
+	- Check that all website addresses lead to valid page.
+
 
 |
+.. _figures_pdf_editorials:
+
+4. Figures
+----------
+
+4.1. HTML :ref:`Figures checks from 12.1. to 12.4<figures_html_editorials>` (inclusive) are the same for figures in the PDF.
+
+4.2. Check figure callouts in text:
+
+	- HTML :ref:`Figures checks from 12.5<figures_html_editorials>` (inclusive) are the same for figure callouts in the PDF with one exclusion: Figure callouts are formatted in plain text and are not hyperlinked.
+
+.. image:: /_static/pdf_figure_callouts.png
+   :alt: Figure callouts
+   :scale: 99%
+
+|
+.. _tables_pdf_editorials:
+
+5. Tables
+---------
+
+5.1. HTML :ref:`Tables checks from 13.1. to 13.5<tables_html_editorials>` (inclusive) are the same for tables in the PDF.
+
+5.2. Check table callouts in the text:
+
+	- HTML :ref:`Tables checks from 13.6<tables_html_editorials>` (inclusive) are the same for table callouts in the PDF with one exclusion: Table callouts are formatted in plain text and are not hyperlinked.
+
+.. image:: /_static/pdf_table_callouts.png
+   :alt: Table callouts
+   :scale: 99%
+
+|
+
+.. _reference_callouts_pdf_editorials:
+
+6. Reference Callouts
+---------------------
+
+6.1. HTML :ref:`Reference Callouts checks<reference_callouts_html_editorials>` (inclusive) are the same for reference callouts in the PDF with one exclusion: Reference callouts are formatted in plain text and are not hyperlinked.
+
+.. image:: /_static/pdf_editorials_reference_callouts.png
+   :alt: Reference callouts
+   :scale: 99%
+
+|
+
 .. _references_pdf_editorials:
 
-3. References
+7. References
 -------------
 
-3.1. Check that reference conains either of the following:
-	- one author name followed by comma (,) and `et al` followed by dot (.)
-	- two author names divided by comma (,) and followed by dot (.)
+.. ATTENTION::
+   	Font of the references differs from rest of the article. This is OK. 
+
+|
+
+|
+.. _refs_author_list_pdf_research_papers:
+
+7.1. Author List
+^^^^^^^^^^^^^^^^
+
+7.1.1. HTML :ref:`Author List checks<refs_author_list_html_editorials>` (inclusive) are the same for author list in the PDF.
+
+|
+.. _reference_title_pdf_research_papers:
+
+7.2. Reference Title
+^^^^^^^^^^^^^^^^^^^^
+
+7.2.1. HTML :ref:`Reference Title checks<reference_title_html_editorials>` (inclusive) are the same for reference title in the PDF.
+
+|
+.. _citation_data_in_house_pdf_research_papers:
+
+7.3. Citation-Data (in-house)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+HTML :ref:`Citation-Data (in-house) checks<citation_data_in_house_html_editorials>` (inclusive) are the same for Citation-Data (in-house) in the PDF except for the following exclusions:
+
+7.3.1. Check that [PubMed] link is presented in PDF as "PMID:" word followed by hyperlinked PMID number.
+
+7.3.2. Check that "PMID:" word is written in ALL CAPS and formatted as plain text (no special formatting) and has a colon (:) at the end.
+
+7.3.3. Check that PMID number is hyperlinked to the PMID website.
+
+.. image:: /_static/pdf_editorials_pmid_link.png
+   :alt: PMID link
 
 
-.. image:: /_static/editorials_ref_auth.png
-   :alt: Reference Authors
+|
+.. _citation_data_other_journals_pdf_research_papers:
+
+7.4. Citation-Data (other journals)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+HTML :ref:`Citation-Data (other journals) checks<citation_data_other_journals_html_editorials>` (inclusive) are the same for Citation-Data (other journals) in the PDF except for the following exclusions:
+
+7.4.1. Check that [PubMed] link is presented in PDF as "PMID:" word followed by hyperlinked PMID number.
+
+7.4.2. Check that "PMID:" word is written in ALL CAPS and formatted as plain text (no special formatting) and has a colon (:) at the end.
+
+7.4.3. Check that PMID number is hyperlinked to the PMID website.
+
+.. image:: /_static/pdf_editorials_pmid_link.png
+   :alt: PMID link
 
 
-3.2. Check that author names in the references have the following format: |br|
-|span_format_start| LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th) |span_end|
- 
-- Check that initials have no more than 3 letters and have NO spaces or hyphens in-between: `Rumi B, Jutten BC, Loo SCJ`
+|
+.. _general_checks_pdf_research_papers:
 
-- LastName can include name-related prepositions starting with either upper- or lowercase letter: `van der Ent FW, Van den Brandt PA`
+7.5. General Checks
+^^^^^^^^^^^^^^^^^^^
 
-- LastName can be compound and separated by hyphen or space: |br| `Garcia-Closas M, Gomes Jimenes FJ`
-
-- LastName can have prefixes: `McCann MH, O’Kelly M`
-
-- LastName can be a mononym (i.e. have no initials): `Baoluri, Wurenqimuge, Agudam`. |br| Check all mononyms to be “true” mononyms (check PubMed site)
-
-- LastName can have suffixes. Check that suffix is separated from initials by space: |br| `Rowland KM Jr, Short GF 3d`
-
-3.3. Check that journal citation-data has the following elements in this order: |br|
-|span_format_start| JournalTitle. year; volume: pages. DOI PMID:PMIDnumber |span_end|
+HTML :ref:`General Checks checks<general_checks_html_editorials>` (inclusive) are the same for General Checks in the PDF.
 
 
-.. image:: /_static/editorials_ref_cit_data.png
-   :alt: Editorials Citation Data format
+|
+.. _websites_pdf_research_papers:
+
+7.6. Websites
+^^^^^^^^^^^^^
+
+HTML :ref:`Websites checks<websites_html_editorials>` (inclusive) are the same for Websites in the PDF.
 
 
-- JournalTitle should be followed by dot (.)
+|
+.. _books_pdf_research_papers:
 
+7.7. Books and Reports
+^^^^^^^^^^^^^^^^^^^^^^
 
-- Year should be followed by semicolon (;)
-
-
-- Volume should be followed by colon (:)
-
-
-- Page numbers should be followed by dot (.)
-
-
-- Space is allowed (but not mandatory) after semicolon and colon. Space is mandatory after both (JournalName and page numbers) dots. Other spaces are not allowed.
-
-
-- Page number range can be written either in full (12063-12074) or in shorten format (12063-74). Both formats are allowed.
-
-
-- DOI must be in "https://doi.org" format. There must be no dot at the end.
-
-- [PubMed] link must be presented in PDF as "PMID:" word followed by hyperlinked PMID number.
-
-- "PMID:" word must be written in ALL CAPS and formatted as plain text (no special formatting) and has a colon (:) at the end.
-
-- PMID number must be hyperlinked to the article on PMID website.
-
+HTML :ref:`Books and Reports checks<books_html_editorials>` (inclusive) are the same for Books and Reports in the PDF.
 
 |
 .. _corresp_author_pdf_editorials:
 
-4. Corresponding author and affiliations
-----------------------------------------
+8. Corresponding Author and Affiliation
+---------------------------------------
 
-Corresponding author and affiliations can be found at the end of the article right after the References section
+Corresponding author and affiliation can be found at the end of the article right after the references section.
 
-4.1. Check that full name of corresponding author is formatted in bold and underlined font and is followed by conlon (:)
+8.1. Check that full name of corresponding author is formatted in bold and underlined font and is followed by colon (:).
 
-4.2. Check that full name of corresponding author is followed by affiliation (multiple affiliations are allowed and should be divided by semicolon (;))
+8.2. Check that full name of corresponding author is followed by affiliation (only one affiliation is allowed in PDF regardless of the number of affiliations for the corresponding author in HTML).
 
-4.3. Check that affiliation is formatted in plain text (no special formatting)
+8.3. Check that affiliation is formatted in plain text (no special formatting).
 
-4.4. Check spelling of English words in affiliation
-
-4.5. Check that there are NO street addresses and house numbers included in affiliation.
-
-4.6. Check that country and city names are present in affiliation.
-
-4.7. Check that country and city names are NOT written in ALL CAPS (capital letters).
-
-4.8. Check that only commas are used to separate parts of affiliations (i.e. department, institution, etc.).
-
+8.4. HTML :ref:`Affiliations checks<affiliations_html_editorials>` (inclusive) are the same for the affiliation in the PDF.
 
 .. image:: /_static/corresp_auth.png
    :alt: Corresponding author and affiliations
@@ -141,20 +216,20 @@ Corresponding author and affiliations can be found at the end of the article rig
 |
 .. _correspondence_pdf_editorials:
 
-5. Correspondence
+9. Correspondence
 -----------------
 
-"Correspondence:" section can be found at the end of the article right after the Corresponding author and affiliations
+"Correspondence:" section can be found at the end of the article right after the Corresponding author and affiliation.
 
-5.1. Check that correspondence section has a title “Correspondence:” (starts with capital letter and followed by colon (:))
+9.1. Check that correspondence section has a title “Correspondence:” (title case and followed by colon (:)).
 
-5.2. Check that "Correspondence:" is formatted in black, bold and italic font.
+9.2. Check that "Correspondence:" is formatted in black, bold and italic font.
 
-5.3. Check that "Correspondence:" is followed by full author name. In case of multiple corresponding authors, full names should be divided by comma (,).
+9.3. Check that "Correspondence:" is followed by full author name. In case of multiple corresponding authors, full names should be divided by comma (,).
 
-5.4. Check that full author name is formatted in italic font.
+9.4. Check that full author name is formatted in italic font.
 
-5.5. Check that full author name is written  the same way as in author list (front page of the paper) and as in "Corresponding author and affiliations" (above).
+9.5. Check that author’s full name matches the author list (at the top of the paper) and the "Corresponding author and affiliation" (above).
 
 
 .. image:: /_static/correspondence.png
@@ -163,20 +238,20 @@ Corresponding author and affiliations can be found at the end of the article rig
 |
 .. _email_pdf_editorials:
 
-6. Email
---------
+10. Email
+---------
 
-"Email:" section can be found at the end of the article right after the Correspondnce section
+"Email:" section can be found at the end of the article right after the Correspondence section.
 
-6.1. Check that there is no blank line between Correspondence: and Email: sections
+10.1. Check that there is no blank line between Correspondence: and Email: sections.
 
-6.2.Check that email section has a title "Email:" (starts with capital letter and followed by colon (:))
+10.2.Check that email section has a title "Email:" (title case and followed by colon (:)).
 
-6.3. Check that "Email:" is formatted in black, bold and italic font.
+10.3. Check that "Email:" is formatted in black, bold and italic font.
 
-6.4. Check that "Email:" is followed by hyperlinked email address. In case of multiple emails, those should be divided by comma (,).
+10.4. Check that "Email:" is followed by hyperlinked email address (only one email is allowed in PDF regardless of the number of emails for the corresponding author in HTML).
 
-6.5. Check that email address is formatted in blue, underlined, italic font.
+10.5. Check that email address is formatted in blue, underlined, italic font.
 
 
 .. image:: /_static/email.png
@@ -185,51 +260,133 @@ Corresponding author and affiliations can be found at the end of the article rig
 |
 .. _keywords_pdf_editorials:
 
-7. Keywords
------------
-"Keywords:" section can be found at the end of the article right after the "Email:" section
+11. Keywords
+------------
 
-7.1. Check that there is no blank line between Email: and Keywords: sections
+"Keywords:" section can be found at the end of the article right after the "Email:" section.
 
-7.2. Check that keywords section has a title "Keywords:" (starts with capital letter and followed by colon (:))
+11.1. Check that there is no blank line between Email: and Keywords: sections.
 
-7.3. Check that "Keywords:" is formatted in black, bold and italic font.
+11.2. Check that keywords section has a title "Keywords:" (title case and followed by colon (:)).
 
-7.4. Check that "Keywords:" is followed by at least one keyword. (Note: number of keywords is not limited).
+11.3. Check that "Keywords:" is formatted in black, bold and italic font.
 
-7.5. Check that keyword (or list of keywords) is formatted in italic font.
+11.4. Check that "Keywords:" is followed by at least one keyword. (Note: number of keywords is limited to 8).
+
+11.5. Check that keyword (or list of keywords) is formatted in italic font.
+
+11.6. Check that there are no punctuation marks at the end of keywords line.
 
 
 .. image:: /_static/editorial_keywords.png
    :alt: Keywords
 
 |
+.. _abbreviations_pdf_editorials:
+
+12. Abbreviations
+-----------------
+
+This is an optional section that should appear after Keywords section and before Copyright section. The specific placement of this section should accord with order described in :ref:`HTML Section Headers checks<section_headers_html_editorials>` for Abbreviations through Funding.
+
+When present, ”Abbreviations:" section can be found at the end of the article right after the "Keywords:" section.
+
+12.1. Check that there is no blank line between Keywords: and Abbreviations: sections.
+
+12.2. Check that abbreviations section has a title "Abbreviations:" (title case and followed by colon (:)).
+
+12.3. Check that "Abbreviations:" is formatted in black, bold and italic font.
+
+12.4. Check that abbreviation (or list of abbreviations) is formatted in italic font.
+
+12.5. Check the format of the abbreviations line: This is the same format as :ref:`6.2 from HTML Abbreviations checks<abbreviations_html_editorials>`.
+
+12.6. Check that there are no punctuation marks at the end of abbreviations line.
+
+|
+.. _aknowledgments_pdf_editorials:
+
+13. Acknowledgments
+-------------------
+
+This is an optional section that should appear after Keywords section and before Copyright section. The specific placement of this section should accord with order described in :ref:`HTML Section Headers checks<section_headers_html_editorials>` for Abbreviations through Funding.
+
+13.1. Check that there is no blank line between Acknowledgments: and section preceding it.
+
+13.2. Check that acknowledgments section has a title "Acknowledgments:" (title case and followed by colon (:)).
+
+13.3. Check that "Acknowledgments:" is formatted in black, bold and italic font.
+
+13.4. Check that acknowledgments information is formatted in italic font.
+
+13.5. Check that there are no punctuation marks at the end of acknowledgments line.
+
+|
+.. _coi_pdf_editorials:
+
+14. Conflicts of Interest
+-------------------------
+
+This is an optional section that should appear after Keywords section and before Copyright section. The specific placement of this section should accord with order described in :ref:`HTML Section Headers checks<section_headers_html_editorials>` for Abbreviations through Funding.
+
+14.1. Check that there is no blank line between Conflicts of Interest: and section preceding it.
+
+14.2. Check that conflicts of interest section has a title "Conflicts of Interest:" (title case and followed by colon (:)).
+
+14.3. Check that "Conflicts of Interest:" is formatted in black, bold and italic font.
+
+14.4. Check that conflicts of interest information is formatted in italic font.
+
+14.5. Check that there are no punctuation marks at the end of conflicts of interest line.
+
+|
+.. _funding_pdf_editorials:
+
+15. Funding
+-----------
+
+This is an optional section that should appear after Keywords section and before Copyright section. The specific placement of this section should accord with order described in :ref:`HTML Section Headers checks<section_headers_html_editorials>` for Abbreviations through Funding.
+
+15.1. Check that there is no blank line between Funding: and section preceding it.
+
+15.2. Check that funding section has a title "Funding:" (title case and followed by colon (:)).
+
+15.3. Check that "Funding:" is formatted in black, bold and italic font.
+
+15.4. Check that funding information is formatted in italic font.
+
+15.5. Check that there are no punctuation marks at the end of funding line.
+
+|
 .. _copyright_pdf_editorials:
 
-8. Copyright
-------------
-"Copyright:" section can be found at the end of the article right after the "Keywords:" section
+16. Copyright
+-------------
 
-8.1. Check that there is no blank line between Keywords: and Copyright: sections
+"Copyright:" section can be found at the end of the article right after the "Keywords:" section (or last optional section, if present).
 
-8.2. Check that copyright section has a title "Copyright:" (starts with capital letter and followed by colon(:))
+16.1. Check that there is no blank line between Copyright: and section preceding it.
 
-8.3. Check that "Copyright:" is formatted in black, bold and italic font.
+16.2. Check that copyright section has a title "Copyright:" (title case and followed by colon(:)).
 
-8.4. Check that "Keywords:" is followed by one of the following options:
+16.3. Check that "Copyright:" is formatted in black, bold and italic font.
 
-	- single author name followed by dot (.) [in case paper has only one author]
+16.4. Check that "Copyright:" is followed by one of the following options:
 
-	- 2 authors divided by "and" and followed by dot (.) [in case paper has 2 authors]
+	- single author surname followed by dot (.) [in case where paper has only one author]
 
-	- one author name followed by `et al.` [in case paper has more than 2 authors]
+	- 2 author surnames divided by "and" and followed by dot (.) [in case where paper has 2 authors]
 
-8.5. Check that author name (or list of names) is formatted in italic font.
+	- one author surname followed by `et al.` [in case where paper has more than 2 authors]
 
-8.6. Check that full author name (or list of names) is followed by the following statement:
+16.5. Check that author surname (or list of surnames) is formatted in italic font.
+
+16.6. Check that author surname  name (or list of surnames) is followed by the following statement:
 
 
-:sample:`This is an open‐access article distributed under the terms of the Creative Commons Attribution License (CC BY 3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited`
+:sample:`This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY 3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited`
+
+16.7. Check that there are no punctuation marks at the end of copyright line.
 
 
 .. image:: /_static/editorial_copyright.png
@@ -238,21 +395,23 @@ Corresponding author and affiliations can be found at the end of the article rig
 |
 .. _dates_pdf_editorials:
 
-9. Dates
---------
-Recieved and Published dates can be found at the end of the article right after the "Copyright:" section
+17. Dates
+---------
 
-9.1. Check that Recieved and Published dates are separated from "Copyright:" section by blank line
+Received and Published dates can be found at the end of the article right after the "Copyright:" section.
 
-9.2. Check that "Recieved:" and "Published:" titles start with capital letter and followed by colon(:)
+17.1. Check that Received and Published dates are separated from "Copyright:" section by blank line.
 
-9.3. Check that "Recieved:" and "Published:" are formatted in black and bold font.
+17.2. Check that "Received:" and "Published:" titles are title case and followed by colon(:).
 
-9.4. Check that each "Recieved:" and "Published:" words are followed by a date.
+17.3. Check that "Received:" and "Published:" are formatted in black and bold font.
 
-9.5. Check that month is spelled out as a word and dates are in-line with the following format: Month Day, Year
+17.4. Check that each "Received:" and "Published:" words are followed by a date.
+
+17.5. Check that month is spelled out as a word and dates are in-line with the following format: Month Day, Year
 (e.g. June 1, 2017, April 12, 2016, December 31, 2015, etc.) Note: if a day is presented by single digit, there should be no leading 0.
 
+17.6. Check that there are no punctuation marks at the end of received and published date lines.
 
 .. image:: /_static/editorial_dates.png
    :alt: Dates
