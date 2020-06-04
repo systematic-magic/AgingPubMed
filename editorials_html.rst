@@ -669,7 +669,7 @@ If the link is not valid, please contact author to provide a working link.
 
 |
 
-|div_center_start| Next steps: :ref:`check PDF<_title_pdf_editorials>`. |div_end|
+|div_center_start| Next steps: :ref:`check PDF<title_pdf_editorials>`. |div_end|
 
 
 .. |br| raw:: html
