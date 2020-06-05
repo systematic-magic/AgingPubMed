@@ -150,7 +150,7 @@ Author notes are optional. Article can have several or no author notes.
 4.2. Check that author notes are denoted by symbol (no numbers allowed). It can be any symbol, but most often used are: \*, †, +, #, \**, \***.
 If there are several author notes, then each note should have **different** symbol.
 
-4.3. Check that author notes line is written in sentence case.
+4.3. Check that author notes line is written in :ref:`sentence case<sentence_case>`.
 
 4.4. Check that there are no punctuation marks at the end of author notes line.
 
@@ -308,7 +308,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 		:wtonbl:`Materials and Methods` - mandatory - (alternatively can be :wtonbl:`Methods` or :wtonbl:`Patients and Methods`) - [title case, in white on blue background]
 
-		:headr2:`Ethics statement` - optional - (if present, it should only appear as a subheader in :wtonbl:`MATERIALS AND METHODS` section) [sentence case, in black]
+		:headr2:`Ethics statement` - optional - (if present, it should only appear as a subheader in :wtonbl:`MATERIALS AND METHODS` section) [:ref:`sentence case<sentence_case>`, in black]
 
 		:wtonbl:`Supplementary Materials` - optional - [title case, in white on blue background]
 
@@ -338,7 +338,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 		:wtonbl:`Introduction` - optional - [title case, in white on blue background]
 
 
-		Reviews usually have free-style (research related) section headers. These headers should be formatted in sentence case and can be coloured in white on blue background.
+		Reviews usually have free-style (research related) section headers. These headers should be formatted in :ref:`sentence case<sentence_case>` and can be coloured in white on blue background.
 
 
 		:wtonbl:`Abbreviations` - optional - [title case, in white on blue background]
@@ -453,7 +453,7 @@ If image is hard to read, please contact Production team and ask to provide clea
 
 	- If figure number is followed by text, then check that the first sentence of that text is formatted in bold and coloured in black. The rest of the text should be in plain text.
 
-	|	:sampleb:`Figure 1. First sentence of legend text in sentence case.` :sample:`Second sentence and rest of text.`
+	|	:sampleb:`Figure 1. First sentence of legend text in :ref:`sentence case<sentence_case>`.` :sample:`Second sentence and rest of text.`
 	
 	.. image:: /_static/html_figure_number.png
    	  	:alt: Figure number
@@ -461,7 +461,7 @@ If image is hard to read, please contact Production team and ask to provide clea
 
 	`Exclusion:` if first sentence contains :ref:`panel letters<figure_pannel>`, then it should be formatted in plain text.
 
-	|	:sampleb:`Figure 2.` :sample:`First sentence of legend text containing panel letter (`:sampleb:`A`:sample:`) and letter (`:sampleb:`B`:sample:`) in a sentence case. Second sentence and rest of text.`
+	|	:sampleb:`Figure 2.` :sample:`First sentence of legend text containing panel letter (`:sampleb:`A`:sample:`) and letter (`:sampleb:`B`:sample:`) in a :ref:`sentence case<sentence_case>`. Second sentence and rest of text.`
 
 
 	.. image:: /_static/html_figure_number_exception.png
@@ -592,7 +592,7 @@ If table is hard to read, please contact Production team and ask to increase fon
 
 	- Check that table number is followed by table title. Table title should be a single sentence. It is not allowed to have more than 1 sentence as a table title.
 
-	| :sampleb:`Table 2. Table title in sentence case.`
+	| :sampleb:`Table 2. Table title in :ref:`sentence case<sentence_case>`.`
 
 	.. image:: /_static/html_table_title.png
    	  	:alt: Table title
@@ -742,7 +742,7 @@ Callouts can be found in text, figures and tables.
 15.2. Reference Title
 ^^^^^^^^^^^^^^^^^^^^
 
-15.2.1. Title can be written in Sentence case, Title case or in ALL CAPS. All these formats are allowed. Format of title is allowed to be inconsistent accross all references in the article.
+15.2.1. Title can be written in :ref:`sentence case<sentence_case>`, Title case or in ALL CAPS. All these formats are allowed. Format of title is allowed to be inconsistent accross all references in the article.
 
 15.2.2. Check that title is followed by a period (.). There should be a space after period.
 
