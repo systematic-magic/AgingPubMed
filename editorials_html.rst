@@ -208,7 +208,7 @@ Abbreviations are optional.
 7. Dates
 --------
 
-7.1. Check that Dates section has titles “Received:”, “Accepted:”, “Published:” (title case and followed by colon (:)).
+7.1. Check that Dates section has titles “Received:”, “Accepted:”, “Published:” (:ref:`title case<title_case>` and followed by colon (:)).
 
 7.2. Check that month is spelled out as a word and dates are in-line with the following format: Month Day, Year
 (e.g. June 1, 2017, April 12, 2016, December 31, 2015, etc.) Note: if a day is presented by single digit, there should be no leading 0.
@@ -269,7 +269,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 		Editorials usually do not have any sections except:
 
-		:wtonbl:`Abbreviations` - optional - [title case, in white on blue background]
+		:wtonbl:`Abbreviations` - optional - [:ref:`title case<title_case>`, in white on blue background]
 
 		:wtonbl:`Acknowledgments` - optional - [title case, in white on blue background]
 
