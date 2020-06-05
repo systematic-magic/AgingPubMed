@@ -69,7 +69,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 
 4.2. Check figure callouts in text:
 
-	- :ref:`HTML Figures checks from 11.5<11.5_figures_html_editorials>` (inclusive) are the same for figure callouts in the PDF with one exclusion: Figure callouts are formatted in plain text and are not hyperlinked.
+	- :ref:`HTML Figures checks from 11.5<11.5_figures_html_editorials>` (inclusive) are the same for figure callouts in the PDF with one exclusion: Figure callouts are formatted in :ref:`plain text<plain_text>` and are not hyperlinked.
 
 .. image:: /_static/pdf_figure_callouts.png
    :alt: Figure callouts
@@ -90,7 +90,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 6. Reference Callouts
 ---------------------
 
-6.1. :ref:`HTML Reference Callouts checks<reference_callouts_html_editorials>` (inclusive) are the same for reference callouts in the PDF with one exclusion: Reference callouts are formatted in plain text and are not hyperlinked.
+6.1. :ref:`HTML Reference Callouts checks<reference_callouts_html_editorials>` (inclusive) are the same for reference callouts in the PDF with one exclusion: Reference callouts are formatted in :ref:`plain text<plain_text>` and are not hyperlinked.
 
 .. image:: /_static/pdf_editorials_reference_callouts.png
    :alt: Reference callouts
@@ -132,7 +132,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 
 7.3.1. Check that [PubMed] link is presented in PDF as "PMID:" word followed by hyperlinked PMID number.
 
-7.3.2. Check that "PMID:" word is written in ALL CAPS and formatted as plain text (no special formatting) and has a colon (:) at the end.
+7.3.2. Check that "PMID:" word is written in ALL CAPS and formatted as :ref:`plain text<plain_text>` (no special formatting) and has a colon (:) at the end.
 
 7.3.3. Check that PMID number is hyperlinked to the PMID website.
 
@@ -150,7 +150,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 
 7.4.1. Check that [PubMed] link is presented in PDF as "PMID:" word followed by hyperlinked PMID number.
 
-7.4.2. Check that "PMID:" word is written in ALL CAPS and formatted as plain text (no special formatting) and has a colon (:) at the end.
+7.4.2. Check that "PMID:" word is written in ALL CAPS and formatted as :ref:`plain text<plain_text>` (no special formatting) and has a colon (:) at the end.
 
 7.4.3. Check that PMID number is hyperlinked to the PMID website.
 
@@ -196,7 +196,7 @@ Corresponding author and affiliation can be found at the end of the article righ
 
 8.2. Check that full name of corresponding author is followed by affiliation (only one affiliation is allowed in PDF regardless of the number of affiliations for the corresponding author in HTML).
 
-8.3. Check that affiliation is formatted in plain text (no special formatting).
+8.3. Check that affiliation is formatted in :ref:`plain text<plain_text>` (no special formatting).
 
 8.4. :ref:`HTML Affiliations checks<affiliations_html_editorials>` (inclusive) are the same for the affiliation in the PDF.
 

@@ -194,7 +194,7 @@ source are credited.`
 
 12. Figures
 --------------
-12.1. Check that callouts are formatted in plain text and are not hyperlinked.
+12.1. Check that callouts are formatted in :ref:`plain text<plain_text>` and are not hyperlinked.
 
 .. image:: /_static/pdf_figure_callouts.png
    :alt: Figure callouts
@@ -208,7 +208,7 @@ source are credited.`
 
 13. Tables
 --------------
-13.1. Check that callouts are formatted in plain text and are not hyperlinked.
+13.1. Check that callouts are formatted in :ref:`plain text<plain_text>` and are not hyperlinked.
 
 .. image:: /_static/pdf_table_callouts.png
    :alt: Table callouts
@@ -222,7 +222,7 @@ source are credited.`
 
 14. Reference Callouts
 ----------------------
-14.1. Check that callouts are formatted in plain text and are not hyperlinked.
+14.1. Check that callouts are formatted in :ref:`plain text<plain_text>` and are not hyperlinked.
 
 
 .. image:: /_static/callouts.png
@@ -266,7 +266,7 @@ No PDF-specific checks
 
 15.3.1. Check that [PubMed] link is presented in PDF as "PMID:" word followed by hyperlinked PMID number.
 
-15.3.2. Check that "PMID:" word is written in ALL CAPS and formatted as plain text (no special formatting) and has a colon (:) at the end.
+15.3.2. Check that "PMID:" word is written in ALL CAPS and formatted as :ref:`plain text<plain_text>` (no special formatting) and has a colon (:) at the end.
 
 15.3.3. Check that PMID number is hyperlinked to the PMID website.
 
@@ -284,7 +284,7 @@ No PDF-specific checks
 
 15.4.1. Check that [PubMed] link is presented in PDF as "PMID:" word followed by hyperlinked PMID number.
 
-15.4.2. Check that "PMID:" word is written in ALL CAPS and formatted as plain text (no special formatting) and has a colon (:) at the end.
+15.4.2. Check that "PMID:" word is written in ALL CAPS and formatted as :ref:`plain text<plain_text>` (no special formatting) and has a colon (:) at the end.
 
 15.4.3. Check that PMID number is hyperlinked to the PMID website.
 
