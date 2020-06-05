@@ -1068,8 +1068,8 @@ Figures will most often be kept in one PDF. Occasionally, unusually large figure
 
 .. IMPORTANT::
 
-	If table spans across 3 or more pages, then it is considered as "large table".
-	For large tables handling instructions, check :ref:`here<large_tables_check>`.
+	If table spans across 3 or more pages, then it is considered a ":ref:`large table<large_tables>`".
+	For large table handling instructions, check :ref:`here<large_tables_check>`.
 
 
 16.5.1. HTML :ref:`Tables checks from 13.1. to 13.5<tables_html_research_papers>` (inclusive) are applicable to supplementary tables with one exclusion: instead of **Table N**, tables should be named as **Supplementary Table N**.
@@ -1107,7 +1107,7 @@ On the other hand, if there is a reference list but no callouts to it in the sup
 16.7. Large Tables
 ^^^^^^^^^^^^^^^^^^
 
-Tables which fit into 2 pages are "normal tables" and should be published as PDF for convenient printing. Tables which span across 3 or more pages are considered "large tables". Large tables should be published as separate supplementary files (preferably in Excel (.xlsx) format).
+Tables which fit into 2 pages are "normal tables" and should be published as PDF for convenient printing. Tables which span across 3 or more pages are considered ":ref:`large tables<large_tables>`". Large tables should be published as separate supplementary files (preferably in Excel (.xlsx) format).
 
 16.7.1. Check whether large table was supplied by the author in PDF format. If so, then please contact the author and ask to provide tables in Excel (.xlsx) or Word (.docx) format. Excel (.xlsx) format is preferable.
 
