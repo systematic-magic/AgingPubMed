@@ -231,7 +231,7 @@ Abbreviations are optional.
 8. Dates
 --------
 
-8.1. Check that Dates section has titles “Received:”, “Accepted:”, “Published:” (title case and followed by colon (:)).
+8.1. Check that Dates section has titles “Received:”, “Accepted:”, “Published:” (:ref:`title case<title_case>` and followed by colon (:)).
 
 8.2. Check that month is spelled out as a word and dates are in-line with the following format: Month Day, Year
 (e.g. June 1, 2017, April 12, 2016, December 31, 2015, etc.) Note: if a day is presented by single digit, there should be no leading 0.
@@ -296,7 +296,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 	- **Research Papers**
 
-		:blue:`Abstract` - mandatory - [title case, in blue]
+		:blue:`Abstract` - mandatory - [:ref:`title case<title_case>`, in blue]
 
 		:wtonbl:`Introduction` - mandatory - [title case, in white on blue background]
 
@@ -333,7 +333,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 	- **Reviews**
 
-		:blue:`Abstract` - mandatory - [title case, in blue]
+		:blue:`Abstract` - mandatory - [:ref:`title case<title_case>`, in blue]
 
 		:wtonbl:`Introduction` - optional - [title case, in white on blue background]
 
@@ -361,7 +361,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 	- **Research Perspectives**
 		
-		:blue:`Abstract` - mandatory - [title case, in blue]
+		:blue:`Abstract` - mandatory - [:ref:`title case<title_case>`, in blue]
 	
 
 		Research Perspectives usually have free-style (research related) section headers.
@@ -742,7 +742,7 @@ Callouts can be found in text, figures and tables.
 15.2. Reference Title
 ^^^^^^^^^^^^^^^^^^^^
 
-15.2.1. Title can be written in :ref:`sentence case<sentence_case>`, Title case or in ALL CAPS. All these formats are allowed. Format of title is allowed to be inconsistent accross all references in the article.
+15.2.1. Title can be written in :ref:`sentence case<sentence_case>`, :ref:`title case<title_case>` or in ALL CAPS. All these formats are allowed. Format of title is allowed to be inconsistent accross all references in the article.
 
 15.2.2. Check that title is followed by a period (.). There should be a space after period.
 
@@ -920,35 +920,35 @@ Download file names should be descriptive of what is inside the file.
 Figures will most often be kept in one PDF. Occasionally, unusually large figures may be kept separately.
 
 
-- When all figures can be kept in one file, it should be named Supplementary Figures - Title case, blue and bold font.
+- When all figures can be kept in one file, it should be named Supplementary Figures - :ref:`Title case<title_case>`, blue and bold font.
 
 .. image:: /_static/suppl_all_figs_dl.png
   	:alt: Supplementary figures all kept in file
   	:scale: 99%
 
-- When a single figure is kept in one file, it should be named Supplementary Figure N (“N” being the figure number) - Title case, blue and bold font.
+- When a single figure is kept in one file, it should be named Supplementary Figure N (“N” being the figure number) - :ref:`Title case<title_case>`, blue and bold font.
 
 .. image:: /_static/suppl_one_fig_dl.png
   	:alt: One supplementary figure kept in file
   	:scale: 99%
 
-- When multiple, but not all, figures are kept in one file, it should be named Supplementary Figures N, N, N…, Supplementary Figures N–N (“N” being the figure number) or other similar variations - Title case, blue and bold font.
+- When multiple, but not all, figures are kept in one file, it should be named Supplementary Figures N, N, N…, Supplementary Figures N–N (“N” being the figure number) or other similar variations - :ref:`Title case<title_case>`, blue and bold font.
 
 **16.1.2. Supplementary Tables**
 
-- When all tables can be kept in one file, it should be named Supplementary Tables - Title case, blue and bold font.
+- When all tables can be kept in one file, it should be named Supplementary Tables - :ref:`Title case<title_case>`, blue and bold font.
 
 .. image:: /_static/suppl_all_tables_dl.png
   	:alt: Supplementary tables all kept in file
   	:scale: 99%
 
-- When a single table is kept in one file, it should be named Supplementary Table N (“N” being the table number) - Title case, blue and bold font.
+- When a single table is kept in one file, it should be named Supplementary Table N (“N” being the table number) - :ref:`Title case<title_case>` blue and bold font.
 
 .. image:: /_static/suppl_one_table_dl.png
   	:alt: One supplementary table kept in file
   	:scale: 99%
 
-- When multiple, but not all, tables are kept in one file, it should be named Supplementary Tables N, N, N…, Supplementary Tables N–N (“N” being the table number) or other similar variations - Title case, blue and bold font.
+- When multiple, but not all, tables are kept in one file, it should be named Supplementary Tables N, N, N…, Supplementary Tables N–N (“N” being the table number) or other similar variations - :ref:`Title case<title_case>`, blue and bold font.
 
 .. image:: /_static/suppl_mult_tables_dl.png
   	:alt: Multiple supplementary tables kept in file
@@ -956,7 +956,7 @@ Figures will most often be kept in one PDF. Occasionally, unusually large figure
 
 **16.1.3. Supplementary References**
 
-- Should be named Supplementary References - Title case, blue and bold font.
+- Should be named Supplementary References - :ref:`Title case<title_case>`, blue and bold font.
 
 .. image:: /_static/suppl_refs_dl.png
   	:alt: Supplementary references
@@ -964,7 +964,7 @@ Figures will most often be kept in one PDF. Occasionally, unusually large figure
 
 **16.1.4. Supplementary Materials**
 
-- Should be named Supplementary Materials - Title case, blue and bold font.
+- Should be named Supplementary Materials - :ref:`Title case<title_case>`, blue and bold font.
 
 .. image:: /_static/suppl_materials_dl.png
   	:alt: Supplementary materials
@@ -972,7 +972,7 @@ Figures will most often be kept in one PDF. Occasionally, unusually large figure
 
 **16.1.5. Supplementary Videos**
 
-- Should be named Supplementary Video N (“N” being the video number) - Title case, blue and bold font. If there is only one video in total, “Supplementary Video” is acceptable as well.
+- Should be named Supplementary Video N (“N” being the video number) - :ref:`Title case<title_case>`, blue and bold font. If there is only one video in total, “Supplementary Video” is acceptable as well.
 
 .. image:: /_static/suppl_video_dl.png
   	:alt: Supplementary videos
