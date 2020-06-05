@@ -453,7 +453,7 @@ If image is hard to read, please contact Production team and ask to provide clea
 
 	- If figure number is followed by text, then check that the first sentence of that text is formatted in bold and coloured in black. The rest of the text should be in plain text.
 
-	|	:sampleb:`Figure 1. First sentence of legend text in :ref:`sentence case<sentence_case>`.` :sample:`Second sentence and rest of text.`
+	|	:sampleb:`Figure 1. First sentence of legend text in sentence case. :sample:`Second sentence and rest of text.`
 	
 	.. image:: /_static/html_figure_number.png
    	  	:alt: Figure number
@@ -461,7 +461,7 @@ If image is hard to read, please contact Production team and ask to provide clea
 
 	`Exclusion:` if first sentence contains :ref:`panel letters<figure_pannel>`, then it should be formatted in plain text.
 
-	|	:sampleb:`Figure 2.` :sample:`First sentence of legend text containing panel letter (`:sampleb:`A`:sample:`) and letter (`:sampleb:`B`:sample:`) in a :ref:`sentence case<sentence_case>`. Second sentence and rest of text.`
+	|	:sampleb:`Figure 2.` :sample:`First sentence of legend text containing panel letter (`:sampleb:`A`:sample:`) and letter (`:sampleb:`B`:sample:`) in sentence case. Second sentence and rest of text.`
 
 
 	.. image:: /_static/html_figure_number_exception.png
@@ -592,7 +592,7 @@ If table is hard to read, please contact Production team and ask to increase fon
 
 	- Check that table number is followed by table title. Table title should be a single sentence. It is not allowed to have more than 1 sentence as a table title.
 
-	| :sampleb:`Table 2. Table title in :ref:`sentence case<sentence_case>`.`
+	| :sampleb:`Table 2. Table title in sentence case.`
 
 	.. image:: /_static/html_table_title.png
    	  	:alt: Table title
