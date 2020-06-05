@@ -510,7 +510,7 @@ Callouts can be found in text, figures and tables.
 
 14.1.2. Check that initials have no more than 4 letters and have NO hyphens or spaces in-between.
 
-14.1.3. Check all the mononyms (names which have no initials) to be “true” mononyms (check PubMed site).
+14.1.3. Check all the :ref:`mononym<mononym>` (names which have no initials) to be “true” mononyms (check PubMed site).
 
 14.1.4. Check that List of Authors contains either of the following:
 
