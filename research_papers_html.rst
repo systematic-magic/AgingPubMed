@@ -717,11 +717,11 @@ Callouts can be found in text, figures and tables.
 
 15.1.6. Check that et al is separated from List of Authors by comma (,).
 
-15.1.7. Check that there is a period (.) either after the last author name (if there are less or equal to 14 authors), or after et al (if there are exactly 13 authors + et al), or after Group Authorship (if present).
+15.1.7. Check that there is a period (.) either after the last author name (if there are less or equal to 14 authors), or after et al (if there are exactly 13 authors + et al), or after :ref:`group_authorship<group_authorship>` (if present).
 
-15.1.8. List of Authors can contain :ref:`Group Authorship<group_authorship>` (see screenshot below). Check that Group Authorship is positioned at the end of List of Authors. Other positions are not allowed.
+15.1.8. List of Authors can contain :ref:`group authorship<group_authorship>` (see screenshot below). Check that group authorship is positioned at the end of List of Authors. Other positions are not allowed.
 
-15.1.9. Group Authorship must be separated from author list by comma (,) and "and" word. Group Authorship is not counted against total number of authors in the author list quota.
+15.1.9. :ref:`Group_authorship<group_authorship>` must be separated from author list by comma (,) and "and" word. :ref:`Group_authorship<group_authorship>` is not counted against total number of authors in the author list quota.
 
 
 .. image:: /_static/ref_etal_group_auth.png
@@ -731,7 +731,7 @@ Callouts can be found in text, figures and tables.
    :alt: Group Authorship
 
 
-15.1.10. If there are multiple Group Authorships, then those should be separated by comma (,) and "and" word. 
+15.1.10. If there are multiple :ref:`group_authorships<group_authorship>`, then those should be separated by comma (,) and "and" word. 
 
 .. image:: /_static/ref_mult_group_auth.png
    :alt: Group Authorship
