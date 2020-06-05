@@ -13,7 +13,7 @@ PDF: Editorials
 
 1.2. Check title spelling.
 
-1.3. Check that title is written in blue and bold font. Note: title of editorials and news is written in smaller font than title of research papers.
+1.3. Check that title is written in blue and bold font. Note: title of editorials is written in smaller font than title of research papers.
 
 1.4. Check that capitalisation of scientific terms is correct.
 
