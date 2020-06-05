@@ -61,7 +61,7 @@ Figure panel
     | `Example:`
 
     .. image:: /_static/html_figure_panels.png
-        :alt: One affiliation for all authors
+        :alt: Figure panels
     |
 
 .. _large_tables:
@@ -69,41 +69,6 @@ Figure panel
 Large Tables
     Applicable to Supplementary materials only! 
     Tables which span across 2 or more pages. Tables which fit into 2 pages should be published as PDF for convenient printing, whilst large tables should be published as Excel (.xlsx) or Word (.docx) documents. See more information in :ref:`Large tables check<large_tables_check>`
-
-
-.. _news_month_abbreviation:
-
-Month abbreviation style (News papers)
-    The following abbreviations are allowed for News (Reference to article section).
-    Note that there is no period after abbreviation.
-
-    +-----------------------------+--------------+ 
-    | Month                       | Abbreviation | 
-    +=============================+==============+ 
-    | January                     | Jan          | 
-    +-----------------------------+--------------+ 
-    | February                    | Feb          | 
-    +-----------------------------+--------------+ 
-    | March                       | Mar          | 
-    +-----------------------------+--------------+ 
-    | April                       | Apr          | 
-    +-----------------------------+--------------+ 
-    | May                         | May          | 
-    +-----------------------------+--------------+ 
-    | June                        | June         | 
-    +-----------------------------+--------------+
-    | July                        | July         | 
-    +-----------------------------+--------------+ 
-    | August                      | Aug          | 
-    +-----------------------------+--------------+ 
-    | September                   | Sept         | 
-    +-----------------------------+--------------+ 
-    | October                     | Oct          | 
-    +-----------------------------+--------------+ 
-    | November                    | Nov          | 
-    +-----------------------------+--------------+
-    | December                    | Dec          | 
-    +-----------------------------+--------------+
 
 .. _correct_case_check:
 
