@@ -191,6 +191,8 @@ Abbreviations are optional.
 
 6.1. Abbreviations should not appear in the Abstract section and should only appear in the final sections as is noted in :ref:`Section Headers<section_headers_html_editorials>`.
 
+.. _6.2_abbreviations_html_editorials:
+
 6.2. Check the format of the abbreviations line:
 
 	|	:sample:`ABRVTN: expanded text; ABRVTN: expanded text`
@@ -377,6 +379,8 @@ If image is hard to read, please contact Production team and ask to provide clea
 At the same time, upon authors request, figures can appear in the text in any order. E.g. figure 2 before figure 1 is OK.
 
 If you see that there are gaps in number sequence, then check with corresponding author whether some figures are missing or whether it is possible to re-number the figures to eliminate the gaps.
+
+.. _11.5_figures_html_editorials:
 
 11.5. Check figure callouts in the text:
 

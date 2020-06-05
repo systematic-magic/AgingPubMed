@@ -65,11 +65,11 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 4. Figures
 ----------
 
-4.1. :ref:`HTML Figures checks from 11.1. to 11.4<figures_html_editorials>` (inclusive) are the same for figures in the PDF.
+4.1. :ref:`HTML Figures checks from 11.1 to 11.4<figures_html_editorials>` (inclusive) are the same for figures in the PDF.
 
 4.2. Check figure callouts in text:
 
-	- HTML :ref:`Figures checks from 11.5<figures_html_editorials>` (inclusive) are the same for figure callouts in the PDF with one exclusion: Figure callouts are formatted in plain text and are not hyperlinked.
+	- :ref:`HTML Figures checks from 11.5<11.5_figures_html_editorials>` (inclusive) are the same for figure callouts in the PDF with one exclusion: Figure callouts are formatted in plain text and are not hyperlinked.
 
 .. image:: /_static/pdf_figure_callouts.png
    :alt: Figure callouts
@@ -294,12 +294,12 @@ When present, ”Abbreviations:" section can be found at the end of the article 
 12.6. Check that there are no punctuation marks at the end of abbreviations line.
 
 |
-.. _aknowledgments_pdf_editorials:
+.. _acknowledgments_pdf_editorials:
 
 13. Acknowledgments
 -------------------
 
-This is an optional section that should appear after Keywords section and before Copyright section. The specific placement of this section should accord with order described in :ref:`HTML Section Headers checks<section_headers_html_editorials>` for Abbreviations through Funding.
+This is an optional section that should appear after Keywords section and before Copyright section. The specific placement of this section should accord with order described in :ref:`HTML Section Headers checks<6.2_abbreviations_html_editorials>` for Abbreviations through Funding.
 
 13.1. Check that there is no blank line between Acknowledgments: and section preceding it.
 
