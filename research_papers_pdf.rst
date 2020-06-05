@@ -1,6 +1,6 @@
 .. _pdf_research_papers:
 
-PDF: All Papers (except Editorials and News)
+PDF: All Papers (except Editorials)
 ============================================
 
 .. ATTENTION::
