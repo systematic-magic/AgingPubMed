@@ -70,6 +70,8 @@ Large Tables
     Applicable to Supplementary materials only! 
     Tables which span across 2 or more pages. Tables which fit into 2 pages should be published as PDF for convenient printing, whilst large tables should be published as Excel (.xlsx) or Word (.docx) documents. See more information in :ref:`Large tables check<large_tables_check>`
 
+    |
+
 .. _correct_case_check:
 
 How to check whether term, keyword etc is in correct case?
