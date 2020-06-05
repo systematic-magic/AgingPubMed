@@ -164,7 +164,7 @@ source are credited.`
    :scale: 99%
    :alt: PDF Section headers format
 
-- Abbreviations section is an exception. It should be formatted title case and in blue and bold font.
+- Abbreviations section is an exception. It should be formatted :ref:`title case<title_case>` and in blue and bold font.
 
 .. image:: /_static/pdf_abbreviations_header.png
    :scale: 99%
@@ -355,13 +355,13 @@ Not applicable to PDF check
 
 **16.2.2. Supplementary Figures**
 
-- When multiple figures are present, title should be Supplementary Figures - Title case, blue and bold font.
+- When multiple figures are present, title should be Supplementary Figures - :ref:`Title case<title_case>`, blue and bold font.
 
 .. image:: /_static/suppl_mult_figs_ms_pdf.png
   	:alt: Supplementary Figures title
   	:scale: 99%
 
-- When only a single figure is present, title should be Supplementary Figure - Title case, blue and bold font.
+- When only a single figure is present, title should be Supplementary Figure - :ref:`Title case<title_case>`, blue and bold font.
 
 .. image:: /_static/suppl_one_fig_ms_pdf.png
   	:alt: Supplementary Figure title
@@ -369,13 +369,13 @@ Not applicable to PDF check
 
 **16.2.3. Supplementary Tables**
 
-- When multiple tables are present, title should be Supplementary Tables - Title case, blue and bold font.
+- When multiple tables are present, title should be Supplementary Tables - :ref:`Title case<title_case>`, blue and bold font.
 
 .. image:: /_static/suppl_mult_tables_ms_pdf.png
   	:alt: Supplementary Tables title
   	:scale: 99%
 
-- When only a single table is present, title should be Supplementary Table - Title case, blue and bold font.
+- When only a single table is present, title should be Supplementary Table - :ref:`Title case<title_case>`, blue and bold font.
 
 .. image:: /_static/suppl_one_table_ms_pdf.png
   	:alt: Supplementary Table title
@@ -383,7 +383,7 @@ Not applicable to PDF check
 
 **16.2.4. Supplementary References**
 
-- Title should be Supplementary References - Title case, blue and bold font.
+- Title should be Supplementary References - :ref:`Title case<title_case>`, blue and bold font.
 
 .. image:: /_static/suppl_refs_ms_pdf.png
   	:alt: Supplementary References title
@@ -391,7 +391,7 @@ Not applicable to PDF check
 
 **16.2.5. Supplementary Materials**
 
-- Title should be Supplementary Materials - Title case, blue and bold font. This heading is used for any supplementary information, methods, etc. and should not be confused with the main SUPPLEMENTARY MATERIALS title referred to in 16.2.1.
+- Title should be Supplementary Materials - :ref:`Title case<title_case>`, blue and bold font. This heading is used for any supplementary information, methods, etc. and should not be confused with the main SUPPLEMENTARY MATERIALS title referred to in 16.2.1.
 
 .. image:: /_static/suppl_materials_ms_pdf.png
   	:alt: Supplementary materials title
