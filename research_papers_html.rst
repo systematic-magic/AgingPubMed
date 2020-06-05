@@ -439,7 +439,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 If image is hard to read, please contact Production team and ask to provide clearer images. If Production team does not have better images, then contact corresponding author.
 
-12.2. Check whether figures have :ref:`panel letters<figure_pannel>`. Both lower case and upper case :ref:`panel letters<figure_pannel>` are allowed. However, they should be used consistently: either all figures have lower case :ref:`panel letters<figure_pannel>` or all have upper case letters. Mix of formats is not allowed.
+12.2. Check whether figures have :ref:`panel letters<figure_pannel>`. Both lower case and upper case panel letters are allowed. However, they should be used consistently: either all figures have lower case panel letters or all have upper case letters. Mix of formats is not allowed.
 
 12.3. Check the figure description text (figure legend):
 
@@ -468,13 +468,13 @@ If image is hard to read, please contact Production team and ask to provide clea
    	  	:alt: Figure number
    	  	:scale: 99%
 
-	- If figure image has :ref:`panel letters<figure_pannel>`, then check that reference to each panel is present in figure legend. Reference is denoted by :ref:`panel letter<figure_pannel>` and is formatted in bold.
+	- If figure image has :ref:`panel letters<figure_pannel>`, then check that reference to each panel is present in figure legend. Reference is denoted by panel letter and is formatted in bold.
 
-	| There is one allowed format for the panel reference (case of letter should match letter case in figure image):
+	| There is one allowed format for the :ref:`panel<figure_pannel>` reference (case of letter should match letter case in figure image):
 
 	|	:sample:`(`:sampleb:`A`:sample:`)` or :sample:`(`:sampleb:`a`:sample:`)` - i.e. letter wrapped parentheses ()
 
-	| Panel letters can be combined in different ways in the figure legend text:
+	| :ref:`Panel letters<figure_pannel>` can be combined in different ways in the figure legend text:
 
 	| :sample:`(`:sampleb:`A` :sample:`and` :sampleb:`B`:sample:`)`
 
@@ -494,7 +494,7 @@ If image is hard to read, please contact Production team and ask to provide clea
    	  	:alt: Figure number
    	  	:scale: 99%
 
-	| Same variations are allowed for lower case panel letters.
+	| Same variations are allowed for lower case :ref:`panel letters<figure_pannel>`.
 
 
 	If a reference to :ref:`panel letter<figure_pannel>` is missing, then please ask author to provide one.
