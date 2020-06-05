@@ -721,7 +721,7 @@ Callouts can be found in text, figures and tables.
 
 15.1.8. List of Authors can contain :ref:`group authorship<group_authorship>` (see screenshot below). Check that group authorship is positioned at the end of List of Authors. Other positions are not allowed.
 
-15.1.9. :ref:`Group authorship<group_authorship>` must be separated from author list by comma (,) and "and" word. :ref:`Group authorship<group_authorship>` is not counted against total number of authors in the author list quota.
+15.1.9. :ref:`Group authorship<group_authorship>` must be separated from author list by comma (,) and "and" word. Group authorship is not counted against total number of authors in the author list quota.
 
 
 .. image:: /_static/ref_etal_group_auth.png
