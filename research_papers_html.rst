@@ -1033,12 +1033,16 @@ Figures will most often be kept in one PDF. Occasionally, unusually large figure
   	:alt: Supplementary materials footer
   	:scale: 99%
 
+.. _text_supplementary_html_research_papers:
+
 16.3. Text
 ^^^^^^^^^^
 
 16.3.1. Check that font face and size is used consistently throughout the supplementary file(s).
 
 16.3.2. Check that there are no blank pages (i.e. all the pages have content).
+
+.. _figures_supplementary_html_research_papers:
 
 16.4. Figures
 ^^^^^^^^^^^^^
@@ -1056,6 +1060,8 @@ Figures will most often be kept in one PDF. Occasionally, unusually large figure
 .. image:: /_static/suppl_fig_callouts.png
    :alt: Supplementary figure callouts
    :scale: 99%
+
+.. _tables_supplementary_html_research_papers:
 
 16.5. Tables
 ^^^^^^^^^^^^
@@ -1079,6 +1085,8 @@ Figures will most often be kept in one PDF. Occasionally, unusually large figure
 .. image:: /_static/suppl_table_callouts.png
    :alt: Supplementary table callouts
    :scale: 99%
+
+.. _refs_supplementary_html_research_papers:
 
 16.6. References
 ^^^^^^^^^^^^^^^^

@@ -24,7 +24,7 @@ PDF: All Papers (except Editorials and News)
 ---------------
 2.1. Check that author list is written in **black** and bold font.
 
-`+ HTML checks`
+:ref:`+ HTML checks<author_list_html_research_papers>`
 
 |
 .. _affiliations_pdf_research_papers:
@@ -33,7 +33,7 @@ PDF: All Papers (except Editorials and News)
 ---------------
 No PDF-specific checks
 
-`+ HTML checks`
+:ref:`+ HTML checks<affiliations_html_research_papers>`
 
 |
 .. _author_notes_pdf_research_papers:
@@ -42,7 +42,7 @@ No PDF-specific checks
 ---------------
 No PDF-specific checks
 
-`+ HTML checks`
+:ref:`+ HTML checks<author_notes>`
 
 |
 .. _correspondence_pdf_research_papers:
@@ -70,7 +70,7 @@ No PDF-specific checks
    :alt: Correspondence to
 
 
-`+ HTML checks`
+:ref:`+ HTML checks<correspondece_html_research_papers>`
 
 |
 .. _keywords_pdf_research_papers:
@@ -86,7 +86,7 @@ No PDF-specific checks
 
 6.4. Check that there is no punctuation mark at the end of the last keyword
 
-`+ HTML checks`
+:ref:`+ HTML checks<keywords_html_research_papers>`
 
 |
 .. _abbreviations_pdf_research_papers:
@@ -106,7 +106,7 @@ No PDF-specific checks
 	:alt: Abbreviations
 	:scale: 99%
 
-`+ HTML checks`
+:ref:`+ HTML checks<abbreviations_html_research_papers>`
 
 |
 .. _dates_pdf_research_papers:
@@ -122,7 +122,7 @@ No PDF-specific checks
    :alt: Dates
 
 
-`+ HTML checks`
+:ref:`+ HTML checks<dates_html_research_papers>`
 
 |
 .. _copyright_pdf_research_papers:
@@ -173,7 +173,7 @@ source are credited.`
 - Free-style main sections in reviews are an exception. These should be formatted in sentence case and blue font.
 
 
-`+ HTML checks`
+:ref:`+ HTML checks<section_headers_html_research_papers>`
 
 |
 .. _text_pdf_research_papers:
@@ -187,7 +187,7 @@ source are credited.`
    :alt: Hyperlink
 
 
-`+ HTML checks`
+:ref:`+ HTML checks<text_html_research_papers>`
 
 |
 .. _figures_pdf_research_papers:
@@ -201,7 +201,7 @@ source are credited.`
 
 12.2. Figures should be positioned at the bottom of the page when not occupying a full page in PDF.
 
-`+ HTML checks`
+:ref:`+ HTML checks<figures_html_research_papers>`
 
 |
 .. _tables_pdf_research_papers:
@@ -215,7 +215,7 @@ source are credited.`
 
 13.2. Tables should be positioned at the top of the page when not occupying a full page in PDF.
 
-`+ HTML checks`
+:ref:`+ HTML checks<tables_html_research_papers>`
 
 |
 .. _reference_callouts_pdf_research_papers:
@@ -229,7 +229,7 @@ source are credited.`
    :alt: Hyperlink
 
 
-`+ HTML checks`
+:ref:`+ HTML checks<reference_callouts_html_research_papers>`
 
 |
 .. _references_pdf_research_papers:
@@ -247,7 +247,7 @@ source are credited.`
 ^^^^^^^^^^^^^^^^
 No PDF-specific checks
 
-`+ HTML checks`
+:ref:`+ HTML checks<refs_author_list_html_research_papers>`
 
 |
 .. _reference_title_pdf_research_papers:
@@ -256,7 +256,7 @@ No PDF-specific checks
 ^^^^^^^^^^^^^^^^^^^^
 No PDF-specific checks
 
-`+ HTML checks`
+:ref:`+ HTML checks<reference_title_html_research_papers>`
 
 |
 .. _citation_data_in_house_pdf_research_papers:
@@ -274,7 +274,7 @@ No PDF-specific checks
    :alt: PMIDlink
 
 
-`+ HTML checks`
+:ref:`+ HTML checks<citation_data_in_house_html_research_papers>`
 
 |
 .. _citation_data_other_journals_pdf_research_papers:
@@ -292,7 +292,7 @@ No PDF-specific checks
    :alt: PMIDlink
 
 
-`+ HTML checks`
+:ref:`+ HTML checks<citation_data_other_journals_html_research_papers>`
 
 |
 .. _general_checks_pdf_research_papers:
@@ -301,7 +301,7 @@ No PDF-specific checks
 ^^^^^^^^^^^^^^^^^^^
 No PDF-specific checks
 
-`+ HTML checks`
+:ref:`+ HTML checks<general_checks_html_research_papers>`
 
 
 |
@@ -311,7 +311,7 @@ No PDF-specific checks
 ^^^^^^^^^^^^^
 No PDF-specific checks
 
-`+ HTML checks`
+:ref:`+ HTML checks<websites_html_research_papers>`
 
 |
 .. _books_pdf_research_papers:
@@ -320,7 +320,7 @@ No PDF-specific checks
 ^^^^^^^^^^^^^^^^^^^^^^
 No PDF-specific checks
 
-`+ HTML checks`
+:ref:`+ HTML checks<books_html_research_papers>`
 
 |
 .. _pdf_supplementary_research_papers:
@@ -414,7 +414,7 @@ Not applicable to PDF check - Numbered footers will most likely be present, but 
   	:alt: Supplementary materials title
   	:scale: 99%
 
-`+ HTML checks`
+:ref:`+ HTML checks<text_supplementary_html_research_papers>`
 
 16.4. Figures
 ^^^^^^^^^^^^^
@@ -425,7 +425,7 @@ Not applicable to PDF check - Numbered footers will most likely be present, but 
    :alt: Supplementary figure callouts
    :scale: 99%
 
-`+ HTML checks`
+:ref:`+ HTML checks<figures_supplementary_html_research_papers>`
 
 16.5. Tables
 ^^^^^^^^^^^^
@@ -436,21 +436,21 @@ Not applicable to PDF check - Numbered footers will most likely be present, but 
    :alt: Supplementary table callouts
    :scale: 99%
 
-`+ HTML checks`
+:ref:`+ HTML checks<tables_supplementary_html_research_papers>`
 
 16.6. References
 ^^^^^^^^^^^^^^^^
 
 No PDF-specific checks
 
-`+ HTML checks`
+:ref:`+ HTML checks<refs_supplementary_html_research_papers>`
 
 16.7. Large Tables
 ^^^^^^^^^^^^^^^^^^
 
 No PDF-specific checks
 
-`+ HTML checks`
+:ref:`+ HTML checks<large_tables_check>`
 
 
 
