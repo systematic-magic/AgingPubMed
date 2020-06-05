@@ -15,7 +15,7 @@ PDF: All Papers (except Editorials and News)
 --------
 1.1. Check that title is written in **blue** and bold font.
 
-`+ HTML checks`
+:ref:``+ HTML checks`<title_html_research_papers>`
 
 |
 .. _author_list_pdf_research_papers:
