@@ -65,7 +65,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 4. Figures
 ----------
 
-4.1. HTML :ref:`Figures checks from 11.1. to 11.4<figures_html_editorials>` (inclusive) are the same for figures in the PDF.
+4.1. :ref:`HTML Figures checks from 11.1. to 11.4<figures_html_editorials>` (inclusive) are the same for figures in the PDF.
 
 4.2. Check figure callouts in text:
 
@@ -81,7 +81,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 5. Tables
 ---------
 
-5.1. HTML :ref:`Tables checks<tables_html_editorials>` (inclusive) are the same for tables in the PDF.
+5.1. :ref:`HTML Tables checks<tables_html_editorials>` (inclusive) are the same for tables in the PDF.
 
 |
 
@@ -90,7 +90,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 6. Reference Callouts
 ---------------------
 
-6.1. HTML :ref:`Reference Callouts checks<reference_callouts_html_editorials>` (inclusive) are the same for reference callouts in the PDF with one exclusion: Reference callouts are formatted in plain text and are not hyperlinked.
+6.1. :ref:`HTML Reference Callouts checks<reference_callouts_html_editorials>` (inclusive) are the same for reference callouts in the PDF with one exclusion: Reference callouts are formatted in plain text and are not hyperlinked.
 
 .. image:: /_static/pdf_editorials_reference_callouts.png
    :alt: Reference callouts
@@ -112,7 +112,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 7.1. Author List
 ^^^^^^^^^^^^^^^^
 
-7.1.1. HTML :ref:`Author List checks<refs_author_list_html_editorials>` (inclusive) are the same for author list in the PDF.
+7.1.1. :ref:`HTML Author List checks<refs_author_list_html_editorials>` (inclusive) are the same for author list in the PDF.
 
 |
 .. _reference_title_pdf_research_papers:
@@ -120,7 +120,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 7.2. Reference Title
 ^^^^^^^^^^^^^^^^^^^^
 
-7.2.1. HTML :ref:`Reference Title checks<reference_title_html_editorials>` (inclusive) are the same for reference title in the PDF.
+7.2.1. :ref:`HTML Reference Title checks<reference_title_html_editorials>` (inclusive) are the same for reference title in the PDF.
 
 |
 .. _citation_data_in_house_pdf_research_papers:
@@ -128,7 +128,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 7.3. Citation-Data (in-house)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-HTML :ref:`Citation-Data (in-house) checks<citation_data_in_house_html_editorials>` (inclusive) are the same for Citation-Data (in-house) in the PDF except for the following exclusions:
+:ref:`HTML Citation-Data (in-house) checks<citation_data_in_house_html_editorials>` (inclusive) are the same for Citation-Data (in-house) in the PDF except for the following exclusions:
 
 7.3.1. Check that [PubMed] link is presented in PDF as "PMID:" word followed by hyperlinked PMID number.
 
@@ -146,7 +146,7 @@ HTML :ref:`Citation-Data (in-house) checks<citation_data_in_house_html_editorial
 7.4. Citation-Data (other journals)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-HTML :ref:`Citation-Data (other journals) checks<citation_data_other_journals_html_editorials>` (inclusive) are the same for Citation-Data (other journals) in the PDF except for the following exclusions:
+:ref:`HTML Citation-Data (other journals) checks<citation_data_other_journals_html_editorials>` (inclusive) are the same for Citation-Data (other journals) in the PDF except for the following exclusions:
 
 7.4.1. Check that [PubMed] link is presented in PDF as "PMID:" word followed by hyperlinked PMID number.
 
@@ -164,7 +164,7 @@ HTML :ref:`Citation-Data (other journals) checks<citation_data_other_journals_ht
 7.5. General Checks
 ^^^^^^^^^^^^^^^^^^^
 
-HTML :ref:`General Checks checks<general_checks_html_editorials>` (inclusive) are the same for General Checks in the PDF.
+:ref:`HTML General Checks checks<general_checks_html_editorials>` (inclusive) are the same for General Checks in the PDF.
 
 
 |
@@ -173,7 +173,7 @@ HTML :ref:`General Checks checks<general_checks_html_editorials>` (inclusive) ar
 7.6. Websites
 ^^^^^^^^^^^^^
 
-HTML :ref:`Websites checks<websites_html_editorials>` (inclusive) are the same for Websites in the PDF.
+:ref:`HTML Websites checks<websites_html_editorials>` (inclusive) are the same for Websites in the PDF.
 
 
 |
@@ -182,7 +182,7 @@ HTML :ref:`Websites checks<websites_html_editorials>` (inclusive) are the same f
 7.7. Books and Reports
 ^^^^^^^^^^^^^^^^^^^^^^
 
-HTML :ref:`Books and Reports checks<books_html_editorials>` (inclusive) are the same for Books and Reports in the PDF.
+:ref:`HTML Books and Reports checks<books_html_editorials>` (inclusive) are the same for Books and Reports in the PDF.
 
 |
 .. _corresp_author_pdf_editorials:
@@ -198,7 +198,7 @@ Corresponding author and affiliation can be found at the end of the article righ
 
 8.3. Check that affiliation is formatted in plain text (no special formatting).
 
-8.4. HTML :ref:`Affiliations checks<affiliations_html_editorials>` (inclusive) are the same for the affiliation in the PDF.
+8.4. :ref:`HTML Affiliations checks<affiliations_html_editorials>` (inclusive) are the same for the affiliation in the PDF.
 
 .. image:: /_static/corresp_auth.png
    :alt: Corresponding author and affiliations
