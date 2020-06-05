@@ -62,6 +62,7 @@ Figure panel
 
     .. image:: /_static/html_figure_panels.png
         :alt: Figure panels
+
     |
 
 .. _large_tables:
