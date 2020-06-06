@@ -291,9 +291,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 10.3. Check that no references are being called out in the Abstract text.
 
-10.4. Check Materials and Methods section (or its alternatives - see in :ref:`Section Headers<section_headers_html_research_papers>`) for erroneously placed hyperlinks (e.g. hyperlinked numbers in compound names).
-
-10.5. Check all website addresses in article text:
+10.4. Check all website addresses in article text:
 
 	- Check that all website addresses are hyperlinked.
 
