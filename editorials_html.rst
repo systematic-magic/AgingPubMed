@@ -291,7 +291,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 10.3. Check that no references are being called out in the Abstract text.
 
-10.4. Check Materials and Methods section (or its alternatives - see in Section Headers) for erroneously placed hyperlinks (e.g. hyperlinked numbers in compound names).
+10.4. Check Materials and Methods section (or its alternatives - see in :ref:`Section Headers<section_headers_html_research_papers>`) for erroneously placed hyperlinks (e.g. hyperlinked numbers in compound names).
 
 10.5. Check all website addresses in article text:
 
@@ -368,17 +368,18 @@ If image is hard to read, please contact Production team and ask to provide clea
    	  	:alt: Figure number
    	  	:scale: 99%
 
+
 	| Same variations are allowed for lower case :ref:`panel letters<figure_pannel>`.
 
 
 	If a reference to :ref:`panel letter<figure_pannel>` is missing, then please ask author to provide one.
 
 
-11.4. Check that figure numbers are assigned to figures continuously and there are no gaps in a sequence. In other words there should be no situation when there are figures 1, 3 and 4 in the article, but figure 2 is missing.
+11.4. Check that figure numbers are assigned to figures linearly (1, 2, 3 and so on) as well as continuously and there are no gaps in a sequence. In other words there should be no situation when there are figures 1, 3 and 4 in the article, but figure 2 is missing.
 
-At the same time, upon authors request, figures can appear in the text in any order. E.g. figure 2 before figure 1 is OK.
+At the same time, upon authors request, figures can appear in the text in any order. E.g. figure 2 before figure 1 is OK as long as they are renumbered to appear linearly throughout the text.
 
-If you see that there are gaps in number sequence, then check with corresponding author whether some figures are missing or whether it is possible to re-number the figures to eliminate the gaps.
+If you see that there are gaps in number sequence, then check with corresponding author whether some figures are missing or whether it is possible to renumber the figures to eliminate the gaps.
 
 .. _11.5_figures_html_editorials:
 
@@ -482,7 +483,7 @@ Callouts can be found in text, figures and tables.
 
 13.4. Check that there are no references for which callouts are missing (i.e. there is a reference, but there is no callout for it).
 
-13.5. Check that reference callouts appear in linear order throughout the manuscript. 1, 2, 3 and so on. Once a reference has initially been called out, it can be called out again in any order. For example, 1, 2, 3, 1, 2, 4 is OK.
+13.5. Check that reference callouts appear in linear order throughout the manuscript. 1, 2, 3 and so on. Once a reference has initially been called out, it can be called out again in any order. For example, 1, 2, 3, 1, 2, 4 is OK. Sometimes callouts can appear to be out of linear order due to being called out in tables - This is OK as long as all other callouts are following linear order.
 
 	If one or more references or callouts are missing or are being called out of linear order in the text, please contact author.
 

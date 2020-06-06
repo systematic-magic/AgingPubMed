@@ -181,7 +181,7 @@ If there are several author notes, then each note should have **different** symb
 .. image:: /_static/corr_format.png
    :alt: Correspondence format
 
-5.6. Check that author’s name does NOT contain titles and/or degrees (e.g. Dr., Ph.D., M.D., etc.)
+5.6. Check that author’s name does NOT contain titles and/or degrees (e.g. Dr., Ph.D., M.D., etc.).
 
 5.7. Check that email address is hyperlinked.
 
@@ -421,7 +421,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 11.3. Check that no references are being called out in the Abstract text.
 
-11.4. Check Materials and Methods section (or its alternatives - see in Section Headers) for erroneously placed hyperlinks (e.g. hyperlinked numbers in compound names).
+11.4. Check Materials and Methods section (or its alternatives - see in :ref:`Section Headers<section_headers_html_research_papers>`) for erroneously placed hyperlinks (e.g. hyperlinked numbers in compound names).
 
 11.5. Check all website addresses in article text:
 
@@ -494,17 +494,18 @@ If image is hard to read, please contact Production team and ask to provide clea
    	  	:alt: Figure number
    	  	:scale: 99%
 
+
 	| Same variations are allowed for lower case :ref:`panel letters<figure_pannel>`.
 
 
 	If a reference to :ref:`panel letter<figure_pannel>` is missing, then please ask author to provide one.
 
 
-12.4. Check that figure numbers are assigned to figures continuously and there are no gaps in a sequence. In other words there should be no situation when there are figures 1, 3 and 4 in the article, but figure 2 is missing.
+12.4. Check that figure numbers are assigned to figures linearly (1, 2, 3 and so on) as well as continuously and there are no gaps in a sequence. In other words there should be no situation when there are figures 1, 3 and 4 in the article, but figure 2 is missing.
 
-At the same time, upon authors request, figures can appear in the text in any order. E.g. figure 2 before figure 1 is OK.
+At the same time, upon authors request, figures can appear in the text in any order. E.g. figure 2 before figure 1 is OK as long as they are renumbered to appear linearly throughout the text.
 
-If you see that there are gaps in number sequence, then check with corresponding author whether some figures are missing or whether it is possible to re-number the figures to eliminate the gaps.
+If you see that there are gaps in number sequence, then check with corresponding author whether some figures are missing or whether it is possible to renumber the figures to eliminate the gaps.
 
 12.5. Check figure callouts in the text:
 
@@ -610,11 +611,11 @@ If table is hard to read, please contact Production team and ask to increase fon
 
 13.4. Check that table font, title font and notes (additional information) fonts are used consistently within the article (i.e. font should not vary from table to table).
 
-13.5. Check table numbers. Tables should be numbered continuously, so there are no gaps in the sequence. In other words, there should be no situation when there are tables 1, 3 and 4 in the article, but table 2 is missing.
+13.5. Check table numbers. Tables should be numbered linearly (1, 2, 3 and so on) as well as continuously, so there are no gaps in the sequence. In other words, there should be no situation when there are tables 1, 3 and 4 in the article, but table 2 is missing.
 
-At the same time, upon authors request, tables can appear in the text in any order. E.g. table 2 before table 1 is OK.
+At the same time, upon authors request, tables can appear in the text in any order. E.g. table 2 before table 1 is OK as long as they are renumbered to appear linearly throughout the text.
 
-If you see that there are gaps in number sequence, then check with corresponding author whether some tables are missing or whether it is possible to re-number the tables to eliminate the gaps.
+If you see that there are gaps in number sequence, then check with corresponding author whether some tables are missing or whether it is possible to renumber the tables to eliminate the gaps.
 
 13.6. Check table callouts in the text:
 
@@ -674,7 +675,7 @@ Callouts can be found in text, figures and tables.
 
 14.4. Check that there are no references for which callouts are missing (i.e. there is a reference, but there is no callout for it).
 
-14.5. Check that reference callouts appear in linear order throughout the manuscript. 1, 2, 3 and so on. Once a reference has initially been called out, it can be called out again in any order. For example, 1, 2, 3, 1, 2, 4 is OK.
+14.5. Check that reference callouts appear in linear order throughout the manuscript. 1, 2, 3 and so on. Once a reference has initially been called out, it can be called out again in any order. For example, 1, 2, 3, 1, 2, 4 is OK. Sometimes callouts can appear to be out of linear order due to being called out in tables - This is OK as long as all other callouts are following linear order.
 
 	If one or more references or callouts are missing or are being called out of linear order in the text, please contact author.
 
@@ -893,7 +894,7 @@ If the link is not valid, please contact author to provide a working link.
 15.7. Books and Reports
 ^^^^^^^^^^^^^^^^^^^^^
 
-15.7.1. There is no standard for books and reports. However at least "Title, Year, (Author name for book references)" should be there. 
+15.7.1. There is no standard for books and reports. However at least "Title, Year, (Author name for book references)" should be present. 
 
 |
 .. _supplementary_html_research_papers:
@@ -1053,7 +1054,7 @@ Figures will most often be kept in one PDF. Occasionally, unusually large figure
    :alt: Supplementary figure name
    :scale: 99%
 
-16.4.2. Check supplementary figure callouts in the supplementary materials:
+16.4.2. Check supplementary figure callouts in the article text:
 
 	- HTML :ref:`Figures checks from 12.5<figures_html_research_papers>` (inclusive) are applicable to supplementary figure callouts with one exclusion: instead of **Figure N**, callouts should appear as **Supplementary Figure N**.
 
@@ -1091,7 +1092,7 @@ Figures will most often be kept in one PDF. Occasionally, unusually large figure
 16.6. References
 ^^^^^^^^^^^^^^^^
 
-16.6.1. If there are references present in the supplementary materials, then they should be checked in accordance with PDF :ref:`References checks<references_pdf_research_papers>`.
+16.6.1. If there are references present in the supplementary materials, then they should be checked in accordance with :ref:`PDF References checks<references_pdf_research_papers>`.
 
 	- The supplementary materials must have its own reference list (separate from the reference list in the main manuscript) when references are being called out there.
 
@@ -1113,7 +1114,7 @@ Tables which fit into 2 pages are "normal tables" and should be published as PDF
 
 16.7.2. Check whether large table was supplied by the author in Word (.docx) format. If so, check whether large table contains complex formatting (e.g. nested cells, subcategories etc) which is likely to be disturbed by conversion to Excel (.xlsx).
 
-- If conversion to Excel (.xlsx) is feasible, ask Production team to convert the large table in the Word (.docx) format to Excel (.xlsx) format
+- If conversion to Excel (.xlsx) is feasible, ask Production team to convert the large table in the Word (.docx) format to Excel (.xlsx) format.
 
 - If conversion to Excel (.xlsx) is **not** feasible, then such large table is to be published as a separate Word (.docx) supplementary file.
 
