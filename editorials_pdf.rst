@@ -16,6 +16,7 @@ PDF: Editorials
 1.3. Check that title is written in blue and bold font. Note: title of editorials is written in smaller font than title of research papers.
 
 1.4. Check that capitalisation of scientific terms is correct.
+We suggest the you use the :ref:`following procedure<correct_case_check>`, if in you are in doubt regarding this or that term.
 
 1.5. Check that following Latin terms are written in italics: *in vivo, in vitro, in utero, in situ*. 
 For other Latin terms either italics or :ref:`plain text<plain_text>` is acceptable.
@@ -211,15 +212,19 @@ Corresponding author and affiliation can be found at the end of the article righ
 
 "Correspondence:" section can be found at the end of the article right after the Corresponding author and affiliation.
 
-9.1. Check that correspondence section has a title “Correspondence:” (:ref:`title case<title_case>` and followed by colon (:)).
+9.1. Check that correspondence section is separated from corresponding author and affiliation section by blank line.
 
-9.2. Check that "Correspondence:" is formatted in black, bold and italic font.
+9.2. Check that correspondence section has a title “Correspondence:” (:ref:`title case<title_case>` and followed by colon (:)).
 
-9.3. Check that "Correspondence:" is followed by full author name. In case of multiple corresponding authors, full names should be divided by comma (,).
+9.3. Check that "Correspondence:" is formatted in black, bold and italic font.
 
-9.4. Check that full author name is formatted in italic font.
+9.4. Check that "Correspondence:" is followed by full author name. In case of multiple corresponding authors, full names should be divided by comma (,).
 
-9.5. Check that author’s full name matches the author list (at the top of the paper) and the "Corresponding author and affiliation" (above).
+9.5. Check that full author name is formatted in italic font.
+
+9.6. Check that there are no punctuation marks at the end of correspondence line.
+
+9.7. Check that author’s full name matches the author list (at the top of the paper) and the "Corresponding author and affiliation" (above).
 
 
 .. image:: /_static/correspondence.png
@@ -242,6 +247,8 @@ Corresponding author and affiliation can be found at the end of the article righ
 10.4. Check that "Email:" is followed by hyperlinked email address (only one email is allowed in PDF regardless of the number of emails for the corresponding author in HTML).
 
 10.5. Check that email address is formatted in blue, underlined, italic font.
+
+10.6. Check that there are no punctuation marks at the end of email line.
 
 
 .. image:: /_static/email.png
