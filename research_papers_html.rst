@@ -617,6 +617,8 @@ At the same time, upon authors request, tables can appear in the text in any ord
 
 If you see that there are gaps in number sequence, then check with corresponding author whether some tables are missing or whether it is possible to renumber the tables to eliminate the gaps.
 
+.. _13.6_tables_html_research_papers:
+
 13.6. Check table callouts in the text:
 
 	- Check the format of table callouts:
@@ -1081,7 +1083,7 @@ Figures will most often be kept in one PDF. Occasionally, unusually large figure
 
 16.5.2. Check supplementary table callouts in the article text:
 
-	- HTML :ref:`Tables checks from 13.6<tables_html_research_papers>` (inclusive) are applicable to supplementary table callouts with one exclusion: instead of **Table N**, callouts should appear as **Supplementary Table N**.
+	- HTML :ref:`Tables checks from 13.6<13.6_tables_html_research_papers>` (inclusive) are applicable to supplementary table callouts with one exclusion: instead of **Table N**, callouts should appear as **Supplementary Table N**.
 
 .. image:: /_static/suppl_table_callouts.png
    :alt: Supplementary table callouts
