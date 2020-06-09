@@ -49,7 +49,7 @@ No PDF-specific checks
 
 5. Correspondence
 -----------------
-5.1. Check that correspondence section has a title “Correspondence to:” (starts with capital letter and followed by colon (:)).
+5.1. Check that correspondence section has a title “Correspondence to:” (:ref:`sentence case<sentence_case>` and followed by colon (:)).
 
 5.2. Check that "Correspondence to:" is in black and bold font.
 
@@ -78,7 +78,7 @@ No PDF-specific checks
 6. Keywords
 -----------
 
-6.1. Check that Keywords section has a title "Keywords:" (starts with capital letter and followed by colon (:)).
+6.1. Check that Keywords section has a title "Keywords:" (:ref:`title case<title_case>` and followed by colon (:)).
 
 6.2. Check that "Keywords:" is in black and bold font.
 
@@ -130,7 +130,7 @@ No PDF-specific checks
 9. Copyright
 ------------
 
-9.1. Check that copyright section has a title "Copyright:" (starts with capital letter and followed by a colon (:)).
+9.1. Check that copyright section has a title "Copyright:" (:ref:`title case<title_case>` and followed by a colon (:)).
 
 9.2. Check that "Copyright:" is formatted in black and bold font.
 
@@ -391,7 +391,8 @@ Not applicable to PDF check
 
 **16.2.5. Supplementary Materials**
 
-- Title should be Supplementary Materials - :ref:`Title case<title_case>`, blue and bold font. This heading is used for any supplementary information, methods, etc. and should not be confused with the main SUPPLEMENTARY MATERIALS title referred to in 16.2.1.
+- Title should be Supplementary Materials - :ref:`Title case<title_case>`, blue and bold font. This heading is used for any supplementary information, methods, etc. and should not be confused with the main SUPPLEMENTARY MATERIALS title referred to in :ref:`16.2.1<pdf_supplementary_research_papers>`.
+
 
 .. image:: /_static/suppl_materials_ms_pdf.png
   	:alt: Supplementary materials title
