@@ -509,7 +509,7 @@ Callouts can be found in text, figures and tables.
 
 14.1.2. Check that initials have no more than 4 letters and have NO hyphens or spaces in-between.
 
-14.1.3. Check all the :ref:`mononym<mononym>` (names which have no initials) to be “true” mononyms (check PubMed site).
+14.1.3. Check all the :ref:`mononym<mononym>` (names which have no initials) to be “true” mononyms (check `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site).
 
 14.1.4. Check that List of Authors contains either of the following:
 
@@ -609,7 +609,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 
 - Page numbers must be written in shortened format (12063-74) and followed by a period (.). There should be a space after period. Occasionally, there are cases where a reference may only have one page number, which is fine.
 
-- DOI must be present (when available) and in "https://doi.org" format. It should be highlighted in blue and should be an active link leading to the correct article page. There must be no period at the end. When checking for DOI’s, please consult the PubMed site, https://www.crossref.org/ or the applicable journal website, if necessary.
+- DOI must be present (when available) and in "https://doi.org" format. It should be highlighted in blue and should be an active link leading to the correct article page. There must be no period at the end. When checking for DOI’s, please consult the `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site, https://www.crossref.org/ or the applicable journal website, if necessary.
 
 - “[PubMed]” link must be present (when available), should be highlighted in blue and should be an active link leading to the article page on the PubMed website. There must be no period at the end.
 
@@ -634,7 +634,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 
 If you find duplicate references, please contact author and ask to correct the reference list along with renumbering reference call-outs.
 
-14.5.2. Check for references containing journal title in English and original language (e.g. "International journal of cancer" and "Journal international du cancer"). Remove title in original language and leave English version. If there is just a "foreign language" version present, it is OK to leave that version (no need to find English one). Consult PubMed if in doubt of the correct journal name.
+14.5.2. Check for references containing journal title in English and original language (e.g. "International journal of cancer" and "Journal international du cancer"). Remove title in original language and leave English version. If there is just a "foreign language" version present, it is OK to leave that version (no need to find English one). Consult `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ if in doubt of the correct journal name.
 
 14.5.3. Check for extra information in the references (i.e. in addition to "standard" information). Remove all extra information.
    
