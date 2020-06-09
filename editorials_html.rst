@@ -423,7 +423,7 @@ If image is hard to read, please contact Production team and ask to provide clea
 	- Check that figure has at least 1 callout in the text.
 
 
-11.5. Check that figure and its legend are displaying properly in pop-out window
+11.5. Check that figure and its legend are displaying properly in pop-out window.
 
 	.. image:: /_static/html_fig_popout.png
    	  	:alt: Figure number
@@ -612,7 +612,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 - Check that there is a period (.) after year followed by a space.
 - Check that there is a period (.) after “[Epub ahead of print]” followed by a space. 
 - Check that “[Epub ahead of print]” appears after year and before DOI.
-- If you come across an Epub reference, be sure to verify whether publishing information has since been released. If publishing information is available, then please add vol, pg numbers, etc. and format as directed above in section :ref:`14.4.1<.. _citation_data_other_journals_html_editorials:>`.
+- If you come across an Epub reference, be sure to verify whether publishing information has since been released. If publishing information is available, then please add vol, pg numbers, etc. and format as directed above in section :ref:`14.4.1<citation_data_other_journals_html_editorials>`.
 
 
 .. image:: /_static/html_editorials_ref_ahead_of_print.png
