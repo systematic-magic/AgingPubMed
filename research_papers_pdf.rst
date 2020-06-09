@@ -49,9 +49,9 @@ No PDF-specific checks
 
 5. Correspondence
 -----------------
-5.1. Check that correspondence section has a title “Correspondence to:” (starts with capital letter and followed by colon (:))
+5.1. Check that correspondence section has a title “Correspondence to:” (starts with capital letter and followed by colon (:)).
 
-5.2. Check that "Correspondence to:" is in black and bold font
+5.2. Check that "Correspondence to:" is in black and bold font.
 
 5.3. Check that "Correspondence to:" is followed by full author name. If there are a few corresponding authors, then all corresponding author full names should be listed after "Correspondence to:" and divided by comma (,).
 
@@ -63,7 +63,7 @@ No PDF-specific checks
 
 5.6. Check that corresponding author email address (or email addresses if there are a few of corresponding authors) are listed after "email:. If there are a few emails, then check that those are divided by comma (,).
 
-5.7. Check that there is no punctuation mark at the end of the last email
+5.7. Check that there is no punctuation mark at the end of the last email.
 
 
 .. image:: /_static/correspndence_to.png
@@ -78,13 +78,13 @@ No PDF-specific checks
 6. Keywords
 -----------
 
-6.1. Check that Keywords section has a title "Keywords:" (starts with capital letter and followed by colon (:))
+6.1. Check that Keywords section has a title "Keywords:" (starts with capital letter and followed by colon (:)).
 
-6.2. Check that "Keywords:" is in black and bold font
+6.2. Check that "Keywords:" is in black and bold font.
 
-6.3. If there are multiple keywords, check that they are divided by a comma (,)
+6.3. If there are multiple keywords, check that they are divided by a comma (,).
 
-6.4. Check that there is no punctuation mark at the end of the last keyword
+6.4. Check that there is no punctuation mark at the end of the last keyword.
 
 :ref:`+ HTML checks<keywords_html_research_papers>`
 
@@ -94,7 +94,7 @@ No PDF-specific checks
 7. Abbreviations
 ---------------
 
-7.1. Abbreviations should be kept underneath keywords in the abstract section when there are 5 or less present. Please note that this is only applicable to the PDF, and Abbreviations are always kept in the final sections for HTML.
+7.1. Abbreviations should be kept underneath keywords in the abstract section when there are 5 or less present. Please note that this is only applicable to the PDF, and abbreviations are always kept in the final sections in HTML.
 
 7.2. Check that abbreviations section has a title “Abbreviations:”. It should start with capital letter and be followed by colon (:).
 
@@ -130,9 +130,9 @@ No PDF-specific checks
 9. Copyright
 ------------
 
-9.1. Check that copyright section has a title "Copyright:" (starts with capital letter and followed by a colon (:))
+9.1. Check that copyright section has a title "Copyright:" (starts with capital letter and followed by a colon (:)).
 
-9.2. Check that "Copyright:" is formatted in black and bold font
+9.2. Check that "Copyright:" is formatted in black and bold font.
 
 9.3. Check that copyright string starts with:
 
@@ -140,7 +140,7 @@ No PDF-specific checks
 
 **or** 
 
-:sample:`two last names divided by "and"` (if there are only two authors in the article)
+:sample:`two last names divided by "and" and followed by a period (.)` (if there are only two authors in the article)
 
 and followed by:
 
