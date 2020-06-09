@@ -69,7 +69,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 
 4.2. Check figure callouts in text:
 
-	- :ref:`HTML Figures checks from 11.5<11.5_figures_html_editorials>` (inclusive) are the same for figure callouts in the PDF with one exclusion: Figure callouts are formatted in :ref:`plain text<plain_text>` and are not hyperlinked.
+	- :ref:`HTML Figures checks from 11.5<11.4_figures_html_editorials>` (inclusive) are the same for figure callouts in the PDF with one exclusion: Figure callouts are formatted in :ref:`plain text<plain_text>` and are not hyperlinked.
 
 .. image:: /_static/pdf_figure_callouts.png
    :alt: Figure callouts
