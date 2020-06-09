@@ -370,9 +370,9 @@ This is an optional section that should appear after Keywords section and before
 
 16.4. Check that "Copyright:" is followed by one of the following options:
 
-	- single author surname followed by dot (.) [in case where paper has only one author]
+	- single author surname followed by period (.) [in case where paper has only one author]
 
-	- 2 author surnames divided by "and" and followed by dot (.) [in case where paper has 2 authors]
+	- 2 author surnames divided by "and" and followed by period (.) [in case where paper has 2 authors]
 
 	- one author surname followed by `et al.` [in case where paper has more than 2 authors]
 
