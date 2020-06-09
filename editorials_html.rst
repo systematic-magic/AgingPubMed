@@ -34,11 +34,14 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 2. Author list
 --------------
 
-2.1. The number of authors is limited to three.
+.. Note::
+	
+	The number of authors is limited to three for editorials. Please check all deviations with Olga at krasnova@impactaging.com while copying PubMed team manager. |br|
 
-2.2. Check that all author names in author list are separated by commas (,). No other separators allowed.
 
-2.3. Check that there is no period (or any other punctuation mark) after the last author name.
+2.1. Check that all author names in author list are separated by commas (,). No other separators allowed.
+
+2.2. Check that there is no period (or any other punctuation mark) after the last author name.
 
 .. image:: /_static/html_author_list_separ.png
    :alt: Author list separators
@@ -102,7 +105,7 @@ If there is only one affiliation text for all authors, then each author name sho
 3. Affiliations
 ---------------
 
-3.1. Check spelling of English words only
+3.1. Check spelling of English words only.
 
 3.2. Check that there are NO street addresses and house numbers included in affiliation.
 
@@ -156,7 +159,7 @@ All acceptable combinations of “Current/Present address” are depicted on the
 .. image:: /_static/corr_format.png
    :alt: Correspondence format
 
-4.6. Check that author’s name does NOT contain titles and/or degrees (e.g. Dr., Ph.D., M.D., etc.)
+4.6. Check that author’s name does NOT contain titles and/or degrees (e.g. Dr., Ph.D., M.D., etc.).
 
 4.7. Check that email address is hyperlinked.
 
@@ -287,11 +290,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 10.1. Check that font type and size is consistent across all sections (except for References) of the article. 
 
-10.2. Check that there is a period (.) at the end of the Abstract text.
-
-10.3. Check that no references are being called out in the Abstract text.
-
-10.4. Check all website addresses in article text:
+10.2. Check all website addresses in article text:
 
 	- Check that all website addresses are hyperlinked.
 
@@ -373,15 +372,9 @@ If image is hard to read, please contact Production team and ask to provide clea
 	If a reference to :ref:`panel letter<figure_pannel>` is missing, then please ask author to provide one.
 
 
-11.4. Check that figure numbers are assigned to figures linearly (1, 2, 3 and so on) as well as continuously and there are no gaps in a sequence. In other words there should be no situation when there are figures 1, 3 and 4 in the article, but figure 2 is missing.
+.. _11.4_figures_html_editorials:
 
-At the same time, upon authors request, figures can appear in the text in any order. E.g. figure 2 before figure 1 is OK as long as they are renumbered to appear linearly throughout the text.
-
-If you see that there are gaps in number sequence, then check with corresponding author whether some figures are missing or whether it is possible to renumber the figures to eliminate the gaps.
-
-.. _11.5_figures_html_editorials:
-
-11.5. Check figure callouts in the text:
+11.4. Check figure callouts in the text:
 
 	- Check the format of figure callouts:
 
@@ -427,13 +420,10 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 	- Check that words "Figure" or "Fig." as well as number (and letter) are hyperlinked.
 
-	- Check that each figure has at least 1 callout in the text.
+	- Check that figure has at least 1 callout in the text.
 
-	- Check that figure callouts appear in linear order throughout the manuscript. 1, 2, 3 and so on. Once a figure has initially been called out, it can be called out again in any order. For example, 1, 2, 3, 1, 2, 4 is OK.
 
-	If one or more callouts are missing or are being called out of linear order in the text, please contact author.
-
-11.6. Check that figures and their legends are displaying properly in pop-out window
+11.5. Check that figure and its legend are displaying properly in pop-out window
 
 	.. image:: /_static/html_fig_popout.png
    	  	:alt: Figure number
@@ -551,6 +541,8 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 
 	This is the only acceptable spelling. No variations are allowed.
 
+.. _14.3.2_citation_data_in_house_html_editorials:
+
 14.3.2. Check that journal citation-data has the following elements in this order: |br|
 |span_format_start| JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
 
@@ -575,7 +567,8 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 - Check that there is a period (.) after year followed by a space.
 - Check that there is a period (.) after “[Epub ahead of print]” followed by a space. 
 - Check that “[Epub ahead of print]” appears after year and before DOI.
-- If you come across an Epub reference, be sure to verify whether publishing information has since been released. If publishing information is available, then please add vol, pg numbers, etc. and format as directed above in section 15.3.2.
+- If you come across an Epub reference, be sure to verify whether publishing information has since been released. If publishing information is available, then please add vol, pg numbers, etc. and format as directed above in section :ref:`14.3.2<14.3.2_citation_data_in_house_html_editorials>`.
+
 
 .. image:: /_static/html_editorials_ref_ahead_of_print.png
    :alt: Ahead of Print
@@ -619,7 +612,8 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 - Check that there is a period (.) after year followed by a space.
 - Check that there is a period (.) after “[Epub ahead of print]” followed by a space. 
 - Check that “[Epub ahead of print]” appears after year and before DOI.
-- If you come across an Epub reference, be sure to verify whether publishing information has since been released. If publishing information is available, then please add vol, pg numbers, etc. and format as directed above in section 15.4.1.
+- If you come across an Epub reference, be sure to verify whether publishing information has since been released. If publishing information is available, then please add vol, pg numbers, etc. and format as directed above in section :ref:`14.4.1<.. _citation_data_other_journals_html_editorials:>`.
+
 
 .. image:: /_static/html_editorials_ref_ahead_of_print.png
    :alt: Ahead of Print
