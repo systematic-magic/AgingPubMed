@@ -361,11 +361,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 	- **Research Perspectives**
 		
-		:blue:`Abstract` - mandatory - [:ref:`title case<title_case>`, in blue]
-	
-
-		Research Perspectives usually have free-style (research related) section headers.
-	
+		:blue:`Abstract` - mandatory - [:ref:`title case<title_case>`, in blue]	
 
 		:wtonbl:`Abbreviations` - optional - [title case, in white on blue background]
 
