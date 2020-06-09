@@ -239,7 +239,7 @@ Abbreviations are optional.
 
 **or** 
 
-:sample:`two last names divided by "and"` (if there are only two authors in the article)
+:sample:`two last names divided by "and" and followed by a period (.)` (if there are only two authors in the article)
 
 and followed by:
 
@@ -505,7 +505,7 @@ Callouts can be found in text, figures and tables.
 
 - One author name followed by comma (,) and “et al.”
 
-- Two author names divided by comma (,) and followed by dot (.)
+- Two author names divided by comma (,) and followed by period (.)
 
 .. image:: /_static/html_editorials_ref_auth.png
    :alt: Max number of authors
