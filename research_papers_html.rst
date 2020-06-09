@@ -259,7 +259,7 @@ Abbreviations are optional.
 
 **or** 
 
-:sample:`two last names divided by "and"` (if there are only two authors in the article)
+:sample:`two last names divided by "and" and followed by a period (.)` (if there are only two authors in the article)
 
 and followed by:
 
