@@ -228,7 +228,7 @@ Abbreviations are optional.
 
 8. Copyright
 ------------
-8.1. Check that copyright section has a title "Copyright ©" (:ref:`title case<title_case>`and followed by copyright symbol (©)).
+8.1. Check that copyright section has a title "Copyright ©" (:ref:`title case<title_case>` and followed by copyright symbol (©)).
 
 8.2. Check that copyright string starts with a YEAR followed by:
 
