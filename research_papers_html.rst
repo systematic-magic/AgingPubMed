@@ -692,7 +692,7 @@ Callouts can be found in text, figures and tables.
 |span_format_start| LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th) |span_end|
 
 
-.. image:: /_static/pic9_author_name_format.png
+.. image:: /_static/author_name_format.png
    :alt: Author Names format
 
 15.1.2. Check that initials have no more than 2 letters and have NO hyphens or spaces in-between.
