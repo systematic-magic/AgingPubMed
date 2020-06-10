@@ -308,7 +308,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 		:wtonbl:`Materials and Methods` - mandatory - (alternatively can be :wtonbl:`Methods` or :wtonbl:`Patients and Methods`) - [title case, in white on blue background]
 
-		:headr2:`Ethics statement` - optional - (if present, it should only appear as a subheader in :wtonbl:`MATERIALS AND METHODS` section) [:ref:`sentence case<sentence_case>`, in black]
+		:headr2:`Ethics statement` - optional - (if present, it should only appear as a subheader in :wtonbl:`Materials and Methods` section) [:ref:`sentence case<sentence_case>`, in black]
 
 		:wtonbl:`Supplementary Materials` - optional - [title case, in white on blue background]
 
