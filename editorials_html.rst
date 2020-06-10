@@ -641,6 +641,14 @@ If you find duplicate references, please contact author and ask to correct the r
 
 14.5.5. Remove “PMID” and “PMCID” details, if present in any reference.
 
+14.5.6. Check formatting for references that have been cited from supplemental issues. This information should appear in between the publishing year and semicolon in this format:
+
+   | :sampleb:`(Suppl N)` (where “N” is the supplemental issue number)
+
+
+	.. image:: /_static/suppl_issue_formatting.png
+   	  	:alt: Supplemental issue formatting
+   	  	:scale: 99%
 
 |
 .. _websites_html_editorials:
