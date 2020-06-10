@@ -497,7 +497,7 @@ Callouts can be found in text, figures and tables.
 .. image:: /_static/pic9_author_name_format.png
    :alt: Author Names format
 
-14.1.2. Check that initials have no more than 4 letters and have NO hyphens or spaces in-between.
+14.1.2. Check that initials have no more than 2 letters and have NO hyphens or spaces in-between.
 
 14.1.3. Check all the :ref:`mononym<mononym>` (names which have no initials) to be “true” mononyms (check `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site).
 
