@@ -694,6 +694,7 @@ Callouts can be found in text, figures and tables.
 
 .. image:: /_static/author_name_format.png
    :alt: Author Names format
+   :scale: 99%
 
 15.1.2. Check that initials have no more than 2 letters and have NO hyphens or spaces in-between.
 
