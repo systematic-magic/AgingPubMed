@@ -906,9 +906,19 @@ If the link is not valid, please contact author to provide a working link.
 |
 .. _supplementary_html_research_papers:
 
-
 16. Supplementary Materials
 ---------------------------
+
+.. Note::
+	
+	Supplementary materials are located in two places:
+
+	1. HTML page  (after Materials and Methods section) - All supplementary materials are available here as separate downloads.
+
+	2. PDF of the main manuscript (after References) - All supplementary materials that can be placed in a PDF are available here. Any materials that cannot fit in PDF due to formatting or size will have callouts to the HTML where they can be downloaded and viewed. 
+
+	This check is for the supplementary materials in HTML. Checks for supplementary materials in the PDF can be found :ref:`here<pdf_supplementary_research_papers>`.
+
 
 Check each supplementary file to verify contents.
 
