@@ -123,7 +123,7 @@ Tables are not used for editorials.
 7.2. Reference Title
 ^^^^^^^^^^^^^^^^^^^^
 
-7.2.1. :ref:`HTML Reference Title checks<reference_title_html_editorials>` (inclusive) are the same for reference title in the PDF.
+Reference title should not be present.
 
 |
 .. _citation_data_in_house_pdf_research_papers:
