@@ -170,7 +170,7 @@ source are credited.`
    :scale: 99%
    :alt: PDF Abbreviations header format
 
-- Free-style main sections in reviews are an exception. These should be formatted in :ref:`sentence case<sentence_case>` and blue font.
+- Free-style main sections in Reviews and Research Perspectives are an exception. These should be formatted in :ref:`sentence case<sentence_case>` and blue font.
 
 
 :ref:`+ HTML checks<section_headers_html_research_papers>`
