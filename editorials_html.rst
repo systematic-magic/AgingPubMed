@@ -564,7 +564,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 
 - “[PubMed]” link must be present (when available), should be highlighted in blue and should be an active link leading to the article page on the PubMed website. There must be no period at the end.
 
-14.3.3. There can be references to the articles in which have been published "ahead of print". The format of citation data for such articles is as follows:
+14.3.3. There can be references to the articles which have been published "ahead of print". The format of citation data for such articles is as follows:
 |span_format_start| JournalTitle. year. [Epub ahead of print]. DOI [PubMed] |span_end|
 
 - Check that there is a period (.) after year followed by a space.
@@ -609,7 +609,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 
 - “[PubMed]” link must be present (when available), should be highlighted in blue and should be an active link leading to the article page on the PubMed website. There must be no period at the end.
 
-14.4.2. There can be references to the articles in which have been published "ahead of print". The format of citation data for such articles is as follows:
+14.4.2. There can be references to the articles which have been published "ahead of print". The format of citation data for such articles is as follows:
 |span_format_start| JournalTitle. year. [Epub ahead of print]. DOI [PubMed] |span_end|
 
 - Check that there is a period (.) after year followed by a space.
