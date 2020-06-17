@@ -84,7 +84,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 5. Tables
 ---------
 
-5.1. :ref:`HTML Tables checks<tables_html_editorials>` (inclusive) are the same for tables in the PDF.
+Tables are not used for editorials.
 
 |
 
