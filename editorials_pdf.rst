@@ -57,6 +57,8 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 
 	- Check that all website addresses are hyperlinked in blue color and underlined font.
 
+	- Check that all website addresses have "http://" or "https://" present.
+
 	- Check that all website addresses lead to valid page.
 
 
