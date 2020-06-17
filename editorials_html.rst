@@ -294,6 +294,8 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 	- Check that all website addresses are hyperlinked.
 
+	- Check that all website addresses have "http://" or "https://" present.
+
 	- Check that all website addresses lead to valid page.
 
 |
