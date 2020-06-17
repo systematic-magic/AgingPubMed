@@ -363,7 +363,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 		
 		:blue:`Abstract` - mandatory - [:ref:`title case<title_case>`, in blue]	
 
-		Research Perspective usually have free-style (research related) section headers. These headers should be formatted in :ref:`sentence case<sentence_case>` and can be coloured in white on blue background.
+		Research Perspectives usually have free-style (research related) section headers. These headers should be formatted in :ref:`sentence case<sentence_case>` and can be coloured in white on blue background.
 
 		:wtonbl:`Abbreviations` - optional - [title case, in white on blue background]
 
