@@ -288,7 +288,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 10. Text
 --------
 
-10.1. Check that font type and size is consistent across all sections (except for References) of the article. 
+10.1. Check that font type and size is consistent across all sections of the article. 
 
 10.2. Check all website addresses in article text:
 

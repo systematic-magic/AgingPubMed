@@ -413,7 +413,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 11. Text
 --------
 
-11.1. Check that font type and size is consistent across all sections (except for References) of the article. 
+11.1. Check that font type and size is consistent across all sections of the article. 
 
 11.2. Check that there is a period (.) at the end of the Abstract text.
 
