@@ -349,18 +349,12 @@ Supplementary materials should be located after the references of the main MS in
 
 Check to make sure that all supplementary materials in the PDF match what we have on the website.
 
+.. _16.1_pdf_supplementary_research_papers:
 
-16.1. Download File Names
-^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Not applicable to PDF check
-
-.. _16.2_pdf_supplementary_research_papers:
-
-16.2. Title and Footer
+16.1. Title and Footer
 ^^^^^^^^^^^^^^^^^^^^^^
 
-**16.2.1. Main Title**
+**16.1.1. Main Title**
 
 - Main title should appear at the top of the first page of the supplementary materials - Title should be ALL CAPS, blue and bold font.
 
@@ -368,7 +362,7 @@ Not applicable to PDF check
   	:alt: Supplementary Materials main title
   	:scale: 99%
 
-**16.2.2. Supplementary Figures**
+**16.1.2. Supplementary Figures**
 
 - When multiple figures are present, title should be Supplementary Figures - :ref:`Title case<title_case>`, blue and bold font.
 
@@ -382,7 +376,7 @@ Not applicable to PDF check
   	:alt: Supplementary Figure title
   	:scale: 99%
 
-**16.2.3. Supplementary Tables**
+**16.1.3. Supplementary Tables**
 
 - When multiple tables are present, title should be Supplementary Tables - :ref:`Title case<title_case>`, blue and bold font.
 
@@ -396,7 +390,7 @@ Not applicable to PDF check
   	:alt: Supplementary Table title
   	:scale: 99%
 
-**16.2.4. Supplementary References**
+**16.1.4. Supplementary References**
 
 - Title should be Supplementary References - :ref:`Title case<title_case>`, blue and bold font.
 
@@ -404,23 +398,23 @@ Not applicable to PDF check
   	:alt: Supplementary References title
   	:scale: 99%
 
-**16.2.5. Supplementary Materials**
+**16.1.5. Supplementary Materials**
 
-- Title should be Supplementary Materials - :ref:`Title case<title_case>`, blue and bold font. This heading is used for any supplementary information, methods, etc. and should not be confused with the main SUPPLEMENTARY MATERIALS title referred to in :ref:`16.2.1<16.2_pdf_supplementary_research_papers>`.
+- Title should be Supplementary Materials - :ref:`Title case<title_case>`, blue and bold font. This heading is used for any supplementary information, methods, etc. and should not be confused with the main SUPPLEMENTARY MATERIALS title referred to in :ref:`16.2.1<16.1_pdf_supplementary_research_papers>`.
 
 
 .. image:: /_static/suppl_materials_ms_pdf.png
   	:alt: Supplementary materials title
   	:scale: 99%
 
-**16.2.6. Footer**
+**16.1.6. Footer**
 
 Not applicable to PDF check - Numbered footers will most likely be present, but these will be renumbered to accord with issue page numbers and checked in the next stage of publishing.
 
-16.3. Text
+16.2. Text
 ^^^^^^^^^^
 
-16.3.1. Check that there are callouts to any external supplementary files (e.g. tables, video etc) that could not be included in the PDF due to size or format.
+16.2.1. Check that there are callouts to any external supplementary files (e.g. tables, video etc) that could not be included in the PDF due to size or format.
 
 - Callout text should be “Please browse Full Text version to see the data of”…
 
@@ -432,10 +426,10 @@ Not applicable to PDF check - Numbered footers will most likely be present, but 
 
 :ref:`+ HTML checks<text_supplementary_html_research_papers>`
 
-16.4. Figures
+16.3. Figures
 ^^^^^^^^^^^^^
 
-16.4.1. Supplementary figure callouts are not hyperlinked in PDF.
+16.3.1. Supplementary figure callouts are not hyperlinked in PDF.
 
 .. image:: /_static/suppl_fig_callouts_pdf.png
    :alt: Supplementary figure callouts
@@ -443,10 +437,10 @@ Not applicable to PDF check - Numbered footers will most likely be present, but 
 
 :ref:`+ HTML checks<figures_supplementary_html_research_papers>`
 
-16.5. Tables
+16.4. Tables
 ^^^^^^^^^^^^
 
-16.5.1. Supplementary table callouts are not hyperlinked in PDF.
+16.4.1. Supplementary table callouts are not hyperlinked in PDF.
 
 .. image:: /_static/suppl_table_callouts_pdf.png
    :alt: Supplementary table callouts
@@ -454,14 +448,14 @@ Not applicable to PDF check - Numbered footers will most likely be present, but 
 
 :ref:`+ HTML checks<tables_supplementary_html_research_papers>`
 
-16.6. References
+16.5. References
 ^^^^^^^^^^^^^^^^
 
 No PDF-specific checks
 
 :ref:`+ HTML checks<refs_supplementary_html_research_papers>`
 
-16.7. Large Tables
+16.6. Large Tables
 ^^^^^^^^^^^^^^^^^^
 
 No PDF-specific checks
