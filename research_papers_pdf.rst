@@ -180,7 +180,10 @@ source are credited.`
 
 11. Text
 --------------
-11.1. Check that links are hyperlinked in blue color and underlined font.
+
+11.1. Check that font type and size is consistent across all sections (except for References) of the article. 
+
+11.2. Check that links are hyperlinked in blue color and underlined font.
 
 .. image:: /_static/hyperlink.png
    :alt: Hyperlink
