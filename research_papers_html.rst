@@ -470,7 +470,7 @@ If image is hard to read, please contact Production team and ask to provide clea
 
 	- If figure image has :ref:`panel letters<figure_pannel>`, then check that reference to each panel is present in figure legend. Reference is denoted by panel letter and is formatted in bold.
 
-	| There are two allowed formats for the panel reference (case of letter should match letter case in figure image):
+	| This is the allowed format for the panel reference (case of letter should match letter case in figure image):
 
 	|	:sample:`(`:sampleb:`A`:sample:`)` or :sample:`(`:sampleb:`a`:sample:`)` - i.e. letter wrapped parentheses ()
 
