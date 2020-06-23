@@ -349,7 +349,7 @@ Supplementary materials should be located after the references of the main MS in
 
 Check to make sure that all supplementary materials in the PDF match what we have on the website.
 
-.. _16.1_pdf_supplementary_research_papers:
+.. _pdf_supplementary_title_footer_research_papers:
 
 16.1. Title and Footer
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -400,7 +400,7 @@ Check to make sure that all supplementary materials in the PDF match what we hav
 
 **16.1.5. Supplementary Materials**
 
-- Title should be Supplementary Materials - :ref:`Title case<title_case>`, blue and bold font. This heading is used for any supplementary information, methods, etc. and should not be confused with the main SUPPLEMENTARY MATERIALS title referred to in :ref:`16.2.1<16.1_pdf_supplementary_research_papers>`.
+- Title should be Supplementary Materials - :ref:`Title case<title_case>`, blue and bold font. This heading is used for any supplementary information, methods, etc. and should not be confused with the main SUPPLEMENTARY MATERIALS title referred to in :ref:`16.1.1<pdf_supplementary_title_footer_research_papers>`.
 
 
 .. image:: /_static/suppl_materials_ms_pdf.png
