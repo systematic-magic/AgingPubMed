@@ -194,7 +194,7 @@ Abbreviations are optional.
 
 6.1. Abbreviations should not appear in the Abstract section and should only appear in the final sections as is noted in :ref:`Section Headers<section_headers_html_editorials>`.
 
-.. _format_abbreviations_html_editorials:
+.. _abbreviations_format_html_editorials:
 
 6.2. Check the format of the abbreviations line:
 
@@ -374,7 +374,7 @@ If image is hard to read, please contact Production team and ask to provide clea
 	If a reference to :ref:`panel letter<figure_pannel>` is missing, then please ask author to provide one.
 
 
-.. _callouts_figures_html_editorials:
+.. _figures_callouts_html_editorials:
 
 11.4. Check figure callouts in the text:
 
