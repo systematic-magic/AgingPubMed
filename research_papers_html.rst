@@ -507,6 +507,9 @@ At the same time, upon authors request, figures can appear in the text in any or
 
 If you see that there are gaps in number sequence, then check with corresponding author whether some figures are missing or whether it is possible to renumber the figures to eliminate the gaps.
 
+
+.. _figures_callouts_html_research_papers:
+
 12.5. Check figure callouts in the text:
 
 	- Check the format of figure callouts:
@@ -617,7 +620,7 @@ At the same time, upon authors request, tables can appear in the text in any ord
 
 If you see that there are gaps in number sequence, then check with corresponding author whether some tables are missing or whether it is possible to renumber the tables to eliminate the gaps.
 
-.. _13.6_tables_html_research_papers:
+.. _tables_callouts_html_research_papers:
 
 13.6. Check table callouts in the text:
 
@@ -1082,7 +1085,7 @@ Figures will most often be kept in one PDF. Occasionally, unusually large figure
 
 16.4.2. Check supplementary figure callouts in the article text:
 
-	- HTML :ref:`Figures checks from 12.5<figures_html_research_papers>` (inclusive) are applicable to supplementary figure callouts with one exclusion: instead of **Figure N**, callouts should appear as **Supplementary Figure N**.
+	- HTML :ref:`Figures checks from 12.5<figures_callouts_html_research_papers>` (inclusive) are applicable to supplementary figure callouts with one exclusion: instead of **Figure N**, callouts should appear as **Supplementary Figure N**.
 
 .. image:: /_static/suppl_fig_callouts.png
    :alt: Supplementary figure callouts
@@ -1107,7 +1110,7 @@ Figures will most often be kept in one PDF. Occasionally, unusually large figure
 
 16.5.2. Check supplementary table callouts in the article text:
 
-	- HTML :ref:`Tables checks from 13.6<13.6_tables_html_research_papers>` (inclusive) are applicable to supplementary table callouts with one exclusion: instead of **Table N**, callouts should appear as **Supplementary Table N**.
+	- HTML :ref:`Tables checks from 13.6<tables_callouts_html_research_papers>` (inclusive) are applicable to supplementary table callouts with one exclusion: instead of **Table N**, callouts should appear as **Supplementary Table N**.
 
 .. image:: /_static/suppl_table_callouts.png
    :alt: Supplementary table callouts
