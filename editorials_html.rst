@@ -194,7 +194,7 @@ Abbreviations are optional.
 
 6.1. Abbreviations should not appear in the Abstract section and should only appear in the final sections as is noted in :ref:`Section Headers<section_headers_html_editorials>`.
 
-.. _6.2_abbreviations_html_editorials:
+.. _abbreviations_format_html_editorials:
 
 6.2. Check the format of the abbreviations line:
 
