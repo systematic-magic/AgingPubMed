@@ -72,7 +72,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 
 4.2. Check figure callouts in text:
 
-	- :ref:`HTML Figures checks from 11.4<figures_callouts_html_editorials>` (inclusive) are the same for figure callouts in the PDF with one exclusion: Figure callouts are formatted in :ref:`plain text<plain_text>` and are not hyperlinked.
+	- :ref:`HTML Figures checks from 11.4<callouts_figures_html_editorials>` (inclusive) are the same for figure callouts in the PDF with one exclusion: Figure callouts are formatted in :ref:`plain text<plain_text>` and are not hyperlinked.
 
 .. image:: /_static/pdf_figure_callouts.png
    :alt: Figure callouts
@@ -298,7 +298,7 @@ When present, ”Abbreviations:" section can be found at the end of the article 
 
 12.4. Check that abbreviation (or list of abbreviations) is formatted in italic font.
 
-12.5. Check the format of the abbreviations line: This is the same format as :ref:`6.2 from HTML Abbreviations checks<abbreviations_format_html_editorials>`.
+12.5. Check the format of the abbreviations line: This is the same format as :ref:`6.2 from HTML Abbreviations checks<format_abbreviations_html_editorials>`.
 
 12.6. Check that there are no punctuation marks at the end of abbreviations line.
 
