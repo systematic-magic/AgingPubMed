@@ -1147,7 +1147,7 @@ Tables which fit into 2 pages are "normal tables" and should be published as PDF
 
 - If conversion to Excel (.xlsx) is **not** feasible, then such large table is to be published as a separate Word (.docx) supplementary file.
 
-16.7.3. Check that tables in Excel or Word format have table number and header compliant to HTML :ref:`Tables check 13.2.<table_title_check>`
+16.7.3. Check that tables in Excel or Word format have table number and header compliant to HTML :ref:`Tables check 13.2<table_title_check>`.
 
 .. image:: /_static/suppl_xl_table.png
    :alt: Supplementary table
