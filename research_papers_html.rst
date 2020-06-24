@@ -775,6 +775,8 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 
 	This is the only acceptable spelling. No variations are allowed.
 
+.. _citation_data_in_house_format_html_research_papers:
+
 15.3.2.Check that journal citation-data has the following elements in this order: |br|
 |span_format_start| JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
 
@@ -799,7 +801,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 - Check that there is a period (.) after year followed by a space.
 - Check that there is a period (.) after “[Epub ahead of print]” followed by a space. 
 - Check that “[Epub ahead of print]” appears after year and before DOI.
-- If you come across an Epub reference, be sure to verify whether publishing information has since been released. If publishing information is available, then please add vol, pg numbers, etc. and format as directed above in section 15.3.2.
+- If you come across an Epub reference, be sure to verify whether publishing information has since been released. If publishing information is available, then please add vol, pg numbers, etc. and format as directed above in section :ref:`15.3.2<citation_data_in_house_format_html_research_papers>`.
 
 .. image:: /_static/ref_ahead_of_print.png
    :alt: Ahead of Print
@@ -845,7 +847,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 - Check that there is a period (.) after year followed by a space.
 - Check that there is a period (.) after “[Epub ahead of print]” followed by a space. 
 - Check that “[Epub ahead of print]” appears after year and before DOI.
-- If you come across an Epub reference, be sure to verify whether publishing information has since been released. If publishing information is available, then please add vol, pg numbers, etc. and format as directed above in section 15.4.1.
+- If you come across an Epub reference, be sure to verify whether publishing information has since been released. If publishing information is available, then please add vol, pg numbers, etc. and format as directed above in section :ref:`15.4.1<citation_data_other_journals_html_research_papers>`.
 
 .. image:: /_static/ref_ahead_of_print.png
    :alt: Ahead of Print
