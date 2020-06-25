@@ -5,33 +5,46 @@
 .. role:: sampleb
 .. role:: sampleu
 
-.. _title_html_editorials:
+.. _html_editorials:
 
 HTML: Editorials
 ================
 
+.. _paper_type_html_editorials:
 
-1. Title
+1. Paper Type
+-------------
+
+1.1 Check that paper type matches JPS
+
+.. image:: /_static/html_editorial_paper_type.png
+   :alt: Paper type
+   :scale: 99%
+
+|
+.. _title_html_editorials:
+
+2. Title
 --------
 
-1.1. Check that title is in :ref:`sentence case<sentence_case>`.
+2.1. Check that title is in :ref:`sentence case<sentence_case>`.
 
-1.2. Check title spelling.
+2.2. Check title spelling.
 
-1.3. Check that title is written in black and bold font.
+2.3. Check that title is written in black and bold font.
 
-1.4. Check that capitalisation of scientific terms is correct.
+2.4. Check that capitalisation of scientific terms is correct.
 We suggest the you use the :ref:`following procedure<correct_case_check>`, if in you are in doubt regarding this or that term.
 
-1.5. Check that following Latin terms are written in italics: *in vivo, in vitro, in utero, in situ, via*. 
+2.5. Check that following Latin terms are written in italics: *in vivo, in vitro, in utero, in situ, via*. 
 For other Latin terms either italics or :ref:`plain text<plain_text>` is acceptable.
 
-1.6. Check that species and gene names are written in italics.
+2.6. Check that species and gene names are written in italics.
 
 |
 .. _author_list_html_editorials:
 
-2. Author list
+3. Author list
 --------------
 
 .. Note::
@@ -39,16 +52,16 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 	The number of authors is limited to three for editorials. Please check all deviations with Olga at krasnova@impactaging.com while copying PubMed team manager. |br|
 
 
-2.1. Check that all author names in author list are separated by commas (,). No other separators allowed.
+3.1. Check that all author names in author list are separated by commas (,). No other separators allowed.
 
-2.2. Check that there is no period (or any other punctuation mark) after the last author name.
+3.2. Check that there is no period (or any other punctuation mark) after the last author name.
 
 .. image:: /_static/html_author_list_separ.png
    :alt: Author list separators
    :scale: 99%
 
 
-2.3. Check the format of the author name. 
+3.3. Check the format of the author name. 
 
 Allowed formats:
 
@@ -75,7 +88,7 @@ Please note that last names can be compound, can have prepositions, suffixes, pr
 
 If you see that author name does not comply to these standards, please contact corresponding author and ask to provide author name in correct format.
 
-2.4. Check that each author name contains a number linked to the affiliation text (i.e. affiliation number). One author name can contain a few affiliation numbers.
+3.4. Check that each author name contains a number linked to the affiliation text (i.e. affiliation number). One author name can contain a few affiliation numbers.
 
 .. image:: /_static/html_aff_texts_and_authors.png
 	:scale: 99%
@@ -87,9 +100,9 @@ If there is only one affiliation text for all authors, then each author name sho
    :alt: One affiliation for all authors
    :scale: 99%
 
-2.5. Check that all affiliation numbers of the author list are separated by commas (,). No other separator is allowed.
+3.5. Check that all affiliation numbers of the author list are separated by commas (,). No other separator is allowed.
 
-2.6. Check that all affiliation numbers of the author list are formatted in superscript. See below.
+3.6. Check that all affiliation numbers of the author list are formatted in superscript. See below.
 
 .. image:: /_static/html_affiliation_numbers.png
    :alt: Affiliation Numbers
@@ -102,40 +115,40 @@ If there is only one affiliation text for all authors, then each author name sho
 
 .. _affiliations_html_editorials:          
 
-3. Affiliations
+4. Affiliations
 ---------------
 
-3.1. Check spelling of English words only.
+4.1. Check spelling of English words only.
 
-3.2. Check that there are NO street addresses and house numbers included in affiliation.
+4.2. Check that there are NO street addresses and house numbers included in affiliation.
 
-3.3. Check that country and city names are present in affiliation. State is also required in U.S. affiliations.
+4.3. Check that country and city names are present in affiliation. State is also required in U.S. affiliations.
 
-3.4. Check that country and city names are NOT written in ALL CAPS (capital letters).
+4.4. Check that country and city names are NOT written in ALL CAPS (capital letters).
 
-3.5. Chinese affiliations: zip code is allowed for both city and county/district. If zip code is present, it must be positioned after city/county/district and there must be no comma between city/county/district and zip code. Zip code is optional for any of the elements (city/county/district).
+4.5. Chinese affiliations: zip code is allowed for both city and county/district. If zip code is present, it must be positioned after city/county/district and there must be no comma between city/county/district and zip code. Zip code is optional for any of the elements (city/county/district).
 
 .. image:: /_static/aff_text_zip_china.png
    :alt: No comma between city/county/district and zip code
 
-3.6. USA affiliations: check that there is no comma between state and zip code. State must be positioned before zip code. Zip code must be present.
+4.6. USA affiliations: check that there is no comma between state and zip code. State must be positioned before zip code. Zip code must be present.
 
-3.7. Non-USA affiliations: check that there is no comma between city and zip code. City must be positioned before zip code. Zip code is optional.
+4.7. Non-USA affiliations: check that there is no comma between city and zip code. City must be positioned before zip code. Zip code is optional.
 
 .. image:: /_static/aff_text_zip_state_city.png
    :alt: No comma between zip code and state (US) / city (non-US)
 
-3.8. Check that each affiliation number has only one complete affiliation. One affiliation – one number. |br|
+4.8. Check that each affiliation number has only one complete affiliation. One affiliation – one number. |br|
 One exclusion: affiliations of Chinese authors, where Key Laboratory combines different institutions. In that case one number can contain two affiliations.
 
-3.9. Occasionally affiliations can contain “Current/Present address:” title. If it is present, check that it has a separate affiliation number and that the title is followed by colon (:). |br| One address - one affiliation number. 
+4.9. Occasionally affiliations can contain “Current/Present address:” title. If it is present, check that it has a separate affiliation number and that the title is followed by colon (:). |br| One address - one affiliation number. 
 	
 All acceptable combinations of “Current/Present address” are depicted on the screenshot below: 
 
 .. image:: /_static/aff_current_address.png
    :alt: Current/Present address
 
-3.10. Check that only commas are used to separate parts of affiliations (i.e. department, institution, etc.).
+4.10. Check that only commas are used to separate parts of affiliations (i.e. department, institution, etc.).
 
 .. image:: /_static/aff_parts.png
    :alt: Affiliation format
@@ -143,27 +156,27 @@ All acceptable combinations of “Current/Present address” are depicted on the
 |
 .. _correspondece_html_editorials:
 
-4. Correspondence
+5. Correspondence
 -----------------
 
-4.1. Check that correspondence section has a title “CORRESPONDING AUTHORS” for more than one author or “CORRESPONDING AUTHOR” for one author (ALL CAPS).
+5.1. Check that correspondence section has a title “CORRESPONDING AUTHORS” for more than one author or “CORRESPONDING AUTHOR” for one author (ALL CAPS).
 
-4.2. Check that correspondence section has one or more Author + Email address pairs. Occasionally an author can have 2 or more emails.
+5.2. Check that correspondence section has one or more Author + Email address pairs. Occasionally an author can have 2 or more emails.
 
-4.3. Check that author’s name does not have any punctuation marks at the end.
+5.3. Check that author’s name does not have any punctuation marks at the end.
 
-4.4. Check that email line is located below the author’s name and does not have any punctuation marks at the end.
+5.4. Check that email line is located below the author’s name and does not have any punctuation marks at the end.
 
-4.5. Check that multiple Author + Email pairs are divided by a blank line.
+5.5. Check that multiple Author + Email pairs are divided by a blank line.
 
 .. image:: /_static/corr_format.png
    :alt: Correspondence format
 
-4.6. Check that author’s name does NOT contain titles and/or degrees (e.g. Dr., Ph.D., M.D., etc.).
+5.6. Check that author’s name does NOT contain titles and/or degrees (e.g. Dr., Ph.D., M.D., etc.).
 
-4.7. Check that email address is hyperlinked.
+5.7. Check that email address is hyperlinked.
 
-4.8. Check that author’s name completely matches corresponding name in the author list (including the middle initials if any).
+5.8. Check that author’s name completely matches corresponding name in the author list (including the middle initials if any).
 
 .. image:: /_static/corr_auth_mtch.png
    :alt: Correspondence author match
@@ -171,14 +184,14 @@ All acceptable combinations of “Current/Present address” are depicted on the
 |
 .. _keywords_html_editorials:
 
-5. Keywords
+6. Keywords
 -----------
 
-5.1. Check that Keywords section has a title "KEYWORDS” (ALL CAPS).
+6.1. Check that Keywords section has a title "KEYWORDS” (ALL CAPS).
 
-5.2. Check that keywords are written in lower case, unless proper nouns as well as exceptions such as special terms, genes, proteins, species names etc, which normally start with capital letter. Check that capitalisation of scientific terms is correct. We suggest the you use the :ref:`following procedure<correct_case_check>`, if in you are in doubt regarding this or that term.
+6.2. Check that keywords are written in lower case, unless proper nouns as well as exceptions such as special terms, genes, proteins, species names etc, which normally start with capital letter. Check that capitalisation of scientific terms is correct. We suggest the you use the :ref:`following procedure<correct_case_check>`, if in you are in doubt regarding this or that term.
 
-5.3. Check that article has at least 1 keyword and not more than 8 keywords.
+6.3. Check that article has at least 1 keyword and not more than 8 keywords.
 
 .. image:: /_static/html_keywords.png
    	  	:alt: Keywords
@@ -187,16 +200,16 @@ All acceptable combinations of “Current/Present address” are depicted on the
 |
 .. _abbreviations_html_editorials:
 
-6. Abbreviations
+7. Abbreviations
 ----------------
 
 Abbreviations are optional.
 
-6.1. Abbreviations should not appear in the Abstract section and should only appear in the final sections as is noted in :ref:`Section Headers<section_headers_html_editorials>`.
+7.1. Abbreviations should not appear in the Abstract section and should only appear in the final sections as is noted in :ref:`Section Headers<section_headers_html_editorials>`.
 
 .. _abbreviations_format_html_editorials:
 
-6.2. Check the format of the abbreviations line:
+7.2. Check the format of the abbreviations line:
 
 	|	:sample:`ABRVTN: expanded text; ABRVTN: expanded text`
 
@@ -208,32 +221,32 @@ Abbreviations are optional.
 |
 .. _dates_html_editorials:
 
-7. Dates
+8. Dates
 --------
 
-7.1. Check that Dates section has titles “Received:”, “Accepted:”, “Published:” (:ref:`title case<title_case>` and followed by colon (:)).
+8.1. Check that Dates section has titles “Received:”, “Accepted:”, “Published:” (:ref:`title case<title_case>` and followed by colon (:)).
 
-7.2. Check that month is spelled out as a word and dates are in-line with the following format: Month Day, Year
+8.2. Check that month is spelled out as a word and dates are in-line with the following format: Month Day, Year
 (e.g. June 1, 2017, April 12, 2016, December 31, 2015, etc.) Note: if a day is presented by single digit, there should be no leading 0.
 
-7.3. Check spelling of the month.
+8.3. Check spelling of the month.
 
 .. image:: /_static/dates_format.png
    :alt: Dates format 
 
 
-7.4. Check that Received date is older than Accepted date (i.e. we cannot publish before we accept).
+8.4. Check that Received date is older than Accepted date (i.e. we cannot publish before we accept).
 
 .. note:: Pay attention to years.
 
 |
 .. _copyright_html_editorials:
 
-8. Copyright
+9. Copyright
 ------------
-8.1. Check that copyright section has a title "Copyright ©" (:ref:`title case<title_case>` and followed by copyright symbol (©)).
+9.1. Check that copyright section has a title "Copyright ©" (:ref:`title case<title_case>` and followed by copyright symbol (©)).
 
-8.2. Check that copyright string starts with a YEAR followed by:
+9.2. Check that copyright string starts with a YEAR followed by:
 
 :sample:`Last name of first author et al.`
 
@@ -249,12 +262,12 @@ and followed by:
 .. image:: /_static/cpright_format.png
    :alt: Copyright format 
 
-8.3. Check that Last name of first author matches last name of the first author in the Author List. In case of 2 authors, check that last names match names in the Author List.
+9.3. Check that Last name of first author matches last name of the first author in the Author List. In case of 2 authors, check that last names match names in the Author List.
 
 |
 .. _section_headers_html_editorials:
 
-9. Section Headers
+10. Section Headers
 ------------------
 .. _start_of_check_html_editorials:
 
@@ -265,7 +278,7 @@ If you see any deviations of section naming in articles, please contact authors 
 Also, if you notice that the order of the sections need to be changed (to comply with the standards), please contact author to confirm section order changes with him/her.
 
 
-9.1. Check that article has the following sections in the following order:
+10.1. Check that article has the following sections in the following order:
 
 
 	- **Editorials**
@@ -285,12 +298,12 @@ Also, if you notice that the order of the sections need to be changed (to comply
 |
 .. _text_html_editorials:
 
-10. Text
+11. Text
 --------
 
-10.1. Check that font type and size is consistent across all sections of the article. 
+11.1. Check that font type and size is consistent across all sections of the article. 
 
-10.2. Check all website addresses in article text:
+11.2. Check all website addresses in article text:
 
 	- Check that all website addresses are hyperlinked.
 
@@ -301,20 +314,20 @@ Also, if you notice that the order of the sections need to be changed (to comply
 |
 .. _figures_html_editorials:
 
-11. Figures
+12. Figures
 ------------
 
 .. Note::
 	
 	Only one figure should be used for editorials. Please check all deviations with Olga at krasnova@impactaging.com while copying PubMed team manager. |br|
 
-11.1. Check that figure image has text and graphics which are clear and large enough to read (i.e. image text is not smaller than article text itself).
+12.1. Check that figure image has text and graphics which are clear and large enough to read (i.e. image text is not smaller than article text itself).
 
 If image is hard to read, please contact Production team and ask to provide clearer images. If Production team does not have better images, then contact corresponding author.
 
-11.2. Check whether figures have :ref:`panel letters<figure_pannel>`. Both lower case and upper case panel letters are allowed. However, they should be used consistently: either all figures have lower case panel letters or all have upper case letters. Mix of formats is not allowed.
+12.2. Check whether figures have :ref:`panel letters<figure_pannel>`. Both lower case and upper case panel letters are allowed. However, they should be used consistently: either all figures have lower case panel letters or all have upper case letters. Mix of formats is not allowed.
 
-11.3. Check the figure description text (figure legend):
+12.3. Check the figure description text (figure legend):
 
 	- Check that figure legend has a figure number:
 
@@ -376,7 +389,7 @@ If image is hard to read, please contact Production team and ask to provide clea
 
 .. _figures_callouts_html_editorials:
 
-11.4. Check figure callouts in the text:
+12.4. Check figure callouts in the text:
 
 	- Check the format of figure callouts:
 
@@ -425,7 +438,7 @@ If image is hard to read, please contact Production team and ask to provide clea
 	- Check that figure has at least 1 callout in the text.
 
 
-11.5. Check that figure and its legend are displaying properly in pop-out window.
+12.5. Check that figure and its legend are displaying properly in pop-out window.
 
 	.. image:: /_static/html_fig_popout.png
    	  	:alt: Figure number
@@ -434,7 +447,7 @@ If image is hard to read, please contact Production team and ask to provide clea
 |
 .. _tables_html_editorials:
 
-12. Tables
+13. Tables
 ----------
 
 Tables are not used for editorials. Please check all deviations with Olga at krasnova@impactaging.com while copying PubMed team manager.
@@ -442,10 +455,10 @@ Tables are not used for editorials. Please check all deviations with Olga at kra
 |
 .. _reference_callouts_html_editorials:
 
-13. Reference Callouts
+14. Reference Callouts
 ----------------------
 
-13.1. Check reference callouts in the text:
+14.1. Check reference callouts in the text:
 
 	- Check the format of reference callouts:
 
@@ -466,14 +479,14 @@ Tables are not used for editorials. Please check all deviations with Olga at kra
 
 	- Check that reference callouts are in :ref:`plain text<plain_text>` and a number (or numbers in case of ranges) is hyperlinked.
 
-13.2. Check that callout number for each of the references is present in the text or is covered in the range of numbers. i.e. in the range of [1-3] reference 2 is not present in the text, but covered in the range. This case is acceptable. |br|
+14.2. Check that callout number for each of the references is present in the text or is covered in the range of numbers. i.e. in the range of [1-3] reference 2 is not present in the text, but covered in the range. This case is acceptable. |br|
 Callouts can be found in text, figures and tables.
 
-13.3. Check that there are no callouts for non-existing references (i.e. there is a callout, but there is no reference).
+14.3. Check that there are no callouts for non-existing references (i.e. there is a callout, but there is no reference).
 
-13.4. Check that there are no references for which callouts are missing (i.e. there is a reference, but there is no callout for it).
+14.4. Check that there are no references for which callouts are missing (i.e. there is a reference, but there is no callout for it).
 
-13.5. Check that reference callouts appear in linear order throughout the manuscript. 1, 2, 3 and so on. Once a reference has initially been called out, it can be called out again in any order. For example, 1, 2, 3, 1, 2, 4 is OK.
+14.5. Check that reference callouts appear in linear order throughout the manuscript. 1, 2, 3 and so on. Once a reference has initially been called out, it can be called out again in any order. For example, 1, 2, 3, 1, 2, 4 is OK.
 
 	If one or more references or callouts are missing or are being called out of linear order in the text, please contact author.
 
@@ -481,7 +494,7 @@ Callouts can be found in text, figures and tables.
 |
 .. _references_html_editorials:
 
-14. References
+15. References
 --------------
 
 .. Note::
@@ -490,9 +503,9 @@ Callouts can be found in text, figures and tables.
 
 .. _refs_author_list_html_editorials:
 
-14.1. Author List
+15.1. Author List
 ^^^^^^^^^^^^^^^^
-14.1.1. Check that author names in the List of Authors are in-line with the following format: |br|
+15.1.1. Check that author names in the List of Authors are in-line with the following format: |br|
 |span_format_start| LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th) |span_end|
 
 
@@ -500,11 +513,11 @@ Callouts can be found in text, figures and tables.
    :alt: Author Names format
    :scale: 99%
 
-14.1.2. Check that initials have no more than 2 letters and have NO hyphens or spaces in-between.
+15.1.2. Check that initials have no more than 2 letters and have NO hyphens or spaces in-between.
 
-14.1.3. Check all the :ref:`mononym<mononym>` (names which have no initials) to be “true” mononyms (check `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site).
+15.1.3. Check all the :ref:`mononym<mononym>` (names which have no initials) to be “true” mononyms (check `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site).
 
-14.1.4. Check that List of Authors contains either of the following:
+15.1.4. Check that List of Authors contains either of the following:
 
 - One author name followed by comma (,) and “et al.”
 
@@ -517,15 +530,15 @@ Callouts can be found in text, figures and tables.
 |
 .. _reference_title_html_editorials:
 
-14.2. Reference Title
+15.2. Reference Title
 ^^^^^^^^^^^^^^^^^^^^
 
-14.2.1. Reference title should not be present.
+15.2.1. Reference title should not be present.
 
 |
 .. _citation_data_in_house_html_editorials:
 
-14.3. Citation-Data (in-house)
+15.3. Citation-Data (in-house)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. ATTENTION::
@@ -535,7 +548,7 @@ Callouts can be found in text, figures and tables.
 
 Citation data is a part of a reference, which contains Journal Title, year, volume, pages and doi.
 
-14.3.1. Check that citation data has correct journal title. The following titles are allowed:
+15.3.1. Check that citation data has correct journal title. The following titles are allowed:
 
 	| :sample:`Oncotarget`
 	| :sample:`Oncoscience`
@@ -546,7 +559,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 
 .. _citation_data_in_house_format_html_editorials:
 
-14.3.2. Check that journal citation-data has the following elements in this order: |br|
+15.3.2. Check that journal citation-data has the following elements in this order: |br|
 |span_format_start| JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
 
 .. image:: /_static/html_editorials_citation_data_inhouse.png
@@ -564,13 +577,13 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 
 - “[PubMed]” link must be present (when available), should be highlighted in blue and should be an active link leading to the article page on the PubMed website. There must be no period at the end.
 
-14.3.3. There can be references to the articles which have been published "ahead of print". The format of citation data for such articles is as follows:
+15.3.3. There can be references to the articles which have been published "ahead of print". The format of citation data for such articles is as follows:
 |span_format_start| JournalTitle. year. [Epub ahead of print]. DOI [PubMed] |span_end|
 
 - Check that there is a period (.) after year followed by a space.
 - Check that there is a period (.) after “[Epub ahead of print]” followed by a space. 
 - Check that “[Epub ahead of print]” appears after year and before DOI.
-- If you come across an Epub reference, be sure to verify whether publishing information has since been released. If publishing information is available, then please add vol, pg numbers, etc. and format as directed above in section :ref:`14.3.2<citation_data_in_house_format_html_editorials>`.
+- If you come across an Epub reference, be sure to verify whether publishing information has since been released. If publishing information is available, then please add vol, pg numbers, etc. and format as directed above in section :ref:`15.3.2<citation_data_in_house_format_html_editorials>`.
 
 
 .. image:: /_static/html_editorials_ref_ahead_of_print.png
@@ -579,7 +592,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 |
 .. _citation_data_other_journals_html_editorials:
 
-14.4. Citation-Data (other journals)
+15.4. Citation-Data (other journals)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. ATTENTION::
@@ -589,7 +602,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 Citation data is a part of a reference, which contains Journal Title, year, volume, pages and doi.
 
 
-14.4.1. Check that journal citation-data has the following elements in this order: |br|
+15.4.1. Check that journal citation-data has the following elements in this order: |br|
 |span_format_start| JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
 
 .. image:: /_static/html_editorial_citation_data.png
@@ -609,13 +622,13 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 
 - “[PubMed]” link must be present (when available), should be highlighted in blue and should be an active link leading to the article page on the PubMed website. There must be no period at the end.
 
-14.4.2. There can be references to the articles which have been published "ahead of print". The format of citation data for such articles is as follows:
+15.4.2. There can be references to the articles which have been published "ahead of print". The format of citation data for such articles is as follows:
 |span_format_start| JournalTitle. year. [Epub ahead of print]. DOI [PubMed] |span_end|
 
 - Check that there is a period (.) after year followed by a space.
 - Check that there is a period (.) after “[Epub ahead of print]” followed by a space. 
 - Check that “[Epub ahead of print]” appears after year and before DOI.
-- If you come across an Epub reference, be sure to verify whether publishing information has since been released. If publishing information is available, then please add vol, pg numbers, etc. and format as directed above in section :ref:`14.4.1<citation_data_other_journals_html_editorials>`.
+- If you come across an Epub reference, be sure to verify whether publishing information has since been released. If publishing information is available, then please add vol, pg numbers, etc. and format as directed above in section :ref:`15.4.1<citation_data_other_journals_html_editorials>`.
 
 
 .. image:: /_static/html_editorials_ref_ahead_of_print.png
@@ -624,26 +637,26 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 |
 .. _general_checks_html_editorials:
 
-14.5. General Checks
+15.5. General Checks
 ^^^^^^^^^^^^^^^^^^^
 
-14.5.1. Check for duplicates in the reference list. 
+15.5.1. Check for duplicates in the reference list. 
 
 If you find duplicate references, please contact author and ask to correct the reference list along with renumbering reference call-outs.
 
-14.5.2. Check for references containing journal title in English and original language (e.g. "International journal of cancer" and "Journal international du cancer"). Remove title in original language and leave English version. If there is just a "foreign language" version present, it is OK to leave that version (no need to find English one). Consult `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ if in doubt of the correct journal name.
+15.5.2. Check for references containing journal title in English and original language (e.g. "International journal of cancer" and "Journal international du cancer"). Remove title in original language and leave English version. If there is just a "foreign language" version present, it is OK to leave that version (no need to find English one). Consult `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ if in doubt of the correct journal name.
 
-14.5.3. Check for extra information in the references (i.e. in addition to "standard" information). Remove all extra information.
+15.5.3. Check for extra information in the references (i.e. in addition to "standard" information). Remove all extra information.
    
    | `Example:`
    | ":official publication of the society of…"
 
 
-14.5.4. Remove any instances of “[Internet]”, "[pii]" Accessed dates (ex: “Accessed November 6, 2017.”) and empty (blank) doi.
+15.5.4. Remove any instances of “[Internet]”, "[pii]" Accessed dates (ex: “Accessed November 6, 2017.”) and empty (blank) doi.
 
-14.5.5. Remove “PMID” and “PMCID” details, if present in any reference.
+15.5.5. Remove “PMID” and “PMCID” details, if present in any reference.
 
-14.5.6. Check formatting for references that have been cited from supplemental issues. This information should appear in between the publishing year and semicolon in this format:
+15.5.6. Check formatting for references that have been cited from supplemental issues. This information should appear in between the publishing year and semicolon in this format:
 
    | :sampleb:`(Suppl N)` (where “N” is the supplemental issue number)
 
@@ -652,19 +665,19 @@ If you find duplicate references, please contact author and ask to correct the r
    	  	:alt: Supplemental issue formatting
    	  	:scale: 99%
 
-14.5.7. Preprint articles are allowed in references. A couple of examples (not limited to) would be from sources such as `BioRxiv <https://www.biorxiv.org/>`_ and `Preprints <https://www.preprints.org/>`_.
+15.5.7. Preprint articles are allowed in references. A couple of examples (not limited to) would be from sources such as `BioRxiv <https://www.biorxiv.org/>`_ and `Preprints <https://www.preprints.org/>`_.
 
-- These should be formatted to the same standards as described above in :ref:`14.1<refs_author_list_html_editorials>`, :ref:`14.2<reference_title_html_editorials>` and :ref:`14.4<citation_data_other_journals_html_editorials>` with the exception that a special ID number will typically be used in place of volume and page numbers.
+- These should be formatted to the same standards as described above in :ref:`15.1<refs_author_list_html_editorials>`, :ref:`15.2<reference_title_html_editorials>` and :ref:`15.4<citation_data_other_journals_html_editorials>` with the exception that a special ID number will typically be used in place of volume and page numbers.
 
 |
 .. _websites_html_editorials:
 
-14.6. Websites
+15.6. Websites
 ^^^^^^^^^^^^
 
-14.6.1. There is no standard for website references. Authors are allowed to accompany a web link with any information they think appropriate. 
+15.6.1. There is no standard for website references. Authors are allowed to accompany a web link with any information they think appropriate. 
 
-14.6.2. Check that website link is valid (i.e. it points to the referenced web resources, rather to error or other not relevant page).
+15.6.2. Check that website link is valid (i.e. it points to the referenced web resources, rather to error or other not relevant page).
 
 If the link is not valid, please contact author to provide a working link.
 
@@ -672,10 +685,10 @@ If the link is not valid, please contact author to provide a working link.
 |
 .. _books_html_editorials:
 
-14.7. Books and Reports
+15.7. Books and Reports
 ^^^^^^^^^^^^^^^^^^^^^
 
-14.7.1. There is no standard for books and reports. However, author name, year, publisher and page numbers should be present, where applicable.
+15.7.1. There is no standard for books and reports. However, author name, year, publisher and page numbers should be present, where applicable.
 
 |
 

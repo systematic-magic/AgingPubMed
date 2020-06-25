@@ -8,28 +8,36 @@ PDF: All Papers (except Editorials)
    	Please use a merge of HTML and PDF checks for PDF review. Aside from noted differences below, all elements of the HTML should match the PDF.
 
 
+.. _paper_type_pdf_research_papers:
 
+1. Paper Type
+-------------
+No PDF-specific checks
+
+:ref:`+ HTML checks<paper_type_html_research_papers>`
+
+|
 .. _title_pdf_research_papers:
 
-1. Title
+2. Title
 --------
-1.1. Check that title is written in **blue** and bold font.
+2.1. Check that title is written in **blue** and bold font.
 
 :ref:`+ HTML checks<title_html_research_papers>`
 
 |
 .. _author_list_pdf_research_papers:
 
-2. Author List
+3. Author List
 ---------------
-2.1. Check that author list is written in **black** and bold font.
+3.1. Check that author list is written in **black** and bold font.
 
 :ref:`+ HTML checks<author_list_html_research_papers>`
 
 |
 .. _affiliations_pdf_research_papers:
 
-3. Affiliations
+4. Affiliations
 ---------------
 No PDF-specific checks
 
@@ -38,7 +46,7 @@ No PDF-specific checks
 |
 .. _author_notes_pdf_research_papers:
 
-4. Author Notes
+5. Author Notes
 ---------------
 No PDF-specific checks
 
@@ -47,23 +55,23 @@ No PDF-specific checks
 |
 .. _correspondence_pdf_research_papers:
 
-5. Correspondence
+6. Correspondence
 -----------------
-5.1. Check that correspondence section has a title “Correspondence to:” (:ref:`sentence case<sentence_case>` and followed by colon (:)).
+6.1. Check that correspondence section has a title “Correspondence to:” (:ref:`sentence case<sentence_case>` and followed by colon (:)).
 
-5.2. Check that "Correspondence to:" is in black and bold font.
+6.2. Check that "Correspondence to:" is in black and bold font.
 
-5.3. Check that "Correspondence to:" is followed by full author name. If there are a few corresponding authors, then all corresponding author full names should be listed after "Correspondence to:" and divided by comma (,).
+6.3. Check that "Correspondence to:" is followed by full author name. If there are a few corresponding authors, then all corresponding author full names should be listed after "Correspondence to:" and divided by comma (,).
 
-5.4. Check that corresponding author (or list of authors) ends with a semicolon (;).
+6.4. Check that corresponding author (or list of authors) ends with a semicolon (;).
 
-5.4. Check that the word "email:" follows the corresponding author (author list). 
+6.4. Check that the word "email:" follows the corresponding author (author list). 
 
-5.5. Check that the word “email:" is lowercase, is in black and bold font and ends with a colon (:).
+6.5. Check that the word “email:" is lowercase, is in black and bold font and ends with a colon (:).
 
-5.6. Check that corresponding author email address (or email addresses if there are a few of corresponding authors) are listed after "email:. If there are a few emails, then check that those are divided by comma (,).
+6.6. Check that corresponding author email address (or email addresses if there are a few of corresponding authors) are listed after "email:. If there are a few emails, then check that those are divided by comma (,).
 
-5.7. Check that there is no punctuation mark at the end of the last email.
+6.7. Check that there is no punctuation mark at the end of the last email.
 
 
 .. image:: /_static/correspndence_to.png
@@ -75,32 +83,32 @@ No PDF-specific checks
 |
 .. _keywords_pdf_research_papers:
 
-6. Keywords
+7. Keywords
 -----------
 
-6.1. Check that Keywords section has a title "Keywords:" (:ref:`title case<title_case>` and followed by colon (:)).
+7.1. Check that Keywords section has a title "Keywords:" (:ref:`title case<title_case>` and followed by colon (:)).
 
-6.2. Check that "Keywords:" is in black and bold font.
+7.2. Check that "Keywords:" is in black and bold font.
 
-6.3. If there are multiple keywords, check that they are divided by a comma (,).
+7.3. If there are multiple keywords, check that they are divided by a comma (,).
 
-6.4. Check that there is no punctuation mark at the end of the last keyword.
+7.4. Check that there is no punctuation mark at the end of the last keyword.
 
 :ref:`+ HTML checks<keywords_html_research_papers>`
 
 |
 .. _abbreviations_pdf_research_papers:
 
-7. Abbreviations
+8. Abbreviations
 ---------------
 
-7.1. Abbreviations should be kept underneath keywords in the abstract section when there are 5 or less present. Please note that this is only applicable to the PDF, and abbreviations are always kept in the final sections in HTML.
+8.1. Abbreviations should be kept underneath keywords in the abstract section when there are 5 or less present. Please note that this is only applicable to the PDF, and abbreviations are always kept in the final sections in HTML.
 
-7.2. Check that abbreviations section has a title “Abbreviations:”. It should start with capital letter and be followed by colon (:).
+8.2. Check that abbreviations section has a title “Abbreviations:”. It should start with capital letter and be followed by colon (:).
 
-7.3. Check that “Abbreviations:” is in black and bold font.
+8.3. Check that “Abbreviations:” is in black and bold font.
 
-7.4. Check that there is no punctuation mark at the end of the abbreviations line.
+8.4. Check that there is no punctuation mark at the end of the abbreviations line.
 
 .. image:: /_static/html_abbreviations.png
 	:alt: Abbreviations
@@ -111,12 +119,12 @@ No PDF-specific checks
 |
 .. _dates_pdf_research_papers:
 
-8. Dates
+9. Dates
 --------
 
-8.1. Check that “Received:”, “Accepted:”, “Published:” is in black and bold font.
+9.1. Check that “Received:”, “Accepted:”, “Published:” is in black and bold font.
 
-8.2. Check that dates are separated by white space.
+9.2. Check that dates are separated by white space.
 
 .. image:: /_static/dates.png
    :alt: Dates
@@ -127,14 +135,14 @@ No PDF-specific checks
 |
 .. _copyright_pdf_research_papers:
 
-9. Copyright
+10. Copyright
 ------------
 
-9.1. Check that copyright section has a title "Copyright:" (:ref:`title case<title_case>` and followed by a colon (:)).
+10.1. Check that copyright section has a title "Copyright:" (:ref:`title case<title_case>` and followed by a colon (:)).
 
-9.2. Check that "Copyright:" is formatted in black and bold font.
+10.2. Check that "Copyright:" is formatted in black and bold font.
 
-9.3. Check that copyright string starts with:
+10.3. Check that copyright string starts with:
 
 :sample:`Last name of first author et al.`
 
@@ -156,9 +164,9 @@ source are credited.`
 |
 .. _section_headers_pdf_research_papers:
 
-10. Section Headers
+11. Section Headers
 --------------
-10.1. All main section headers should be formatted in ALL CAPS, blue and bold font. A few examples below:
+11.1. All main section headers should be formatted in ALL CAPS, blue and bold font. A few examples below:
 
 .. image:: /_static/pdf_section_headers.png
    :scale: 99%
@@ -178,12 +186,12 @@ source are credited.`
 |
 .. _text_pdf_research_papers:
 
-11. Text
+12. Text
 --------------
 
-11.1. Check that font type and size is consistent across all sections (except for References) of the article. 
+12.1. Check that font type and size is consistent across all sections (except for References) of the article. 
 
-11.2. Check that links are hyperlinked in blue color and underlined font.
+12.2. Check that links are hyperlinked in blue color and underlined font.
 
 .. image:: /_static/hyperlink.png
    :alt: Hyperlink
@@ -194,37 +202,37 @@ source are credited.`
 |
 .. _figures_pdf_research_papers:
 
-12. Figures
+13. Figures
 --------------
-12.1. Check that callouts are formatted in :ref:`plain text<plain_text>` and are not hyperlinked.
+13.1. Check that callouts are formatted in :ref:`plain text<plain_text>` and are not hyperlinked.
 
 .. image:: /_static/pdf_figure_callouts.png
    :alt: Figure callouts
 
-12.2. Figures should be positioned at the bottom of the page when not occupying a full page in PDF.
+13.2. Figures should be positioned at the bottom of the page when not occupying a full page in PDF.
 
 :ref:`+ HTML checks<figures_html_research_papers>`
 
 |
 .. _tables_pdf_research_papers:
 
-13. Tables
+14. Tables
 --------------
-13.1. Check that callouts are formatted in :ref:`plain text<plain_text>` and are not hyperlinked.
+14.1. Check that callouts are formatted in :ref:`plain text<plain_text>` and are not hyperlinked.
 
 .. image:: /_static/pdf_table_callouts.png
    :alt: Table callouts
 
-13.2. Tables should be positioned at the top of the page when not occupying a full page in PDF.
+14.2. Tables should be positioned at the top of the page when not occupying a full page in PDF.
 
 :ref:`+ HTML checks<tables_html_research_papers>`
 
 |
 .. _reference_callouts_pdf_research_papers:
 
-14. Reference Callouts
+15. Reference Callouts
 ----------------------
-14.1. Check that callouts are formatted in :ref:`plain text<plain_text>` and are not hyperlinked.
+15.1. Check that callouts are formatted in :ref:`plain text<plain_text>` and are not hyperlinked.
 
 
 .. image:: /_static/callouts.png
@@ -236,7 +244,7 @@ source are credited.`
 |
 .. _references_pdf_research_papers:
 
-15. References
+16. References
 -------------
 
 .. ATTENTION::
@@ -245,7 +253,7 @@ source are credited.`
 |
 .. _refs_author_list_pdf_research_papers:
 
-15.1. Author List
+16.1. Author List
 ^^^^^^^^^^^^^^^^
 No PDF-specific checks
 
@@ -254,7 +262,7 @@ No PDF-specific checks
 |
 .. _reference_title_pdf_research_papers:
 
-15.2. Reference Title
+16.2. Reference Title
 ^^^^^^^^^^^^^^^^^^^^
 No PDF-specific checks
 
@@ -263,14 +271,14 @@ No PDF-specific checks
 |
 .. _citation_data_in_house_pdf_research_papers:
 
-15.3. Citation-Data (in-house)
+16.3. Citation-Data (in-house)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-15.3.1. Check that [PubMed] link is presented in PDF as "PMID:" word followed by hyperlinked PMID number.
+16.3.1. Check that [PubMed] link is presented in PDF as "PMID:" word followed by hyperlinked PMID number.
 
-15.3.2. Check that "PMID:" word is written in ALL CAPS and formatted as :ref:`plain text<plain_text>` (no special formatting) and has a colon (:) at the end.
+16.3.2. Check that "PMID:" word is written in ALL CAPS and formatted as :ref:`plain text<plain_text>` (no special formatting) and has a colon (:) at the end.
 
-15.3.3. Check that PMID number is hyperlinked to the PMID website.
+16.3.3. Check that PMID number is hyperlinked to the PMID website.
 
 .. image:: /_static/PMIDlink.png
    :alt: PMIDlink
@@ -281,14 +289,14 @@ No PDF-specific checks
 |
 .. _citation_data_other_journals_pdf_research_papers:
 
-15.4. Citation-Data (other journals)
+16.4. Citation-Data (other journals)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-15.4.1. Check that [PubMed] link is presented in PDF as "PMID:" word followed by hyperlinked PMID number.
+16.4.1. Check that [PubMed] link is presented in PDF as "PMID:" word followed by hyperlinked PMID number.
 
-15.4.2. Check that "PMID:" word is written in ALL CAPS and formatted as :ref:`plain text<plain_text>` (no special formatting) and has a colon (:) at the end.
+16.4.2. Check that "PMID:" word is written in ALL CAPS and formatted as :ref:`plain text<plain_text>` (no special formatting) and has a colon (:) at the end.
 
-15.4.3. Check that PMID number is hyperlinked to the PMID website.
+16.4.3. Check that PMID number is hyperlinked to the PMID website.
 
 .. image:: /_static/PMIDlink.png
    :alt: PMIDlink
@@ -299,7 +307,7 @@ No PDF-specific checks
 |
 .. _general_checks_pdf_research_papers:
 
-15.5. General Checks
+16.5. General Checks
 ^^^^^^^^^^^^^^^^^^^
 No PDF-specific checks
 
@@ -309,7 +317,7 @@ No PDF-specific checks
 |
 .. _websites_pdf_research_papers:
 
-15.6. Websites
+16.6. Websites
 ^^^^^^^^^^^^^
 No PDF-specific checks
 
@@ -318,7 +326,7 @@ No PDF-specific checks
 |
 .. _books_pdf_research_papers:
 
-15.7. Books and Reports
+16.7. Books and Reports
 ^^^^^^^^^^^^^^^^^^^^^^
 No PDF-specific checks
 
@@ -327,7 +335,7 @@ No PDF-specific checks
 |
 .. _pdf_supplementary_research_papers:
 
-16. Supplementary Materials
+17. Supplementary Materials
 ---------------------------
 
 .. Note::
@@ -351,10 +359,10 @@ Check to make sure that all supplementary materials in the PDF match what we hav
 
 .. _pdf_supplementary_title_footer_research_papers:
 
-16.1. Title and Footer
+17.1. Title and Footer
 ^^^^^^^^^^^^^^^^^^^^^^
 
-**16.1.1. Main Title**
+**17.1.1. Main Title**
 
 - Main title should appear at the top of the first page of the supplementary materials - Title should be ALL CAPS, blue and bold font.
 
@@ -362,7 +370,7 @@ Check to make sure that all supplementary materials in the PDF match what we hav
   	:alt: Supplementary Materials main title
   	:scale: 99%
 
-**16.1.2. Supplementary Figures**
+**17.1.2. Supplementary Figures**
 
 - When multiple figures are present, title should be Supplementary Figures - :ref:`Title case<title_case>`, blue and bold font.
 
@@ -376,7 +384,7 @@ Check to make sure that all supplementary materials in the PDF match what we hav
   	:alt: Supplementary Figure title
   	:scale: 99%
 
-**16.1.3. Supplementary Tables**
+**17.1.3. Supplementary Tables**
 
 - When multiple tables are present, title should be Supplementary Tables - :ref:`Title case<title_case>`, blue and bold font.
 
@@ -390,7 +398,7 @@ Check to make sure that all supplementary materials in the PDF match what we hav
   	:alt: Supplementary Table title
   	:scale: 99%
 
-**16.1.4. Supplementary References**
+**17.1.4. Supplementary References**
 
 - Title should be Supplementary References - :ref:`Title case<title_case>`, blue and bold font.
 
@@ -398,23 +406,23 @@ Check to make sure that all supplementary materials in the PDF match what we hav
   	:alt: Supplementary References title
   	:scale: 99%
 
-**16.1.5. Supplementary Materials**
+**17.1.5. Supplementary Materials**
 
-- Title should be Supplementary Materials - :ref:`Title case<title_case>`, blue and bold font. This heading is used for any supplementary information, methods, etc. and should not be confused with the main SUPPLEMENTARY MATERIALS title referred to in :ref:`16.1.1<pdf_supplementary_title_footer_research_papers>`.
+- Title should be Supplementary Materials - :ref:`Title case<title_case>`, blue and bold font. This heading is used for any supplementary information, methods, etc. and should not be confused with the main SUPPLEMENTARY MATERIALS title referred to in :ref:`17.1.1<pdf_supplementary_title_footer_research_papers>`.
 
 
 .. image:: /_static/suppl_materials_ms_pdf.png
   	:alt: Supplementary materials title
   	:scale: 99%
 
-**16.1.6. Footer**
+**17.1.6. Footer**
 
 Not applicable to PDF check - Numbered footers will most likely be present, but these will be renumbered to accord with issue page numbers and checked in the next stage of publishing.
 
-16.2. Text
+17.2. Text
 ^^^^^^^^^^
 
-16.2.1. Check that there are callouts to any external supplementary files (e.g. tables, video etc) that could not be included in the PDF due to size or format.
+17.2.1. Check that there are callouts to any external supplementary files (e.g. tables, video etc) that could not be included in the PDF due to size or format.
 
 - Callout text should be “Please browse Full Text version to see the data of”…
 
@@ -426,10 +434,10 @@ Not applicable to PDF check - Numbered footers will most likely be present, but 
 
 :ref:`+ HTML checks<text_supplementary_html_research_papers>`
 
-16.3. Figures
+17.3. Figures
 ^^^^^^^^^^^^^
 
-16.3.1. Supplementary figure callouts are not hyperlinked in PDF.
+17.3.1. Supplementary figure callouts are not hyperlinked in PDF.
 
 .. image:: /_static/suppl_fig_callouts_pdf.png
    :alt: Supplementary figure callouts
@@ -437,10 +445,10 @@ Not applicable to PDF check - Numbered footers will most likely be present, but 
 
 :ref:`+ HTML checks<figures_supplementary_html_research_papers>`
 
-16.4. Tables
+17.4. Tables
 ^^^^^^^^^^^^
 
-16.4.1. Supplementary table callouts are not hyperlinked in PDF.
+17.4.1. Supplementary table callouts are not hyperlinked in PDF.
 
 .. image:: /_static/suppl_table_callouts_pdf.png
    :alt: Supplementary table callouts
@@ -448,14 +456,14 @@ Not applicable to PDF check - Numbered footers will most likely be present, but 
 
 :ref:`+ HTML checks<tables_supplementary_html_research_papers>`
 
-16.5. References
+17.5. References
 ^^^^^^^^^^^^^^^^
 
 No PDF-specific checks
 
 :ref:`+ HTML checks<refs_supplementary_html_research_papers>`
 
-16.6. Large Tables
+17.6. Large Tables
 ^^^^^^^^^^^^^^^^^^
 
 No PDF-specific checks
