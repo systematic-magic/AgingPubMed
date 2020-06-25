@@ -686,7 +686,7 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 	- Check that reference callouts are in :ref:`plain text<plain_text>` and a number (or numbers in case of ranges) is hyperlinked.
 
-14.2. Check that callout number for each of the references is present in the text or is covered in the range of numbers. i.e. in the range of [1-3] reference 2 is not present in the text, but covered in the range. This case is acceptable. |br|
+15.2. Check that callout number for each of the references is present in the text or is covered in the range of numbers. i.e. in the range of [1-3] reference 2 is not present in the text, but covered in the range. This case is acceptable. |br|
 Callouts can be found in text, figures and tables.
 
 15.3. Check that there are no callouts for non-existing references (i.e. there is a callout, but there is no reference).
@@ -708,7 +708,7 @@ Callouts can be found in text, figures and tables.
 
 16.1. Author List
 ^^^^^^^^^^^^^^^^
-15.1.1. Check that author names in the List of Authors are in-line with the following format: |br|
+16.1.1. Check that author names in the List of Authors are in-line with the following format: |br|
 |span_format_start| LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th) |span_end|
 
 
