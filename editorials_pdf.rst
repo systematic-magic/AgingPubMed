@@ -11,7 +11,7 @@ PDF: Editorials
 1. Paper Type
 -------------
 
-1.1 Check that paper type matches JPS
+1.1. Check that paper type matches JPS
 
 .. image:: /_static/pdf_editorial_paper_type.png
    :alt: Paper type
@@ -429,8 +429,13 @@ Received and Published dates can be found at the end of the article right after 
 
 .. image:: /_static/editorial_dates.png
    :alt: Dates
+   :scale: 99%
 
+18.7. Check that Received date matches JPS.
 
+.. image:: /_static/editorials_dates_jps.png
+   :alt: Dates in JPS
+   :scale: 99%
 
 
 .. |br| raw:: html

@@ -15,7 +15,7 @@ HTML: Editorials
 1. Paper Type
 -------------
 
-1.1 Check that paper type matches JPS
+1.1. Check that paper type matches JPS
 
 .. image:: /_static/html_editorial_paper_type.png
    :alt: Paper type
@@ -226,18 +226,24 @@ Abbreviations are optional.
 
 8.1. Check that Dates section has titles “Received:”, “Accepted:”, “Published:” (:ref:`title case<title_case>` and followed by colon (:)).
 
+.. image:: /_static/dates_format.png
+   :alt: Dates format
+   :scale: 99%
+
 8.2. Check that month is spelled out as a word and dates are in-line with the following format: Month Day, Year
 (e.g. June 1, 2017, April 12, 2016, December 31, 2015, etc.) Note: if a day is presented by single digit, there should be no leading 0.
 
 8.3. Check spelling of the month.
 
-.. image:: /_static/dates_format.png
-   :alt: Dates format 
-
-
 8.4. Check that Received date is older than Accepted date (i.e. we cannot publish before we accept).
 
 .. note:: Pay attention to years.
+
+8.5. Check that Received and Accepted dates match JPS.
+
+.. image:: /_static/dates_jps.png
+   :alt: Dates in JPS
+   :scale: 99%
 
 |
 .. _copyright_html_editorials:
