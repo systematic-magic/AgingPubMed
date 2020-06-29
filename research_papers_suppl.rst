@@ -23,7 +23,7 @@ Check each supplementary file to verify contents.
 Depending on the content of the Supplementary materials PDF file, title and footer can be different. Please all possible variations below.
 No other variations allowed.
 
-**1.1. Supplementary Figures**
+1.1. Supplementary Figures
 
 - When one or more figures are contained in a PDF, title should be SUPPLEMENTARY FIGURES - ALL CAPS, blue and bold font.
 
@@ -37,7 +37,7 @@ No other variations allowed.
   	:alt: Supplementary Figure title
   	:scale: 99%
 
-**1.2. Supplementary Tables**
+1.2. Supplementary Tables
 
 - When one or more tables are contained in a PDF, title should be SUPPLEMENTARY TABLES - ALL CAPS, blue and bold font.
 
@@ -51,7 +51,7 @@ No other variations allowed.
   	:alt: Supplementary Table title
   	:scale: 99%
 
-**1.3. Supplementary References**
+1.3. Supplementary References
 
 - Title should be SUPPLEMENTARY REFERENCES - ALL CAPS, blue and bold font.
 
@@ -59,7 +59,7 @@ No other variations allowed.
   	:alt: Supplementary references title
   	:scale: 99%
 
-**1.4. Supplementary Materials**
+1.4. Supplementary Materials
 
 - Title should be SUPPLEMENTARY MATERIALS - ALL CAPS, blue and bold font.
 
@@ -72,7 +72,7 @@ No other variations allowed.
 2. Footer
 ^^^^^^^^^
 
-- All supplementary PDF documents should have numbered footers on each page.
+2.1. All supplementary PDF documents should have numbered footers on each page.
 
 .. image:: /_static/suppl_footer_pdf.png
   	:alt: Supplementary materials footer
@@ -135,29 +135,29 @@ No other variations allowed.
 
 6.1. If there are references present in the supplementary materials, then they should be checked in accordance with :ref:`PDF References checks<references_pdf_research_papers>`.
 
-| The supplementary materials must have its own reference list (separate from the reference list in the main manuscript) when references are being called out there.
+	| The supplementary materials must have its own reference list (separate from the reference list in the main manuscript) when references are being called out there.
 
-| If you notice that references are being called out in the supplementary materials but there is no supplementary reference list present, then please contact the author to provide one.
-|On the other hand, if there is a reference list but no callouts to it in the supplementary materials, then please contact the author to provide updated supplementary materials with added callouts.
+	| If you notice that references are being called out in the supplementary materials but there is no supplementary reference list present, then please contact the author to provide one.
+	| On the other hand, if there is a reference list but no callouts to it in the supplementary materials, then please contact the author to provide updated supplementary materials with added callouts.
 
 6.2. Supplementary reference callouts should be checked in accordance with PDF :ref:`References Callouts checks<reference_callouts_pdf_research_papers>`.
 
 .. _large_tables_check:
 
-17.7. Large Tables
+7. Large Tables
 ^^^^^^^^^^^^^^^^^^
 
 Tables which fit into 2 pages are "normal tables" and should be published as PDF for convenient printing. Tables which span across 3 or more pages are considered ":ref:`large tables<large_tables>`". Large tables should be published as separate supplementary files (preferably in Excel (.xlsx) format).
 
-17.7.1. Check whether large table was supplied by the author in PDF format. If so, then please contact the author and ask to provide tables in Excel (.xlsx) or Word (.docx) format. Excel (.xlsx) format is preferable.
+7.1. Check whether large table was supplied by the author in PDF format. If so, then please contact the author and ask to provide tables in Excel (.xlsx) or Word (.docx) format. Excel (.xlsx) format is preferable.
 
-17.7.2. Check whether large table was supplied by the author in Word (.docx) format. If so, check whether large table contains complex formatting (e.g. nested cells, subcategories etc) which is likely to be disturbed by conversion to Excel (.xlsx).
+7.2. Check whether large table was supplied by the author in Word (.docx) format. If so, check whether large table contains complex formatting (e.g. nested cells, subcategories etc) which is likely to be disturbed by conversion to Excel (.xlsx).
 
 - If conversion to Excel (.xlsx) is feasible, ask Production team to convert the large table in the Word (.docx) format to Excel (.xlsx) format.
 
 - If conversion to Excel (.xlsx) is **not** feasible, then such large table is to be published as a separate Word (.docx) supplementary file.
 
-17.7.3. Check that tables in Excel or Word format have table number and header compliant to HTML :ref:`Tables check 14.2<table_title_check>`.
+7.3. Check that tables in Excel or Word format have table number and header compliant to HTML :ref:`Tables check 14.2<table_title_check>`.
 
 .. image:: /_static/suppl_xl_table.png
    :alt: Supplementary table
