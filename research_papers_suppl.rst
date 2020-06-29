@@ -1,5 +1,3 @@
-
-
 SUPPLEMENTARY MATERIALS: All Papers (except Editorials)
 =======================================================
 
@@ -162,3 +160,29 @@ Tables which fit into 2 pages are "normal tables" and should be published as PDF
 .. image:: /_static/suppl_xl_table.png
    :alt: Supplementary table
    :scale: 60%
+
+
+ |
+
+|div_center_start| Next steps: :ref:`check PDF<research_papers_pdf>`. |div_end|
+
+
+.. |br| raw:: html
+
+   <br />
+
+.. |div_center_start| raw:: html
+
+   <div style="text-align:center">
+
+.. |div_end| raw:: html
+   
+   </div>
+
+.. |span_format_start| raw:: html
+   
+   <span style='font-family:"Source Code Pro", sans-serif; font-weight: bold; text-align:center;'>
+
+.. |span_end| raw:: html
+   
+   </span>
