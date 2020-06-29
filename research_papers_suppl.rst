@@ -1,3 +1,5 @@
+.. _supplementary_html_research_papers:
+
 SUPPLEMENTARY MATERIALS: All Papers (except Editorials)
 =======================================================
 
@@ -164,7 +166,7 @@ Tables which fit into 2 pages are "normal tables" and should be published as PDF
 
  |
 
-|div_center_start| Next steps: :ref:`check PDF<research_papers_pdf>`. |div_end|
+|div_center_start| Next steps: :ref:`check PDF<pdf_research_papers>`. |div_end|
 
 
 .. |br| raw:: html

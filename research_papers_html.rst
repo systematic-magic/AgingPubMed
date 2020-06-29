@@ -1031,7 +1031,7 @@ Figures will most often be kept in one PDF. Occasionally, unusually large figure
 
 |
 
-|div_center_start| Next steps: :ref:`check SUPPLEMENTARY MATERIALS<research_papers_suppl>`. |div_end|
+|div_center_start| Next steps: :ref:`check SUPPLEMENTARY MATERIALS<supplementary_html_research_papers>`. |div_end|
 
 
 .. |br| raw:: html
