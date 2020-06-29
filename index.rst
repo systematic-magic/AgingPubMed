@@ -15,7 +15,7 @@ Happy hunting!
    :caption: ALL PAPERS (except Editorials):
 
    HTML <research_papers_html>
-   SUPPLEMENTAL <research_papers_suppl>
+   SUPPLEMENTARY MATERIALS <research_papers_suppl>
    PDF <research_papers_pdf>
 
 
