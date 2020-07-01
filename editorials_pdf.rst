@@ -307,7 +307,7 @@ When present, Abbreviations section can be found at the end of the article right
 
 13.1. Check that there is no blank line between Keywords and Abbreviations sections.
 
-13.2. Check that abbreviations section has a title "Abbreviations:" (:ref:`title case<title_case>` and followed by colon (:)).
+13.2. Check that Abbreviations section has a title "Abbreviations:" (:ref:`title case<title_case>` and followed by colon (:)).
 
 13.3. Check that "Abbreviations:" is formatted in black, bold and italic font.
 
@@ -327,13 +327,13 @@ This is an optional section that should appear after Keywords section and before
 
 14.1. Check that there is no blank line between Acknowledgments and section preceding it.
 
-14.2. Check that acknowledgments section has a title "Acknowledgments:" (:ref:`title case<title_case>` and followed by colon (:)).
+14.2. Check that Acknowledgments section has a title "Acknowledgments:" (:ref:`title case<title_case>` and followed by colon (:)).
 
 14.3. Check that "Acknowledgments:" is formatted in black, bold and italic font.
 
 14.4. Check that Acknowledgments information is formatted in italic font.
 
-14.5. Check that there are no punctuation marks at the end of acknowledgments line.
+14.5. Check that there are no punctuation marks at the end of Acknowledgments line.
 
 |
 .. _coi_pdf_editorials:
@@ -363,7 +363,7 @@ This is an optional section that should appear after Keywords section and before
 
 16.1. Check that there is no blank line between Funding and section preceding it.
 
-16.2. Check that funding section has a title "Funding:" (:ref:`title case<title_case>` and followed by colon (:)).
+16.2. Check that Funding section has a title "Funding:" (:ref:`title case<title_case>` and followed by colon (:)).
 
 16.3. Check that "Funding:" is formatted in black, bold and italic font.
 
