@@ -46,7 +46,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 3. Author List
 --------------
 
-3.1. Check that author lists contains full names of authors divided by comma (,). If there are only 2 authors, then check that they are divided by "and" word.
+3.1. Check that author list contains full names of authors divided by comma (,). If there are only 2 authors, then check that they are divided by "and" word.
 
 3.2. Check that author names are written formatted in black and bold font. 
 
@@ -208,7 +208,7 @@ Reference title should not be present.
 9. Corresponding Author and Affiliation
 ---------------------------------------
 
-Corresponding author and affiliation can be found at the end of the article right after the references section.
+Corresponding author and affiliation can be found at the end of the article right after the References section.
 
 9.1. Check that full name of corresponding author is formatted in bold and underlined font and is followed by colon (:).
 
@@ -227,11 +227,11 @@ Corresponding author and affiliation can be found at the end of the article righ
 10. Correspondence
 -----------------
 
-"Correspondence:" section can be found at the end of the article right after the Corresponding author and affiliation.
+"Correspondence:" section can be found at the end of the article right after the corresponding author and affiliation section.
 
-10.1. Check that correspondence section is separated from corresponding author and affiliation section by blank line.
+10.1. Check that Correspondence section is separated from corresponding author and affiliation section by blank line.
 
-10.2. Check that correspondence section has a title “Correspondence:” (:ref:`title case<title_case>` and followed by colon (:)).
+10.2. Check that Correspondence section has a title “Correspondence:” (:ref:`title case<title_case>` and followed by colon (:)).
 
 10.3. Check that "Correspondence:" is formatted in black, bold and italic font.
 
@@ -241,7 +241,7 @@ Corresponding author and affiliation can be found at the end of the article righ
 
 10.6. Check that there are no punctuation marks at the end of correspondence line.
 
-10.7. Check that author’s full name matches the author list (at the top of the paper) and the "Corresponding author and affiliation" (above).
+10.7. Check that author’s full name matches the author list (at the top of the paper) and the corresponding author and affiliation section (above).
 
 
 .. image:: /_static/correspondence.png
@@ -255,9 +255,9 @@ Corresponding author and affiliation can be found at the end of the article righ
 
 "Email:" section can be found at the end of the article right after the Correspondence section.
 
-11.1. Check that there is no blank line between Correspondence: and Email: sections.
+11.1. Check that there is no blank line between Correspondence and Email sections.
 
-11.2.Check that email section has a title "Email:" (:ref:`title case<title_case>` and followed by colon (:)).
+11.2. Check that email section has a title "Email:" (:ref:`title case<title_case>` and followed by colon (:)).
 
 11.3. Check that "Email:" is formatted in black, bold and italic font.
 
@@ -279,7 +279,7 @@ Corresponding author and affiliation can be found at the end of the article righ
 
 "Keywords:" section can be found at the end of the article right after the "Email:" section.
 
-12.1. Check that there is no blank line between Email: and Keywords: sections.
+12.1. Check that there is no blank line between Email and Keywords sections.
 
 12.2. Check that keywords section has a title "Keywords:" (:ref:`title case<title_case>` and followed by colon (:)).
 
@@ -305,7 +305,7 @@ This is an optional section that should appear after Keywords section and before
 
 When present, ”Abbreviations:" section can be found at the end of the article right after the "Keywords:" section.
 
-13.1. Check that there is no blank line between Keywords: and Abbreviations: sections.
+13.1. Check that there is no blank line between Keywords and Abbreviations sections.
 
 13.2. Check that abbreviations section has a title "Abbreviations:" (:ref:`title case<title_case>` and followed by colon (:)).
 
@@ -325,7 +325,7 @@ When present, ”Abbreviations:" section can be found at the end of the article 
 
 This is an optional section that should appear after Keywords section and before Copyright section. The specific placement of this section should accord with order described in :ref:`HTML Section Headers checks<section_headers_html_editorials>` for Abbreviations through Funding.
 
-14.1. Check that there is no blank line between Acknowledgments: and section preceding it.
+14.1. Check that there is no blank line between Acknowledgments and section preceding it.
 
 14.2. Check that acknowledgments section has a title "Acknowledgments:" (:ref:`title case<title_case>` and followed by colon (:)).
 
@@ -343,7 +343,7 @@ This is an optional section that should appear after Keywords section and before
 
 This is an optional section that should appear after Keywords section and before Copyright section. The specific placement of this section should accord with order described in :ref:`HTML Section Headers checks<section_headers_html_editorials>` for Abbreviations through Funding.
 
-15.1. Check that there is no blank line between Conflicts of Interest: and section preceding it.
+15.1. Check that there is no blank line between Conflicts of Interest and section preceding it.
 
 15.2. Check that conflicts of interest section has a title "Conflicts of Interest:" (:ref:`title case<title_case>` and followed by colon (:)).
 
@@ -361,7 +361,7 @@ This is an optional section that should appear after Keywords section and before
 
 This is an optional section that should appear after Keywords section and before Copyright section. The specific placement of this section should accord with order described in :ref:`HTML Section Headers checks<section_headers_html_editorials>` for Abbreviations through Funding.
 
-16.1. Check that there is no blank line between Funding: and section preceding it.
+16.1. Check that there is no blank line between Funding and section preceding it.
 
 16.2. Check that funding section has a title "Funding:" (:ref:`title case<title_case>` and followed by colon (:)).
 
@@ -379,7 +379,7 @@ This is an optional section that should appear after Keywords section and before
 
 "Copyright:" section can be found at the end of the article right after the "Keywords:" section (or last optional section, if present).
 
-17.1. Check that there is no blank line between Copyright: and section preceding it.
+17.1. Check that there is no blank line between Copyright and section preceding it.
 
 17.2. Check that copyright section has a title "Copyright:" (:ref:`title case<title_case>` and followed by colon(:)).
 
