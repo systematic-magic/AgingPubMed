@@ -346,7 +346,7 @@ No PDF-specific checks
 
 	2. PDF of the main manuscript (after References) - All supplementary materials that can be placed in a PDF are available here. Any materials that cannot fit in PDF due to formatting or size will have callouts to the HTML where they can be downloaded and viewed. 
 
-	This check is for the supplementary materials in PDF. Checks for supplementary materials in the HTML can be found :ref:`here<supplementary_html_research_papers>`.
+	This check is for the supplementary materials downloads in PDF. Checks for supplementary materials in the HTML can be found :ref:`here<supplementary_html_research_papers>`.
 
 
 Supplementary materials should be located after the references of the main MS in the PDF.

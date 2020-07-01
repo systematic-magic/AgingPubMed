@@ -11,7 +11,7 @@ SUPPLEMENTARY MATERIALS: All Papers (except Editorials)
 
 	2. PDF of the main manuscript (after References) - All supplementary materials that can be placed in a PDF are available here. Any materials that cannot fit in PDF due to formatting or size will have callouts to the HTML where they can be downloaded and viewed. 
 
-	This check is for the supplementary materials in HTML. Checks for supplementary materials in the PDF can be found :ref:`here<pdf_supplementary_research_papers>`.
+	This check is for the supplementary materials downloads in HTML. Checks for supplementary materials in the PDF can be found :ref:`here<pdf_supplementary_research_papers>`.
 
 
 Check each supplementary file to verify contents.
@@ -20,8 +20,7 @@ Check each supplementary file to verify contents.
 
 1. Title 
 ^^^^^^^^
-Depending on the content of the Supplementary materials PDF file, title and footer can be different. Please all possible variations below.
-No other variations allowed.
+The titles of each supplementary PDF file will vary depending on their contents. Please see all possible variations below. No other variations allowed.
 
 1.1. Supplementary Figures
 
