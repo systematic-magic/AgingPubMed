@@ -244,7 +244,7 @@ Abbreviations are optional.
 9. Dates
 --------
 
-9.1. Check that Dates section has titles “Received:”, “Accepted:”, “Published:” (:ref:`title case<title_case>` and followed by colon (:)).
+9.1. Check that dates section has titles “Received:”, “Accepted:”, “Published:” (:ref:`title case<title_case>` and followed by colon (:)).
 
 .. image:: /_static/dates_format.png
    :alt: Dates format
@@ -288,7 +288,7 @@ and followed by:
 .. image:: /_static/cpright_format.png
    :alt: Copyright format 
 
-10.3. Check that Last name of first author matches last name of the first author in the Author List. In case of 2 authors, check that last names match names in the Author List.
+10.3. Check that last name of first author matches last name of the first author in the author list. In case of 2 authors, check that last names match names in the author list.
 
 |
 .. _section_headers_html_research_papers:
@@ -714,7 +714,7 @@ Callouts can be found in text, figures and tables.
 
 16.1. Author List
 ^^^^^^^^^^^^^^^^
-16.1.1. Check that author names in the List of Authors are in-line with the following format: |br|
+16.1.1. Check that author names in the list of authors are in-line with the following format: |br|
 |span_format_start| LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th) |span_end|
 
 
@@ -726,7 +726,7 @@ Callouts can be found in text, figures and tables.
 
 16.1.3. Check all the :ref:`mononym<mononym>` (names which have no initials) to be “true” mononyms (check `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site).
 
-16.1.4. Check that List of Authors contains no more than either:
+16.1.4. Check that list of authors contains no more than either:
 
 - 13 authors followed by “et al.”  OR
 
@@ -741,11 +741,11 @@ Callouts can be found in text, figures and tables.
 
 16.1.5. Check that authors are separated by comma (,) followed by space.
 
-16.1.6. Check that et al is separated from List of Authors by comma (,).
+16.1.6. Check that et al is separated from list of authors by comma (,).
 
 16.1.7. Check that there is a period (.) either after the last author name (if there are less or equal to 14 authors), or after et al (if there are exactly 13 authors + et al), or after :ref:`group authorship<group_authorship>` (if present).
 
-16.1.8. List of Authors can contain :ref:`group authorship<group_authorship>` (see screenshot below). Check that group authorship is positioned at the end of List of Authors. Other positions are not allowed.
+16.1.8. List of authors can contain :ref:`group authorship<group_authorship>` (see screenshot below). Check that group authorship is positioned at the end of list of authors. Other positions are not allowed.
 
 16.1.9. :ref:`Group authorship<group_authorship>` must be separated from author list by comma (,) and "and" word. Group authorship is not counted against total number of authors in the author list quota.
 
@@ -783,7 +783,7 @@ Callouts can be found in text, figures and tables.
 	This section is applicable ONLY to in-house journals: |br|
 	 **Oncotarget, Oncoscience, Aging (Albany NY), Genes Cancer**.
 
-Citation data is a part of a reference, which contains Journal Title, year, volume, pages and doi.
+Citation data is a part of a reference, which contains journal title, year, volume, pages and doi.
 
 16.3.1. Check that citation data has correct journal title. The following titles are allowed:
 
@@ -835,7 +835,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 	
 	This section is applicable to all journals **except for in-house journals**.
 
-Citation data is a part of a reference, which contains Journal Title, year, volume, pages and doi.
+Citation data is a part of a reference, which contains journal title, year, volume, pages and doi.
 
 
 16.4.1. Check that journal citation-data has the following elements in this order: |br|
