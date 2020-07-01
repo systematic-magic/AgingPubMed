@@ -224,7 +224,7 @@ Abbreviations are optional.
 8. Dates
 --------
 
-8.1. Check that Dates section has titles “Received:”, “Accepted:”, “Published:” (:ref:`title case<title_case>` and followed by colon (:)).
+8.1. Check that dates section has titles “Received:”, “Accepted:”, “Published:” (:ref:`title case<title_case>` and followed by colon (:)).
 
 .. image:: /_static/dates_format.png
    :alt: Dates format
@@ -268,7 +268,7 @@ and followed by:
 .. image:: /_static/cpright_format.png
    :alt: Copyright format 
 
-9.3. Check that Last name of first author matches last name of the first author in the Author List. In case of 2 authors, check that last names match names in the Author List.
+9.3. Check that last name of first author matches last name of the first author in the author list. In case of 2 authors, check that last names match names in the author list.
 
 |
 .. _section_headers_html_editorials:
@@ -511,7 +511,7 @@ Callouts can be found in text, figures and tables.
 
 15.1. Author List
 ^^^^^^^^^^^^^^^^
-15.1.1. Check that author names in the List of Authors are in-line with the following format: |br|
+15.1.1. Check that author names in the list of authors are in-line with the following format: |br|
 |span_format_start| LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th) |span_end|
 
 
@@ -523,7 +523,7 @@ Callouts can be found in text, figures and tables.
 
 15.1.3. Check all the :ref:`mononym<mononym>` (names which have no initials) to be “true” mononyms (check `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site).
 
-15.1.4. Check that List of Authors contains either of the following:
+15.1.4. Check that list of authors contains either of the following:
 
 - One author name followed by comma (,) and “et al.”
 
@@ -552,7 +552,7 @@ Callouts can be found in text, figures and tables.
 	This section is applicable ONLY to in-house journals: |br|
 	 **Oncotarget, Oncoscience, Aging (Albany NY), Genes Cancer**.
 
-Citation data is a part of a reference, which contains Journal Title, year, volume, pages and doi.
+Citation data is a part of a reference, which contains journal title, year, volume, pages and doi.
 
 15.3.1. Check that citation data has correct journal title. The following titles are allowed:
 
@@ -605,7 +605,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 	
 	This section is applicable to all journals **except for in-house journals**.
 
-Citation data is a part of a reference, which contains Journal Title, year, volume, pages and doi.
+Citation data is a part of a reference, which contains journal title, year, volume, pages and doi.
 
 
 15.4.1. Check that journal citation-data has the following elements in this order: |br|
@@ -658,7 +658,7 @@ If you find duplicate references, please contact author and ask to correct the r
    | ":official publication of the society of…"
 
 
-15.5.4. Remove any instances of “[Internet]”, "[pii]" Accessed dates (ex: “Accessed November 6, 2017.”) and empty (blank) doi.
+15.5.4. Remove any instances of “[Internet]”, "[pii]" accessed dates (ex: “Accessed November 6, 2017.”) and empty (blank) doi.
 
 15.5.5. Remove “PMID” and “PMCID” details, if present in any reference.
 
