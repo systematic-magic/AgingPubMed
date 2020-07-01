@@ -11,7 +11,7 @@ PDF: Editorials
 1. Paper Type
 -------------
 
-1.1. Check that paper type matches JPS
+1.1. Check that paper type matches JPS.
 
 .. image:: /_static/pdf_editorial_paper_type.png
    :alt: Paper type
