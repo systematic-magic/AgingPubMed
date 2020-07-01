@@ -49,7 +49,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 
 .. Note::
 	
-	The number of authors is limited to three for editorials. Please check all deviations with Olga at krasnova@impactaging.com while copying PubMed team manager. |br|
+	The number of authors is limited to three for editorials. |br|
 
 
 3.1. Check that all author names in author list are separated by commas (,). No other separators allowed.
@@ -325,7 +325,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 .. Note::
 	
-	Only one figure should be used for editorials. Please check all deviations with Olga at krasnova@impactaging.com while copying PubMed team manager. |br|
+	Only one figure should be used for editorials. |br|
 
 12.1. Check that figure image has text and graphics which are clear and large enough to read (i.e. image text is not smaller than article text itself).
 
@@ -456,7 +456,7 @@ If image is hard to read, please contact Production team and ask to provide clea
 13. Tables
 ----------
 
-Tables are not used for editorials. Please check all deviations with Olga at krasnova@impactaging.com while copying PubMed team manager.
+Tables are not used for editorials.
 
 |
 .. _reference_callouts_html_editorials:
@@ -505,7 +505,7 @@ Callouts can be found in text, figures and tables.
 
 .. Note::
 	
-	Maximum allowed number of references is 8. Please check all deviations with Olga at krasnova@impactaging.com while copying PubMed team manager. Also, references in editorials do not have article title component. |br|
+	Maximum allowed number of references is 8. Also, references in editorials do not have article title component. |br|
 
 .. _refs_author_list_html_editorials:
 
