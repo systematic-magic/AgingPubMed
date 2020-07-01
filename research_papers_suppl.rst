@@ -164,7 +164,7 @@ Tables which fit into 2 pages are "normal tables" and should be published as PDF
    :scale: 99%
 
 
- |
+|
 
 |div_center_start| Next steps: :ref:`check PDF<pdf_research_papers>`. |div_end|
 
