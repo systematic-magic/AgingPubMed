@@ -49,7 +49,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 
 .. Note::
 	
-	The number of authors is limited to three for editorials. Please check all deviations with Olga at krasnova@impactaging.com while copying PubMed team manager. |br|
+	The number of authors is limited to three for editorials. |br|
 
 
 3.1. Check that all author names in author list are separated by commas (,). No other separators allowed.
@@ -224,7 +224,7 @@ Abbreviations are optional.
 8. Dates
 --------
 
-8.1. Check that Dates section has titles “Received:”, “Accepted:”, “Published:” (:ref:`title case<title_case>` and followed by colon (:)).
+8.1. Check that dates section has titles “Received:”, “Accepted:”, “Published:” (:ref:`title case<title_case>` and followed by colon (:)).
 
 .. image:: /_static/dates_format.png
    :alt: Dates format
@@ -268,7 +268,7 @@ and followed by:
 .. image:: /_static/cpright_format.png
    :alt: Copyright format 
 
-9.3. Check that Last name of first author matches last name of the first author in the Author List. In case of 2 authors, check that last names match names in the Author List.
+9.3. Check that last name of first author matches last name of the first author in the author list. In case of 2 authors, check that last names match names in the author list.
 
 |
 .. _section_headers_html_editorials:
@@ -325,7 +325,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 .. Note::
 	
-	Only one figure should be used for editorials. Please check all deviations with Olga at krasnova@impactaging.com while copying PubMed team manager. |br|
+	Only one figure should be used for editorials. |br|
 
 12.1. Check that figure image has text and graphics which are clear and large enough to read (i.e. image text is not smaller than article text itself).
 
@@ -456,7 +456,7 @@ If image is hard to read, please contact Production team and ask to provide clea
 13. Tables
 ----------
 
-Tables are not used for editorials. Please check all deviations with Olga at krasnova@impactaging.com while copying PubMed team manager.
+Tables are not used for editorials.
 
 |
 .. _reference_callouts_html_editorials:
@@ -505,13 +505,13 @@ Callouts can be found in text, figures and tables.
 
 .. Note::
 	
-	Maximum allowed number of references is 8. Please check all deviations with Olga at krasnova@impactaging.com while copying PubMed team manager. Also, references in editorials do not have article title component. |br|
+	Maximum allowed number of references is 8. Also, references in editorials do not have article title component. |br|
 
 .. _refs_author_list_html_editorials:
 
 15.1. Author List
 ^^^^^^^^^^^^^^^^
-15.1.1. Check that author names in the List of Authors are in-line with the following format: |br|
+15.1.1. Check that author names in the list of authors are in-line with the following format: |br|
 |span_format_start| LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th) |span_end|
 
 
@@ -523,7 +523,7 @@ Callouts can be found in text, figures and tables.
 
 15.1.3. Check all the :ref:`mononym<mononym>` (names which have no initials) to be “true” mononyms (check `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site).
 
-15.1.4. Check that List of Authors contains either of the following:
+15.1.4. Check that list of authors contains either of the following:
 
 - One author name followed by comma (,) and “et al.”
 
@@ -552,7 +552,7 @@ Callouts can be found in text, figures and tables.
 	This section is applicable ONLY to in-house journals: |br|
 	 **Oncotarget, Oncoscience, Aging (Albany NY), Genes Cancer**.
 
-Citation data is a part of a reference, which contains Journal Title, year, volume, pages and doi.
+Citation data is a part of a reference, which contains journal title, year, volume, pages and doi.
 
 15.3.1. Check that citation data has correct journal title. The following titles are allowed:
 
@@ -605,7 +605,7 @@ Citation data is a part of a reference, which contains Journal Title, year, volu
 	
 	This section is applicable to all journals **except for in-house journals**.
 
-Citation data is a part of a reference, which contains Journal Title, year, volume, pages and doi.
+Citation data is a part of a reference, which contains journal title, year, volume, pages and doi.
 
 
 15.4.1. Check that journal citation-data has the following elements in this order: |br|
@@ -658,7 +658,7 @@ If you find duplicate references, please contact author and ask to correct the r
    | ":official publication of the society of…"
 
 
-15.5.4. Remove any instances of “[Internet]”, "[pii]" Accessed dates (ex: “Accessed November 6, 2017.”) and empty (blank) doi.
+15.5.4. Remove any instances of “[Internet]”, "[pii]" accessed dates (ex: “Accessed November 6, 2017.”) and empty (blank) doi.
 
 15.5.5. Remove “PMID” and “PMCID” details, if present in any reference.
 
