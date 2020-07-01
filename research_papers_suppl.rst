@@ -161,7 +161,7 @@ Tables which fit into 2 pages are "normal tables" and should be published as PDF
 
 .. image:: /_static/suppl_xl_table.png
    :alt: Supplementary table
-   :scale: 99%
+   :scale: 60%
 
 
 |
