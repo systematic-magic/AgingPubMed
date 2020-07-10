@@ -30,7 +30,7 @@ PDF: Editorials
 
 2.3. Check that title is written in blue and bold font. Note: title of editorials is written in smaller font than title of research papers.
 
-2.4. Check that capitalisation of scientific terms is correct.
+2.4. Check that capitalization of scientific terms is correct.
 We suggest the you use the :ref:`following procedure<correct_case_check>`, if in you are in doubt regarding this or that term.
 
 2.5. Check that following Latin terms are written in italics: *in vivo, in vitro, in utero, in situ*. 
