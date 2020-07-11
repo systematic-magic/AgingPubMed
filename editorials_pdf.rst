@@ -50,11 +50,13 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 
 3.2. Check that author names are written formatted in black and bold font. 
 
-3.3. Check that there is no punctuation mark at the end of author list.
+3.3. Check that author’s name does NOT contain titles and/or degrees (e.g. Dr., Ph.D., M.D., etc.).
 
-3.4. Check that author names do not have affiliation numbers.
+3.4. Check that there is no punctuation mark at the end of author list.
 
-3.5. Check that there are no affiliations listed for authors (there must be no affiliations on the page).
+3.5. Check that author names do not have affiliation numbers.
+
+3.6. Check that there are no affiliations listed for authors (there must be no affiliations on the page).
 
 
 .. image:: /_static/editorial_authors.png
@@ -212,11 +214,13 @@ Corresponding author and affiliation can be found at the end of the article righ
 
 9.1. Check that full name of corresponding author is formatted in bold and underlined font and is followed by colon (:).
 
-9.2. Check that full name of corresponding author is followed by affiliation (only one affiliation is allowed in PDF regardless of the number of affiliations for the corresponding author in HTML).
+9.2. Check that author’s name does NOT contain titles and/or degrees (e.g. Dr., Ph.D., M.D., etc.).
 
-9.3. Check that affiliation is formatted in :ref:`plain text<plain_text>` (no special formatting).
+9.3. Check that full name of corresponding author is followed by affiliation (only one affiliation is allowed in PDF regardless of the number of affiliations for the corresponding author in HTML).
 
-9.4. :ref:`HTML Affiliations checks<affiliations_html_editorials>` (inclusive) are the same for the affiliation in the PDF.
+9.4. Check that affiliation is formatted in :ref:`plain text<plain_text>` (no special formatting).
+
+9.5. :ref:`HTML Affiliations checks<affiliations_html_editorials>` (inclusive) are the same for the affiliation in the PDF.
 
 .. image:: /_static/corresp_auth.png
    :alt: Corresponding author and affiliations

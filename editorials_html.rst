@@ -54,14 +54,16 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 
 3.1. Check that all author names in author list are separated by commas (,). No other separators allowed.
 
-3.2. Check that there is no period (or any other punctuation mark) after the last author name.
+3.2. Check that author’s name does NOT contain titles and/or degrees (e.g. Dr., Ph.D., M.D., etc.).
+
+3.3. Check that there is no period (or any other punctuation mark) after the last author name.
 
 .. image:: /_static/html_author_list_separ.png
    :alt: Author list separators
    :scale: 99%
 
 
-3.3. Check the format of the author name. 
+3.4. Check the format of the author name. 
 
 Allowed formats:
 
@@ -88,7 +90,7 @@ Please note that last names can be compound, can have prepositions, suffixes, pr
 
 If you see that author name does not comply to these standards, please contact corresponding author and ask to provide author name in correct format.
 
-3.4. Check that each author name contains a number linked to the affiliation text (i.e. affiliation number). One author name can contain a few affiliation numbers.
+3.5. Check that each author name contains a number linked to the affiliation text (i.e. affiliation number). One author name can contain a few affiliation numbers.
 
 .. image:: /_static/html_aff_texts_and_authors.png
 	:scale: 99%
@@ -100,9 +102,9 @@ If there is only one affiliation text for all authors, then each author name sho
    :alt: One affiliation for all authors
    :scale: 99%
 
-3.5. Check that all affiliation numbers of the author list are separated by commas (,). No other separator is allowed.
+3.6. Check that all affiliation numbers of the author list are separated by commas (,). No other separator is allowed.
 
-3.6. Check that all affiliation numbers of the author list are formatted in superscript. See below.
+3.7. Check that all affiliation numbers of the author list are formatted in superscript. See below.
 
 .. image:: /_static/html_affiliation_numbers.png
    :alt: Affiliation Numbers
