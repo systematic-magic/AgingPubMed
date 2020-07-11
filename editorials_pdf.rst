@@ -243,9 +243,11 @@ Correspondence section can be found at the end of the article right after the co
 
 10.5. Check that full author name is formatted in italic font.
 
-10.6. Check that there are no punctuation marks at the end of correspondence line.
+10.6. Check that author’s name does NOT contain titles and/or degrees (e.g. Dr., Ph.D., M.D., etc.).
 
-10.7. Check that author’s full name matches the author list (at the top of the paper) and the corresponding author and affiliation section (above).
+10.7. Check that there are no punctuation marks at the end of correspondence line.
+
+10.8. Check that author’s full name matches the author list (at the top of the paper) and the corresponding author and affiliation section (above).
 
 
 .. image:: /_static/correspondence.png
