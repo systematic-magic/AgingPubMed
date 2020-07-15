@@ -295,7 +295,9 @@ Keywords section can be found at the end of the article right after the Email se
 
 12.5. Check that keyword (or list of keywords) is formatted in italic font.
 
-12.6. Check that there are no punctuation marks at the end of keywords line.
+12.6. Check the format of the keywords line: This is the same format as :ref:`6.2 from HTML Keywords checks<keywords_format_html_editorials>`.
+
+12.7. Check that there are no punctuation marks at the end of keywords line.
 
 
 .. image:: /_static/editorial_keywords.png
