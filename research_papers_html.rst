@@ -247,6 +247,8 @@ Abbreviations are optional.
 
 	- Check that abbreviation pairs (i.e. abbreviation and corresponding expanded text) are separated from each other by semicolons (;). No other separators allowed.
 
+We suggest the you use the :ref:`following procedure<correct_case_check>`, if in you are in doubt regarding this or that term. If any doubts remain or any abbreviations are found to be formatted inconsistently throughout the MS when using the previously mentioned procedure, please contact the author.
+
 |
 .. _dates_html_research_papers:
 
