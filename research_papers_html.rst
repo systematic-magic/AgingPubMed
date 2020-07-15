@@ -107,7 +107,7 @@ If there is only one affiliation text for all authors, then each author name sho
 
 .. Note::
 	
-	Occasionally you can see a symbol (\*, #, \**, \*** etc) next to the author name together with affiliation number. This symbol is related to Author Notes. |br|
+	Occasionally you may see a symbol (*, #, †, etc.) next to the author name together with affiliation number. This symbol is related to Author Notes. |br|
 	:ref:`Author Notes checks<author_notes>` can be found below.
 
 
