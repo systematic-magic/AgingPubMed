@@ -187,7 +187,7 @@ All acceptable combinations of “Current/Present address” are depicted on the
 
 6.1. Check that Keywords section has a title "KEYWORDS” (ALL CAPS).
 
-6.2. Check that keywords are written in lower case, unless proper nouns as well as exceptions such as special terms, genes, proteins, species names etc, which normally start with capital letter. Check that capitalization of scientific terms is correct. We suggest the you use the :ref:`following procedure<correct_case_check>`, if in you are in doubt regarding this or that term.
+6.2. Check that keywords are written in lower case, unless proper nouns as well as exceptions such as special terms, genes, proteins, species names etc, which normally start with capital letter. Check that capitalization of scientific terms is correct. We suggest the you use the :ref:`following procedure<correct_case_check>`, if in you are in doubt regarding this or that term. If any doubts remain or any keywords are found to be formatted inconsistently throughout the MS when using the previously mentioned procedure, please contact the author.
 
 6.3. Check that article has at least 1 keyword and not more than 8 keywords.
 
