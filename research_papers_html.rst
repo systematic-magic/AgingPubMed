@@ -166,8 +166,11 @@ Author notes are optional. Article can have several or no author notes.
 
 5.1. Check that first word of author notes starts with a capital letter.
 
-5.2. Check that author notes are denoted by symbol (no numbers allowed). It can be any symbol, but most often used are: \*, †, +, #, \**, \***.
-If there are several author notes, then each note should have **different** symbol.
+5.2. Check that author notes are denoted by symbol (no numbers allowed). Each note should have **different** symbol.
+
+	- First author note should be denoted by: *
+	- Second author note should be denoted by: #
+	- Third author note should be denoted by: †
 
 5.3. Check that author notes line is written in :ref:`sentence case<sentence_case>`.
 
