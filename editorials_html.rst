@@ -34,7 +34,7 @@ HTML: Editorials
 2.3. Check that title is written in black and bold font.
 
 2.4. Check that capitalization of scientific terms is correct.
-We suggest the you use the :ref:`following procedure<correct_case_check>`, if in you are in doubt regarding this or that term.
+We suggest you use the :ref:`following procedure<correct_case_check>`, if you are in doubt regarding this or that term.
 
 2.5. Check that following Latin terms are written in italics: *in vivo, in vitro, in utero, in situ, via*. 
 For other Latin terms either italics or :ref:`plain text<plain_text>` is acceptable.
@@ -189,7 +189,7 @@ All acceptable combinations of “Current/Present address” are depicted on the
 
 .. _keywords_format_html_editorials:
 
-6.2. Check that keywords are written in lower case, unless proper nouns as well as exceptions such as special terms, genes, proteins, species names etc, which normally start with capital letter. Check that capitalization of scientific terms is correct. We suggest the you use the :ref:`following procedure<correct_case_check>`, if in you are in doubt regarding this or that term. If any doubts remain or any keywords are found to be formatted inconsistently throughout the MS when using the previously mentioned procedure, please contact the author.
+6.2. Check that keywords are written in lower case, unless proper nouns as well as exceptions such as special terms, genes, proteins, species names etc, which normally start with capital letter. Check that capitalization of scientific terms is correct. We suggest you use the :ref:`following procedure<correct_case_check>`, if you are in doubt regarding this or that term. If any doubts remain or any keywords are found to be formatted inconsistently throughout the MS when using the previously mentioned procedure, please contact the author.
 
 6.3. Check that article has at least 1 keyword and not more than 8 keywords.
 
