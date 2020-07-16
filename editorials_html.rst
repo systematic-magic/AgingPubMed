@@ -399,9 +399,8 @@ If image is hard to read, please contact Production team and ask to provide clea
 
 12.4. Check figure callouts in the text:
 
-	- Check the format of figure callouts:
+	- Check the format of figure callouts (no other variations allowed):
 
-	| :sampleu:`Fig. 1`
 	| :sampleu:`Figure 1`
 
 
@@ -411,12 +410,6 @@ If image is hard to read, please contact Production team and ask to provide clea
     |
 	If figure has panels, then callout can have a letter (letter case should be the same as on figure image):
 
-	| :sampleu:`Fig. 1A` 	
-	| :sampleu:`Fig. 1a`
-	
-	.. image:: /_static/html_fig_callout_short_letters.png
-   	  	:alt: Figure number
-   	  	:scale: 99%
    	|
 	| :sampleu:`Figure 1A`
 	| :sampleu:`Figure 1a`
@@ -425,7 +418,6 @@ If image is hard to read, please contact Production team and ask to provide clea
    	  	:alt: Figure number
    	  	:scale: 99%
    	|
-	Both formats (Fig. and Figure) are acceptable. However, they should be used consistently: either all callouts have "Fig." or all callouts have "Figure".
 
 	| `Examples of callout combinations:`
 	| :sampleu:`Figure 1`
@@ -438,12 +430,12 @@ If image is hard to read, please contact Production team and ask to provide clea
    	  	:alt: Figure number
    	  	:scale: 99%
 
-	Same variations are allowed for "Fig."
 
-
-	- Check that words "Figure" or "Fig." as well as number (and letter) are hyperlinked.
+	- Check that the word "Figure" as well as number (and letter) are hyperlinked.
 
 	- Check that figure has at least 1 callout in the text.
+
+	If callout is missing, please contact author.
 
 
 12.5. Check that figure and its legend are displaying properly in pop-out window.
