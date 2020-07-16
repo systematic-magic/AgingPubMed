@@ -15,7 +15,7 @@ HTML: All Papers (except Editorials)
 1. Paper Type
 -------------
 
-1.1. Check that paper type matches JPS
+1.1. Check that paper type matches JPS.
 
 .. image:: /_static/html_paper_type.png
    :alt: Paper type
@@ -117,7 +117,7 @@ If there is only one affiliation text for all authors, then each author name sho
 4. Affiliations
 ---------------
 
-4.1. Check spelling of English words only
+4.1. Check spelling of English words only.
 
 4.2. Check that there are NO street addresses and house numbers included in affiliation.
 
