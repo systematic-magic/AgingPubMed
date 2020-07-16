@@ -542,11 +542,9 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 13.5. Check figure callouts in the text:
 
-	- Check the format of figure callouts:
+	- Check the format of figure callouts (no other variations allowed):
 
-	| :sampleu:`Fig. 1`
 	| :sampleu:`Figure 1`
-
 
 	.. image:: /_static/html_fig_callouts.png
    	  	:alt: Figure number
@@ -554,12 +552,6 @@ If you see that there are gaps in number sequence, then check with corresponding
     |
 	If figure has panels, then callout can have a letter (letter case should be the same as on figure image):
 
-	| :sampleu:`Fig. 1A` 	
-	| :sampleu:`Fig. 1a`
-	
-	.. image:: /_static/html_fig_callout_short_letters.png
-   	  	:alt: Figure number
-   	  	:scale: 99%
    	|
 	| :sampleu:`Figure 1A`
 	| :sampleu:`Figure 1a`
@@ -568,7 +560,6 @@ If you see that there are gaps in number sequence, then check with corresponding
    	  	:alt: Figure number
    	  	:scale: 99%
    	|
-	Both formats (Fig. and Figure) are acceptable. However, they should be used consistently: either all callouts have "Fig." or all callouts have "Figure".
 
 	| `Examples of callout combinations:`
 	| :sampleu:`Figure 1`
@@ -581,10 +572,8 @@ If you see that there are gaps in number sequence, then check with corresponding
    	  	:alt: Figure number
    	  	:scale: 99%
 
-	Same variations are allowed for "Fig."
 
-
-	- Check that words "Figure" or "Fig." as well as number (and letter) are hyperlinked.
+	- Check that the word "Figure" as well as number (and letter) are hyperlinked.
 
 	- Check that each figure has at least 1 callout in the text.
 
