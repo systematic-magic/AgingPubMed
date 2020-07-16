@@ -430,7 +430,7 @@ If image is hard to read, please contact Production team and ask to provide clea
    	  	:alt: Figure number
    	  	:scale: 99%
 
-
+   	|
 	- Check that the word "Figure" as well as number (and letter) are hyperlinked.
 
 	- Check that figure has at least 1 callout in the text.

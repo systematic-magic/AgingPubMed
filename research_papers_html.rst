@@ -572,7 +572,7 @@ If you see that there are gaps in number sequence, then check with corresponding
    	  	:alt: Figure number
    	  	:scale: 99%
 
-
+   	|
 	- Check that the word "Figure" as well as number (and letter) are hyperlinked.
 
 	- Check that each figure has at least 1 callout in the text.
