@@ -65,13 +65,13 @@ No PDF-specific checks
 
 6.4. Check that corresponding author (or list of authors) ends with a semicolon (;).
 
-6.4. Check that the word "email:" follows the corresponding author (author list). 
+6.5. Check that the word "email:" follows the corresponding author (author list). 
 
-6.5. Check that the word “email:" is lowercase, is in black and bold font and ends with a colon (:).
+6.6. Check that the word “email:" is lowercase, is in black and bold font and ends with a colon (:).
 
-6.6. Check that corresponding author email address (or email addresses if there are a few of corresponding authors) are listed after "email:. If there are a few emails, then check that those are divided by comma (,).
+6.7. Check that corresponding author email address (or email addresses if there are a few of corresponding authors) are listed after "email:. If there are a few emails, then check that those are divided by comma (,).
 
-6.7. Check that there is no punctuation mark at the end of the last email.
+6.8. Check that there is no punctuation mark at the end of the last email.
 
 
 .. image:: /_static/correspndence_to.png
