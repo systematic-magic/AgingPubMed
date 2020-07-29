@@ -53,7 +53,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 
 3.1. Check that author list contains full names of authors divided by comma (,). If there are only 2 authors, then check that they are divided by "and" word.
 
-3.2. Check that author names are written formatted in black and bold font. 
+3.2. Check that author names are written in black and bold font. 
 
 3.3. Check that author’s name does NOT contain titles and/or degrees (e.g. Dr., Ph.D., M.D., etc.).
 
