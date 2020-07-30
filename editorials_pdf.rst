@@ -38,7 +38,7 @@ PDF: Editorials
 2.4. Check that capitalization of scientific terms is correct.
 We suggest you use the :ref:`following procedure<correct_case_check>` if you are in doubt regarding this or that term.
 
-2.5. Check that following Latin terms are written in italics: *in vivo, in vitro, in utero, in situ*. 
+2.5. Check that following Latin terms are written in italics: *in vivo, in vitro, in utero, in situ, via*. 
 For other Latin terms either italics or :ref:`plain text<plain_text>` is acceptable.
 
 
