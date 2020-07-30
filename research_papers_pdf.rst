@@ -160,6 +160,7 @@ source are credited.`
    :alt: PDF Copyright format 
 
 
+:ref:`+ HTML checks<copyright_html_research_papers>`
 
 |
 .. _section_headers_pdf_research_papers:
