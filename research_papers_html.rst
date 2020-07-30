@@ -283,7 +283,7 @@ We suggest you use the :ref:`following procedure<correct_case_check>` if you are
 
 10. Copyright
 ------------
-10.1. Check that copyright section has a title "Copyright ©" (:ref:`title case<title_case>` and followed by copyright symbol (©))
+10.1. Check that copyright section has a title "Copyright ©" (:ref:`title case<title_case>` and followed by copyright symbol (©)).
 
 10.2. Check that copyright string starts with a YEAR followed by:
 
