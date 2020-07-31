@@ -221,9 +221,9 @@ Corresponding author and affiliation can be found at the end of the article righ
 
 9.2. Check that author’s name does NOT contain titles and/or degrees (e.g. Dr., Ph.D., M.D., etc.).
 
-9.3. Check that full name of corresponding author is followed by affiliation (only one affiliation is allowed in PDF regardless of the number of affiliations for the corresponding author in HTML).
+9.3. Check that author’s name completely matches corresponding name in the author list (including the middle initials if any).
 
-9.4. Check that author’s name completely matches corresponding name in the author list (including the middle initials if any).
+9.4. Check that full name of corresponding author is followed by affiliation (only one affiliation is allowed in PDF regardless of the number of affiliations for the corresponding author in HTML).
 
 9.5. Check that affiliation is formatted in :ref:`plain text<plain_text>` (no special formatting).
 
