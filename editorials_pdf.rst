@@ -223,9 +223,11 @@ Corresponding author and affiliation can be found at the end of the article righ
 
 9.3. Check that full name of corresponding author is followed by affiliation (only one affiliation is allowed in PDF regardless of the number of affiliations for the corresponding author in HTML).
 
-9.4. Check that affiliation is formatted in :ref:`plain text<plain_text>` (no special formatting).
+9.4. Check that author’s name completely matches corresponding name in the author list (including the middle initials if any).
 
-9.5. :ref:`HTML Affiliations checks<affiliations_html_editorials>` (inclusive) are the same for the affiliation in the PDF.
+9.5. Check that affiliation is formatted in :ref:`plain text<plain_text>` (no special formatting).
+
+9.6. :ref:`HTML Affiliations checks<affiliations_html_editorials>` (inclusive) are the same for the affiliation in the PDF.
 
 .. image:: /_static/corresp_auth.png
    :alt: Corresponding author and affiliations
