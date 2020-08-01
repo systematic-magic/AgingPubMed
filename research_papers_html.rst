@@ -798,7 +798,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 
 .. _citation_data_in_house_format_html_research_papers:
 
-16.3.2.Check that journal citation-data has the following elements in this order: |br|
+16.3.2. Check that journal citation-data has the following elements in this order: |br|
 |span_format_start| JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
 
 .. image:: /_static/citation_data_inhouse.png
