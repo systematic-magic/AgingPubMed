@@ -323,7 +323,7 @@ Callouts can be found in text and figures.
    :scale: 99%
 
 |
-.. _reference_title_pdf_research_papers:
+.. _reference_title_pdf_editorials:
 
 8.2. Reference Title
 ^^^^^^^^^^^^^^^^^^^^
@@ -331,7 +331,7 @@ Callouts can be found in text and figures.
 Reference title should not be present.
 
 |
-.. _citation_data_in_house_pdf_research_papers:
+.. _citation_data_in_house_pdf_editorials:
 
 8.3. Citation-Data (in-house)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -390,21 +390,53 @@ Citation data is a part of a reference, which contains journal title, year, volu
 
 
 |
-.. _citation_data_other_journals_pdf_research_papers:
+.. _citation_data_other_journals_pdf_editorials:
 
 8.4. Citation-Data (other journals)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-:ref:`HTML Citation-Data (other journals) checks<citation_data_other_journals_html_editorials>` (inclusive) are the same for Citation-Data (other journals) in the PDF except for the following exclusions:
+.. ATTENTION::
+	
+	This section is applicable to all journals **except for in-house journals**.
 
-8.4.1. Check that [PubMed] link is presented in PDF as "PMID:" word followed by hyperlinked PMID number.
+Citation data is a part of a reference, which contains journal title, year, volume, pages and doi.
 
-8.4.2. Check that "PMID:" word is written in ALL CAPS and formatted as :ref:`plain text<plain_text>` (no special formatting) and has a colon (:) at the end.
 
-8.4.3. Check that PMID number is hyperlinked to the PMID website.
+8.4.1. Check that journal citation-data has the following elements in this order: |br|
+|span_format_start| JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
 
-.. image:: /_static/pdf_editorials_pmid_link.png
-   :alt: PMID link
+.. image:: /_static/html_editorial_citation_data.png
+   :alt: Citation-Data format
+
+- Journal title should be followed by period (.) There should be a space after period.
+    - Journal title can be abbreviated or written in full. If abbreviated, check that it is written the same way as on PubMed site. You can look up journal titles here: https://www.ncbi.nlm.nih.gov/nlmcatalog/journals.
+    - If both full and abbreviated title are present in the reference, then delete abbreviation and leave full title (you can spot such cases by presence of colon (:) in the title; e.g. Rapid Communications in Mass Spectrometry : RCM.)
+
+- Year should be presented in full (4 digits) and should be followed by semicolon (;). There should be a space after semicolon.
+
+- Volume should be followed by colon (:). There can be a space after colon (but this is not mandatory).
+
+- Page numbers must be written in shortened format (12063-74) and followed by a period (.). There should be a space after period. Occasionally, there are cases where a reference may only have one page number, which is fine.
+
+- DOI must be present (when available) and in "https://doi.org" format. It should be highlighted in blue and should be an active link leading to the correct article page. There must be no period at the end. When checking for DOI’s, please consult the `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site, https://www.crossref.org/ or the applicable journal website, if necessary.
+
+- “[PubMed]” link must be present (when available) and must be presented as “PMID:” word followed by hyperlinked PMID number.
+
+- “PMID:” word must be written in ALL CAPS and formatted as :ref:`plain text<plain_text>` (no special formatting) and has a colon (:) at the end.
+
+- PMID number must be hyperlinked to the article on PubMed website.
+
+8.4.2. There can be references to the articles which have been published "ahead of print". The format of citation data for such articles is as follows:
+|span_format_start| JournalTitle. year. [Epub ahead of print]. DOI [PubMed] |span_end|
+
+- Check that there is a period (.) after year followed by a space.
+- Check that there is a period (.) after “[Epub ahead of print]” followed by a space. 
+- Check that “[Epub ahead of print]” appears after year and before DOI.
+- If you come across an Epub reference, be sure to verify whether publishing information has since been released. If publishing information is available, then please add vol, pg numbers, etc. and format as directed above in section :ref:`8.4.1<citation_data_other_journals_pdf_editorials>`.
+
+
+.. image:: /_static/html_editorials_ref_ahead_of_print.png
+   :alt: Ahead of Print
 
 
 |
