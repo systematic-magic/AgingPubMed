@@ -300,7 +300,7 @@ Callouts can be found in text and figures.
 8.1. Author List
 ^^^^^^^^^^^^^^^^
 
-15.1.1. Check that author names in the list of authors are in-line with the following format: |br|
+8.1.1. Check that author names in the list of authors are in-line with the following format: |br|
 |span_format_start| LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th) |span_end|
 
 
@@ -308,11 +308,11 @@ Callouts can be found in text and figures.
    :alt: Author Names format
    :scale: 99%
 
-15.1.2. Check that initials have no more than 2 letters and have NO hyphens or spaces in-between.
+8.1.2. Check that initials have no more than 2 letters and have NO hyphens or spaces in-between.
 
-15.1.3. Check all the :ref:`mononym<mononym>` (names which have no initials) to be “true” mononyms (check `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site).
+8.1.3. Check all the :ref:`mononym<mononym>` (names which have no initials) to be “true” mononyms (check `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site).
 
-15.1.4. Check that list of authors contains either of the following:
+8.1.4. Check that list of authors contains either of the following:
 
 - One author name followed by comma (,) and “et al.”
 
