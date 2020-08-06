@@ -287,6 +287,10 @@ Callouts can be found in text and figures.
 8. References
 -------------
 
+.. Note::
+	
+	Maximum allowed number of references is 8. Also, references in editorials do not have article title component. |br|
+
 .. ATTENTION::
    	Font of the references differs from rest of the article. This is OK. 
 
@@ -296,7 +300,27 @@ Callouts can be found in text and figures.
 8.1. Author List
 ^^^^^^^^^^^^^^^^
 
-8.1.1. :ref:`HTML Author List checks<refs_author_list_html_editorials>` (inclusive) are the same for author list in the PDF.
+15.1.1. Check that author names in the list of authors are in-line with the following format: |br|
+|span_format_start| LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th) |span_end|
+
+
+.. image:: /_static/author_name_format.png
+   :alt: Author Names format
+   :scale: 99%
+
+15.1.2. Check that initials have no more than 2 letters and have NO hyphens or spaces in-between.
+
+15.1.3. Check all the :ref:`mononym<mononym>` (names which have no initials) to be “true” mononyms (check `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site).
+
+15.1.4. Check that list of authors contains either of the following:
+
+- One author name followed by comma (,) and “et al.”
+
+- Two author names divided by comma (,) and followed by period (.)
+
+.. image:: /_static/html_editorials_ref_auth.png
+   :alt: Max number of authors
+   :scale: 99%
 
 |
 .. _reference_title_pdf_research_papers:
