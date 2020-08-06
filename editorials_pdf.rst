@@ -194,9 +194,10 @@ If image is hard to read, please contact Production team and ask to provide clea
 
 	| :sample:`Figure 1`
 
-.. image:: /_static/pdf_figure_callouts.png
-   :alt: Figure callouts
-   :scale: 99%
+	.. image:: /_static/pdf_figure_callouts.png
+   	  	:alt: Figure callouts
+   	  	:scale: 99%
+
     |
 	If figure has panels, then callout can have a letter (letter case should be the same as on figure image):
 
