@@ -336,16 +336,57 @@ Reference title should not be present.
 8.3. Citation-Data (in-house)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-:ref:`HTML Citation-Data (in-house) checks<citation_data_in_house_html_editorials>` (inclusive) are the same for Citation-Data (in-house) in the PDF except for the following exclusions:
+.. ATTENTION::
+	
+	This section is applicable ONLY to in-house journals: |br|
+	 **Oncotarget, Oncoscience, Aging (Albany NY), Genes Cancer**.
 
-8.3.1. Check that [PubMed] link is presented in PDF as "PMID:" word followed by hyperlinked PMID number.
+Citation data is a part of a reference, which contains journal title, year, volume, pages and doi.
 
-8.3.2. Check that "PMID:" word is written in ALL CAPS and formatted as :ref:`plain text<plain_text>` (no special formatting) and has a colon (:) at the end.
+8.3.1. Check that citation data has correct journal title. The following titles are allowed:
 
-8.3.3. Check that PMID number is hyperlinked to the PMID website.
+	| :sample:`Oncotarget`
+	| :sample:`Oncoscience`
+	| :sample:`Aging (Albany NY)`
+	| :sample:`Genes Cancer`
 
-.. image:: /_static/pdf_editorials_pmid_link.png
-   :alt: PMID link
+	This is the only acceptable spelling. No variations are allowed.
+
+.. _citation_data_in_house_format_pdf_editorials:
+
+8.3.2. Check that journal citation-data has the following elements in this order: |br|
+|span_format_start| JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
+
+.. image:: /_static/html_editorials_citation_data_inhouse.png
+   :alt: Citation-Data format
+
+- Journal title should be followed by period (.) There should be a space after period.
+
+- Year should be presented in full (4 digits) and should be followed by semicolon (;). There should be a space after semicolon.
+
+- Volume should be followed by colon (:). There can be a space after colon (but this is not mandatory).
+
+- Page numbers must be written in shortened format (12063-74) and followed by a period (.). There should be a space after period. Occasionally, there are cases where a reference may only have one page number, which is fine.
+
+- DOI must be present and in "https://doi.org" format. It should be highlighted in blue and should be an active link leading to the correct article page. There must be no period at the end.
+
+- “[PubMed]” link must be present (when available) and must be presented as “PMID:” word followed by hyperlinked PMID number.
+
+- “PMID:” word must be written in ALL CAPS and formatted as :ref:`plain text<plain_text>` (no special formatting) and has a colon (:) at the end.
+
+- PMID number must be hyperlinked to the article on PubMed website.
+
+8.3.3. There can be references to the articles which have been published "ahead of print". The format of citation data for such articles is as follows:
+|span_format_start| JournalTitle. year. [Epub ahead of print]. DOI [PubMed] |span_end|
+
+- Check that there is a period (.) after year followed by a space.
+- Check that there is a period (.) after “[Epub ahead of print]” followed by a space. 
+- Check that “[Epub ahead of print]” appears after year and before DOI.
+- If you come across an Epub reference, be sure to verify whether publishing information has since been released. If publishing information is available, then please add vol, pg numbers, etc. and format as directed above in section :ref:`8.3.2<citation_data_in_house_format_pdf_editorials>`.
+
+
+.. image:: /_static/html_editorials_ref_ahead_of_print.png
+   :alt: Ahead of Print
 
 
 |
