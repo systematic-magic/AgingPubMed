@@ -188,7 +188,7 @@ If image is hard to read, please contact Production team and ask to provide clea
 
 	If a reference to :ref:`panel letter<figure_pannel>` is missing, then please ask author to provide one.
 
-12.4. Check figure callouts in the text:
+5.4. Check figure callouts in the text:
 
 	- Check the format of figure callouts (no other variations allowed):
 
