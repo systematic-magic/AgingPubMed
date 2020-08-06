@@ -6,11 +6,6 @@
 PDF: Editorials
 ================
 
-.. ATTENTION::
-   	PDF checks are the same as HTML checks with some exceptions. This page explains the cases where PDF requirements **differ** from HTML checks.
-   	Please use a merge of HTML and PDF checks for PDF review. Aside from noted differences below, all elements of the HTML should match the PDF.
-
-
 .. _paper_type_pdf_editorials:
 
 1. Paper Type
