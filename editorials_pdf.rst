@@ -295,7 +295,7 @@ Callouts can be found in text and figures.
    	Font of the references differs from rest of the article. This is OK. 
 
 |
-.. _refs_author_list_pdf_research_papers:
+.. _refs_author_list_pdf_editorials:
 
 8.1. Author List
 ^^^^^^^^^^^^^^^^
@@ -440,12 +440,39 @@ Citation data is a part of a reference, which contains journal title, year, volu
 
 
 |
-.. _general_checks_pdf_research_papers:
+.. _general_checks_pdf_editorials:
 
 8.5. General Checks
 ^^^^^^^^^^^^^^^^^^^
 
-:ref:`HTML General Checks checks<general_checks_html_editorials>` (inclusive) are the same for General Checks in the PDF.
+8.5.1. Check for duplicates in the reference list. 
+
+If you find duplicate references, please contact author and ask to correct the reference list along with renumbering reference call-outs.
+
+8.5.2. Check for references containing journal title in English and original language (e.g. "International journal of cancer" and "Journal international du cancer"). Remove title in original language and leave English version. If there is just a "foreign language" version present, it is OK to leave that version (no need to find English one). Consult `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ if in doubt of the correct journal name.
+
+8.5.3. Check for extra information in the references (i.e. in addition to "standard" information). Remove all extra information.
+   
+   | `Example:`
+   | ":official publication of the society of…"
+
+
+8.5.4. Remove any instances of “[Internet]”, "[pii]" accessed dates (ex: “Accessed November 6, 2017.”) and empty (blank) doi.
+
+8.5.5. Remove “PMCID” details, if present in any reference.
+
+8.5.6. Check formatting for references that have been cited from supplemental issues. This information should appear in between the publishing year and semicolon in this format:
+
+   | :sampleb:`(Suppl N)` (where “N” is the supplemental issue number)
+
+
+	.. image:: /_static/suppl_issue_formatting.png
+   	  	:alt: Supplemental issue formatting
+   	  	:scale: 99%
+
+8.5.7. Preprint articles are allowed in references. A couple of examples (not limited to) would be from sources such as `BioRxiv <https://www.biorxiv.org/>`_ and `Preprints <https://www.preprints.org/>`_.
+
+- These should be formatted to the same standards as described above in :ref:`8.1<refs_author_list_pdf_editorials>`, :ref:`8.2<reference_title_pdf_editorials>` and :ref:`8.4<citation_data_other_journals_pdf_editorials>` with the exception that a special ID number will typically be used in place of volume and page numbers.
 
 
 |
