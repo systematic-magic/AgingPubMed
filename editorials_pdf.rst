@@ -578,7 +578,7 @@ Email section can be found at the end of the article right after the Corresponde
 
 11.3. Check that "Email:" is formatted in black, bold and italic font.
 
-11.4. Check that "Email:" is followed by hyperlinked email address (only one email is allowed in PDF regardless of the number of emails for the corresponding author in HTML).
+11.4. Check that "Email:" is followed by hyperlinked email address (only one email is allowed in PDF).
 
 11.5. Check that email address is formatted in blue, underlined, italic font.
 
@@ -606,10 +606,11 @@ Keywords section can be found at the end of the article right after the Email se
 
 12.5. Check that keyword (or list of keywords) is formatted in italic font.
 
-12.6. Check the format of the keywords line: This is the same format as :ref:`6.2 from HTML Keywords checks<keywords_format_html_editorials>`.
+12.6. Check that keywords are written in lower case, unless proper nouns as well as exceptions such as special terms, genes, proteins, species names etc, which normally start with capital letter. Check that capitalization of scientific terms is correct.
+
+We suggest you use the :ref:`following procedure<correct_case_check>` if you are in doubt regarding this or that term. If any doubts remain or any keywords are found to be formatted inconsistently throughout the MS when using the previously mentioned procedure, please contact the author.
 
 12.7. Check that there are no punctuation marks at the end of keywords line.
-
 
 .. image:: /_static/editorial_keywords.png
    :alt: Keywords
@@ -620,7 +621,7 @@ Keywords section can be found at the end of the article right after the Email se
 13. Abbreviations
 -----------------
 
-This is an optional section that should appear after Keywords section and before Copyright section. The specific placement of this section should accord with order described in :ref:`HTML Section Headers checks<section_headers_html_editorials>` for Abbreviations through Funding.
+This is an optional section that should appear after Keywords section and before Copyright section. The specific placement of this section should accord with order shown :ref:`here<optional_sections>` for Abbreviations through Funding.
 
 When present, Abbreviations section can be found at the end of the article right after the Keywords section.
 

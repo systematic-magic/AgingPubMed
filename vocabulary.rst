@@ -79,3 +79,11 @@ How to check whether term, keyword, etc is in correct case?
     1. Search article text for the term in question. Most likely you will find a few instances, which will give you understanding regarding correct capitalization. If this is not the case, check next points.
     2. Search PubMed site (https://pubmed.ncbi.nlm.nih.gov/) for the term in question.
     3. Search Google for the term in question.
+
+    |
+
+.. _optional_sections:
+
+Optional Sections for Editorials
+
+There are optional sections for Editorials that can appear after Keywords section and before Copyright section in this order: Abbreviations, Acknowledgments, Conflicts of Interest and Funding.
