@@ -318,7 +318,7 @@ Callouts can be found in text and figures.
 
 - Two author names divided by comma (,) and followed by period (.)
 
-.. image:: /_static/html_editorials_ref_auth.png
+.. image:: /_static/ref_auth_format.png
    :alt: Max number of authors
    :scale: 99%
 
