@@ -144,6 +144,10 @@ No PDF-specific checks
 
 10.3. Check that copyright string starts with:
 
+:sample:`Last name of first author and followed by a period (.)`
+
+**or**
+
 :sample:`Last name of first author et al.`
 
 **or** 
