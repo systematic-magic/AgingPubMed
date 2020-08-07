@@ -633,7 +633,16 @@ When present, Abbreviations section can be found at the end of the article right
 
 13.4. Check that abbreviation (or list of abbreviations) is formatted in italic font.
 
-13.5. Check the format of the abbreviations line: This is the same format as :ref:`7.2 from HTML Abbreviations checks<abbreviations_format_html_editorials>`.
+13.5. Check the format of the abbreviations line:
+
+	|	:sample:`ABRVTN: expanded text; ABRVTN: expanded text`
+
+
+	- Check that abbreviation part is separated from expanded part by a colon (:). No other separators allowed.
+
+	- Check that abbreviation pairs (i.e. abbreviation and corresponding expanded text) are separated from each other by semicolons (;). No other separators allowed.
+
+We suggest you use the :ref:`following procedure<correct_case_check>` if you are in doubt regarding this or that term. If any doubts remain or any abbreviations are found to be formatted inconsistently throughout the MS when using the previously mentioned procedure, please contact the author.
 
 13.6. Check that there are no punctuation marks at the end of abbreviations line.
 
