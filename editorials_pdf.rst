@@ -476,12 +476,16 @@ If you find duplicate references, please contact author and ask to correct the r
 
 
 |
-.. _websites_pdf_research_papers:
+.. _websites_pdf_editorials:
 
 8.6. Websites
 ^^^^^^^^^^^^^
 
-:ref:`HTML Websites checks<websites_html_editorials>` (inclusive) are the same for Websites in the PDF.
+8.6.1. There is no standard for website references. Authors are allowed to accompany a web link with any information they think appropriate. 
+
+8.6.2. Check that website link is valid (i.e. it points to the referenced web resources, rather to error or other not relevant page).
+
+If the link is not valid, please contact author to provide a working link.
 
 
 |
