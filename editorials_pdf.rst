@@ -489,12 +489,12 @@ If the link is not valid, please contact author to provide a working link.
 
 
 |
-.. _books_pdf_research_papers:
+.. _books_pdf_editorials:
 
 8.7. Books and Reports
 ^^^^^^^^^^^^^^^^^^^^^^
 
-:ref:`HTML Books and Reports checks<books_html_editorials>` (inclusive) are the same for Books and Reports in the PDF.
+8.7.1. There is no standard for books and reports. However, author name, year, publisher and page numbers should be present, where applicable.
 
 |
 .. _corresp_author_pdf_editorials:
