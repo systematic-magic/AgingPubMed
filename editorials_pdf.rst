@@ -670,7 +670,7 @@ This is an optional section that should appear after Keywords section and before
 15. Conflicts of Interest
 -------------------------
 
-This is an optional section that should appear after Keywords section and before Copyright section. The specific placement of this section should accord with order described in :ref:`HTML Section Headers checks<section_headers_html_editorials>` for Abbreviations through Funding.
+This is an optional section that should appear after Keywords section and before Copyright section. The specific placement of this section should accord with order shown :ref:`here<optional_sections>` for Abbreviations through Funding.
 
 15.1. Check that there is no blank line between Conflicts of Interest and section preceding it.
 
