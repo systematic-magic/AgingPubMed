@@ -510,11 +510,28 @@ Corresponding author and affiliation can be found at the end of the article righ
 
 9.3. Check that author’s name completely matches corresponding name in the author list (including the middle initials if any).
 
-9.4. Check that full name of corresponding author is followed by affiliation (only one affiliation is allowed in PDF regardless of the number of affiliations for the corresponding author in HTML).
+9.4. Check that full name of corresponding author is followed by affiliation (only one affiliation is allowed in PDF).
 
 9.5. Check that affiliation is formatted in :ref:`plain text<plain_text>` (no special formatting).
 
-9.6. :ref:`HTML Affiliations checks<affiliations_html_editorials>` (inclusive) are the same for the affiliation in the PDF.
+9.6. Check spelling of English words in affiliation.
+
+9.7. Check that there are NO street addresses and house numbers included in affiliation.
+
+9.8. Check that country and city names are present in affiliation. State is also required in U.S. affiliations.
+
+9.9. Check that country and city names are NOT written in ALL CAPS (capital letters).
+
+9.10. Chinese affiliations: zip code is allowed for both city and county/district. If zip code is present, it must be positioned after city/county/district and there must be no comma between city/county/district and zip code. Zip code is optional for any of the elements (city/county/district).
+
+.. image:: /_static/aff_text_zip_china.png
+   :alt: No comma between city/county/district and zip code
+
+9.11. USA affiliations: check that there is no comma between state and zip code. State must be positioned before zip code. Zip code must be present.
+
+9.12. Non-USA affiliations: check that there is no comma between city and zip code. City must be positioned before zip code. Zip code is optional.
+
+9.13. Check that only commas are used to separate parts of affiliations (i.e. department, institution, etc.).
 
 .. image:: /_static/corresp_auth.png
    :alt: Corresponding author and affiliations
