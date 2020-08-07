@@ -405,7 +405,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 8.4.1. Check that journal citation-data has the following elements in this order: |br|
 |span_format_start| JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
 
-.. image:: /_static/html_editorial_citation_data.png
+.. image:: /_static/editorial_citation_data_oj.png
    :alt: Citation-Data format
 
 - Journal title should be followed by period (.) There should be a space after period.
@@ -435,7 +435,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 - If you come across an Epub reference, be sure to verify whether publishing information has since been released. If publishing information is available, then please add vol, pg numbers, etc. and format as directed above in section :ref:`8.4.1<citation_data_other_journals_pdf_editorials>`.
 
 
-.. image:: /_static/html_editorials_ref_ahead_of_print.png
+.. image:: /_static/editorial_ref_ahead_of_print_oj.png
    :alt: Ahead of Print
 
 
