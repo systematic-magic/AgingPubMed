@@ -287,10 +287,6 @@ We suggest you use the :ref:`following procedure<correct_case_check>` if you are
 
 10.2. Check that copyright string starts with a YEAR followed by:
 
-:sample:`Last name of first author and followed by a period (.)`
-
-**or**
-
 :sample:`Last name of first author et al.`
 
 **or** 
