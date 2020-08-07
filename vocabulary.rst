@@ -38,7 +38,7 @@ Mononym
 
 .. _group_authorship:
 
-Group Authorship
+Group authorship
     Group Authorship is a large numbers of investigators working under a single group name. Group-author articles involve the following parties: the overall group, members of the group who take responsibility for authorship of the article (named individual authors), and members of the group who do not take responsibility for authorship of the article but have contributed to the work that led to the article (nonauthor group members).
 
     | `Examples:`
@@ -48,7 +48,7 @@ Group Authorship
 
 .. _en_dash:
 
-en dash
+En dash
     The en dash (–) is slightly wider than the hyphen (-) but narrower than the em dash (—). The typical computer keyboard lacks a  dedicated key for the en dash, though most word processors provide a means for its insertion.
 
 |
@@ -67,7 +67,7 @@ Figure panel
 
 .. _large_tables:
 
-Large Tables
+Large tables
     Applicable to Supplementary materials only! 
     Tables which span across 2 or more pages. Tables which fit into 2 pages should be published as PDF for convenient printing, whilst large tables should be published as Excel (.xlsx) or Word (.docx) documents. See more information in :ref:`Large tables check<large_tables_check>`
 
@@ -84,6 +84,5 @@ How to check whether term, keyword, etc is in correct case?
 
 .. _optional_sections:
 
-Optional Sections for Editorials
-
-There are optional sections for Editorials that can appear after Keywords section and before Copyright section in this order: Abbreviations, Acknowledgments, Conflicts of Interest and Funding.
+Optional sections for Editorials
+    There are optional sections for Editorials that can appear after Keywords section and before Copyright section in this order: Abbreviations, Acknowledgments, Conflicts of Interest and Funding.
