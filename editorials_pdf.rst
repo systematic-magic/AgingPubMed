@@ -341,7 +341,7 @@ Reference title should not be present.
 	This section is applicable ONLY to in-house journals: |br|
 	 **Oncotarget, Oncoscience, Aging (Albany NY), Genes Cancer**.
 
-Citation data is a part of a reference, which contains journal title, year, volume, pages and doi.
+Citation data is a part of a reference, which contains journal title, year, volume, pages, doi and PubMed link.
 
 8.3.1. Check that citation data has correct journal title. The following titles are allowed:
 
@@ -399,7 +399,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 	
 	This section is applicable to all journals **except for in-house journals**.
 
-Citation data is a part of a reference, which contains journal title, year, volume, pages and doi.
+Citation data is a part of a reference, which contains journal title, year, volume, pages, doi and PubMed link.
 
 
 8.4.1. Check that journal citation-data has the following elements in this order: |br|
