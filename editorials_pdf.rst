@@ -205,7 +205,7 @@ If image is hard to read, please contact Production team and ask to provide clea
 	| :sample:`Figure 1A`
 	| :sample:`Figure 1a`
 
-	.. image:: /_static/html_fig_callout_full_letters.png
+	.. image:: /_static/pdf_fig_callout_full_letters.png
    	  	:alt: Figure number
    	  	:scale: 99%
    	|
@@ -217,7 +217,7 @@ If image is hard to read, please contact Production team and ask to provide clea
 	| :sample:`Figure 1B`:sample:`,` :sample:`1C`
 	| :sample:`Figure 1E`:sample:`–`:sample:`1G`
 
-	.. image:: /_static/html_fig_callout_variations.png
+	.. image:: /_static/pdf_fig_callout_variations.png
    	  	:alt: Figure number
    	  	:scale: 99%
 
