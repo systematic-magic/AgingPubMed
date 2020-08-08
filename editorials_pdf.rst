@@ -289,10 +289,11 @@ Callouts can be found in text and figures.
 
 .. Note::
 	
-	Maximum allowed number of references is 8. Also, references in editorials do not have article title component. |br|
+	Maximum allowed number of references is 8. |br|
 
-.. ATTENTION::
-   	Font of the references differs from rest of the article. This is OK. 
+	References in editorials do not have article title component. |br|
+
+   	Font of the references differs from rest of the article. This is OK. |br|
 
 |
 .. _refs_author_list_pdf_editorials:
