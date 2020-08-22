@@ -589,6 +589,9 @@ If you see that there are gaps in number sequence, then check with corresponding
    	  	:alt: Figure number
    	  	:scale: 50%
 
+13.7. Perform `reverse image search <https://www.bing.com/visualsearch>`_.
+
+
 |
 .. _tables_html_research_papers:
 
