@@ -513,18 +513,21 @@ If image is hard to read, please contact Production team and ask to provide clea
 	.. image:: /_static/html_fig_reference_br_anb.png
    	  	:alt: Figure number
    	  	:scale: 99%
+   	|
 
 	| :sample:`(`:sampleb:`A`:sample:`,` :sampleb:`B`:sample:`)`
 
 	.. image:: /_static/html_fig_reference_br_acomb.png
    	  	:alt: Figure number
    	  	:scale: 99%
+   	|
 
 	| :sample:`(`:sampleb:`A–C`:sample:`)`
 
 	.. image:: /_static/html_fig_reference_br_a-c.png
    	  	:alt: Figure number
    	  	:scale: 99%
+   	|
 
 
 	| Same variations are allowed for lower case :ref:`panel letters<figure_pannel>`.
