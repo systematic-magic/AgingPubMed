@@ -728,7 +728,7 @@ Copyright section can be found at the end of the article right after the Keyword
 17.6. Check that author surname  name (or list of surnames) is followed by the following statement:
 
 
-:sample:`This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY 3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited`
+:sample:`This is an open-access article distributed under the terms of the Creative Commons Attribution 3.0 License (CC BY 3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are cited`
 
 17.7. Check that there are no punctuation marks at the end of copyright line.
 
