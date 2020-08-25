@@ -659,6 +659,7 @@ If you see that there are gaps in number sequence, then check with corresponding
 	| :sampleu:`Table 1`
 	| :sampleu:`Table 2A`
 	| :sampleu:`Tables 1` :sample:`and` :sampleu:`2` (note that there is an "s" at the end of "Table" word)
+	| :sampleu:`Tables 1, 2`
 	| :sampleu:`Tables 3A` :sample:`and` :sampleu:`3B` (where 3A and 3B are separate tables)
 
 	.. image:: /_static/html_table_callouts.png
