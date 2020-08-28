@@ -453,7 +453,13 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 12.4. Check Materials and Methods section (or its alternatives - see in :ref:`Section Headers<section_headers_html_research_papers>`) for erroneously placed hyperlinks (e.g. hyperlinked numbers in compound names).
 
-12.5. Check all website addresses in article text:
+12.5. Check Author Contributions section for two mandatory notes:
+
+	- Who conducted the experiments
+
+	- Who collected the data
+
+12.6. Check all website addresses in article text:
 
 	- Check that all website addresses are hyperlinked.
 
