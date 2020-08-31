@@ -346,7 +346,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 		:wtonbl:`Abbreviations` - optional - [title case, in white on blue background]
 
-		:wtonbl:`Author Contributions` - optional - [title case, in white on blue background]
+		:wtonbl:`Author Contributions` - mandatory - [title case, in white on blue background]
 
 		:wtonbl:`Acknowledgments` - optional - [title case, in white on blue background]
 
@@ -375,7 +375,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 		:wtonbl:`Abbreviations` - optional - [title case, in white on blue background]
 
-		:wtonbl:`Author Contributions` - optional - [title case, in white on blue background]
+		:wtonbl:`Author Contributions` - mandatory - [title case, in white on blue background]
 
 		:wtonbl:`Acknowledgments` - optional - [title case, in white on blue background]
 
