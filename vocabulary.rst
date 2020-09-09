@@ -97,7 +97,7 @@ Procedure for checking Author Contributions section
     -  If AC section only includes who collected and analysed data (*both should be present) - check Materials and Methods section for experiments:
     a. If no experiments were conducted - no action necessary
     b. if experiments were conducted - email author for who conducted experiments
-*Note - who collected and analysed data should both be present, where applicable. If one is present, but the other is missing, then email the author for the missing detail
+    *Note - who collected and analysed data should both be present, where applicable. If one is present, but the other is missing, then email the author for the missing detail
     -  If AC section doesn't include any information about who conducted experiments and/or who collected and analysed data - email the author with standard author query:
 
 The Author Contributions must account for who conducted experiments or who collected and analysed data, depending on the kind of research being conducted. Please provide more details for your Author Contributions section.
