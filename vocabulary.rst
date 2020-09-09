@@ -93,9 +93,9 @@ Optional sections for Editorials
 
 Procedure for checking Author Contributions section
     -  If AC section includes who conducted experiments and who collected and analysed data - no action necessary
-
+    |
     -  If AC section only includes who conducted experiments - no action necessary
-
+    |
     -  If AC section only includes who collected and analysed data (*both should be present) - check Materials and Methods section for experiments:
     |    a. If no experiments were conducted - no action necessary
     |    b. if experiments were conducted - email author for who conducted experiments
