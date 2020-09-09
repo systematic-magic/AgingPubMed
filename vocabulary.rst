@@ -92,6 +92,8 @@ Optional sections for Editorials
 .. _ac_procedure:
 
 Procedure for checking Author Contributions section
+    The Author Contributions must account for who conducted **experiments** and/or who **collected and analysed data** (depending on the situation): 
+
     * If AC section includes who conducted experiments and who collected and analysed data - no action necessary
     
     * If AC section only includes who conducted experiments - no action necessary
