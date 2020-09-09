@@ -107,9 +107,7 @@ Procedure for checking Author Contributions section
     The Author Contributions must account for who conducted experiments or who collected and analysed data, depending on the kind of research being conducted. Please provide more details for your Author Contributions section.
 
 
-Common variations of terms you may see in AC section:
-    Experiments: performed experiments, conducted experiments, implementation of experiments
-    
+    Common variations of terms you may see in AC section:
+    Experiments: performed experiments, conducted experiments, implementation of experiments   
     Data collection: collected data, data acquisition
-    
     Data analysis: analysed data, interpreted data
