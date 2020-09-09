@@ -96,7 +96,7 @@ Procedure for checking Author Contributions section
     
     * If AC section only includes who conducted experiments - no action necessary
     
-    * If AC section only includes who collected and analysed data (*both should be present) - check Materials and Methods section for experiments:
+    * If AC section only includes who collected and analysed data (*both should be present) - search Materials and Methods section for any mention of experiment(s):
     
        * a. If no experiments were conducted - no action necessary
        
