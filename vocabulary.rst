@@ -108,12 +108,9 @@ Procedure for checking Author Contributions section
 
 
 Common variations of terms you may see in AC section:
-
-**Experiments:**
+|**Experiments:**
 performed experiments, conducted experiments, implementation of experiments
-
-**Data collection:**
+|**Data collection:**
 collected data, data acquisition
-
-**Data analysis:**
+|**Data analysis:**
 analysed data, interpreted data
