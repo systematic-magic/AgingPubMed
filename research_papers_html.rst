@@ -299,6 +299,10 @@ and followed by:
 
 :sample:`This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.` 
 
+.. image:: /_static/cpright_format.png
+   :alt: Copyright format
+   :scale: 99%
+
 10.4. Check that last name of first author matches last name of the first author in the author list. In case of 2 authors, check that last names match names in the author list.
 
 10.5. Check that “Creative Commons Attribution License” is a working hyperlink that leads to https://creativecommons.org/licenses/by/3.0/.
