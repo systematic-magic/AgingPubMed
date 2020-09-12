@@ -715,11 +715,13 @@ Copyright section can be found at the end of the article right after the Keyword
 
 17.1. Check that there is no blank line between Copyright and section preceding it.
 
-17.2. Check that Copyright section has a title "Copyright:" (:ref:`title case<title_case>` and followed by colon(:)).
+17.2. Check that Copyright section has a title "Copyright:" (:ref:`title case<title_case>`).
 
 17.3. Check that "Copyright:" is formatted in black, bold and italic font.
 
-17.4. Check that "Copyright:" is followed by one of the following options:
+17.4. Check that copyright string starts with copyright symbol (©) and is followed by a YEAR.
+
+17.5. Check that the YEAR is followed by one of the following options:
 
 	- single author surname followed by period (.) [in case where paper has only one author]
 
@@ -727,18 +729,18 @@ Copyright section can be found at the end of the article right after the Keyword
 
 	- one author surname followed by `et al.` [in case where paper has more than 2 authors]
 
-17.5. Check that author surname (or list of surnames) is formatted in italic font.
+17.6. Check that author surname (or list of surnames) is formatted in italic font.
 
-17.6. Check that author surname  name (or list of surnames) is followed by the following statement:
+17.7. Check that author surname  name (or list of surnames) is followed by the following statement:
 
+:sample:`This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited`
 
-:sample:`This is an open-access article distributed under the terms of the Creative Commons Attribution 3.0 License (CC BY 3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are cited`
+17.8. Check that there are no punctuation marks at the end of copyright line.
 
-17.7. Check that there are no punctuation marks at the end of copyright line.
+17.9. Check that last name of first author matches last name of the first author in the author list. In case of 2 authors, check that last names match names in the author list.
 
+17.10. Check that “Creative Commons Attribution License” is a working hyperlink that leads to https://creativecommons.org/licenses/by/3.0/.
 
-.. image:: /_static/editorial_copyright.png
-   :alt: Copyright
 
 |
 .. _dates_pdf_editorials:
