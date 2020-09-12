@@ -138,27 +138,11 @@ No PDF-specific checks
 10. Copyright
 ------------
 
-10.1. Check that copyright section has a title "Copyright:" (:ref:`title case<title_case>` and followed by a colon (:)).
-
-10.2. Check that "Copyright:" is formatted in black and bold font.
-
-10.3. Check that copyright string starts with:
-
-:sample:`Last name of first author et al.`
-
-**or** 
-
-:sample:`two last names divided by "and" and followed by a period (.)` (if there are only two authors in the article)
-
-and followed by:
-
-:sample:`This is an open-access article distributed under the terms of the Creative Commons Attribution 3.0 License (CC BY 3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are cited.`
-
-.. image:: /_static/pdf_cpright_format.png
-   :alt: PDF Copyright format 
+10.1. Check that "Copyright:" is formatted in black and bold font.
 
 
 :ref:`+ HTML checks<copyright_html_research_papers>`
+
 
 |
 .. _section_headers_pdf_research_papers:
