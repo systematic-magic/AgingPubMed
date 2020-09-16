@@ -272,7 +272,7 @@ Tables are not used for editorials.
 
 	- Check that reference callouts are in :ref:`plain text<plain_text>` and not hyperlinked.
 
-7.2. Check that callout number for each of the references is present in the text or is covered in the range of numbers. i.e. in the range of [1-3] reference 2 is not present in the text, but covered in the range. This case is acceptable. |br|
+7.2. Check that callout number for each of the references is present in the text or is covered in the range of numbers. i.e. in the range of [1–3] reference 2 is not present in the text, but covered in the range. This case is acceptable. |br|
 Callouts can be found in text and figures.
 
 7.3. Check that there are no callouts for non-existing references (i.e. there is a callout, but there is no reference).
