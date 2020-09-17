@@ -2,7 +2,7 @@
 Welcome to PubMed Standards documentation!
 ==========================================
 
-The purpose of this document is to provide a simple, but detailed guide to the realm of PubMed corrections.
+The purpose of this document is to provide a simple but detailed guide to the realm of PubMed corrections.
 
 If you see that paper formatting does not comply with these standards, please address your concerns to vendors through JPS.
 
