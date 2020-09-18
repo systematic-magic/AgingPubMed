@@ -942,7 +942,7 @@ If you find duplicate references, please contact author and ask to correct the r
 
 16.6.1. There is no standard for website references. Authors are allowed to accompany a web link with any information they think appropriate. 
 
-16.6.2. Check that website link is valid (i.e. it points to the referenced web resources, rather to error or other not relevant page).
+16.6.2. Check that website link is valid (i.e. it points to the referenced web resources, rather to error or other irrelevant page).
 
 If the link is not valid, please contact author to provide a working link.
 
@@ -953,7 +953,7 @@ If the link is not valid, please contact author to provide a working link.
 16.7. Books and Reports
 ^^^^^^^^^^^^^^^^^^^^^
 
-16.7.1. There is no standard for books and reports. However at least "Title, Year, (Author name for book references)" should be present. 
+16.7.1. There is no standard for books and reports. However at least Title and Year (and author name for book references) should be present. 
 
 |
 .. _supplementary_html_research_papers:
