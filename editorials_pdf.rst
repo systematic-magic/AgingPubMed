@@ -488,7 +488,7 @@ If you find duplicate references, please contact author and ask to correct the r
 
 8.6.1. There is no standard for website references. Authors are allowed to accompany a web link with any information they think appropriate. 
 
-8.6.2. Check that website link is valid (i.e. it points to the referenced web resources, rather to error or other not relevant page).
+8.6.2. Check that website link is valid (i.e. it points to the referenced web resources, rather to error or other irrelevant page).
 
 If the link is not valid, please contact author to provide a working link.
 
@@ -499,7 +499,7 @@ If the link is not valid, please contact author to provide a working link.
 8.7. Books and Reports
 ^^^^^^^^^^^^^^^^^^^^^^
 
-8.7.1. There is no standard for books and reports. However, author name, year, publisher and page numbers should be present, where applicable.
+8.7.1. There is no standard for books and reports. However at least Title and Year (and author name for book references) should be present.
 
 |
 .. _corresp_author_pdf_editorials:
