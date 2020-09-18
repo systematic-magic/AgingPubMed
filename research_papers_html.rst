@@ -743,7 +743,7 @@ Callouts can be found in text, figures and tables.
 
 16.1.2. Check that initials have no more than 2 letters and have NO hyphens or spaces in-between.
 
-16.1.3. Check all the :ref:`mononym<mononym>` (names which have no initials) to be “true” mononyms (check `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site).
+16.1.3. Check that all :ref:`mononyms<mononym>` (names which have no initials) are “true” mononyms (check `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site).
 
 16.1.4. Check that list of authors contains no more than either:
 
