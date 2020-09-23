@@ -76,6 +76,7 @@ No PDF-specific checks
 
 .. image:: /_static/correspndence_to.png
    :alt: Correspondence to
+   :scale: 99%
 
 
 :ref:`+ HTML checks<correspondece_html_research_papers>`
@@ -128,6 +129,7 @@ No PDF-specific checks
 
 .. image:: /_static/dates.png
    :alt: Dates
+   :scale: 99%
 
 
 :ref:`+ HTML checks<dates_html_research_papers>`
@@ -178,6 +180,7 @@ No PDF-specific checks
 
 .. image:: /_static/hyperlink.png
    :alt: Hyperlink
+   :scale: 99%
 
 
 :ref:`+ HTML checks<text_html_research_papers>`
@@ -191,6 +194,7 @@ No PDF-specific checks
 
 .. image:: /_static/pdf_figure_callouts.png
    :alt: Figure callouts
+   :scale: 99%
 
 13.2. Figures should be positioned at the bottom of the page when not occupying a full page in PDF.
 
@@ -205,6 +209,7 @@ No PDF-specific checks
 
 .. image:: /_static/pdf_table_callouts.png
    :alt: Table callouts
+   :scale: 99%
 
 14.2. Tables should be positioned at the top of the page when not occupying a full page in PDF.
 
@@ -220,6 +225,7 @@ No PDF-specific checks
 
 .. image:: /_static/callouts.png
    :alt: Hyperlink
+   :scale: 99%
 
 
 :ref:`+ HTML checks<reference_callouts_html_research_papers>`
@@ -265,7 +271,7 @@ No PDF-specific checks
 
 .. image:: /_static/PMIDlink.png
    :alt: PMIDlink
-
+   :scale: 99%
 
 :ref:`+ HTML checks<citation_data_in_house_html_research_papers>`
 
@@ -283,6 +289,7 @@ No PDF-specific checks
 
 .. image:: /_static/PMIDlink.png
    :alt: PMIDlink
+   :scale: 99%
 
 
 :ref:`+ HTML checks<citation_data_other_journals_html_research_papers>`

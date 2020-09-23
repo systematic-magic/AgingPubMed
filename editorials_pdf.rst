@@ -40,6 +40,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 
 .. image:: /_static/editiorial_title.png
    :alt: Title
+   :scale: 99%
 
 
 |
@@ -63,6 +64,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 
 .. image:: /_static/editorial_authors.png
    :alt: Editorials Author format
+   :scale: 99%
 
 3.5. Check the format of the author name. 
 
@@ -364,6 +366,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 
 .. image:: /_static/editorial_citation_data_inhouse.png
    :alt: Citation-Data format
+   :scale: 99%
 
 - Journal title should be followed by period (.) There should be a space after period.
 
@@ -392,6 +395,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 
 .. image:: /_static/editorial_ref_ahead_of_print.png
    :alt: Ahead of Print
+   :scale: 99%
 
 
 |
@@ -412,6 +416,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 
 .. image:: /_static/editorial_citation_data_oj.png
    :alt: Citation-Data format
+   :scale: 99%
 
 - Journal title should be followed by period (.) There should be a space after period.
     - Journal title can be abbreviated or written in full. If abbreviated, check that it is written the same way as on PubMed site. You can look up journal titles here: https://www.ncbi.nlm.nih.gov/nlmcatalog/journals.
@@ -442,6 +447,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 
 .. image:: /_static/editorial_ref_ahead_of_print_oj.png
    :alt: Ahead of Print
+   :scale: 99%
 
 
 |
@@ -531,6 +537,7 @@ Corresponding author and affiliation can be found at the end of the article righ
 
 .. image:: /_static/editorial_aff_text_zip_china.png
    :alt: No comma between city/county/district and zip code
+   :scale: 99%
 
 9.11. USA affiliations: check that there is no comma between state and zip code. State must be positioned before zip code. Zip code must be present.
 
@@ -540,6 +547,7 @@ Corresponding author and affiliation can be found at the end of the article righ
 
 .. image:: /_static/corresp_auth.png
    :alt: Corresponding author and affiliations
+   :scale: 99%
 
 |
 .. _correspondence_pdf_editorials:
@@ -568,6 +576,7 @@ Correspondence section can be found at the end of the article right after the co
 
 .. image:: /_static/correspondence.png
    :alt: Correspondence
+   :scale: 99%
 
 |
 .. _email_pdf_editorials:
@@ -592,6 +601,7 @@ Email section can be found at the end of the article right after the Corresponde
 
 .. image:: /_static/editorial_email.png
    :alt: Email
+   :scale: 99%
 
 |
 .. _keywords_pdf_editorials:
@@ -619,6 +629,7 @@ We suggest you use the :ref:`following procedure<correct_case_check>` if you are
 
 .. image:: /_static/editorial_keywords.png
    :alt: Keywords
+   :scale: 99%
 
 |
 .. _abbreviations_pdf_editorials:
