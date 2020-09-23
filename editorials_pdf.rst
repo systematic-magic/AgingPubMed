@@ -509,7 +509,7 @@ If the link is not valid, please contact author to provide a working link.
 
 Corresponding author and affiliation can be found at the end of the article right after the References section.
 
-9.1. Check that full name of corresponding author is formatted in bold and underlined font and is followed by colon (:).
+9.1. Check that full name of corresponding author is formatted in bold and underlined font and is followed by colon (:) (only one corresponding author is allowed in PDF).
 
 9.2. Check that author’s name does NOT contain titles and/or degrees (e.g. Dr., Ph.D., M.D., etc.).
 
@@ -555,7 +555,7 @@ Correspondence section can be found at the end of the article right after the co
 
 10.3. Check that "Correspondence:" is formatted in black, bold and italic font.
 
-10.4. Check that "Correspondence:" is followed by full author name. In case of multiple corresponding authors, full names should be divided by comma (,).
+10.4. Check that "Correspondence:" is followed by full author name (only one corresponding author is allowed in PDF).
 
 10.5. Check that full author name is formatted in italic font.
 
@@ -590,7 +590,7 @@ Email section can be found at the end of the article right after the Corresponde
 11.6. Check that there are no punctuation marks at the end of email line.
 
 
-.. image:: /_static/email.png
+.. image:: /_static/editorial_email.png
    :alt: Email
 
 |
