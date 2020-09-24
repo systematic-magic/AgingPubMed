@@ -306,7 +306,7 @@ and followed by:
 
 :sample:`This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.` 
 
-.. image:: /_static/cpright_format.png
+.. image:: /_static/html_cpright_format.png
    :alt: Copyright format
    :scale: 99%
 
