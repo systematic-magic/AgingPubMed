@@ -143,6 +143,10 @@ No PDF-specific checks
 10.1. Check that "Copyright:" is formatted in black and bold font.
 
 
+.. image:: /_static/pdf_cpright_format.png
+   :alt: Copyright format
+   :scale: 99%
+
 :ref:`+ HTML checks<copyright_html_research_papers>`
 
 
