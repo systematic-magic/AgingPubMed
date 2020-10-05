@@ -205,7 +205,7 @@ Author notes are optional. Article can have several or no author notes.
 
 6.1. Check that correspondence section has a title “CORRESPONDING AUTHORS” for more than one author or “CORRESPONDING AUTHOR” for one author (ALL CAPS).
 
-6.2. Check that correspondence section has one or more Author + Email address pairs. Occasionally an author can have 2 or more emails.
+6.2. Check that correspondence section has one or more Author + Email address pairs. Only one email per author is allowed with the exception of when an ORCID email is present, which should be separated by a semicolon (;).
 
 6.3. Check that author’s name does not have any punctuation marks at the end.
 
@@ -217,6 +217,11 @@ Author notes are optional. Article can have several or no author notes.
    :alt: Correspondence format
    :scale: 99%
 
+.. image:: /_static/html_orcid_email.png
+   :alt: ORCID email format
+   :scale: 99%
+
+
 6.6. Check that author’s name does NOT contain titles and/or degrees (e.g. Dr., Ph.D., M.D., etc.).
 
 6.7. Check that email address is hyperlinked.
@@ -226,6 +231,9 @@ Author notes are optional. Article can have several or no author notes.
 .. image:: /_static/corr_auth_mtch.png
    :alt: Correspondence author match
    :scale: 99%
+
+6.9. Check for personal emails being used (examples: xxxx@gmail.com, xxxx@yahoo.com, xxxx@qq.com, xxxx@126.com). If you find that authors are using personal emails without an author note to indicate this (indicated by “&” symbol in author list), please inquire with Olga and Elena to make sure this is OK.
+
 
 |
 .. _keywords_html_research_papers:
