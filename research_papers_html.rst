@@ -177,7 +177,8 @@ Author notes are optional. Article can have several or no author notes.
 	- Second author note should be denoted by: #
 	- Third author note should be denoted by: †
 
-5.3. “&” is also an acceptable symbol in the author list for an author note. However, the note itself should be located in the Editorial Note section with the following text (No other symbol or text allowed):
+5.3. “&” is also an acceptable symbol in the author list for an author note. However, the note itself should be located in the Editorial Note section with the following text (no other symbol or text allowed):
+
 :sup:`&`\ This corresponding author has a verified history of publications using a personal email address for correspondence.
 
 5.4. Check that author notes line is written in :ref:`sentence case<sentence_case>`.
