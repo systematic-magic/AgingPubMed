@@ -161,9 +161,13 @@ No PDF-specific checks
    :scale: 99%
    :alt: PDF Section headers format
 
-- Abbreviations section is an exception. It should be formatted :ref:`title case<title_case>` and in blue and bold font.
+- Abbreviations section and Editorial note section are exceptions. They should be formatted in :ref:`sentence case<sentence_case>` and in blue and bold font.
 
 .. image:: /_static/pdf_abbreviations_header.png
+   :scale: 99%
+   :alt: PDF Abbreviations header format
+
+.. image:: /_static/pdf_editorial_note_header.png
    :scale: 99%
    :alt: PDF Abbreviations header format
 
