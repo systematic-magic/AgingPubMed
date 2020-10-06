@@ -167,7 +167,7 @@ No PDF-specific checks
    :scale: 99%
    :alt: PDF Abbreviations header format
 
-|
+
 .. image:: /_static/pdf_editorial_note_header.png
    :scale: 99%
    :alt: PDF Abbreviations header format
