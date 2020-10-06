@@ -205,7 +205,7 @@ Author notes are optional. Article can have several or no author notes.
 
 6.1. Check that correspondence section has a title “CORRESPONDING AUTHORS” for more than one author or “CORRESPONDING AUTHOR” for one author (ALL CAPS).
 
-6.2. Check that correspondence section has one or more Author + Email address pairs. Only one email per author is allowed with the exception of when an ORCID email is present, which should be separated by a semicolon (;).
+6.2. Check that correspondence section has one or more Author + Email address pairs. Multiple emails should be separated by a semicolon (;).
 
 6.3. Check that author’s name does not have any punctuation marks at the end.
 
