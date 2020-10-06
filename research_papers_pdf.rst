@@ -163,14 +163,10 @@ No PDF-specific checks
 
 - Abbreviations and Editorial note sections are exceptions. They should be formatted in :ref:`sentence case<sentence_case>` and in blue and bold font.
 
-.. image:: /_static/pdf_abbreviations_header.png
+.. image:: /_static/pdf_header_exceptions.png
    :scale: 99%
-   :alt: PDF Abbreviations header format
+   :alt: PDF header exceptions
 
-
-.. image:: /_static/pdf_editorial_note_header.png
-   :scale: 99%
-   :alt: PDF Abbreviations header format
 
 - Free-style main sections in Reviews and Research Perspectives are an exception. These should be formatted in :ref:`sentence case<sentence_case>` and blue font.
 
