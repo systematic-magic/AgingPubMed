@@ -381,6 +381,8 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 		:wtonbl:`Funding` - optional - [title case, in white on blue background]
 
+		:wtonbl:`Editorial Note` - optional - [title case, in white on blue background]
+
 		:wtonbl:`References` - mandatory - [title case, in white on blue background]
 
 
@@ -410,6 +412,8 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 		:wtonbl:`Funding` - optional - [title case, in white on blue background]
 
+		:wtonbl:`Editorial Note` - optional - [title case, in white on blue background]
+
 		:wtonbl:`References` - mandatory - [title case, in white on blue background]
 
 | NAVIGATE TO:
@@ -433,6 +437,8 @@ Also, if you notice that the order of the sections need to be changed (to comply
 		:wtonbl:`Conflicts of Interest` - mandatory - [title case, in white on blue background]
 
 		:wtonbl:`Funding` - optional - [title case, in white on blue background]
+
+		:wtonbl:`Editorial Note` - optional - [title case, in white on blue background]
 
 		:wtonbl:`References` - mandatory - [title case, in white on blue background]
 
