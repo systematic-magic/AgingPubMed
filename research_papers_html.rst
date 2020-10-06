@@ -232,8 +232,6 @@ Author notes are optional. Article can have several or no author notes.
    :alt: Correspondence author match
    :scale: 99%
 
-6.9. Check for personal emails being used (examples: xxxx@gmail.com, xxxx@yahoo.com, xxxx@qq.com, xxxx@126.com). If you find that an author is using a personal email without an author note to indicate that they have a verified history of using this email (indicated by “&” symbol in author list that links to note in Editorial Note section), please inquire with Olga and Elena to make sure this is OK.
-
 
 |
 .. _keywords_html_research_papers:
