@@ -86,29 +86,3 @@ How to check whether term, keyword, etc is in correct case?
 
 Optional sections for Editorials
     There are optional sections for Editorials that can appear after Keywords section and before Copyright section in this order: Abbreviations, Acknowledgments, Conflicts of Interest and Funding.
-
-    |
-
-.. _ac_procedure:
-
-Procedure for checking Author Contributions section
-    The Author Contributions must account for who conducted **experiments** or who **collected and analysed data** (depending on the situation): 
-
-    * If AC section includes who conducted experiments and who collected and analysed data - no action necessary
-    
-    * If AC section only includes who conducted experiments - no action necessary
-    
-    * If AC section only includes who collected and analysed data (*both should be present) - search Materials and Methods section for any mention of experiment(s):
-    
-       * a. If no experiments were conducted - no action necessary
-       
-       * b. If experiments were conducted - email author for who conducted experiments
-    | *Note - who collected and analysed data should both be present, where applicable. If one is present, but the other is missing, then email the author for the missing detail.
-    
-    * If AC section doesn't include any information about who conducted experiments and/or who collected and analysed data - email the author with standard author query:
-    | *The Author Contributions must account for who conducted experiments or who collected and analysed data, depending on the kind of research being conducted. Please provide more details for your Author Contributions section.*
-    
-    | Common variations of terms you may see in AC section:
-    |    Experiments: performed experiments, conducted experiments, implementation of experiments
-    |    Data collection: collected data, data acquisition
-    |    Data analysis: analysed data, interpreted data
