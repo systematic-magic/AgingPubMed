@@ -118,14 +118,14 @@ If you see that author name does not comply to these standards, please contact c
 |
 .. _figures_pdf_editorials:
 
-5. Figures
+5. Figure
 ----------
 
 .. Note::
 	
 	Only one figure should be used for editorials. |br|
 
-5.1. Check that figure image has text and graphics which are clear and large enough to read (i.e. image text is not smaller than article text itself).
+5.1. Check that figure image has text and graphics which are clear and large enough to read.
 
 If image is hard to read, please contact Production team and ask to provide clearer images. If Production team does not have better images, then contact corresponding author.
 
