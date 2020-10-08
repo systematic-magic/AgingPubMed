@@ -69,7 +69,8 @@ Figure panel
 
 Large tables
     Applicable to Supplementary materials only! 
-    Tables which span across 2 or more pages. Tables which fit into 2 pages should be published as PDF for convenient printing, whilst large tables should be published as Excel (.xlsx) or Word (.docx) documents. See more information in :ref:`Large tables check<large_tables_check>`
+
+    Tables which span across 3 or more pages are considered large tables. Tables which fit into 2 pages should be published as PDF for convenient printing, whilst large tables should be published as Excel (.xlsx) or Word (.docx) documents. See more information in :ref:`Large tables check<large_tables_check>`
 
     |
 
