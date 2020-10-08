@@ -498,7 +498,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 13. Figures
 ------------
 
-13.1. Check that figure image has text and graphics which are clear and large enough to read (i.e. image text is not smaller than article text itself).
+13.1. Check that figure image has text and graphics which are clear and large enough to read.
 
 If image is hard to read, please contact Production team and ask to provide clearer images. If Production team does not have better images, then contact corresponding author.
 
