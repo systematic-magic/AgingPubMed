@@ -96,7 +96,7 @@ Shortened format for page number ranges
     | Page ranges between 1–99 should be written in full.
     | Ending page numbers for ranges 99 and above should be shortened to two digits unless a digit in the hundreds place or greater is different from the beginning page number.
 
-    | `Example: of properly formatted page ranges:`
+    | `Examples of properly formatted page ranges:`
     | :sample:`4–12`
     | :sample:`11–17` (should not be shortened)
     | :sample:`102–09` (shortened from 102–109)
