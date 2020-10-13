@@ -87,3 +87,18 @@ How to check whether term, keyword, etc is in correct case?
 
 Optional sections for Editorials
     There are optional sections for Editorials that can appear after Keywords section and before Copyright section in this order: Abbreviations, Acknowledgments, Conflicts of Interest and Funding.
+
+    |
+
+.. _shortened_pg_format:
+
+Shortened format for page number ranges
+    | Page ranges between 1–99 should be written in full.
+    | Ending page numbers for ranges 99 and above should be shortened to two digits unless a digit in the hundreds place or greater is different from the beginning page number.
+
+    | `Example: of properly formatted page ranges:`
+    | :sample:`4–12`
+    | :sample:`11–17` (should not be shortened)
+    | :sample:`102–09` (shortened from 102–109)
+    | :sample:`178–200`
+    | :sample:`1250–350` (shortened from 1250–1350)
