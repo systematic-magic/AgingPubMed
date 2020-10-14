@@ -964,6 +964,14 @@ If you find duplicate references, please contact author and ask to correct the r
 
 - These should be formatted to the same standards as described above in :ref:`16.1<refs_author_list_html_research_papers>`, :ref:`16.2<reference_title_html_research_papers>` and :ref:`16.4<citation_data_other_journals_html_research_papers>` with the exception that a special ID number will typically be used in place of volume and page numbers.
 
+16.5.9. Retracted articles are allowed in references. If you come across one, check to make sure that is has a retraction note:
+
+If an article is being cited that was later retracted, a note should appear at the end of the reference with the following details about the retraction notice (add a period before the note if one is not present):
+|span_format_start| Retraction in: JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
+
+If a retraction notice itself is being cited, "Retracted:" should appear before the title of the paper like this:
+|span_format_start| Retracted: ReferenceTitle. JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
+
 
 |
 .. _websites_html_research_papers:
