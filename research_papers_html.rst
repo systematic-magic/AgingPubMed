@@ -967,10 +967,10 @@ If you find duplicate references, please contact author and ask to correct the r
 16.5.9. Retracted articles are allowed in references. If you come across one, check to make sure that is has a retraction note:
 
 If an article is being cited that was later retracted, a note should appear at the end of the reference with the following details about the retraction notice (add a period before the note if one is not present):
-|span_format_start| Retraction in: JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
+   | |span_format_start| Retraction in: JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
 
 If a retraction notice itself is being cited, "Retracted:" should appear before the title of the paper like this:
-|span_format_start| Retracted: ReferenceTitle. JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
+   | |span_format_start| Retracted: ReferenceTitle. JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
 
 
 |
