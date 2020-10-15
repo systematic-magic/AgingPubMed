@@ -13,7 +13,8 @@ Happy hunting!
 .. toctree::
    :maxdepth: 2
    :caption: ALL PAPERS (except Editorials):
-
+   
+ACCESSING PAPERS <paper_access>
    HTML <research_papers_html>
    SUPPLEMENTARY MATERIALS <research_papers_suppl>
    PDF <research_papers_pdf>
