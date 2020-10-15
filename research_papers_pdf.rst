@@ -123,7 +123,8 @@ No PDF-specific checks
 9. Dates
 --------
 
-9.1. Check that “Received:”, “Accepted:”, “Published:” is in black and bold font.
+9.1. Check that “Received:”, “Accepted:”, “Published:” titles are present and in black and bold font. |br|
+(Published date will not be present in PDF)
 
 9.2. Check that dates are separated by white space.
 
