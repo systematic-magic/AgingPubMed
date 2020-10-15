@@ -1,9 +1,14 @@
 
 
+.. _html_getting_started:
+
+Getting Started
+================
+
 .. _html_paper_access:
 
-Accessing Papers
-================
+1. Accessing Papers
+-------------------
 
 Use the following link to access papers by replacing “{pii}” with the PII number of the paper you are going to check:
 
