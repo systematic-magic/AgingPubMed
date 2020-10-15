@@ -278,7 +278,7 @@ We suggest you use the :ref:`following procedure<correct_case_check>` if you are
 9. Dates
 --------
 
-9.1. Check that dates section has titles “Received:”, “Accepted:”, “Published:” (:ref:`title case<title_case>` and followed by colon (:)).
+9.1. Check that dates section has titles “Received:” and “Accepted:”, (“Published:” will not be present) (:ref:`title case<title_case>` and followed by colon (:)).
 
 .. image:: /_static/dates_format.png
    :alt: Dates format
