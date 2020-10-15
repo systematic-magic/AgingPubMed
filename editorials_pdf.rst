@@ -759,15 +759,15 @@ Copyright section can be found at the end of the article right after the Keyword
 18. Dates
 ---------
 
-Received and published dates can be found at the end of the article right after the Copyright section.
+Dates section can be found at the end of the article right after the Copyright section.
 
-18.1. Check that received and published dates are separated from Copyright section by blank line.
+18.1. Check that dates section is separated from Copyright section by blank line.
 
 18.2. Check that "Received:" and "Published:" titles are :ref:`title case<title_case>` and followed by colon (:).
 
-18.3. Check that "Received:" and "Published:" are formatted in black and bold font.
+18.3. Check that "Received:" and "Published:" titles are formatted in black and bold font.
 
-18.4. Check that "Received:" and "Published:" titles are each followed by a date.
+18.4. Check that "Received:" title is followed by a date (Published date will not be present).
 
 18.5. Check that month is spelled out as a word and dates are in-line with the following format: Month Day, Year
 (e.g. June 1, 2017, April 12, 2016, December 31, 2015, etc.) Note: if a day is presented by single digit, there should be no leading 0.
