@@ -290,7 +290,7 @@ We suggest you use the :ref:`following procedure<correct_case_check>` if you are
 
 9.3. Check spelling of the month.
 
-9.4. Check that Received date is older than Accepted date (i.e. we cannot publish before we accept).
+9.4. Check that Received date is older than Accepted date (i.e. we cannot accept before we receive).
 
 .. note:: Pay attention to years.
 
