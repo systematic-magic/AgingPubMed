@@ -479,13 +479,23 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 12.1. Check that font type and size is consistent across all sections of the article. 
 
-12.2. Check that there is a period (.) at the end of the Abstract text.
+12.2. Some (not all) articles will have a “Download MS” link below “Download PDF” link. If present, download the Word doc and scan it expeditiously by eye for any spelling errors (indicated by red, wavy underlining).
 
-12.3. Check that no references are being called out in the Abstract text.
+.. image:: /_static/html_dl_ms.png
+	:alt: Download MS link
+	:scale: 99%
 
-12.4. Check Materials and Methods section (or its alternatives - see in :ref:`Section Headers<section_headers_html_research_papers>`) for erroneously placed hyperlinks (e.g. hyperlinked numbers in compound names).
+.. image:: /_static/html_spell_check.png
+	:alt: Spelling check
+	:scale: 99%
 
-12.5. Check all website addresses in article text:
+12.3. Check that there is a period (.) at the end of the Abstract text.
+
+12.4. Check that no references are being called out in the Abstract text.
+
+12.5. Check Materials and Methods section (or its alternatives - see in :ref:`Section Headers<section_headers_html_research_papers>`) for erroneously placed hyperlinks (e.g. hyperlinked numbers in compound names).
+
+12.6. Check all website addresses in article text:
 
 	- Check that all website addresses are hyperlinked.
 
