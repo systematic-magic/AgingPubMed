@@ -1,10 +1,5 @@
 
 
-.. _html_getting_started:
-
-Getting Started
-================
-
 .. _html_paper_access:
 
 1. Accessing Papers
