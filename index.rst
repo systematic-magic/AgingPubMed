@@ -13,7 +13,7 @@ Happy hunting!
    :maxdepth: 2
    :caption: GETTING STARTED
 
-   <paper_access>
+   Accessing Papers <paper_access>
 
 .. toctree::
    :maxdepth: 2
