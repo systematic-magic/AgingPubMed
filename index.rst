@@ -11,9 +11,10 @@ Happy hunting!
 
 .. toctree::
    :maxdepth: 2
+   :titlesonly:
    :caption: GETTING STARTED
 
-   Accessing Papers <paper_access>
+   paper_access
 
 .. toctree::
    :maxdepth: 2
