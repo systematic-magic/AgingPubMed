@@ -1,6 +1,6 @@
 
 
-.. _html_paper_access:
+.. _paper_access:
 
 Accessing Papers
 ----------------
