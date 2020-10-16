@@ -481,6 +481,8 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 12.2. Some (not all) articles will have a “Download MS” link below “Download PDF” link. If present, download the Word doc and scan it expeditiously by eye for any spelling errors (indicated by red, wavy underlining).
 
+	- The paper must be accessed by the special link shown in :ref:`Accessing Papers<paper_access>` section in order for the Word doc link to be visible.
+
 .. image:: /_static/html_dl_ms.png
 	:alt: Download MS link
 	:scale: 99%
