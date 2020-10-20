@@ -204,6 +204,10 @@ Author notes are optional. Article can have several or no author notes.
 
 6. Correspondence
 -----------------
+.. Note::
+	
+	If you come across a paper where a corresponding author has multiple emails in the PDF but one or more are missing in HTML, bring it to Olga's attention and ask if it's OK while copying Christopher. Don't report it as a correction for now.
+
 
 6.1. Check that correspondence section has a title “CORRESPONDING AUTHORS” for more than one author or “CORRESPONDING AUTHOR” for one author (ALL CAPS).
 
