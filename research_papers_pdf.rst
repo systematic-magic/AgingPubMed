@@ -57,6 +57,10 @@ No PDF-specific checks
 
 6. Correspondence
 -----------------
+.. Note::
+	
+	Don't worry about reporting CX for semicolons or commas being used to separate author emails in PDF for right now. Either way is fine until further notice.
+
 6.1. Check that correspondence section has a title “Correspondence to:” (:ref:`sentence case<sentence_case>` and followed by colon (:)).
 
 6.2. Check that "Correspondence to:" is in black and bold font.
