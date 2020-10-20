@@ -519,6 +519,9 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 	- Check that all website addresses lead to valid page.
 
+12.7. Check that “*et al.*” is formatted in italics throughout the article with the exception of the References section.
+
+
 |
 .. _figures_html_research_papers:
 
