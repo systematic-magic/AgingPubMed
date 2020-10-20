@@ -833,7 +833,14 @@ Callouts can be found in text, figures and tables.
 16.2. Reference Title
 ^^^^^^^^^^^^^^^^^^^^
 
-16.2.1. Title can be written in :ref:`sentence case<sentence_case>`, :ref:`title case<title_case>` or in ALL CAPS. All these formats are allowed. Format of title is allowed to be inconsistent across all references in the article.
+16.2.1. Title can be written in :ref:`sentence case<sentence_case>`, :ref:`title case<title_case>` or in ALL CAPS. All these formats are allowed.
+
+	- Format of title is allowed to be inconsistent across all references in the article.
+
+	- Proper nouns should have correct capitalization when title is not formatted in all caps.
+
+	- It’s OK if capitalization of title does not match PubMed.
+
 
 16.2.2. Check that title is followed by a period (.). There should be a space after period.
 
