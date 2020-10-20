@@ -309,7 +309,7 @@ We suggest you use the :ref:`following procedure<correct_case_check>` if you are
 ------------
 .. Note::
 	
-	Skip checking copyright statement (with the exception of year and author surname) in HTML until further notice. Still check PDF.
+	Skip checking copyright statement (with the exception of year and author surname) in HTML until further notice. Still check PDF in full.
 
 10.1. Check that copyright section has a title “Copyright:” (:ref:`title case<title_case>`).
 
