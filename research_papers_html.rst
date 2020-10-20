@@ -307,6 +307,10 @@ We suggest you use the :ref:`following procedure<correct_case_check>` if you are
 
 10. Copyright
 ------------
+.. Note::
+	
+	Skip checking copyright statement (with the exception of year and author surname) in HTML until further notice. Still check PDF.
+
 10.1. Check that copyright section has a title “Copyright:” (:ref:`title case<title_case>`).
 
 10.2. Check that copyright string starts with copyright symbol (©) and is followed by a YEAR.
