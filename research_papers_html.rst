@@ -1017,6 +1017,7 @@ If you find duplicate references, please contact author and ask to correct the r
   	:alt: Retraction notice note
   	:scale: 99%
 
+If you come across a retracted reference that does not have a note to indicate retraction at all, contact the author to inform them that a retracted article is being cited and that we need to reformat it with the appropriate retraction note.
 
 |
 .. _websites_html_research_papers:
