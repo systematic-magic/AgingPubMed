@@ -46,10 +46,6 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 
 3. Author List
 --------------
-.. Note::
-	
-	Author note symbols (*, #, †, etc.) missing in the author list in HTML can be overlooked for now. No need to report that as a correction until further notice. (They should still be present PDF)
-
 
 3.1. Check that all author names in author list are separated by commas (,). No other separators allowed.
 
@@ -315,9 +311,6 @@ We suggest you use the :ref:`following procedure<correct_case_check>` if you are
 
 10. Copyright
 ------------
-.. Note::
-	
-	Skip checking copyright statement (with the exception of year and author surname) in HTML until further notice. Still check PDF in full.
 
 10.1. Check that copyright section has a title “Copyright:” (:ref:`title case<title_case>`).
 
