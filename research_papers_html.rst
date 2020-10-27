@@ -502,17 +502,19 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 12.4. Check that no references are being called out in the Abstract text.
 
-12.5. Check Materials and Methods section (or its alternatives - see in :ref:`Section Headers<section_headers_html_research_papers>`) for erroneously placed hyperlinks (e.g. hyperlinked numbers in compound names).
+12.5. Check that nothing is hyperlinked in the Abstract text.
 
-12.6. Check all website addresses in article text:
+12.6. Check Materials and Methods section (or its alternatives - see in :ref:`Section Headers<section_headers_html_research_papers>`) for erroneously placed hyperlinks (e.g. hyperlinked numbers in compound names).
 
-	- Check that all website addresses are hyperlinked.
+12.7. Check all website addresses in article text:
+
+	- Check that all website addresses are hyperlinked (except when in Abstract section).
 
 	- Check that all website addresses have "http://" or "https://" present.
 
 	- Check that all website addresses lead to valid page.
 
-12.7. Check that “et al.” is formatted in :ref:`plain text<plain_text>` throughout the article.
+12.8. Check that “et al.” is formatted in :ref:`plain text<plain_text>` throughout the article.
 
 
 |
