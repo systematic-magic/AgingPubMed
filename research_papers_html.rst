@@ -285,7 +285,7 @@ We suggest you use the :ref:`following procedure<correct_case_check>` if you are
 --------
 .. Note::
 	
-	Published title and date will not always be present in HTML - This is OK
+	Published title and date will only be present for Advance papers.
 
 
 9.1. Check that dates section has titles “Received:”, “Accepted:” and “Published:” (:ref:`title case<title_case>` and followed by colon (:)). |br|
