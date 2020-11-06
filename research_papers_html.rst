@@ -283,9 +283,12 @@ We suggest you use the :ref:`following procedure<correct_case_check>` if you are
 
 9. Dates
 --------
+.. Note::
+	
+	Published title and date will not always be present in HTML - This is OK
 
-9.1. Check that dates section has titles “Received:” and “Accepted:” (:ref:`title case<title_case>` and followed by colon (:)). |br|
-(“Published:” title and date will not be present in HTML)
+
+9.1. Check that dates section has titles “Received:”, “Accepted:” and “Published:” (:ref:`title case<title_case>` and followed by colon (:)). |br|
 
 .. image:: /_static/dates_format.png
    :alt: Dates format
@@ -298,9 +301,11 @@ We suggest you use the :ref:`following procedure<correct_case_check>` if you are
 
 9.4. Check that Received date is older than Accepted date (i.e. we cannot accept before we receive).
 
+9.5. Check that Accepted date is older than Published date (i.e. we cannot publish before we accept).
+
 .. note:: Pay attention to years.
 
-9.5. Check that Received and Accepted dates match JPS.
+9.6. Check that Received and Accepted dates match JPS.
 
 .. image:: /_static/dates_jps.png
    :alt: Dates in JPS
