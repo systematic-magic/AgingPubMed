@@ -367,7 +367,7 @@ Check to make sure that all supplementary materials in the PDF match what we hav
 
 **17.1.1. Main Title**
 
-- Main title should appear at the top of the first page of the supplementary materials - Title should be ALL CAPS, blue and bold font.
+- Main title should appear at the top of the first page of the supplementary materials and should appear as SUPPLEMENTARY MATERIALS - Title should be ALL CAPS, blue and bold font (always kept plural).
 
 .. image:: /_static/suppl_main_ms_pdf.png
   	:alt: Supplementary Materials main title
