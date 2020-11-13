@@ -24,7 +24,7 @@ The titles of each supplementary PDF file will vary depending on their contents.
 
 1.1. Supplementary Figures
 
-- When one or more figures are contained in a PDF, title should be SUPPLEMENTARY FIGURES - ALL CAPS, blue and bold font.
+- When multiple figures are contained in a PDF, title should be SUPPLEMENTARY FIGURES - ALL CAPS, blue and bold font.
 
 .. image:: /_static/suppl_figs_pdf.png
   	:alt: Supplementary Figures title
@@ -38,7 +38,7 @@ The titles of each supplementary PDF file will vary depending on their contents.
 
 1.2. Supplementary Tables
 
-- When one or more tables are contained in a PDF, title should be SUPPLEMENTARY TABLES - ALL CAPS, blue and bold font.
+- When multiple tables are contained in a PDF, title should be SUPPLEMENTARY TABLES - ALL CAPS, blue and bold font.
 
 .. image:: /_static/suppl_tables_pdf.png
   	:alt: Supplementary Tables title
