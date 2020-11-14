@@ -1049,7 +1049,7 @@ If the link is not valid, please contact author to provide a working link.
 17.1. Download File Names
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Supplementary materials, figures, tables, etc. are kept as separate downloads in HTML. When possible, a single file is used for each, but it is OK if tables and figures appear in separate files regardless of size. Supplementary references should be kept inside the file that they are cited in, except when references are being cited in multiple files.
+Supplementary materials, figures, tables, etc. are kept as separate downloads in HTML. When possible, a single file is used for each, but it is OK if tables and figures appear in separate files (regardless of size). Supplementary references should be kept inside the file that they are cited in, except when references are being cited in multiple files.
 
 .. image:: /_static/suppl_kept_separate_dl.png
   	:alt: Supplementary Materials are kept separate
