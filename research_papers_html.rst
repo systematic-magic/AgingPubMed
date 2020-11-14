@@ -1099,7 +1099,7 @@ Tables can appear in one file or in separate files (regardless of size).
 
 **17.1.3. Supplementary References**
 
-- Should be named Supplementary References - :ref:`Title case<title_case>`, blue and bold font.
+- When all references are kept in one file, it should be named Supplementary References - :ref:`Title case<title_case>`, blue and bold font.
 
 .. image:: /_static/suppl_refs_dl.png
   	:alt: Supplementary references
