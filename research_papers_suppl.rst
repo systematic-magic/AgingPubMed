@@ -139,7 +139,11 @@ The titles of each supplementary PDF file will vary depending on their contents.
 6. References
 ^^^^^^^^^^^^^
 
-6.1. If there are references present in the supplementary materials, then they should be checked in accordance with :ref:`PDF References checks<references_pdf_research_papers>`.
+.. Note::
+	
+	Supplementary references should be kept inside the file that they are cited in, except when references are being cited in multiple files.
+
+6.1. References should be checked in accordance with :ref:`PDF References checks<references_pdf_research_papers>`.
 
 	| The supplementary materials must have its own reference list (separate from the reference list in the main manuscript) when references are being called out there.
 
