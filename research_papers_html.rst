@@ -1059,10 +1059,9 @@ Download file names should be descriptive of what is inside the file.
 
 **17.1.1. Supplementary Figures**
 
-Figures will most often be kept in one PDF. Occasionally, unusually large figures may be kept separately.
+Figures can appear in one file or in separate files (regardless of size).
 
-
-- When all figures can be kept in one file, it should be named Supplementary Figures - :ref:`Title case<title_case>`, blue and bold font.
+- When all figures are kept in one file, it should be named Supplementary Figures - :ref:`Title case<title_case>`, blue and bold font.
 
 .. image:: /_static/suppl_all_figs_dl.png
   	:alt: Supplementary figures all kept in file
@@ -1078,7 +1077,9 @@ Figures will most often be kept in one PDF. Occasionally, unusually large figure
 
 **17.1.2. Supplementary Tables**
 
-- When all tables can be kept in one file, it should be named Supplementary Tables - :ref:`Title case<title_case>`, blue and bold font.
+Tables can appear in one file or in separate files (regardless of size).
+
+- When all tables are kept in one file, it should be named Supplementary Tables - :ref:`Title case<title_case>`, blue and bold font.
 
 .. image:: /_static/suppl_all_tables_dl.png
   	:alt: Supplementary tables all kept in file
