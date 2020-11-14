@@ -92,6 +92,10 @@ The titles of each supplementary PDF file will vary depending on their contents.
 4. Figures
 ^^^^^^^^^^
 
+.. Note::
+	
+	Figures can appear in one file or in separate files (regardless of size). 
+
 4.1. HTML :ref:`Figures checks from 13.1. to 13.4<figures_html_research_papers>` (inclusive) are applicable to supplementary figures with one exclusion: instead of **Figure N**, figure legends should be named as **Supplementary Figure N**.
 
 .. image:: /_static/suppl_fig_name.png
@@ -114,6 +118,9 @@ The titles of each supplementary PDF file will vary depending on their contents.
 	If table spans across 3 or more pages, then it is considered a ":ref:`large table<large_tables>`".
 	For large table handling instructions, check :ref:`here<large_tables_check>`.
 
+.. Note::
+	
+	Tables can appear in one file or in separate files (regardless of size).
 
 5.1. HTML :ref:`Tables checks from 14.1. to 14.5<tables_html_research_papers>` (inclusive) are applicable to supplementary tables with one exclusion: instead of **Table N**, tables should be named as **Supplementary Table N**.
 
