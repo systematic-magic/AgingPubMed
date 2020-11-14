@@ -141,7 +141,7 @@ The titles of each supplementary PDF file will vary depending on their contents.
 
 .. Note::
 	
-	Supplementary references should be kept inside the file that they are cited in, except when references are being cited in multiple files.
+	Supplementary references should be kept inside the file that they are cited in. If they are being cited in more than one file, then they should be kept in their own file.
 
 6.1. References should be checked in accordance with :ref:`PDF References checks<references_pdf_research_papers>`.
 
