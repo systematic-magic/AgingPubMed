@@ -145,10 +145,9 @@ The titles of each supplementary PDF file will vary depending on their contents.
 
 6.1. References should be checked in accordance with :ref:`PDF References checks<references_pdf_research_papers>`.
 
-	| The supplementary materials must have its own reference list (separate from the reference list in the main manuscript) when references are being called out there.
+- The supplementary materials must have its own reference list (separate from the reference list in the main manuscript) when references are being called out there.
 
-	| If you notice that references are being called out in the supplementary materials but there is no supplementary reference list present, then please contact the author to provide one.
-	| On the other hand, if there is a reference list but no callouts to it in the supplementary materials, then please contact the author to provide updated supplementary materials with added callouts.
+- If you notice that references are being called out in the supplementary materials but there is no supplementary reference list present, then please contact the author to provide one. On the other hand, if there is a reference list but no callouts to it in the supplementary materials, then please contact the author to provide updated supplementary materials with added callouts.
 
 6.2. Supplementary reference callouts should be checked in accordance with PDF :ref:`References Callouts checks<reference_callouts_pdf_research_papers>`.
 
