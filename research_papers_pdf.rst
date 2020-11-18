@@ -57,9 +57,6 @@ No PDF-specific checks
 
 6. Correspondence
 -----------------
-.. Note::
-	
-	Don't worry about reporting CX for semicolons or commas being used to separate author emails in PDF for right now. Either way is fine until further notice.
 
 6.1. Check that correspondence section has a title “Correspondence to:” (:ref:`sentence case<sentence_case>` and followed by colon (:)).
 
@@ -73,12 +70,19 @@ No PDF-specific checks
 
 6.6. Check that the word “email:" is lowercase, is in black and bold font and ends with a colon (:).
 
-6.7. Check that corresponding author email address (or email addresses if there are a few of corresponding authors) are listed after "email:”. Each corresponding author’s email (or group of emails) should be separated by a semicolon (;). If an author has multiple emails, then they should each be separated by a comma (,).
+6.7. Check that corresponding author email (or emailsif there are a few of corresponding authors) are listed after “email:”. In the case of multiple corresponding authors, punctuation is determined whether or not an ORICD iD is present:
+
+	- **Only emails are present:** check that each author’s email is separated by a comma (,)
+	- **ORCID is present:** check that semicolons are used to distinguish each author’s email or email+ORCID pair, and a comma is used to separate an author’s email from their ORCID iD.
 
 6.8. Check that there is no punctuation mark at the end of the last email.
 
 
-.. image:: /_static/pdf_correspondence.png
+.. image:: /_static/pdf_correspondence_emails.png
+   :alt: Correspondence to
+   :scale: 99%
+
+.. image:: /_static/pdf_correspondence_orcid.png
    :alt: Correspondence to
    :scale: 99%
 
