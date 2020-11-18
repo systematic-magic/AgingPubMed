@@ -208,33 +208,33 @@ Author notes are optional. Article can have several or no author notes.
 -----------------
 .. Note::
 	
-	If you come across a paper where a corresponding author has multiple emails in the PDF but one or more are missing in HTML, bring it to Olga's attention and ask if it's OK while copying Christopher. Don't report it as a correction for now.
+	Each corresponding author is only allowed one email (mandatory) and one ORCID iD (optional). ORICID iD’s must be accompanied by an email as they are not a substitute for one.
 
 
 6.1. Check that correspondence section has a title “CORRESPONDING AUTHORS” for more than one author or “CORRESPONDING AUTHOR” for one author (ALL CAPS).
 
-6.2. Check that correspondence section has one or more Author + Email address pairs.
+6.2. Check that correspondence section has at least one corresponding author with an accompanying email.
 
 6.3. Check that author’s name does not have any punctuation marks at the end.
 
-6.4. Check that email line is located below the author’s name and does not have any punctuation marks at the end. Multiple emails should be separated by a semicolon (;).
+6.4. Check that email line is located below the author’s name and does not have any punctuation marks at the end.
 
-6.5. Check that multiple Author + Email pairs are divided by a blank line.
+6.5. Check that ORCID line (when present) is located below the email line and does not have any punctuation marks at the end.
 
-.. image:: /_static/corr_format.png
+6.6. Check that multiple corresponding authors (along with their accompanying email/ORCID information) are divided by a blank line.
+
+.. image:: /_static/html_crrsp.png
    :alt: Correspondence format
    :scale: 99%
 
-.. image:: /_static/html_orcid_email.png
-   :alt: ORCID email format
-   :scale: 99%
 
+6.7. Check that author’s name does NOT contain titles and/or degrees (e.g. Dr., Ph.D., M.D., etc.).
 
-6.6. Check that author’s name does NOT contain titles and/or degrees (e.g. Dr., Ph.D., M.D., etc.).
+6.8. Check that email address is hyperlinked.
 
-6.7. Check that email address is hyperlinked.
+6.9 Check ORCID iD is hyperlinked and leads to a valid page.
 
-6.8. Check that author’s name completely matches corresponding name in the author list (including the middle initials if any).
+6.10. Check that author’s name completely matches corresponding name in the author list (including the middle initials if any).
 
 .. image:: /_static/corr_auth_mtch.png
    :alt: Correspondence author match
