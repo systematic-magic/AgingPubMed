@@ -70,7 +70,7 @@ No PDF-specific checks
 
 6.6. Check that the word “email:" is lowercase, is in black and bold font and ends with a colon (:).
 
-6.7. Check that corresponding author email (or emailsif there are a few of corresponding authors) are listed after “email:”. In the case of multiple corresponding authors, punctuation is determined whether or not an ORICD iD is present:
+6.7. Check that corresponding author email (or emails if there are a few of corresponding authors) are listed after “email:”. In the case of multiple corresponding authors, punctuation is determined whether or not an ORICD iD is present:
 
 	- **Only emails are present:** check that each author’s email is separated by a comma (,)
 	- **ORCID is present:** check that semicolons are used to distinguish each author’s email or email+ORCID pair, and a comma is used to separate an author’s email from their ORCID iD.
