@@ -586,6 +586,10 @@ Correspondence section can be found at the end of the article right after the co
 11. Email
 ---------
 
+.. Note::
+	
+	The corresponding author is only allowed one email (mandatory) and one ORCID iD (optional). ORICID iD’s must be accompanied by an email as they are not a substitute for one.
+
 Email section can be found at the end of the article right after the Correspondence section.
 
 11.1. Check that there is no blank line between Correspondence and Email sections.
@@ -598,7 +602,13 @@ Email section can be found at the end of the article right after the Corresponde
 
 11.5. Check that email address is formatted in blue, underlined, italic font.
 
-11.6. Check that there are no punctuation marks at the end of email line.
+11.6. Check that ORCID iD (when present) appears on email line and is separated from email address with a comma (,) and a space.
+
+11.7. Check that ORCID iD (when present) is hyperlinked and leads to a valid ORCID page. If ORCID page has “No public information available.”, then the ORCID iD is not valid and should be removed.
+
+11.8. Check that ORCID iD (when present) is formatted in blue, underlined, italic font.
+
+11.9. Check that there are no punctuation marks at the end of email line.
 
 
 .. image:: /_static/editorial_email.png
