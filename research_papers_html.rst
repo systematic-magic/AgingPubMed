@@ -221,7 +221,7 @@ Author notes are optional. Article can have several or no author notes.
 
 6.5. Check that ORCID line (when present) is located below the email line and does not have any punctuation marks at the end.
 
-6.6. Check that multiple corresponding authors (along with their accompanying email/ORCID information) are divided by a blank line.
+6.6. Check that multiple corresponding authors (along with their accompanying email/ORCID information) are divided by a blank line (hard return).
 
 .. image:: /_static/html_crrsp.png
    :alt: Correspondence format
