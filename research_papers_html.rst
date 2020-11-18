@@ -232,7 +232,7 @@ Author notes are optional. Article can have several or no author notes.
 
 6.8. Check that email address is hyperlinked.
 
-6.9 Check ORCID iD is hyperlinked and leads to a valid page.
+6.9 Check that ORCID iD is hyperlinked and leads to a valid ORCID page. If ORCID page has “No public information available.”, then the ORCID iD is not valid and should be removed.
 
 6.10. Check that author’s name completely matches corresponding name in the author list (including the middle initials if any).
 
