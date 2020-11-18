@@ -602,7 +602,7 @@ Email section can be found at the end of the article right after the Corresponde
 
 11.5. Check that email address is formatted in blue, underlined, italic font.
 
-11.6. Check that ORCID iD (when present) appears on email line and is separated from email address with a comma (,) and a space.
+11.6. Check that ORCID iD (when present) is separated from email address with a comma (,) and a space.
 
 11.7. Check that ORCID iD (when present) is hyperlinked and leads to a valid ORCID page. If ORCID page has “No public information available.”, then the ORCID iD is not valid and should be removed.
 
