@@ -1052,7 +1052,7 @@ If the link is not valid, please contact author to provide a working link.
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Supplementary materials, figures, tables, etc. are kept as separate downloads in HTML. When possible, a single file is used for each, but it is OK if tables and figures appear in separate files (regardless of size). |br|
-Supplementary references should be kept inside the file that they are cited in. If they are being cited in more than one file, then they should be kept in their own file that’s named “:ref:`Supplementary References<suppl_refs_title_html_research_papers>`”.
+Supplementary references should be kept in the file that they are being called out in. If they are being called out in more than one file, then they should be kept in their own file that’s named “:ref:`Supplementary References<suppl_refs_title_html_research_papers>`”.
 
 .. image:: /_static/suppl_kept_separate_dl.png
   	:alt: Supplementary Materials are kept separate
