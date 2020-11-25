@@ -5,7 +5,7 @@ Vocabulary
 .. _sentence_case:
 
 Sentence case
-    Sentence case is the conventional way of using capital letters in a sentence. That is, you only capitalise the first letter of the first word – like you would in a sentence. Proper nouns (including abbreviations, gene names, journal titles, scientific databases, etc.) have initial capitals as well.
+    Sentence case is the conventional way of using capital letters in a sentence. That is, you only capitalize the first letter of the first word – like you would in a sentence. Proper nouns (including abbreviations, gene names, journal titles, scientific databases, etc.) have initial capitals as well.
 
     | `Examples:`
     | :sample:`The cat sat on the mat.`
@@ -15,7 +15,7 @@ Sentence case
 .. _title_case:
 
 Title case
-    Title case is the conventional way of using capital letters in a sentence. That is, you capitalise all principal words. Articles, conjunctions, and prepositions do not get capital letters unless they start the title.
+    Title case is the conventional way of using capital letters in a sentence. That is, you capitalize all principal words. Articles, conjunctions, and prepositions do not get capital letters unless they start the title.
 
     | `Examples:`
     | :sample:`Snow White and the Seven Dwarfs.`
