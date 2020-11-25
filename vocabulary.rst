@@ -108,7 +108,6 @@ Shortened format for page number ranges
 .. _state_abbr:
 
 US State Abbreviations
-
     .. csv-table::
        :header: "State", "Abbr."
        :widths: 20, 20
