@@ -122,7 +122,7 @@ If there is only one affiliation text for all authors, then each author name sho
 
 4.2. Check that there are NO street addresses and house numbers included in affiliation.
 
-4.3. Check that country and city names are present in affiliation. State is also required in U.S. affiliations.
+4.3. Check that country and city names are present in affiliation. State is also required and should be :ref:`abbreviated<state_abbr>` in U.S. affiliations.
 
 4.4. Check that country and city names are NOT written in ALL CAPS (capital letters).
 
