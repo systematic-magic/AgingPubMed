@@ -535,7 +535,10 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 	- Check that all website addresses lead to valid page.
 
-12.8. Check that “et al.” is formatted in :ref:`plain text<plain_text>` throughout the article.
+12.8. Check that the following Latin terms are written in italics: *in vitro, in vivo, in situ, in silico*. Via, etc and et al should be formatted in :ref:`plain text<plain_text>`.
+For other Latin terms either italics or :ref:`plain text<plain_text>` is acceptable.
+
+12.9. Name of cities, countries, institutions, books and manuals should not be in italics.
 
 
 |
