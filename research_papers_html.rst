@@ -696,7 +696,7 @@ If table is hard to read, please contact Production team and ask to increase fon
 
 	- Check that title is written in :ref:`sentence case<sentence_case>` and coloured in black.
 
-14.3. Check that table-related additional information is presented below the table as a note in :ref:`plain text<plain_text>`.
+14.3. Check that table-related additional information is presented below the table as a note in :ref:`justified<justified_text>`, :ref:`plain text<plain_text>`.
 
 .. image:: /_static/html_table_notes.png
 	:alt: Table notes
