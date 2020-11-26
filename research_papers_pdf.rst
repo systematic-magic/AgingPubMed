@@ -183,6 +183,25 @@ No PDF-specific checks
 - Free-style main sections in Reviews and Research Perspectives are an exception. These should be formatted in :ref:`sentence case<sentence_case>` and blue font.
 
 
+11.2. Check the format of all subsubsection headers in the article:
+
+	- Main headers and subheaders are separated from the following text (or header when in succession) with a space (hard return).
+
+	- Subsubheaders are separated from the following text with no space (soft return).
+
+.. image:: /_static/pdf_single_header_spacing.png
+	:alt: Single main header spacing
+	:scale: 99%
+
+.. image:: /_static/pdf_header_spacing.png
+	:alt: Main and sub header spacing
+	:scale: 99%
+
+.. image:: /_static/pdf_subsubheader_spacing.png
+	:alt: Subsubheader spacing
+	:scale: 99%
+
+
 :ref:`+ HTML checks<section_headers_html_research_papers>`
 
 |
