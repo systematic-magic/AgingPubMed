@@ -485,6 +485,20 @@ Also, if you notice that the order of the sections need to be changed (to comply
 	:alt: Subsubsection headers
 	:scale: 99%
 
+11.4. Check the spacing of all headers in the article:
+
+	- Headers are separated from the following text with a space (hard return).
+
+	- When multiple headers are present in succession, each header is separated from the next by a space (hard return), and the lowest level header has no space (soft return) between it and the following text.
+
+.. image:: /_static/html_single_header_spacing.png
+	:alt: Single header spacing
+	:scale: 99%
+
+.. image:: /_static/html_mult_header_spacing.png
+	:alt: Multiple header spacing
+	:scale: 99%
+
 |
 .. _text_html_research_papers:
 
