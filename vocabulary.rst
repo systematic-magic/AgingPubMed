@@ -114,7 +114,7 @@ Justified text
 
 .. _state_abbr:
 
-US State Abbreviations
+US State abbreviations
     .. csv-table::
        :header: "State", "Abbr."
        :widths: 20, 20
