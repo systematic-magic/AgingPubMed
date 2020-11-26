@@ -185,7 +185,7 @@ No PDF-specific checks
 
 11.2. Check the spacing of all headers in the article:
 
-	- Main headers and subheaders are separated from the following text (or header when in succession) with a space (hard return).
+	- Main headers and subheaders are separated from the following text (or header, when in succession) with a space (hard return).
 
 	- Subsubheaders are separated from the following text with no space (soft return).
 
