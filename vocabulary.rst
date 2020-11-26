@@ -105,6 +105,13 @@ Shortened format for page number ranges
 
     |
 
+.. _justified_text:
+
+Justified text
+    Text is aligned along the left margin, with letter-spacing and word-spacing adjusted so that the text falls flush with both margins.
+
+    |
+
 .. _state_abbr:
 
 US State Abbreviations
