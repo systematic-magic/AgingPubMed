@@ -352,7 +352,7 @@ and followed by:
 ------------------
 .. _start_of_check_html_research_papers:
 
-Section headers should comply with below mentioned requirements in respect to order, letter case, colour and spelling. Also, no variations (except for alternatives explicitly mentioned in these standards) are allowed. For example, standards have "Author Contributions" section with no alternatives specified, which means that all other variations (like "Authors' Contributions, Author Contribution, Contribution of Author, etc") are not allowed.
+Section headers should comply with below mentioned requirements in respect to order, letter case, color and spelling. Also, no variations (except for alternatives explicitly mentioned in these standards) are allowed. For example, standards have "Author Contributions" section with no alternatives specified, which means that all other variations (like "Authors' Contributions, Author Contribution, Contribution of Author, etc") are not allowed.
 
 If you see any deviations of section naming in articles, please contact authors and check whether they agree to change section header in question in accordance with these standards.
 
@@ -414,7 +414,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 		:wtonbl:`Introduction` - optional - [title case, in white on blue background]
 
 
-		Reviews usually have free-style (research related) section headers. These headers should be formatted in :ref:`sentence case<sentence_case>` and can be coloured in white on blue background.
+		Reviews usually have free-style (research related) section headers. These headers should be formatted in :ref:`sentence case<sentence_case>` and can be colored in white on blue background.
 
 
 		:wtonbl:`Abbreviations` - optional - [title case, in white on blue background]
@@ -441,7 +441,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 		
 		:blue:`Abstract` - mandatory - [:ref:`title case<title_case>`, in blue]	
 
-		Research Perspectives usually have free-style (research related) section headers. These headers should be formatted in :ref:`sentence case<sentence_case>` and can be coloured in white on blue background.
+		Research Perspectives usually have free-style (research related) section headers. These headers should be formatted in :ref:`sentence case<sentence_case>` and can be colored in white on blue background.
 
 		:wtonbl:`Abbreviations` - optional - [title case, in white on blue background]
 
@@ -463,7 +463,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 	
 	- Check that **all** subsection headers in the article are written in :ref:`sentence case<sentence_case>`.
 
-	- Check that subsection headers are formatted in bold and coloured in :headr2:`black`. 
+	- Check that subsection headers are formatted in bold and colored in :headr2:`black`. 
 
 	- Check that there is **no** underlining or italics (except for Latin terms and gene names) in the headers.
 
@@ -477,7 +477,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 	- Check that **all** subsubsection headers in the article are written in :ref:`sentence case<sentence_case>`.
 
-	- Check that subsubsection headers are formatted in *italics*, bold and coloured in :headr2:`black`.
+	- Check that subsubsection headers are formatted in *italics*, bold and colored in :headr2:`black`.
 
 	- Check that there is **no** underlining in the headers.
 
@@ -563,9 +563,9 @@ If image is hard to read, please contact Production team and ask to provide clea
 
 	- Check that number is followed by period (.).
 
-	- Check that figure number is formatted in bold and coloured in black.
+	- Check that figure number is formatted in bold and colored in black.
 
-	- If figure number is followed by text, then check that the first sentence of that text is formatted in bold and coloured in black. The rest of the text should be in :ref:`plain text<plain_text>`.
+	- If figure number is followed by text, then check that the first sentence of that text is formatted in bold and colored in black. The rest of the text should be in :ref:`plain text<plain_text>`.
 
 	|	:sampleb:`Figure 1. First sentence of legend text in sentence case.` :sample:`Second sentence and rest of text.`
 	
@@ -713,7 +713,7 @@ If table is hard to read, please contact Production team and ask to increase fon
 	|
 	- Check that title has period (.) at the end.
 
-	- Check that title is written in :ref:`sentence case<sentence_case>` and coloured in black.
+	- Check that title is written in :ref:`sentence case<sentence_case>` and colored in black.
 
 14.3. Check that additional table-related information is presented below the table as a note in :ref:`plain text<plain_text>`.
 
