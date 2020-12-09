@@ -250,6 +250,13 @@ No PDF-specific checks
 
 14.2. Tables should be positioned at the top of the page when not occupying a full page in PDF.
 
+14.3. Check that table notes are presented in :ref:`justified<justified_text>`, :ref:`plain text<plain_text>`.
+
+.. image:: /_static/pdf_table_notes.png
+	:alt: Table notes
+	:scale: 99%
+
+
 :ref:`+ HTML checks<tables_html_research_papers>`
 
 |
