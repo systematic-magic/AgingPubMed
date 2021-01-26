@@ -266,7 +266,7 @@ No PDF-specific checks
 
 14.3. Check that table notes are presented in :ref:`justified<justified_text>`, :ref:`plain text<plain_text>`.
 
-	- Please note that a single line of text as well as the last line of a justified paragraph will technically be :ref:`flush left<fliushleft_text>`.
+	- Please note that a single line of text as well as the last line of a justified paragraph will technically be :ref:`flush left<flushleft_text>`.
 	- Authors are allowed to distribute table notes across separate lines, and there is no need to join these into a single justified paragraph unless there is apparent evidence that it has been formatted this way by error.
 
 
