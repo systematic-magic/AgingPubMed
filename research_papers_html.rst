@@ -126,26 +126,28 @@ If there is only one affiliation text for all authors, then each author name sho
 
 4.4. Check that country and city names are NOT written in ALL CAPS (capital letters).
 
-4.5. Chinese affiliations: zip code is allowed for both city and county/district. If zip code is present, it must be positioned after city/county/district and there must be no comma between city/county/district and zip code. Zip code is optional for any of the elements (city/county/district).
+4.5. Check that each individual country is formatted consistently. Variations are allowed (ex: China, PR China, P.R. China, People’s Republic of China); however, only of those variations should be used within each paper.
+
+4.6. Chinese affiliations: zip code is allowed for both city and county/district. If zip code is present, it must be positioned after city/county/district and there must be no comma between city/county/district and zip code. Zip code is optional for any of the elements (city/county/district).
 
 .. image:: /_static/aff_text_zip_china.png
    :alt: No comma between city/county/district and zip code
    :scale: 99%
 
-4.6. Taiwanese affiliations: Check that “Taiwan” is used for the country. “ROC” and/or “Republic of China” should not be used instead of or in addition to “Taiwan”.
+4.7. Taiwanese affiliations: Check that “Taiwan” is used for the country. “ROC” and/or “Republic of China” should not be used instead of or in addition to “Taiwan”.
 
-4.7. USA affiliations: check that there is no comma between state and zip code. State must be positioned before zip code. Zip code must be present.
+4.8. USA affiliations: check that there is no comma between state and zip code. State must be positioned before zip code. Zip code must be present.
 
-4.8. Non-USA affiliations: check that there is no comma between city and zip code. City must be positioned before zip code. Zip code is optional.
+4.9. Non-USA affiliations: check that there is no comma between city and zip code. City must be positioned before zip code. Zip code is optional.
 
 .. image:: /_static/aff_text_zip_state_city.png
    :alt: No comma between zip code and state (US) / city (non-US)
    :scale: 99%
 
-4.9. Check that each affiliation number has only one complete affiliation. One affiliation – one number. |br|
+4.10. Check that each affiliation number has only one complete affiliation. One affiliation – one number. |br|
 One exclusion: affiliations of Chinese authors, where Key Laboratory combines different institutions. In that case one number can contain two affiliations.
 
-4.10. Occasionally affiliations can contain “Current/Present address:” title. If it is present:
+4.11. Occasionally affiliations can contain “Current/Present address:” title. If it is present:
 
 	- Check that it has a separate affiliation number.
 
@@ -157,7 +159,7 @@ All acceptable combinations of “Current/Present address” are depicted on the
    :alt: Current/Present address
    :scale: 99%
 
-4.11. Check that only commas are used to separate parts of affiliations (i.e. department, institution, etc.).
+4.12. Check that only commas are used to separate parts of affiliations (i.e. department, institution, etc.).
 
 .. image:: /_static/aff_parts.png
    :alt: Affiliation format
@@ -175,25 +177,37 @@ Author notes are optional. Article can have several or no author notes.
    	:alt: Author Notes Examples
 	:scale: 99%
 
-5.1. Check that first word of author notes starts with a capital letter.
+.. Note::
+	
+	We never include author notes to indicate corresponding/co-corresponding authors since we have a dedicated section for this information.
 
-5.2. Check that author notes are denoted by symbol (no numbers allowed). Each note should have **different** symbol.
+
+5.1. Check that a space (hard return) is used between the last affiliation and the author note(s).
+
+.. image:: /_static/html_author_notes_division.png
+   	:alt: Author Notes Examples
+	:scale: 99%
+
+
+5.2. Check that first word of author notes starts with a capital letter.
+
+5.3. Check that author notes are denoted by symbol (no numbers allowed). Each note should have **different** symbol.
 
 	- First author note should be denoted by: *
 	- Second author note should be denoted by: #
 	- Third author note should be denoted by: †
 
-5.3. “&” is also an acceptable symbol in the author list for an author note. However, the note itself should be located in the Editorial Note section with the following text (no other symbol or text allowed):
+5.4. “&” is also an acceptable symbol in the author list for an author note. However, the note itself should be located in the Editorial Note section with the following text (no other symbol or text allowed):
 
 :sup:`&`\ This corresponding author has a verified history of publications using a personal email address for correspondence.
 
-5.4. Check that author notes line is written in :ref:`sentence case<sentence_case>`.
+5.5. Check that author notes line is written in :ref:`sentence case<sentence_case>`.
 
-5.5. Check that there are no punctuation marks at the end of author notes line.
+5.6. Check that there are no punctuation marks at the end of author notes line.
 
-5.6. Check that author notes symbols are formatted in superscript.
+5.7. Check that author notes symbols are formatted in superscript.
 
-5.7. Check that author notes symbol is present next to author name(s).
+5.8. Check that author notes symbol is present next to author name(s).
 
 .. image:: /_static/html_author_notes.png
    	:alt: Author Notes
@@ -234,7 +248,7 @@ Author notes are optional. Article can have several or no author notes.
 
 6.8. Check that email address is hyperlinked.
 
-6.9 Check that ORCID iD is hyperlinked and leads to a valid ORCID page. If ORCID page has “No public information available.”, then the ORCID iD is not valid and should be removed.
+6.9. Check that ORCID iD is hyperlinked and leads to a valid ORCID page. If ORCID page has “No public information available.”, then the ORCID iD is not valid and should be removed after informing the author and receiving confirmation of their understanding.
 
 6.10. Check that author’s name completely matches corresponding name in the author list (including the middle initials if any).
 
@@ -253,14 +267,15 @@ Author notes are optional. Article can have several or no author notes.
 
 7.2. Check that keywords are written in lower case, unless proper nouns as well as exceptions such as special terms, genes, proteins, species names etc, which normally start with capital letter. Check that capitalization of scientific terms is correct.
 
-We suggest you use the :ref:`following procedure<correct_case_check>` if you are in doubt regarding this or that term. If any doubts remain or any keywords are found to be formatted inconsistently throughout the MS when using the previously mentioned procedure, please contact the author.
+7.3. Check that keywords are consistent throughout the article.
 
-7.3. Check that article has at least 1 keyword and not more than 8 keywords.
+We suggest you use the :ref:`following procedure<correct_case_check>` if you are in doubt regarding this or that term. Please contact the author for guidance if any doubts remain.
+
+7.4. Check that article has at least 1 keyword and not more than 8 keywords.
 
 .. image:: /_static/html_keywords.png
    	  	:alt: Keywords
    	  	:scale: 99%
-
 |
 .. _abbreviations_html_research_papers:
 
@@ -509,7 +524,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 12.1. Check that font type and size is consistent across all sections of the article. 
 
-12.2. Some (not all) articles will have a “Download MS” link below “Download PDF” link. If present, download the Word doc and scan it expeditiously by eye for any spelling errors (indicated by red, wavy underlining).
+12.2. Some (not all) articles will have a “Download MS” link below “Download PDF” link. If present, download the Word doc and scan it expeditiously by eye for any spelling errors (indicated by red, wavy underlining). If not present, request MS from Alex and Christopher.
 
 	- The paper must be accessed by the special link shown in :ref:`Accessing Papers<paper_access>` section in order for the Word doc link to be visible.
 
@@ -536,6 +551,9 @@ Also, if you notice that the order of the sections need to be changed (to comply
 	- Check that all website addresses have "http://" or "https://" present.
 
 	- Check that all website addresses lead to valid page.
+
+Check with author about nonworking links. They can choose to replace or remove them.
+If an author requests to remove a link, then the name of the resource (software, database,   tool, etc.) should be/remain present. In cases where the name of the resource is the same as the website URL (ex: MicroRNA.org), the protocol (https:// or http://), “www.” and any other excess information should be removed from the URL, and the remaining resource/website name should no longer be kept as an active link (ex: “http://www.microrna.org/microrna/home.do” would be changed to “MicroRNA.org”).
 
 12.8. Check that the following Latin terms are written in italics: *in vitro, in vivo, in situ, in silico*. Via, etc and et al should be formatted in :ref:`plain text<plain_text>`.
 For other Latin terms either italics or :ref:`plain text<plain_text>` is acceptable. (This applies to all text except References)
@@ -668,13 +686,23 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 	If one or more callouts are missing or are being called out of linear order in the text, please contact author.
 
-13.6. Check that figures and their legends are displaying properly in pop-out window
+13.6. Check that each figure is placed after its first callout.
+
+13.7. Check that figures and their legends are displaying properly in pop-out window
 
 	.. image:: /_static/html_fig_popout.png
    	  	:alt: Figure number
    	  	:scale: 50%
 
-13.7. Perform `reverse image search <https://www.bing.com/visualsearch>`_.
+13.8. Perform `reverse image search <https://www.bing.com/visualsearch>`_.
+
+	- Report duplicates to Alex, Elena and Christopher.
+
+
+13.9. Perform `IF check <https://ifind.impactjournals.com>`_.
+
+	- Report duplicates to Alex, Elena and Christopher.
+	- Report technical issues to Nick and Christopher.
 
 
 |
@@ -756,6 +784,9 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 	If one or more callouts are missing or are being called out of linear order in the text, please contact author.
 
+14.7. Check that each table is placed after its first callout.
+
+
 |
 .. _reference_callouts_html_research_papers:
 
@@ -802,6 +833,10 @@ Callouts can be found in text, figures and tables.
 16. References
 --------------
 
+.. Note::
+	
+	Please refer to `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ and the original article when investigating missing or doubtful information in references with the exception of abbreviated journal titles and PubMed links. Email the author for the correct information if there is a discrepancy between PubMed and the original article.
+
 .. _refs_author_list_html_research_papers:
 
 16.1. Author List
@@ -816,7 +851,7 @@ Callouts can be found in text, figures and tables.
 
 16.1.2. Check that initials have no more than 2 letters and have NO hyphens or spaces in-between.
 
-16.1.3. Check that all :ref:`mononyms<mononym>` (names which have no initials) are “true” mononyms (check `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site).
+16.1.3. Check that all :ref:`mononyms<mononym>` (names which have no initials) are “true” mononyms (check `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site/original article).
 
 16.1.4. Check that list of authors contains no more than either:
 
@@ -871,7 +906,7 @@ Callouts can be found in text, figures and tables.
 
 	- Proper nouns should have correct capitalization when title is not formatted in all caps.
 
-	- It’s OK if capitalization of title does not match PubMed.
+	- It’s OK if capitalization of title does not match PubMed/original article.
 
 
 16.2.2. Check that title is followed by a period (.). There should be a space after period.
@@ -963,7 +998,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 
 - Page numbers must be written in :ref:`shortened format <shortened_pg_format>` (12063-74) and followed by a period (.). There should be a space after period. Occasionally, there are cases where a reference may only have one page number, which is fine.
 
-- DOI must be present (when available) and in "https://doi.org" format. It should be highlighted in blue and should be an active link leading to the correct article page. There must be no period at the end. When checking for DOI’s, please consult the `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site, https://www.crossref.org/ or the applicable journal website, if necessary.
+- DOI must be present (when available) and in "https://doi.org" format. It should be highlighted in blue and should be an active link leading to the correct article page. There must be no period at the end. When checking for missing DOI’s, you can consult `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_, https://www.crossref.org/ or the applicable journal website.
 
 - “[PubMed]” link must be present (when available), should be highlighted in blue and should be an active link leading to the article page on the PubMed website. There must be no period at the end.
 
@@ -997,7 +1032,7 @@ If you find duplicate references, please contact author and ask to correct the r
    | 34. Yang XM, Yang H. [Expression of high mobility group box-1 in the lung tissue and serum of patients with pulmonary tuberculosis]. Zhonghua Jie He He Hu Xi Za Zhi. 2013; 36:497-500.
 
 
-16.5.3. Check for references containing journal title in English and original language (e.g. "International journal of cancer" and "Journal international du cancer"). Remove title in original language and leave English version. If there is just a "foreign language" version present, it is OK to leave that version (no need to find English one). Consult `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ if in doubt of the correct journal name.
+16.5.3. Check for references containing journal title in English and original language (e.g. "International journal of cancer" and "Journal international du cancer"). Remove title in original language and leave English version. If there is just a "foreign language" version present, it is OK to leave that version (no need to find English one). Consult `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_/original article if in doubt of the correct journal name.
 
 16.5.4. Check for extra information in the references (i.e. in addition to "standard" information). Remove all extra information.
    

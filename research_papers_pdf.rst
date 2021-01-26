@@ -48,7 +48,11 @@ No PDF-specific checks
 
 5. Author Notes
 ---------------
-No PDF-specific checks
+5.1. Check that a no space (soft return) is used between the last affiliation and the author note(s).
+
+.. image:: /_static/pdf_author_notes_division.png
+   	:alt: Author Notes Examples
+	:scale: 99%
 
 :ref:`+ HTML checks<author_notes>`
 
@@ -233,7 +237,13 @@ No PDF-specific checks
    :alt: Figure callouts
    :scale: 99%
 
-13.2. Figures should be positioned at the bottom of the page when not occupying a full page in PDF.
+13.2. Check placement of figures in the text:
+
+- Figures should be positioned at the bottom of the page when not occupying a full page in PDF.
+
+    - In rare instances a figure legend may extend to the top of the following page due to spatial limitations. This is OK, but please check with production to make sure the legend cannot be made to fit on the same page as the figure.
+
+- Each figure should be placed after its first callout except when it’s not possible due to limitations of what can fit on one page and the size of figures and tables that are called out around each other.
 
 :ref:`+ HTML checks<figures_html_research_papers>`
 
@@ -248,14 +258,25 @@ No PDF-specific checks
    :alt: Table callouts
    :scale: 99%
 
-14.2. Tables should be positioned at the top of the page when not occupying a full page in PDF.
+14.2. Check placement of tables in the text:
+
+	- Tables should be positioned at the top of the page when not occupying a full page in PDF.
+	- Each table should be placed after its first callout except when it’s not possible due to limitations of what can fit on one page and the size of figures and tables that are called out around each other.
+
 
 14.3. Check that table notes are presented in :ref:`justified<justified_text>`, :ref:`plain text<plain_text>`.
+
+	- Please note that a single line of text as well as the last line of a justified paragraph will technically be :ref:`flush left<fliushleft_text>`.
+	- Authors are allowed to distribute table notes across separate lines, and there is no need to join these into a single justified paragraph unless there is apparent evidence that it has been formatted this way by error.
+
 
 .. image:: /_static/pdf_table_notes.png
 	:alt: Table notes
 	:scale: 99%
 
+.. image:: /_static/pdf_sep_table_notes.png
+	:alt: Table notes
+	:scale: 99%
 
 :ref:`+ HTML checks<tables_html_research_papers>`
 

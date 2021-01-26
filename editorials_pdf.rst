@@ -764,6 +764,10 @@ Copyright section can be found at the end of the article right after the Keyword
 
 17.10. Check that “Creative Commons Attribution License” is a working hyperlink that leads to https://creativecommons.org/licenses/by/3.0/.
 
+.. image:: /_static/editorial_cpright_format.png
+   :alt: Copyright format
+   :scale: 99%
+
 
 |
 .. _dates_pdf_editorials:

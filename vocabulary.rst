@@ -112,6 +112,13 @@ Justified text
 
     |
 
+.. _flushleft_text:
+
+Flush left text
+    Text is aligned along the left margin.
+
+    |
+
 .. _state_abbr:
 
 US State abbreviations
