@@ -126,7 +126,7 @@ If there is only one affiliation text for all authors, then each author name sho
 
 4.4. Check that country and city names are NOT written in ALL CAPS (capital letters).
 
-4.5. Check that each individual country is formatted consistently. Variations are allowed (ex: China, PR China, P.R. China, People’s Republic of China); however, only of those variations should be used within each paper.
+4.5. Check that each individual country is formatted consistently. Variations are allowed (ex: China, PR China, P.R. China, People’s Republic of China); however, only one of those variations should be used within each paper.
 
 4.6. Chinese affiliations: zip code is allowed for both city and county/district. If zip code is present, it must be positioned after city/county/district and there must be no comma between city/county/district and zip code. Zip code is optional for any of the elements (city/county/district).
 
