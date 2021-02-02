@@ -122,6 +122,8 @@ The titles of each supplementary PDF file will vary depending on their contents.
 	
 	Tables can appear in one file or in separate files (regardless of size).
 
+	We are flexible on Text (.txt) file format. Email the author letting them know we typically publish as Excel or Word, and ask if there is a specific reason they prefer to keep as Text. If they come back with a reason, then we can allow it.
+
 5.1. HTML :ref:`Tables checks from 14.1. to 14.5<tables_html_research_papers>` (inclusive) are applicable to supplementary tables with one exclusion: instead of **Table N**, tables should be named as **Supplementary Table N**.
 
 .. image:: /_static/suppl_table_name.png
