@@ -433,8 +433,6 @@ We’re flexible on placement of Materials and Methods section. Let author know 
 	
 	Formatting checks for non-standard headings (including all types of subheaders) should be skipped until further notice. Still check for spelling and grammatical errors.
 |
-
-
 		:blue:`Abstract` - mandatory - [:ref:`title case<title_case>`, in blue]
 
 		:wtonbl:`Introduction` - optional - [title case, in white on blue background]
@@ -468,9 +466,7 @@ We’re flexible on placement of Materials and Methods section. Let author know 
 .. Note::
 	
 	Formatting checks for non-standard headings (including all types of subheaders) should be skipped until further notice. Still check for spelling and grammatical errors.
-|
-
-		
+|		
 		:blue:`Abstract` - mandatory - [:ref:`title case<title_case>`, in blue]	
 
 		Research Perspectives usually have free-style (research related) section headers. These headers should be formatted in :ref:`sentence case<sentence_case>` and can be colored in white on blue background.
