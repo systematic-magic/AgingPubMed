@@ -129,7 +129,7 @@ The titles of each supplementary PDF file will vary depending on their contents.
 .. Note::
 	
 	Tables can appear in one file or in separate files (regardless of size).
-	Text files will only open as an HTML page. This is OK.
+	Text (.txt) files will only open as an HTML page. This is OK.
 
 	Acceptable file formats for table presentation are PDF, Excel, Word and CSV. |br|
 	We are flexible on Text (.txt) file format. Email the author letting them know we typically publish as Excel or Word, and ask if there is a specific reason they prefer to keep as Text. If they come back with a reason, then we can allow it. |br|
