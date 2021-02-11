@@ -576,7 +576,7 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 12.10. Check for consistent formatting of biotech companies in the text (typically appearing in Materials and Methods). Optional elements should be used in all or none, but US and non-US companies can be treated separately with regards to consistency.
 
 	- USA companies: Company Name, City (optional), State (optional), USA
-	- Non-US companies: Company Name, City (optional), State/Province (optional), Country Name
+	- Non-US companies: Company Name, City (optional), State or Province (optional), Country Name
 
 
 
