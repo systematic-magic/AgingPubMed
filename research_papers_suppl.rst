@@ -13,6 +13,9 @@ SUPPLEMENTARY MATERIALS: All Papers (except Editorials)
 
 	This check is for the supplementary materials downloads in HTML. Checks for supplementary materials in the PDF can be found :ref:`here<pdf_supplementary_research_papers>`.
 
+.. Important::
+	General formatting that does not accord with our standards for figure legends and table titles/notes sections can be overlooked (where the discrepancies are chronic) for files of supplementary figures and tables that exceed an average combined total of about 10 pages.
+Examples of things we can overlook would be justified legends/notes sections, keeping certain text in bold, punctuation for figure and table names and placement of figure legends before the figure instead of after. 
 
 Check each supplementary file to verify contents.
 
@@ -94,7 +97,11 @@ The titles of each supplementary PDF file will vary depending on their contents.
 
 .. Note::
 	
-	Figures can appear in one file or in separate files (regardless of size). 
+	Figures can appear in one file or in separate files (regardless of size).
+
+	Acceptable file format for figure presentation is PDF.
+
+	Acceptable file formats when requesting an updated figure from author are TIFF (preferable), PNG, JPG (not recommended) or EPS format and at no less than 300 ppi.
 
 4.1. HTML :ref:`Figures checks from 13.1. to 13.4<figures_html_research_papers>` (inclusive) are applicable to supplementary figures with one exclusion: instead of **Figure N**, figure legends should be named as **Supplementary Figure N**.
 
@@ -121,8 +128,15 @@ The titles of each supplementary PDF file will vary depending on their contents.
 .. Note::
 	
 	Tables can appear in one file or in separate files (regardless of size).
+	Text files will only open as an HTML page. This is OK.
 
-	We are flexible on Text (.txt) file format. Email the author letting them know we typically publish as Excel or Word, and ask if there is a specific reason they prefer to keep as Text. If they come back with a reason, then we can allow it.
+	Acceptable file formats for table presentation are PDF, Excel, Word and CSV. |br|
+	We are flexible on Text (.txt) file format. Email the author letting them know we typically publish as Excel or Word, and ask if there is a specific reason they prefer to keep as Text. If they come back with a reason, then we can allow it. |br|
+	Raise inquiry to Olga and Christopher about any formats that you may come across that are not mentioned above.
+
+	Acceptable file formats when requesting an updated table from author are Excel (preferable), Word and CSV. Flexibility for Text files is the same as mentioned in above paragraph.
+
+
 
 5.1. HTML :ref:`Tables checks from 14.1. to 14.5<tables_html_research_papers>` (inclusive) are applicable to supplementary tables with one exclusion: instead of **Table N**, tables should be named as **Supplementary Table N**.
 

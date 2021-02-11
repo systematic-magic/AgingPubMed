@@ -170,7 +170,12 @@ No PDF-specific checks
 .. _section_headers_pdf_research_papers:
 
 11. Section Headers
---------------
+-------------------
+
+.. Note::
+	
+	Formatting checks for non-standard headings (including all types of subheaders) for Reviews and Research Perspectives should be skipped until further notice. Still check for spelling and grammatical errors.
+
 11.1. All main section headers should be formatted in ALL CAPS, blue and bold font. A few examples below:
 
 .. image:: /_static/pdf_section_headers.png
@@ -403,6 +408,9 @@ No PDF-specific checks
 
 	This check is for the supplementary materials in the PDF. Checks for supplementary materials downloads in the HTML can be found :ref:`here<supplementary_html_research_papers>`.
 
+
+.. Important::
+	An average of about 10 pages is the combined total limit for tables and figures to occupy in the PDF. Excessive amounts of either or both should be removed from the PDF and callouts to HTML added in their place.
 
 Supplementary materials should be located after the references of the main MS in the PDF.
 

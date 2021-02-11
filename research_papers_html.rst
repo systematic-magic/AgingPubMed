@@ -118,6 +118,11 @@ If there is only one affiliation text for all authors, then each author name sho
 4. Affiliations
 ---------------
 
+.. Note::
+	
+	Contact author for guidance when unsure about a potential correction or in the case of any major changes such as suspected combined/duplicate affiliations, removal of street addresses and renumbering. It’s not necessary to contact author for minor spelling or punctuation errors or ones that can undoubtedly be verified such as the addition of a missing city or zip code.
+
+
 4.1. Check spelling of English words only.
 
 4.2. Check that there are NO street addresses and house numbers included in affiliation.
@@ -424,6 +429,10 @@ We’re flexible on placement of Materials and Methods section. Let author know 
 
 	- **Reviews**
 
+.. Note::
+	
+	Formatting checks for non-standard headings (including all types of subheaders) should be skipped until further notice. Still check for spelling and grammatical errors.
+
 		:blue:`Abstract` - mandatory - [:ref:`title case<title_case>`, in blue]
 
 		:wtonbl:`Introduction` - optional - [title case, in white on blue background]
@@ -453,6 +462,10 @@ We’re flexible on placement of Materials and Methods section. Let author know 
 .. _html_research_papers_research_perspectives:
 
 	- **Research Perspectives**
+
+.. Note::
+	
+	Formatting checks for non-standard headings (including all types of subheaders) should be skipped until further notice. Still check for spelling and grammatical errors.
 		
 		:blue:`Abstract` - mandatory - [:ref:`title case<title_case>`, in blue]	
 
@@ -560,12 +573,23 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 
 12.9. Name of cities, countries, institutions, books and manuals should not be in italics. (This applies to all text except References)
 
+12.10. Check for consistent formatting of biotech companies in the text (typically appearing in Materials and Methods). Optional elements should be used in all or none, but US and non-US companies can be treated separately with regards to consistency.
+
+	- USA companies: Company name, city (optional), state (optional), USA
+	- Non-US companies: Company name, city (optional), state/province (optional), Country Name
+
+
 
 |
 .. _figures_html_research_papers:
 
 13. Figures
 ------------
+
+.. Note::
+	
+	Acceptable file formats when requesting an updated figure from author are TIFF (preferable), PNG, JPG (not recommended) or EPS format and at no less than 300 ppi.
+
 
 13.1. Check that figure image has text and graphics which are clear and large enough to read.
 
@@ -578,6 +602,8 @@ If image is hard to read, please contact Production team and ask to provide clea
 	- Check that figure legend has a figure number:
 
 	|	:sampleb:`Figure N.` (where “N” is a number of the figure)
+
+	- Check that figure number is labeled as “Figure” and followed by the figure number. No substitutes (Scheme, Chart, Graphic etc.) allowed in place of the word “Figure”. Contact author before making this change while suggesting that we can indicate this detail in the legend notes if they prefer (Ex: Figure 1. Graphic representation of...).
 
 	- Check that number is followed by period (.).
 
@@ -711,6 +737,11 @@ If you see that there are gaps in number sequence, then check with corresponding
 14. Tables
 ----------
 
+.. Note::
+	
+	Acceptable file format when requesting an updated table from author is Word.
+
+
 14.1.  Check that table font size is large enough to read.
 
 If table is hard to read, please contact Production team and ask to increase font size.
@@ -728,6 +759,8 @@ If table is hard to read, please contact Production team and ask to increase fon
 	In rare cases table number can contain a letter:
 
 	| :sampleb:`Table 1A.` (where Table 1A and 1B, 1C etc are separate tables)
+
+	- Check that table number is labeled as “Table” and followed by the table number. No substitutes such as “Chart” allowed in place of the word “Table”. Contact author before making this change while suggesting that we can indicate this detail in the table title if they prefer (Ex: Table 1. Chart showing...).
 
 	- Check that number is followed by period (.).
 
@@ -785,6 +818,11 @@ If you see that there are gaps in number sequence, then check with corresponding
 	If one or more callouts are missing or are being called out of linear order in the text, please contact author.
 
 14.7. Check that each table is placed after its first callout.
+
+14.8. Perform `IF check <https://ifind.impactjournals.com>`_.
+
+	- Report duplicates to Alex, Elena and Christopher.
+	- Report technical issues to Nick and Christopher.
 
 
 |
