@@ -15,6 +15,7 @@ SUPPLEMENTARY MATERIALS: All Papers (except Editorials)
 
 .. Important::
 	General formatting that does not accord with our standards for figure legends and table titles/notes sections can be overlooked (where the discrepancies are chronic) for files of supplementary figures and tables that exceed an average combined total of about 10 pages.
+	
 	Examples of things we can overlook would be justified legends/notes sections, keeping certain text in bold, punctuation for figure and table names and placement of figure legends before the figure instead of after. 
 
 Check each supplementary file to verify contents.
