@@ -431,7 +431,7 @@ We’re flexible on placement of Materials and Methods section. Let author know 
 
 .. Note::
 	
-	Formatting checks for non-standard headings (including all types of subheaders) should be skipped until further notice. Still check for spelling and grammatical errors.
+	Formatting checks for non-standard headings (including all types of subheaders) should be skipped until further notice. Still check for spelling and grammatical errors. |br|
 
 
 		:blue:`Abstract` - mandatory - [:ref:`title case<title_case>`, in blue]
@@ -466,7 +466,7 @@ We’re flexible on placement of Materials and Methods section. Let author know 
 
 .. Note::
 	
-	Formatting checks for non-standard headings (including all types of subheaders) should be skipped until further notice. Still check for spelling and grammatical errors.
+	Formatting checks for non-standard headings (including all types of subheaders) should be skipped until further notice. Still check for spelling and grammatical errors. |br|
 
 		
 		:blue:`Abstract` - mandatory - [:ref:`title case<title_case>`, in blue]	
