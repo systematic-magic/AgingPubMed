@@ -410,7 +410,7 @@ No PDF-specific checks
 
 
 .. Important::
-	An average of about 10 pages is the combined total limit for tables and figures to occupy in the PDF. Excessive amounts of either or both should be removed from the PDF and callouts to HTML added in their place. |br|
+	An average of about 10 pages is the combined total limit for tables and figures to occupy in the PDF. Excessive amounts of either or both should be removed from the PDF and callouts to HTML added in their place.
 The figures and tables can be seen as two separate units when determining what to remove. Remove all of either or both depending on how many pages each unit is taking up.
 
 Supplementary materials should be located after the references of the main MS in the PDF.
