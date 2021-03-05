@@ -377,6 +377,7 @@ Section headers should comply with below mentioned requirements in respect to or
 If you see any deviations of section naming in articles, please contact authors and check whether they agree to change section header in question in accordance with these standards.
 
 Also, if you notice that the order of the sections need to be changed (to comply with the standards), please contact author to confirm section order changes with him/her. |br|
+
 We’re flexible on placement of Materials and Methods section. Let author know where we normally keep it, and ask if there is a specific reason they prefer otherwise. We can allow it if they respond with a reason.
 
 11.1. Check that article has the following sections in the following order:
