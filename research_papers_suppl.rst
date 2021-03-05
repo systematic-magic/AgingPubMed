@@ -9,7 +9,7 @@ SUPPLEMENTARY MATERIALS: All Papers (except Editorials)
 
 	1. HTML page  (after Materials and Methods section) - All supplementary materials are available here as separate downloads.
 
-	2. PDF of the main manuscript (after References) - All supplementary materials that can be placed in a PDF are available here. Any materials that cannot fit in PDF due to formatting or size will have callouts to the HTML where they can be downloaded and viewed. 
+	2. PDF of the main manuscript (after References) - All supplementary materials that can be placed in a PDF are available here. Any materials that cannot fit in PDF due to formatting or size will have :ref:`callouts<pdf_supplementary_research_papers_text>` to the HTML where they can be downloaded and viewed. 
 
 	This check is for the supplementary materials downloads in HTML. Checks for supplementary materials in the PDF can be found :ref:`here<pdf_supplementary_research_papers>`.
 
