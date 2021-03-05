@@ -410,7 +410,8 @@ No PDF-specific checks
 
 
 .. Important::
-	An average of about 10 pages is the combined total limit for tables and figures to occupy in the PDF. Excessive amounts of either or both should be removed from the PDF and callouts to HTML added in their place.
+	An average of about 10 pages is the combined total limit for tables and figures to occupy in the PDF. Excessive amounts of either or both should be removed from the PDF and callouts to HTML added in their place. |br|
+The figures and tables can be seen as two separate units when determining what to remove. Remove all of either or both depending on how many pages each unit is taking up.
 
 Supplementary materials should be located after the references of the main MS in the PDF.
 
@@ -481,6 +482,8 @@ Check to make sure that all supplementary materials in the PDF match what we hav
 **17.1.6. Footer**
 
 Not applicable to PDF check - Numbered footers will most likely be present, but these will be renumbered to accord with issue page numbers and checked in the next stage of publishing.
+
+.. _pdf_supplementary_research_papers_text:
 
 17.2. Text
 ^^^^^^^^^^
