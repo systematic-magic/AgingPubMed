@@ -6,6 +6,8 @@ The purpose of this document is to provide a simple but detailed guide to the re
 
 If you see that paper formatting does not comply with these standards, please address your concerns to vendors through JPS.
 
+In general, if authors have an issue with a change we are suggesting, please raise the concern to Christopher as we can sometimes make special accommodations depending on the situation.
+
 Happy hunting!
 
 
