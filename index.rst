@@ -8,6 +8,8 @@ If you see that paper formatting does not comply with these standards, please ad
 
 In general, if authors have an issue with a change we are suggesting, please raise the concern to Christopher as we can sometimes make special accommodations depending on the situation.
 
+Seek approval from Olga while copying Christopher anytime an author requests any data changes and/or numerously time-consuming amounts of corrections.
+
 Happy hunting!
 
 
