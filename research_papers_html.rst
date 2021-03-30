@@ -558,7 +558,12 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 12.6. Check Materials and Methods section (or its alternatives - see in :ref:`Section Headers<section_headers_html_research_papers>`) for erroneously placed hyperlinks (e.g. hyperlinked numbers in compound names).
 
-12.7. Check all website addresses in article text:
+12.7. Check Conflicts of Interest section for detailed statement. 
+
+	- If statement is simply “none.” or something similarly vague, then check with Christopher about using our standard statement:  |br|
+The authors declare no conflicts of interest related to this study.
+
+12.8. Check all website addresses in article text:
 
 	- Check that all website addresses are hyperlinked (except when in Abstract section).
 
@@ -569,17 +574,17 @@ Also, if you notice that the order of the sections need to be changed (to comply
 Check with author about nonworking links. They can choose to replace or remove them.
 If an author requests to remove a link, then the name of the resource (software, database,   tool, etc.) should be/remain present. In cases where the name of the resource is the same as the website URL (ex: MicroRNA.org), the protocol (https:// or http://), “www.” and any other excess information should be removed from the URL, and the remaining resource/website name should no longer be kept as an active link (ex: “http://www.microrna.org/microrna/home.do” would be changed to “MicroRNA.org”).
 
-12.8. Check that the following Latin terms are written in italics: *in vitro, in vivo, ex vivo, in situ, in silico*. Via, etc and et al should be formatted in :ref:`plain text<plain_text>`.
+12.9. Check that the following Latin terms are written in italics: *in vitro, in vivo, ex vivo, in situ, in silico*. Via, etc and et al should be formatted in :ref:`plain text<plain_text>`.
 For other Latin terms either italics or :ref:`plain text<plain_text>` is acceptable. (This applies to all text except References)
 
-12.9. Name of cities, countries, institutions, books and manuals should not be in italics. (This applies to all text except References)
+12.10. Name of cities, countries, institutions, books and manuals should not be in italics. (This applies to all text except References)
 
-12.10. Check for consistent formatting of biotech companies in the text (typically appearing in Materials and Methods). Optional elements should be used in all or none, but US and non-US companies can be treated separately with regards to consistency.
+12.11. Check for consistent formatting of biotech companies in the text (typically appearing in Materials and Methods). Optional elements should be used in all or none, but US and non-US companies can be treated separately with regards to consistency.
 
 	- USA companies: Company Name, City (optional), State (optional), USA
 	- Non-US companies: Company Name, City (optional), State or Province (optional), Country Name
 
-12.11. British and American English spelling are both acceptable; however, consistency should be maintained.
+12.12. British and American English spelling are both acceptable; however, consistency should be maintained.
 
 
 |
