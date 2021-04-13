@@ -604,7 +604,7 @@ Email section can be found at the end of the article right after the Corresponde
 
 11.6. Check that ORCID iD (when present) is separated from email address with a comma (,) and a space.
 
-11.7. Check that ORCID iD (when present) is hyperlinked and leads to a valid ORCID page. If ORCID page has “No public information available.”, then the ORCID iD is not valid and should be removed.
+11.7. Check that ORCID iD (when present) is hyperlinked and leads to a valid ORCID page. If ORCID page has “No public information available.”, then ask the author if they can add or make the information visible. Inform Olga if authors do not respond or choose to leave the ORCID as is. (It’s OK to send corrections to production in parallel with the author query for this case.)
 
 11.8. Check that ORCID iD (when present) is formatted in blue, underlined, italic font.
 
