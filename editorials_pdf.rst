@@ -376,7 +376,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 
 - Page numbers must be written in :ref:`shortened format <shortened_pg_format>` (12063-74) and followed by a period (.). There should be a space after period. Occasionally, there are cases where a reference may only have one page number, which is fine.
 
-- DOI must be present and in "https://doi.org" format. It should be highlighted in blue and should be an active link leading to the correct article page. There must be no period at the end.
+- DOI must be present and in "https://doi.org" format. It should be highlighted in blue and should be an active link leading to the correct article page. There must be no period at the end. Alphabetical letters that appear in DOI numbers can be in uppercase, lowercase or a mixture of both cases (this excludes the “https://doi.org” URL).
 
 - “[PubMed]” link must be present (when available) and must be presented as “PMID:” word followed by hyperlinked PMID number.
 
@@ -428,7 +428,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 
 - Page numbers must be written in :ref:`shortened format <shortened_pg_format>` (12063-74) and followed by a period (.). There should be a space after period. Occasionally, there are cases where a reference may only have one page number, which is fine.
 
-- DOI must be present (when available) and in "https://doi.org" format. It should be highlighted in blue and should be an active link leading to the correct article page. There must be no period at the end. When checking for DOI’s, please consult the `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site, https://www.crossref.org/ or the applicable journal website, if necessary.
+- DOI must be present (when available) and in "https://doi.org" format. It should be highlighted in blue and should be an active link leading to the correct article page. There must be no period at the end. Alphabetical letters that appear in DOI numbers can be in uppercase, lowercase or a mixture of both cases (this excludes the “https://doi.org” URL). When checking for DOI’s, please consult the `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site, https://www.crossref.org/ or the applicable journal website, if necessary.
 
 - “[PubMed]” link must be present (when available) and must be presented as “PMID:” word followed by hyperlinked PMID number.
 
