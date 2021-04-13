@@ -253,7 +253,7 @@ Author notes are optional. Article can have several or no author notes.
 
 6.8. Check that email address is hyperlinked.
 
-6.9. Check that ORCID iD is hyperlinked and leads to a valid ORCID page. If ORCID page has “No public information available.”, then the ORCID iD is not valid and should be removed after informing the author and receiving confirmation of their understanding.
+6.9. Check that ORCID iD is hyperlinked and leads to a valid ORCID page. If ORCID page has “No public information available.”, then ask the author if they can add or make the information visible. Inform Olga if authors do not respond or choose to leave the ORCID as is. (It's OK to send corrections to production in parallel with the author query for this case.)
 
 6.10. Check that author’s name completely matches corresponding name in the author list (including the middle initials if any).
 
@@ -995,7 +995,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 
 - Page numbers must be written in :ref:`shortened format <shortened_pg_format>` (12063-74) and followed by a period (.). There should be a space after period. Occasionally, there are cases where a reference may only have one page number, which is fine.
 
-- DOI must be present and in "https://doi.org" format. It should be highlighted in blue and should be an active link leading to the correct article page. There must be no period at the end.
+- DOI must be present and in "https://doi.org" format. It should be highlighted in blue and should be an active link leading to the correct article page. There must be no period at the end. Alphabetical letters that appear in DOI numbers can be in uppercase, lowercase or a mixture of both cases (this excludes the “https://doi.org” URL).
 
 - “[PubMed]” link must be present (when available), should be highlighted in blue and should be an active link leading to the article page on the PubMed website. There must be no period at the end.
 
@@ -1043,7 +1043,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 
 - Page numbers must be written in :ref:`shortened format <shortened_pg_format>` (12063-74) and followed by a period (.). There should be a space after period. Occasionally, there are cases where a reference may only have one page number, which is fine.
 
-- DOI must be present (when available) and in "https://doi.org" format. It should be highlighted in blue and should be an active link leading to the correct article page. There must be no period at the end. When checking for missing DOI’s, you can consult `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_, https://www.crossref.org/ or the applicable journal website.
+- DOI must be present (when available) and in "https://doi.org" format. It should be highlighted in blue and should be an active link leading to the correct article page. There must be no period at the end. Alphabetical letters that appear in DOI numbers can be in uppercase, lowercase or a mixture of both cases (this excludes the “https://doi.org” URL). When checking for missing DOI’s, you can consult `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_, https://www.crossref.org/ or the applicable journal website.
 
 - “[PubMed]” link must be present (when available), should be highlighted in blue and should be an active link leading to the article page on the PubMed website. There must be no period at the end.
 
@@ -1140,6 +1140,7 @@ If the link is not valid, please contact author to provide a working link.
 ^^^^^^^^^^^^^^^^^^^^^
 
 16.7.1. There is no standard for books and reports. However at least Title and Year (and author name for book references) should be present. 
+
 
 |
 .. _supplementary_html_research_papers:
