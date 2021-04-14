@@ -91,7 +91,7 @@ The titles of each supplementary PDF file will vary depending on their contents.
 
 3.2. Check that there are no blank pages (i.e. all the pages have content).
 
-3.3. Check for spelling errors using downloadable Word doc that is described in :ref:`12.2.<spell_check_html_research_papers>`.
+3.3. Check for spelling errors using downloadable Word doc that is described in :ref:`12.2.<spell_check_html_research_papers>`
 
 .. _figures_supplementary_html_research_papers:
 
