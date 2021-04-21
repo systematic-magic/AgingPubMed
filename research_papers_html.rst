@@ -253,7 +253,14 @@ Author notes are optional. Article can have several or no author notes.
 
 6.8. Check that email address is hyperlinked.
 
-6.9. Check that ORCID iD is hyperlinked and leads to a valid ORCID page. If ORCID page has “No public information available.”, then ask the author if they can add or make the information visible. Inform Olga if authors do not respond or choose to leave the ORCID as is. (It's OK to send corrections to production in parallel with the author query for this case.)
+6.9. Check that ORCID iD is hyperlinked and leads to a valid ORCID page.
+
+If ORCID page has “No public information available.”, then ask the author if they can add or make the information visible. Inform Olga upon approval if authors do not respond or choose to leave the ORCID as is.
+
+.. Note::
+	
+	It's OK to send corrections to production in parallel with the author query for ORCID’s. There is no need to send reminders for pending ORCID queries to authors after approval. Forward any replies received from author after approval to Olga.
+
 
 6.10. Check that author’s name completely matches corresponding name in the author list (including the middle initials if any).
 
@@ -563,7 +570,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 12.7. Check Conflicts of Interest section for detailed statement. 
 
-	- If statement is simply “none.” or something similarly vague, then check with Christopher about using our standard statement:  |br|
+	- If statement is simply “none.” or something similarly vague, then ask the production team to check the COI in the submission system and use the standard statement if applicable:  |br|
 The authors declare no conflicts of interest related to this study.
 
 12.8. Check all website addresses in article text:
@@ -1144,7 +1151,16 @@ If the link is not valid, please contact author to provide a working link.
 16.7. Books and Reports
 ^^^^^^^^^^^^^^^^^^^^^
 
-16.7.1. There is no standard for books and reports. However at least Title and Year (and author name for book references) should be present. 
+16.7.1. There is no standard for books and reports. However at least Title and Year (and author name for book references) should be present.
+
+16.8. Patents
+^^^^^^^^^^^^^
+
+16.8.1. Check on patent formatting with Christopher before sending corrections to production. Please see example of patent in picture below:
+
+.. image:: /_static/patent.png
+  	:alt: Patent format
+  	:scale: 99%
 
 
 |
