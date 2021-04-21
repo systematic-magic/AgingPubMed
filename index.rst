@@ -4,6 +4,8 @@ Welcome to PubMed Standards documentation!
 
 The purpose of this document is to provide a simple but detailed guide to the realm of PubMed corrections.
 
+Please compile all corrections into one email to send to production. If you have questions about a paper, please ask first, and then send to production after receiving an answer.
+
 If you see that paper formatting does not comply with these standards, please address your concerns to vendors through JPS.
 
 In general, if authors have an issue with a change we are suggesting, please raise the concern to Christopher as we can sometimes make special accommodations depending on the situation.
