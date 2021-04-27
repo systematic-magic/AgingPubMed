@@ -608,7 +608,7 @@ Email section can be found at the end of the article right after the Corresponde
 
 11.7. Check that ORCID iD is hyperlinked and leads to a valid ORCID page.
 
-If ORCID page has “No public information available.”, then ask the author if they can add or make the information visible. Inform Olga upon approval if authors do not respond or choose to leave the ORCID as is.
+If ORCID page has “No public information available.”, then ask the author if they can add or make the information visible, and also include a link to the `ORCID visibility settings <https://support.orcid.org/hc/en-us/articles/360006897614-Visibility-settings>`_ page to assist them in making the update. Inform Olga upon approval if authors do not respond or choose to leave the ORCID as is.
 
 .. Note::
 	
