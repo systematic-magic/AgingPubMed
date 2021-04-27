@@ -12,6 +12,8 @@ In general, if authors have an issue with a change we are suggesting, please rai
 
 Seek approval from Olga while copying Christopher anytime an author requests any data changes and/or numerously time-consuming amounts of corrections.
 
+Inquiries from authors about when their paper will be published or appear on PubMed should be forwarded to Olga.
+
 Happy hunting!
 
 
