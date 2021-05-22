@@ -1,4 +1,6 @@
 .. role:: sample
+.. role:: strike
+    :class: strike
 
 
 .. _pdf_editorials:
