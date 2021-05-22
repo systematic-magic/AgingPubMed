@@ -230,7 +230,7 @@ Author notes are optional. Article can have several or no author notes.
 -----------------
 .. Note::
 	
-	Each corresponding author is only allowed one email (mandatory) and one ORCID iD (optional). ORICID iD’s must be accompanied by an email as they are not a substitute for one.
+	Each corresponding author is only allowed one email (mandatory) :strike:`and one ORCID iD (optional). ORICID iD’s must be accompanied by an email as they are not a substitute for one.` - We are skipping ORCID checks until further notice
 
 
 6.1. Check that correspondence section has a title “CORRESPONDING AUTHORS” for more than one author or “CORRESPONDING AUTHOR” for one author (ALL CAPS).
