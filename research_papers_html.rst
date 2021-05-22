@@ -4,6 +4,7 @@
 .. role:: headr2
 .. role:: sampleb
 .. role:: sampleu
+.. role:: strike
 
 .. _html_research_papers:
 
