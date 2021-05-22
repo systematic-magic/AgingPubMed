@@ -231,7 +231,7 @@ Author notes are optional. Article can have several or no author notes.
 -----------------
 .. Note::
 	
-	Each corresponding author is only allowed one email (mandatory) :strike:`and one ORCID iD (optional). ORICID iD’s must be accompanied by an email as they are not a substitute for one.` - We are skipping ORCID checks until further notice
+	Each corresponding author is only allowed one email (mandatory) and one ORCID iD (optional). ORICID iD’s must be accompanied by an email as they are not a substitute for one.
 
 
 6.1. Check that correspondence section has a title “CORRESPONDING AUTHORS” for more than one author or “CORRESPONDING AUTHOR” for one author (ALL CAPS).
@@ -257,11 +257,11 @@ Author notes are optional. Article can have several or no author notes.
 
 6.9. :strike:`Check that ORCID iD is hyperlinked and leads to a valid ORCID page.`
 
-:strike:`If ORCID page has “No public information available.”, then ask the author if they can add or make the information visible, and also include a link to the`:strike:``ORCID visibility settings <https://support.orcid.org/hc/en-us/articles/360006897614-Visibility-settings>`_ page to assist them in making the update. Inform Olga upon approval if authors do not respond or choose to leave the ORCID as is.`
+:strike:`If ORCID page has “No public information available.”, then ask the author if they can add or make the information visible, and also include a link to the ORCID visibility settings page to assist them in making the update. Inform Olga upon approval if authors do not respond or choose to leave the ORCID as is.`
 
 .. Note::
 	
-	It's OK to send corrections to production in parallel with the author query for ORCID’s. There is no need to send reminders for pending ORCID queries to authors after approval. Forward any replies received from author after approval to Olga.
+	:strike:`It's OK to send corrections to production in parallel with the author query for ORCID’s. There is no need to send reminders for pending ORCID queries to authors after approval. Forward any replies received from author after approval to Olga.`
 
 
 6.10. Check that author’s name completely matches corresponding name in the author list (including the middle initials if any).
