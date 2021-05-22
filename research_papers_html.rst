@@ -5,6 +5,7 @@
 .. role:: sampleb
 .. role:: sampleu
 .. role:: strike
+    :class: strike
 
 .. _html_research_papers:
 
