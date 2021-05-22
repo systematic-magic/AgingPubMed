@@ -68,3 +68,7 @@ body span.sampleu {
 	color: #4074c8;
 
 }
+
+.strike {
+  text-decoration: line-through;
+}
