@@ -743,12 +743,12 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 13.8. Perform `reverse image search <https://www.bing.com/visualsearch>`_.
 
-	- Report duplicates to Alex, Elena and Christopher.
+	- Report duplicates to Christopher, Elena and Olga.
 
 
 13.9. Perform `IF check <https://ifind.impactjournals.com>`_.
 
-	- Report duplicates to Alex, Elena and Christopher.
+	- Report duplicates to Christopher, Elena and Olga.
 	- Report technical issues to Nick and Christopher.
 
 
@@ -842,7 +842,7 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 14.8. Perform `IF check <https://ifind.impactjournals.com>`_.
 
-	- Report duplicates to Alex, Elena and Christopher.
+	- Report duplicates to Christopher, Elena and Olga.
 	- Report technical issues to Nick and Christopher.
 
 
