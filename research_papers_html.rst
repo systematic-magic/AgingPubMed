@@ -896,11 +896,28 @@ Callouts can be found in text, figures and tables.
 	
 	Please refer to `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ and the original article when investigating missing or doubtful information in references with the exception of abbreviated journal titles and PubMed links. Email the author for the correct information if there is a discrepancy between PubMed and the original article.
 
+	- Check that only comma (,) and :ref:`en dash<en_dash>` (–) are used as a separators. No other separators are allowed. 
+
+
+.. _refs_format_soft_html_research_papers:
+
+16.1. Automated Formatting Checks
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+16.1.1. Run reference list through `Edifix <https://edifix.com/jobs/new>`_.
+
+	- Cross-check author lists that include collaborators against `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ and original article.
+
+	- Notify Christopher if half or more of the references are being flagged as being on Cabell’s list.
+
+
+16.1.2. Run references that have been reformatted by Edifix through the External References check in the Jaguar tool.
+
+
 .. _refs_author_list_html_research_papers:
 
-16.1. Author List
+16.2. Author List
 ^^^^^^^^^^^^^^^^
-16.1.1. Check that author names in the list of authors are in-line with the following format: |br|
+16.2.1. Check that author names in the list of authors are in-line with the following format: |br|
 |span_format_start| LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th) |span_end|
 
 
@@ -908,11 +925,11 @@ Callouts can be found in text, figures and tables.
    :alt: Author Names format
    :scale: 99%
 
-16.1.2. Check that initials have no more than 2 letters and have NO hyphens or spaces in-between.
+16.2.2. Check that initials have no more than 2 letters and have NO hyphens or spaces in-between.
 
-16.1.3. Check that all :ref:`mononyms<mononym>` (names which have no initials) are “true” mononyms (check `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site/original article).
+16.2.3. Check that all :ref:`mononyms<mononym>` (names which have no initials) are “true” mononyms (check `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site/original article).
 
-16.1.4. Check that list of authors contains no more than either:
+16.2.4. Check that list of authors contains no more than either:
 
 - 13 authors followed by “et al.”  OR
 
@@ -927,15 +944,15 @@ Callouts can be found in text, figures and tables.
    :alt: Max number of authors followed by et al
    :scale: 99%
 
-16.1.5. Check that authors are separated by comma (,) followed by space.
+16.2.5. Check that authors are separated by comma (,) followed by space.
 
-16.1.6. Check that et al is separated from list of authors by comma (,).
+16.2.6. Check that et al is separated from list of authors by comma (,).
 
-16.1.7. Check that there is a period (.) either after the last author name (if there are less or equal to 14 authors), or after et al (if there are exactly 13 authors + et al), or after :ref:`group authorship<group_authorship>` (if present).
+16.2.7. Check that there is a period (.) either after the last author name (if there are less or equal to 14 authors), or after et al (if there are exactly 13 authors + et al), or after :ref:`group authorship<group_authorship>` (if present).
 
-16.1.8. List of authors can contain :ref:`group authorship<group_authorship>` (see screenshot below). Check that group authorship is positioned at the end of list of authors. Other positions are not allowed.
+16.2.8. List of authors can contain :ref:`group authorship<group_authorship>` (see screenshot below). Check that group authorship is positioned at the end of list of authors. Other positions are not allowed.
 
-16.1.9. :ref:`Group authorship<group_authorship>` must be separated from author list by comma (,) and "and" word. Group authorship is not counted against total number of authors in the author list quota.
+16.2.9. :ref:`Group authorship<group_authorship>` must be separated from author list by comma (,) and "and" word. Group authorship is not counted against total number of authors in the author list quota.
 
 
 .. image:: /_static/ref_etal_group_auth.png
@@ -947,7 +964,7 @@ Callouts can be found in text, figures and tables.
    :scale: 99%
 
 
-16.1.10. If there are multiple :ref:`group authorships<group_authorship>`, then those should be separated by comma (,) and "and" word. 
+16.2.10. If there are multiple :ref:`group authorships<group_authorship>`, then those should be separated by comma (,) and "and" word. 
 
 .. image:: /_static/ref_mult_group_auth.png
    :alt: Group Authorship
@@ -956,10 +973,10 @@ Callouts can be found in text, figures and tables.
 |
 .. _reference_title_html_research_papers:
 
-16.2. Reference Title
+16.3. Reference Title
 ^^^^^^^^^^^^^^^^^^^^
 
-16.2.1. Title can be written in :ref:`sentence case<sentence_case>`, :ref:`title case<title_case>` or in ALL CAPS. All these formats are allowed.
+16.3.1. Title can be written in :ref:`sentence case<sentence_case>`, :ref:`title case<title_case>` or in ALL CAPS. All these formats are allowed.
 
 	- Format of title is allowed to be inconsistent across all references in the article.
 
@@ -968,12 +985,12 @@ Callouts can be found in text, figures and tables.
 	- It’s OK if capitalization of title does not match PubMed/original article.
 
 
-16.2.2. Check that title is followed by a period (.). There should be a space after period.
+16.3.2. Check that title is followed by a period (.). There should be a space after period.
 
 |
 .. _citation_data_in_house_html_research_papers:
 
-16.3. Citation-Data (in-house)
+16.4. Citation-Data (in-house)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. ATTENTION::
@@ -983,7 +1000,7 @@ Callouts can be found in text, figures and tables.
 
 Citation data is a part of a reference, which contains journal title, year, volume, pages, doi and PubMed link.
 
-16.3.1. Check that citation data has correct journal title. The following titles are allowed:
+16.4.1. Check that citation data has correct journal title. The following titles are allowed:
 
 	| :sample:`Oncotarget`
 	| :sample:`Oncoscience`
@@ -994,7 +1011,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 
 .. _citation_data_in_house_format_html_research_papers:
 
-16.3.2. Check that journal citation-data has the following elements in this order: |br|
+16.4.2. Check that journal citation-data has the following elements in this order: |br|
 |span_format_start| JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
 
 .. image:: /_static/citation_data_inhouse.png
@@ -1013,7 +1030,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 
 - “[PubMed]” link must be present (when available), should be highlighted in blue and should be an active link leading to the article page on the PubMed website. There must be no period at the end.
 
-16.3.3. There can be references to the articles which have been published "ahead of print". The format of citation data for such articles is as follows:
+16.4.3. There can be references to the articles which have been published "ahead of print". The format of citation data for such articles is as follows:
 |span_format_start| JournalTitle. year. [Epub ahead of print]. DOI [PubMed] |span_end|
 
 - Check that there is a period (.) after year followed by a space.
@@ -1028,7 +1045,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 |
 .. _citation_data_other_journals_html_research_papers:
 
-16.4. Citation-Data (other journals)
+16.5. Citation-Data (other journals)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. ATTENTION::
@@ -1038,7 +1055,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 Citation data is a part of a reference, which contains journal title, year, volume, pages, doi and PubMed link.
 
 
-16.4.1. Check that journal citation-data has the following elements in this order: |br|
+16.5.1. Check that journal citation-data has the following elements in this order: |br|
 |span_format_start| JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
 
 .. image:: /_static/citation_data.png
@@ -1061,7 +1078,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 
 - “[PubMed]” link must be present (when available), should be highlighted in blue and should be an active link leading to the article page on the PubMed website. There must be no period at the end.
 
-16.4.2. There can be references to the articles which have been published "ahead of print". The format of citation data for such articles is as follows:
+16.5.2. There can be references to the articles which have been published "ahead of print". The format of citation data for such articles is as follows:
 |span_format_start| JournalTitle. year. [Epub ahead of print]. DOI [PubMed] |span_end|
 
 - Check that there is a period (.) after year followed by a space.
@@ -1076,14 +1093,14 @@ Citation data is a part of a reference, which contains journal title, year, volu
 |
 .. _general_checks_html_research_papers:
 
-16.5. General Checks
+16.6. General Checks
 ^^^^^^^^^^^^^^^^^^^
 
-16.5.1. Check for duplicates in the reference list. 
+16.6.1. Check for duplicates in the reference list. 
 
 If you find duplicate references, please contact author and ask to correct the reference list along with renumbering reference call-outs.
 
-16.5.2. Check for references translated into English from another language (usually you can spot those by keywords: translation, translated from, in Chinese, in French etc). Those references should comply to the following format:
+16.6.2. Check for references translated into English from another language (usually you can spot those by keywords: translation, translated from, in Chinese, in French etc). Those references should comply to the following format:
 
    | :sample:`Author list. [Title of the article]. Journal Name. 1072; 1: 1-2.` (doi, if available) (PubMed link, if available)
    |
@@ -1091,19 +1108,19 @@ If you find duplicate references, please contact author and ask to correct the r
    | 34. Yang XM, Yang H. [Expression of high mobility group box-1 in the lung tissue and serum of patients with pulmonary tuberculosis]. Zhonghua Jie He He Hu Xi Za Zhi. 2013; 36:497-500.
 
 
-16.5.3. Check for references containing journal title in English and original language (e.g. "International journal of cancer" and "Journal international du cancer"). Remove title in original language and leave English version. If there is just a "foreign language" version present, it is OK to leave that version (no need to find English one). Consult `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_/original article if in doubt of the correct journal name.
+16.6.3. Check for references containing journal title in English and original language (e.g. "International journal of cancer" and "Journal international du cancer"). Remove title in original language and leave English version. If there is just a "foreign language" version present, it is OK to leave that version (no need to find English one). Consult `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_/original article if in doubt of the correct journal name.
 
-16.5.4. Check for extra information in the references (i.e. in addition to "standard" information). Remove all extra information.
+16.6.4. Check for extra information in the references (i.e. in addition to "standard" information). Remove all extra information.
    
    | `Example:`
    | ":official publication of the society of…"
 
 
-16.5.5. Remove any instances of “[Internet]”, "[pii]" Accessed dates (ex: “Accessed November 6, 2017.”) and empty (blank) doi.
+16.6.5. Remove any instances of “[Internet]”, "[pii]" Accessed dates (ex: “Accessed November 6, 2017.”) and empty (blank) doi.
 
-16.5.6. Remove “PMID” and “PMCID” details, if present in any reference.
+16.6.6. Remove “PMID” and “PMCID” details, if present in any reference.
 
-16.5.7. Check formatting for references that have been cited from supplemental issues. This information should appear in between the publishing year and semicolon in this format:
+16.6.7. Check formatting for references that have been cited from supplemental issues. This information should appear in between the publishing year and semicolon in this format:
 
    | :sampleb:`(Suppl N)` (where “N” is the supplemental issue number)
 
@@ -1112,11 +1129,11 @@ If you find duplicate references, please contact author and ask to correct the r
    	  	:alt: Supplemental issue formatting
    	  	:scale: 99%
 
-16.5.8. Preprint articles are allowed in references. A couple of examples (not limited to) would be from sources such as `BioRxiv <https://www.biorxiv.org/>`_ and `Preprints <https://www.preprints.org/>`_.
+16.6.8. Preprint articles are allowed in references. A couple of examples (not limited to) would be from sources such as `BioRxiv <https://www.biorxiv.org/>`_ and `Preprints <https://www.preprints.org/>`_.
 
 - These should be formatted to the same standards as described above in :ref:`16.1<refs_author_list_html_research_papers>`, :ref:`16.2<reference_title_html_research_papers>` and :ref:`16.4<citation_data_other_journals_html_research_papers>` with the exception that a special ID number will typically be used in place of volume and page numbers.
 
-16.5.9. Retracted articles are allowed in references. If you come across one, check to make sure that is has a retraction note:
+16.6.9. Retracted articles are allowed in references. If you come across one, check to make sure that is has a retraction note:
 
 - If an article is being cited that was later retracted, a note should appear at the end of the reference with the following details about the retraction notice (add a period before the note if one is not present): |br|
 |span_format_start| Retraction in: JournalTitle. year; volume: pages. DOI [PubMed] |span_end|
@@ -1137,12 +1154,12 @@ If you come across a retracted reference that does not have a note to indicate r
 |
 .. _websites_html_research_papers:
 
-16.6. Websites
+16.7. Websites
 ^^^^^^^^^^^^
 
-16.6.1. There is no standard for website references. Authors are allowed to accompany a web link with any information they think appropriate. 
+16.7.1. There is no standard for website references. Authors are allowed to accompany a web link with any information they think appropriate. 
 
-16.6.2. Check that website link is valid (i.e. it points to the referenced web resources, rather to error or other irrelevant page).
+16.7.2. Check that website link is valid (i.e. it points to the referenced web resources, rather to error or other irrelevant page).
 
 If the link is not valid, please contact author to provide a working link.
 
@@ -1150,15 +1167,15 @@ If the link is not valid, please contact author to provide a working link.
 |
 .. _books_html_research_papers:
 
-16.7. Books and Reports
+16.8. Books and Reports
 ^^^^^^^^^^^^^^^^^^^^^
 
-16.7.1. There is no standard for books and reports. However at least Title and Year (and author name for book references) should be present.
+16.8.1. There is no standard for books and reports. However at least Title and Year (and author name for book references) should be present.
 
-16.8. Patents
+16.9. Patents
 ^^^^^^^^^^^^^
 
-16.8.1. Check on patent formatting with Christopher before sending corrections to production. Please see example of patent in picture below:
+16.9.1. Check on patent formatting with Christopher before sending corrections to production. Please see example of patent in picture below:
 
 .. image:: /_static/patent.png
   	:alt: Patent format
