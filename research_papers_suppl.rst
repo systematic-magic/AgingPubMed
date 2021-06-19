@@ -18,7 +18,7 @@ SUPPLEMENTARY MATERIALS: All Papers (except Editorials)
 	
 	Examples of things we can overlook would be justified legends/notes sections, keeping certain text in bold, punctuation for figure and table names and placement of figure legends before the figure instead of after. 
 
-Check each supplementary file to verify contents.
+Check each supplementary file to verify contents. Google Drive and `VLC <https://www.videolan.org/>` are alternative methods to open supplementary videos if you’re having trouble opening with your pre-installed video player.
 
 .. _title_supplementary_html_research_papers:
 
