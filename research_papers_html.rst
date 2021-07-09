@@ -747,7 +747,7 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 13.8. Perform `reverse image search <https://www.bing.com/visualsearch>`_.
 
-	- Report duplicates to Christopher, Elena and Olga.
+	- Report duplicates to Elena, Olga and Christopher.
 
 
 
