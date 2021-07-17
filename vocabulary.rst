@@ -186,8 +186,14 @@ US State abbreviations
 .. _links:
 
 Non-working link exceptions
-    These links are known to be valid, but are intermittently working and can be left as-is:
+    These links are known to be valid but are intermittently working and can be left as-is:
 
     | http://starbase.sysu.edu.cn/
     | http://starbase.sysu.edu.cn/index.php
+
+    These commonly used links are known to be invalid, and the hyperlink can be removed while leaving the resource name or the website name (without http...) when the resource is known by the name of the website.
+
+    | http://www.microrna.org/
+    | http://www.microrna.org/microrna/home.do
+
 
