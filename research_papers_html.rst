@@ -587,7 +587,7 @@ The authors declare no conflicts of interest related to this study.
 
 	- Check that all website addresses lead to valid page.
 
-Check with author about nonworking links (see exceptions :ref:`here<links:>`). They can choose to replace or remove them.
+Check with author about nonworking links (see exceptions :ref:`title case<links>`). They can choose to replace or remove them.
 If an author requests to remove a link, then the name of the resource (software, database,   tool, etc.) should be/remain present. In cases where the name of the resource is the same as the website URL (ex: MicroRNA.org), the protocol (https:// or http://), “www.” and any other excess information should be removed from the URL, and the remaining resource/website name should no longer be kept as an active link (ex: “http://www.microrna.org/microrna/home.do” would be changed to “MicroRNA.org”).
 
 12.9. Check that the following Latin terms are written in italics: *in vitro, in vivo, ex vivo, in situ, in silico*. Via, etc and et al should be formatted in :ref:`plain text<plain_text>`.
