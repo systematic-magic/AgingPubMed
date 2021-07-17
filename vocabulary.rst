@@ -185,7 +185,7 @@ US State abbreviations
 
 .. _links:
 
-Non-working link exceptions
+Nonworking link exceptions
     These links are known to be valid but are intermittently working and can be left as-is:
 
     | http://starbase.sysu.edu.cn/
