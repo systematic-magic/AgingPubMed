@@ -745,11 +745,6 @@ If you see that there are gaps in number sequence, then check with corresponding
    	  	:alt: Figure number
    	  	:scale: 50%
 
-13.8. Perform `reverse image search <https://www.bing.com/visualsearch>`_.
-
-	- Report duplicates to Elena, Olga and Christopher.
-
-
 
 |
 .. _tables_html_research_papers:
