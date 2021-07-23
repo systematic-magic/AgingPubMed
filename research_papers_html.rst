@@ -156,9 +156,9 @@ One exclusion: affiliations of Chinese authors, where Key Laboratory combines di
 
 4.11. Occasionally affiliations can contain “Current/Present address:” title. If it is present:
 
-	- Check that it has a separate affiliation number.
+	- Check that it has a separate affiliation number. One address - one affiliation number.
 
-	- Check that the title (Current address: or Present address:) is in :ref:`sentence case<sentence_case>` and followed by colon (:). No other variations allowed. |br| One address - one affiliation number.
+	- Check that the title (Current address: or Present address:) is in :ref:`sentence case<sentence_case>` and followed by colon (:). No other variations allowed.
 	
 All acceptable combinations of “Current/Present address” are depicted on the screenshot below: 
 
