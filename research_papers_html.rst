@@ -1126,7 +1126,7 @@ If you find duplicate references, please contact author and ask to correct the r
 
 16.6.8. Preprint articles are allowed in references. A couple of examples (not limited to) would be from sources such as `BioRxiv <https://www.biorxiv.org/>`_ and `Preprints <https://www.preprints.org/>`_.
 
-- These should be formatted to the same standards as described above in :ref:`16.1<refs_author_list_html_research_papers>`, :ref:`16.2<reference_title_html_research_papers>` and :ref:`16.4<citation_data_other_journals_html_research_papers>` with the exception that a special ID number will typically be used in place of volume and page numbers.
+- These should be formatted to the same standards as described above in :ref:`16.2<refs_author_list_html_research_papers>`, :ref:`16.3<reference_title_html_research_papers>` and :ref:`16.5<citation_data_other_journals_html_research_papers>` with the exception that a special ID number will typically be used in place of volume and page numbers.
 
 16.6.9. Retracted articles are allowed in references. If you come across one, check to make sure that is has a retraction note:
 
