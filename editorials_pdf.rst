@@ -540,19 +540,21 @@ Corresponding author and affiliation can be found at the end of the article righ
 
 9.9. Check that country and city names are NOT written in ALL CAPS (capital letters).
 
-9.10. Chinese affiliations: zip code is allowed for both city and county/district. If zip code is present, it must be positioned after city/county/district and there must be no comma between city/county/district and zip code. Zip code is optional for any of the elements (city/county/district).
+9.10. Check that one of the allowed :ref:`variations <country_abbr>` for China or Taiwan are used if present.
+
+9.11. Chinese affiliations: zip code is allowed for both city and county/district. If zip code is present, it must be positioned after city/county/district and there must be no comma between city/county/district and zip code. Zip code is optional for any of the elements (city/county/district).
 
 .. image:: /_static/editorial_aff_text_zip_china.png
    :alt: No comma between city/county/district and zip code
    :scale: 99%
 
-9.11. Taiwanese affiliations: Check that “Taiwan” is used for the country. “ROC” and/or “Republic of China” should not be used instead of or in addition to “Taiwan”.
+9.12. Taiwanese affiliations: Check that “Taiwan” is used for the country. “ROC” and/or “Republic of China” should not be used instead of or in addition to “Taiwan”.
 
-9.12. USA affiliations: check that there is no comma between state and zip code. State must be positioned before zip code. Zip code must be present.
+9.13. USA affiliations: check that there is no comma between state and zip code. State must be positioned before zip code. Zip code must be present.
 
-9.13. Non-USA affiliations: check that there is no comma between city and zip code. City must be positioned before zip code. Zip code is optional.
+9.14. Non-USA affiliations: check that there is no comma between city and zip code. City must be positioned before zip code. Zip code is optional.
 
-9.14. Check that only commas are used to separate parts of affiliations (i.e. department, institution, etc.).
+9.15. Check that only commas are used to separate parts of affiliations (i.e. department, institution, etc.).
 
 .. image:: /_static/corresp_auth.png
    :alt: Corresponding author and affiliations
