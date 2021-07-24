@@ -142,20 +142,18 @@ Allowed variations for China and Taiwan can be found :ref:`here<country_abbr>`.
    :alt: No comma between city/county/district and zip code
    :scale: 99%
 
-4.7. Taiwanese affiliations: Check that “Taiwan” is used for the country. “ROC” and/or “Republic of China” should not be used instead of or in addition to “Taiwan”.
+4.7. USA affiliations: check that there is no comma between state and zip code. State must be positioned before zip code. Zip code must be present.
 
-4.8. USA affiliations: check that there is no comma between state and zip code. State must be positioned before zip code. Zip code must be present.
-
-4.9. Non-USA affiliations: check that there is no comma between city and zip code. City must be positioned before zip code. Zip code is optional.
+4.8. Non-USA affiliations: check that there is no comma between city and zip code. City must be positioned before zip code. Zip code is optional.
 
 .. image:: /_static/aff_text_zip_state_city.png
    :alt: No comma between zip code and state (US) / city (non-US)
    :scale: 99%
 
-4.10. Check that each affiliation number has only one complete affiliation. One affiliation – one number. |br|
+4.9. Check that each affiliation number has only one complete affiliation. One affiliation – one number. |br|
 One exclusion: affiliations of Chinese authors, where Key Laboratory combines different institutions. In that case one number can contain two affiliations.
 
-4.11. Occasionally affiliations can contain “Current/Present address:” title. If it is present:
+4.10. Occasionally affiliations can contain “Current/Present address:” title. If it is present:
 
 	- Check that it has a separate affiliation number. One address - one affiliation number.
 
@@ -167,7 +165,7 @@ All acceptable combinations of “Current/Present address” are depicted on the
    :alt: Current/Present address
    :scale: 99%
 
-4.12. Check that only commas are used to separate parts of affiliations (i.e. department, institution, etc.).
+4.11. Check that only commas are used to separate parts of affiliations (i.e. department, institution, etc.).
 
 .. image:: /_static/aff_parts.png
    :alt: Affiliation format
