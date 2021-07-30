@@ -413,7 +413,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 		:wtonbl:`Conclusions` or :wtonbl:`Conclusion` - optional - [title case, in white on blue background]
 
-		:wtonbl:`Materials and Methods` - mandatory - (alternatively can be :wtonbl:`Methods` or :wtonbl:`Patients and Methods`) - [title case, in white on blue background] - (Other alternative locations include between Discussion and Conclusion OR between Introduction and Results sections)
+		:wtonbl:`Materials and Methods` - mandatory - (alternatively can be :wtonbl:`Methods` or :wtonbl:`Patients and Methods`) - [title case, in white on blue background] - (Other alternative locations include between Discussion and Conclusions OR between Introduction and Results sections)
 
 		:headr2:`Ethics statement` - optional - (if present, it should only appear as a subheader in Materials and Methods section) [:ref:`sentence case<sentence_case>`, in black]
 
