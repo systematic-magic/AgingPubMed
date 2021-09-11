@@ -3,7 +3,7 @@
 .. _paper_access:
 
 Accessing Papers
-----------------
+================
 
 Use the following link to access papers by replacing “{pii}” with the PII number of the paper you are going to check: |br|
 \https://www.aging-us.com/author-access/**{pii}**/3HxqagulPZvz9C4VZnO86vG63ZDdafCJ
