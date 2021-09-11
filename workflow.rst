@@ -37,6 +37,8 @@ VIP papers and papers with minor corrections will be expedited to publication by
 
 	- Address to production editor and copy vendor
 	- Add "VIP" to email title for VIP papers
+	- Add "Minor corrections" to email title for papers that have 5 or less corrections anywhere in paper except Supplementary Materials
+	 - Replace vendor's email with appropriate production editor's email on Aging Production Sheet.
 
 
 |
