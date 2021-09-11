@@ -7,7 +7,7 @@ Workflow
 
 .. Note::
 	
-	VIP, Priority and COVID papers should be prioritized and treated with the same urgency.
+	VIP, Priority and COVID papers should be prioritized.
 
 
 Basic Workflow
