@@ -19,8 +19,8 @@ Basic Workflow
 #. Approve paper for archiving.
 
 
-Details on Correction Emails
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Details on Sending Corrections
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Each correction email should be sent to one of our vendors (Envisage or Aura) and one of our production editors (Olga or Elena). Olga manages Envisage’s papers and Elena manages Aura’s. One of the pair should be addressed and the other copied depending on the situation:
 
 **Normal Papers**
