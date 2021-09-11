@@ -22,6 +22,7 @@ Happy hunting!
    :titlesonly:
    :caption: GETTING STARTED
 
+   workflow
    paper_access
 
 
