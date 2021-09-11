@@ -13,7 +13,7 @@ Workflow
 Basic Workflow
 --------------
 #. Check for errors that are detailed in our standards document.
-#. Resolve any questions by inquiring with authors or internally.
+#. Inquire with authors or internally to resolve any questions.
 #. Send all corrections for each paper in one email to the appropriate vendor and production editor.
 #. Verify that all corrections have been made once notified that they are complete. (Repeat steps 3–4 if there are still some pending corrections or new errors.)
 #. Approve paper for archiving.
