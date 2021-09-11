@@ -35,9 +35,9 @@ Normal papers go through the complete checking and approving process (Steps 1–
 
 VIP papers and papers with minor corrections will be expedited to publication by Olga and Elena after we send them the corrections email (Steps 1–3); we do not approve these papers.
 
-	- Address to production editor and copy vendor
-	- Add "VIP" to email title for VIP papers
-	- Add "Minor corrections" to email title and replace vendor's email with appropriate production editor's email on Aging Production Sheet for papers that have 5 or less corrections anywhere in paper except Supplementary Materials
+	- Address to production editor and copy vendor.
+	- Add "VIP" to email title for VIP papers.
+	- Add "Minor corrections" to email title and replace vendor's email with appropriate production editor's email on the Aging Production Sheet for papers that have 5 or less corrections anywhere in paper except Supplementary Materials.
 
 
 |
