@@ -29,7 +29,8 @@ Each correction email should be sent to one of our vendors (Envisage or Aura) an
 	- Add "No Corrections Necessary" to the email title for papers that do not need corrections.
 
 **Expedited Papers**
-    VIP papers and papers with minor corrections will be expedited by Olga and Elena after we send them the corrections email. We do not approve these papers.
+
+VIP papers and papers with minor corrections will be expedited by Olga and Elena after we send them the corrections email. We do not approve these papers.
 
 	- Address to production editor and copy vendor
 	- Add "VIP" to email title for VIP papers
