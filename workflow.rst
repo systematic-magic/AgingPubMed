@@ -19,8 +19,8 @@ Basic Workflow
 #. Approve paper for archiving.
 
 
-Correction Emails
-^^^^^^^^^^^^^^^^^
+Details on Correction Emails
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Each correction email should be sent to one of our vendors (Envisage or Aura) and one of our production editors (Olga or Elena). Olga manages Envisage’s papers and Elena manages Aura’s. One of the pair should be addressed and the other copied depending on the situation:
 
 **Normal Papers**
@@ -33,7 +33,7 @@ Normal papers go through the complete checking and approving process (Steps 1–
 
 **Expedited Papers**
 
-VIP papers and papers with minor corrections will be expedited to publication by Olga and Elena after we send them the corrections email (Steps 1–3). We do not approve these papers.
+VIP papers and papers with minor corrections will be expedited to publication by Olga and Elena after we send them the corrections email (Steps 1–3); we do not approve these papers.
 
 	- Address to production editor and copy vendor
 	- Add "VIP" to email title for VIP papers
