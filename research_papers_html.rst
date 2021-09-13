@@ -84,7 +84,8 @@ Please note that last names can be compound, can have prepositions, suffixes, pr
 	- Prefixes: :sample:`McCann, O'Kelly`
 	- Mononym: :sample:`Govindjee`
 
-If you see that author name does not comply to these standards, please contact corresponding author and ask to provide author name in correct format.
+If you see that author name does not comply to these standards or you have a doubt about a name, please contact corresponding author and ask to provide author name in correct format.
+(`PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ can be used as a resource to clarify doubts about author names, but this method should only be used if the author's name can be found to appear in one consistent way. Still check with author before making changes other than adding periods after initials.)
 
 3.5. Check that each author name contains a number linked to the affiliation text (i.e. affiliation number). One author name can contain a few affiliation numbers.
 
