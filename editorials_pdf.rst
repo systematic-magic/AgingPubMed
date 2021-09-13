@@ -475,7 +475,7 @@ If you find duplicate references, please contact author and ask to correct the r
    | ":official publication of the society of…"
 
 
-8.5.4. Remove any instances of “[Internet]”, "[pii]" accessed dates (ex: “Accessed November 6, 2017.”) and empty (blank) doi.
+8.5.4. Remove any instances of "Available from", “[Internet]”, "[pii]" accessed dates (ex: “Accessed November 6, 2017.”) and empty (blank) doi.
 
 8.5.5. Remove “PMCID” details, if present in any reference.
 
