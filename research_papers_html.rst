@@ -68,7 +68,6 @@ Allowed formats:
 	+  :sample:`FirstName MiddleName LastName`
 	+  :sample:`FirstName MiddleName MiddleName LastName` (there can any number of middle names)
 	+  :sample:`FirstName M. LastName` (M. is initial of middle name; up to 4 letters; period should be used after each initial)
-	+  :sample:`FirstName M.N. LastName` (M.N. are initials of middle names; up to 4 letters; period should be used after each initial)
 	+  :sample:`F. MiddleName LastName` (F. is an initial of first name)
 	+  :sample:`F. MiddleName MiddleName LastName` (F. is initial of first name and there can any number of middle names)
 
