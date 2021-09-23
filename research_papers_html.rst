@@ -649,17 +649,14 @@ If image is hard to read, please contact Production team and ask to provide clea
    	  	:alt: Figure number
    	  	:scale: 99%
 
-	- If figure image has :ref:`panel letters<figure_pannel>`, then check that reference to each panel is present in figure legend. Reference is denoted by panel letter and is formatted in bold. All panel callouts should be formatted in bold.
+	- If figure image has :ref:`panel letters<figure_pannel>`, then check that reference to each panel is present in figure legend. Reference is denoted by panel letter and is formatted in bold.
 
-	- Subpanels are allowed (Ex. Aa, Ab, Ac, etc.) but do not require individual callouts in the legend or text.
-
-	| This is the allowed format for the panel reference (case of letter should match letter case in figure image):
-
-	|	:sample:`(`:sampleb:`A`:sample:`)` or :sample:`(`:sampleb:`a`:sample:`)` - i.e. letter wrapped parentheses ()
-
-	| :ref:`Panel letters<figure_pannel>` can be combined in different ways in the figure legend text:
-
-	| :sample:`(`:sampleb:`A` :sample:`and` :sampleb:`B`:sample:`)`
+	  - Check that every panel letter callout is formatted in bold font.
+	  - Check that at least the first instance of each panel letter is enclosed in parentheses. Subsequent callouts of the same panel can be enclosed in parentheses, but this is not mandatory.
+	  - Check that the case of each panel letter callout matches case of the panel letter used in the image. Uppercase or lowercase is fine as long as only one case is consistently used in the figure and throughout the paper. 
+	  - Check that the first instance of each panel letter is called out in alphabetical order (Ex. A, B, A, C, B, D)
+	  - Subpanels are allowed (Ex. Aa, Ab, Ac, etc.) but do not require individual callouts in the legend or text.
+	  - :ref:`Panel letters<figure_pannel>` can be combined in different ways in the figure legend text:
 
 	.. image:: /_static/html_fig_reference_br_anb.png
    	  	:alt: Figure number
