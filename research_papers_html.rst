@@ -658,29 +658,29 @@ If image is hard to read, please contact Production team and ask to provide clea
 	  - Subpanels are allowed (Ex. Aa, Ab, Ac, etc.) but do not require individual callouts in the legend or text.
 	  - :ref:`Panel letters<figure_pannel>` can be combined in different ways in the figure legend text:
 
-	 | :sample:`(`:sampleb:`A` :sample:`and` :sampleb:`B`:sample:`)`
+	   | :sample:`(`:sampleb:`A` :sample:`and` :sampleb:`B`:sample:`)`
 
-	 .. image:: /_static/html_fig_reference_br_anb.png
+	   .. image:: /_static/html_fig_reference_br_anb.png
    	  	:alt: Figure number
    	  	:scale: 99%
    	|
 
-	 | :sample:`(`:sampleb:`A`:sample:`,` :sampleb:`B`:sample:`)`
+	   | :sample:`(`:sampleb:`A`:sample:`,` :sampleb:`B`:sample:`)`
 
-	 .. image:: /_static/html_fig_reference_br_acomb.png
+	   .. image:: /_static/html_fig_reference_br_acomb.png
    	  	:alt: Figure number
    	  	:scale: 99%
    	|
 
-	 | :sample:`(`:sampleb:`A–C`:sample:`)`
+	   | :sample:`(`:sampleb:`A–C`:sample:`)`
 
-	 .. image:: /_static/html_fig_reference_br_a-c.png
+	   .. image:: /_static/html_fig_reference_br_a-c.png
    	  	:alt: Figure number
    	  	:scale: 99%
    	|
 
 
-	 | Same variations are allowed for lower case :ref:`panel letters<figure_pannel>`.
+	   | Same variations are allowed for lower case :ref:`panel letters<figure_pannel>`.
 
 
 	If a reference to :ref:`panel letter<figure_pannel>` is missing, then please ask author to provide one.
