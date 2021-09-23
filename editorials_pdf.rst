@@ -135,112 +135,111 @@ If an author requests to remove a link, then the name of the resource (software,
 
 If image is hard to read, please contact Production team and ask to provide clearer images. If Production team does not have better images, then contact corresponding author.
 
-5.2. Check whether figures have :ref:`panel letters<figure_pannel>`. Both lower case and upper case panel letters are allowed. However, they should be used consistently: either all figures have lower case panel letters or all have upper case letters. Mix of formats is not allowed.
+5.2. Check whether figures have :ref:`panel letters<figure_pannel>`. 
+
+	  - A panel letter is not required in the case where there is only one image, or panel.
+	  - Both lower case and upper case panel letters are allowed; however, they should be used consistently in the figure and throughout the paper: either all figures have lower case panel letters or all have upper case letters.
 
 5.3. Check the figure description text (figure legend):
 
 	- Check that figure legend has a figure number:
 
-	|	:sampleb:`Figure N.` (where “N” is a number of the figure)
+	  |	:sampleb:`Figure N.` (where “N” is a number of the figure)
 
-	- Check that number is followed by period (.).
-
-	- Check that figure number is formatted in bold and colored in black.
+	  - Check that number is followed by period (.).
+	  - Check that figure number is formatted in bold and colored in black.
 
 	- If figure number is followed by text, then check that the first sentence of that text is formatted in bold and colored in black. The rest of the text should be in :ref:`plain text<plain_text>`.
 
-	|	:sampleb:`Figure 1. First sentence of legend text in sentence case.` :sample:`Second sentence and rest of text.`
+	  |	:sampleb:`Figure 1. First sentence of legend text in sentence case.` :sample:`Second sentence and rest of text.`
 	
-	.. image:: /_static/html_figure_number.png
+	  .. image:: /_static/html_figure_number.png
    	  	:alt: Figure number
    	  	:scale: 99%
 
-	`Exclusion:` if first sentence contains :ref:`panel letters<figure_pannel>`, then it should be formatted in :ref:`plain text<plain_text>`.
+	  `Exclusion:` if first sentence contains :ref:`panel letters<figure_pannel>`, then it should be formatted in :ref:`plain text<plain_text>`.
 
-	|	:sampleb:`Figure 1.` :sample:`First sentence of legend text containing panel letter (`:sampleb:`A`:sample:`) and letter (`:sampleb:`B`:sample:`) in a sentence case. Second sentence and rest of text.`
+	  |	:sampleb:`Figure 1.` :sample:`First sentence of legend text containing panel letter (`:sampleb:`A`:sample:`) and letter (`:sampleb:`B`:sample:`) in a sentence case. Second sentence and rest of text.`
 
 
-	.. image:: /_static/html_figure_number_exception.png
+	  .. image:: /_static/html_figure_number_exception.png
    	  	:alt: Figure number
    	  	:scale: 99%
 
-	- If figure image has :ref:`panel letters<figure_pannel>`, then check that reference to each panel is present in figure legend. Reference is denoted by panel letter and is formatted in bold. All panel callouts should be formatted in bold.
+	- If figure image has :ref:`panel letters<figure_pannel>`, then check that reference to each panel is present in figure legend. Reference is denoted by panel letter and is formatted in bold. Subpanels are allowed (Ex. Aa, Ab, Ac, etc.) but do not require individual callouts in the legend or text.
 
-	- Subpanels are allowed (Ex. Aa, Ab, Ac, etc.) but do not require individual callouts in the legend or text.
+	  | If a reference to :ref:`panel letter<figure_pannel>` is missing, then please ask author to provide one.
 
-	| This is the allowed format for the panel reference (case of letter should match letter case in figure image):
+	  - Check that every panel letter callout is formatted in bold font.
+	  - Check that at least the first instance of each panel letter is enclosed in parentheses. Subsequent callouts of the same panel letter can be enclosed in parentheses, but this is not mandatory.
+	  - Check that the case of each panel letter callout matches case of the panel letter used in the image. Uppercase or lowercase is fine as long as only one case is consistently used in the figure.
+	  - Check that the first instance of each panel letter is called out in alphabetical order (Ex. A, B, A, C, B, D).
+	  - :ref:`Panel letters<figure_pannel>` can be combined in different ways in the figure legend text (The same variations are allowed for lower case :ref:`panel letters<figure_pannel>`):
 
-	|	:sample:`(`:sampleb:`A`:sample:`)` or :sample:`(`:sampleb:`a`:sample:`)` - i.e. letter wrapped parentheses ()
+	   |
+	   | :sample:`(`:sampleb:`A` :sample:`and` :sampleb:`B`:sample:`)`
 
-	| :ref:`Panel letters<figure_pannel>` can be combined in different ways in the figure legend text:
-
-	| :sample:`(`:sampleb:`A` :sample:`and` :sampleb:`B`:sample:`)`
-
-	.. image:: /_static/html_fig_reference_br_anb.png
+	   .. image:: /_static/html_fig_reference_br_anb.png
    	  	:alt: Figure number
    	  	:scale: 99%
-   	|
+	   |
 
 
-	| :sample:`(`:sampleb:`A`:sample:`,` :sampleb:`B`:sample:`)`
+	   | :sample:`(`:sampleb:`A`:sample:`,` :sampleb:`B`:sample:`)`
 
-	.. image:: /_static/html_fig_reference_br_acomb.png
+	   .. image:: /_static/html_fig_reference_br_acomb.png
    	  	:alt: Figure number
    	  	:scale: 99%
-   	|
+	   |
 
-	| :sample:`(`:sampleb:`A–C`:sample:`)`
+	   | :sample:`(`:sampleb:`A–C`:sample:`)`
 
-	.. image:: /_static/html_fig_reference_br_a-c.png
+	   .. image:: /_static/html_fig_reference_br_a-c.png
    	  	:alt: Figure number
    	  	:scale: 99%
-   	|
+	   |
 
-
-	| Same variations are allowed for lower case :ref:`panel letters<figure_pannel>`.
-
-
-	If a reference to :ref:`panel letter<figure_pannel>` is missing, then please ask author to provide one.
 
 5.4. Check figure callouts in the text:
 
 	- Check the format of figure callouts (no other variations allowed):
 
-	| :sample:`Figure 1`
+	  | :sample:`Figure 1`
 
-	.. image:: /_static/pdf_figure_callouts.png
+	  .. image:: /_static/pdf_figure_callouts.png
    	  	:alt: Figure callouts
    	  	:scale: 99%
 
-    |
-	If figure has panels, then callout can have a letter (letter case should be the same as on figure image):
+	  |
+	  - If figure has panels, then callout can have a letter (letter case should be the same as on figure image):
 
-   	|
-	| :sample:`Figure 1A`
-	| :sample:`Figure 1a`
+	   |
+	   | :sample:`Figure 1A`
+	   | :sample:`Figure 1a`
 
-	.. image:: /_static/pdf_fig_callout_full_letters.png
+	   .. image:: /_static/pdf_fig_callout_full_letters.png
    	  	:alt: Figure number
    	  	:scale: 99%
-   	|
+	   |
 
-	| `Examples of callout combinations:`
-	| :sample:`Figure 1`
-	| :sample:`Figure 1C`
-	| :sample:`Figure 1B` :sample:`and` :sample:`1C` (note that there is no "s" at the end of "Figure" word)
-	| :sample:`Figure 1B`:sample:`,` :sample:`1C`
-	| :sample:`Figure 1E`:sample:`–`:sample:`1G`
+	   | `Examples of callout combinations:`
+	   | :sample:`Figure 1`
+	   | :sample:`Figure 1C`
+	   | :sample:`Figure 1B` :sample:`and` :sample:`1C` (note that there is no "s" at the end of "Figure" word)
+	   | :sample:`Figure 1B`:sample:`,` :sample:`1C`
+	   | :sample:`Figure 1E`:sample:`–`:sample:`1G`
 
-	.. image:: /_static/pdf_fig_callout_variations.png
+	   .. image:: /_static/pdf_fig_callout_variations.png
    	  	:alt: Figure number
    	  	:scale: 99%
 
-   	|
-	- Check that the word "Figure" as well as number (and letter) is formatted in :ref:`plain text<plain_text>` and not hyperlinked.
+	   |
+	  - Check that the word "Figure" as well as number (and letter) are hyperlinked.
 
-	- Check that figure has at least 1 callout in the text.
+	   |
+	- Check that each figure has at least 1 callout in the text.
 
-	If callout is missing, please contact author.
+	 |If callout is missing, please contact author.
 
 
 
