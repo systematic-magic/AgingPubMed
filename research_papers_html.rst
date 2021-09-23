@@ -652,7 +652,8 @@ If image is hard to read, please contact Production team and ask to provide clea
    	  	:alt: Figure number
    	  	:scale: 99%
 
-	- If figure image has :ref:`panel letters<figure_pannel>`, then check that reference to each panel is present in figure legend. Reference is denoted by panel letter and is formatted in bold. Subpanels are allowed (Ex. Aa, Ab, Ac, etc.) but do not require individual callouts in the legend or text. 
+	- If figure image has :ref:`panel letters<figure_pannel>`, then check that reference to each panel is present in figure legend. Reference is denoted by panel letter and is formatted in bold. Subpanels are allowed (Ex. Aa, Ab, Ac, etc.) but do not require individual callouts in the legend or text.
+
 	 | If a reference to :ref:`panel letter<figure_pannel>` is missing, then please ask author to provide one.
 
 	  - Check that every panel letter callout is formatted in bold font.
