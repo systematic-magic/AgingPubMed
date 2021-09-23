@@ -654,6 +654,8 @@ If image is hard to read, please contact Production team and ask to provide clea
    	  	:scale: 99%
 
 	- If figure image has :ref:`panel letters<figure_pannel>`, then check that reference to each panel is present in figure legend. Reference is denoted by panel letter and is formatted in bold. Subpanels are allowed (Ex. Aa, Ab, Ac, etc.) but do not require individual callouts in the legend or text.
+	    - If a reference to :ref:`panel letter<figure_pannel>` is missing, then please ask author to provide one.
+
 
 	  - Check that every panel letter callout is formatted in bold font.
 	  - Check that at least the first instance of each panel letter is enclosed in parentheses. Subsequent callouts of the same panel letter can be enclosed in parentheses, but this is not mandatory.
@@ -675,11 +677,6 @@ If image is hard to read, please contact Production team and ask to provide clea
 	   .. image:: /_static/html_fig_reference_br_a-c.png
    	  	:alt: Figure number
    	  	:scale: 99%
-
-
-
-
-	If a reference to :ref:`panel letter<figure_pannel>` is missing, then please ask author to provide one.
 
 
 13.4. Check that figure numbers are assigned to figures linearly (1, 2, 3 and so on) as well as continuously and there are no gaps in a sequence. In other words there should be no situation when there are figures 1, 3 and 4 in the article, but figure 2 is missing.
