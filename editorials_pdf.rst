@@ -240,7 +240,7 @@ If image is hard to read, please contact Production team and ask to provide clea
 	   |
 	- Check that each figure has at least 1 callout in the text.
 
-	 |If callout is missing, please contact author.
+	 | If callout is missing, please contact author.
 
 
 
