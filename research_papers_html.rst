@@ -634,6 +634,8 @@ If image is hard to read, please contact Production team and ask to provide clea
 	  - Check that number is followed by period (.).
 	  - Check that figure number is formatted in bold and colored in black.
 
+	  |
+
 	- If figure number is followed by text, then check that the first sentence of that text is formatted in bold and colored in black. The rest of the text should be in :ref:`plain text<plain_text>`.
 
 	  |	:sampleb:`Figure 1. First sentence of legend text in sentence case.` :sample:`Second sentence and rest of text.`
