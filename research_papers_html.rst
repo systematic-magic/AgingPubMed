@@ -656,24 +656,24 @@ If image is hard to read, please contact Production team and ask to provide clea
 	  - Check that the case of each panel letter callout matches case of the panel letter used in the image. Uppercase or lowercase is fine as long as only one case is consistently used in the figure and throughout the paper. 
 	  - Check that the first instance of each panel letter is called out in alphabetical order (Ex. A, B, A, C, B, D)
 	  - Subpanels are allowed (Ex. Aa, Ab, Ac, etc.) but do not require individual callouts in the legend or text.
-	  - :ref:`Panel letters<figure_pannel>` can be combined in different ways in the figure legend text:
+	  - :ref:`Panel letters<figure_pannel>` can be combined in different ways in the figure legend text (The same variations are allowed for lower case :ref:`panel letters<figure_pannel>`.:
 
 	   | :sample:`(`:sampleb:`A` :sample:`and` :sampleb:`B`:sample:`)`
 	   .. image:: /_static/html_fig_reference_br_anb.png
    	  	:alt: Figure number
    	  	:scale: 99%
-
+	   |
 	   | :sample:`(`:sampleb:`A`:sample:`,` :sampleb:`B`:sample:`)`
 	   .. image:: /_static/html_fig_reference_br_acomb.png
    	  	:alt: Figure number
    	  	:scale: 99%
-
+	   |
 	   | :sample:`(`:sampleb:`A–C`:sample:`)`
 	   .. image:: /_static/html_fig_reference_br_a-c.png
    	  	:alt: Figure number
    	  	:scale: 99%
 
-	   | Same variations are allowed for lower case :ref:`panel letters<figure_pannel>`.
+
 
 
 	If a reference to :ref:`panel letter<figure_pannel>` is missing, then please ask author to provide one.
