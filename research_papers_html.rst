@@ -661,6 +661,7 @@ If image is hard to read, please contact Production team and ask to provide clea
 	  - Check that the first instance of each panel letter is called out in alphabetical order (Ex. A, B, A, C, B, D)
 	  - :ref:`Panel letters<figure_pannel>` can be combined in different ways in the figure legend text (The same variations are allowed for lower case :ref:`panel letters<figure_pannel>`):
 
+	   |
 	   | :sample:`(`:sampleb:`A` :sample:`and` :sampleb:`B`:sample:`)`
 	   .. image:: /_static/html_fig_reference_br_anb.png
    	  	:alt: Figure number
