@@ -618,7 +618,12 @@ For other Latin terms either italics or :ref:`plain text<plain_text>` is accepta
 
 If image is hard to read, please contact Production team and ask to provide clearer images. If Production team does not have better images, then contact corresponding author.
 
-13.2. Check whether figures have :ref:`panel letters<figure_pannel>`. Both lower case and upper case panel letters are allowed. However, they should be used consistently: either all figures have lower case panel letters or all have upper case letters. Mix of formats is not allowed.
+13.2. Check whether figures have :ref:`panel letters<figure_pannel>`. 
+
+	  - A panel letter is not required in the case where there is only one image, or panel.
+	  - Both lower case and upper case panel letters are allowed; however, they should be used consistently in the figure and throughout the paper: either all figures have lower case panel letters or all have upper case letters.
+	   - A mixture of lowercase and uppercase panel letters is acceptable when subpanels are present where the main panel letter is uppercase and the subpanel is lowercase (Ex. Aa, Ab, Ba, Bb, etc.)
+
 
 13.3. Check the figure description text (figure legend):
 
