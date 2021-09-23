@@ -629,28 +629,28 @@ If image is hard to read, please contact Production team and ask to provide clea
 
 	- Check that figure legend has a figure number:
 
-	|	:sampleb:`Figure N.` (where “N” is a number of the figure)
+	  |	:sampleb:`Figure N.` (where “N” is a number of the figure)
 
-	- Check that figure number is labeled as “Figure” and followed by the figure number. No substitutes (Scheme, Chart, Graphic etc.) allowed in place of the word “Figure”. Contact author before making this change while suggesting that we can indicate this detail in the legend notes if they prefer (Ex: Figure 1. Graphic representation of...).
+	  - Check that figure number is labeled as “Figure” and followed by the figure number. No substitutes (Scheme, Chart, Graphic etc.) allowed in place of the word “Figure”. Contact author before making this change while suggesting that we can indicate this detail in the legend notes if they prefer (Ex: Figure 1. Graphic representation of...).
 
-	- Check that number is followed by period (.).
+	  - Check that number is followed by period (.).
 
-	- Check that figure number is formatted in bold and colored in black.
+	  - Check that figure number is formatted in bold and colored in black.
 
-	- If figure number is followed by text, then check that the first sentence of that text is formatted in bold and colored in black. The rest of the text should be in :ref:`plain text<plain_text>`.
+	  - If figure number is followed by text, then check that the first sentence of that text is formatted in bold and colored in black. The rest of the text should be in :ref:`plain text<plain_text>`.
 
-	|	:sampleb:`Figure 1. First sentence of legend text in sentence case.` :sample:`Second sentence and rest of text.`
+	  |	:sampleb:`Figure 1. First sentence of legend text in sentence case.` :sample:`Second sentence and rest of text.`
 	
-	.. image:: /_static/html_figure_number.png
+	  .. image:: /_static/html_figure_number.png
    	  	:alt: Figure number
    	  	:scale: 99%
 
-	`Exclusion:` if first sentence contains :ref:`panel letters<figure_pannel>`, then it should be formatted in :ref:`plain text<plain_text>`.
+	  `Exclusion:` if first sentence contains :ref:`panel letters<figure_pannel>`, then it should be formatted in :ref:`plain text<plain_text>`.
 
-	|	:sampleb:`Figure 2.` :sample:`First sentence of legend text containing panel letter (`:sampleb:`A`:sample:`) and letter (`:sampleb:`B`:sample:`) in sentence case. Second sentence and rest of text.`
+	  |	:sampleb:`Figure 2.` :sample:`First sentence of legend text containing panel letter (`:sampleb:`A`:sample:`) and letter (`:sampleb:`B`:sample:`) in sentence case. Second sentence and rest of text.`
 
 
-	.. image:: /_static/html_figure_number_exception.png
+	  .. image:: /_static/html_figure_number_exception.png
    	  	:alt: Figure number
    	  	:scale: 99%
 
