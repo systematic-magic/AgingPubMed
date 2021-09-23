@@ -691,46 +691,46 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 	- Check the format of figure callouts (no other variations allowed):
 
-	| :sampleu:`Figure 1`
+	   | :sampleu:`Figure 1`
 
-	.. image:: /_static/html_fig_callouts.png
+	   .. image:: /_static/html_fig_callouts.png
    	  	:alt: Figure number
    	  	:scale: 99%
-    |
-	If figure has panels, then callout can have a letter (letter case should be the same as on figure image):
+	   |
+	  - If figure has panels, then callout can have a letter (letter case should be the same as on figure image):
 
-   	|
-	| :sampleu:`Figure 1A`
-	| :sampleu:`Figure 1a`
+	   |
+	   | :sampleu:`Figure 1A`
+	   | :sampleu:`Figure 1a`
 
-	.. image:: /_static/html_fig_callout_full_letters.png
+	   .. image:: /_static/html_fig_callout_full_letters.png
    	  	:alt: Figure number
    	  	:scale: 99%
-   	|
+	   |
 
-	| `Examples of callout combinations:`
-	| :sampleu:`Figure 1`
-	| :sampleu:`Figure 3C`
-	| :sampleu:`Figure 2B` :sample:`and` :sampleu:`2C` (note that there is no "s" at the end of "Figure" word)
-	| :sampleu:`Figure 5B`:sample:`,` :sampleu:`5C`
-	| :sampleu:`Figure 1E`:sample:`–`:sampleu:`1G`
+	   | `Examples of callout combinations:`
+	   | :sampleu:`Figure 1`
+	   | :sampleu:`Figure 3C`
+	   | :sampleu:`Figure 2B` :sample:`and` :sampleu:`2C` (note that there is no "s" at the end of "Figure" word)
+	   | :sampleu:`Figure 5B`:sample:`,` :sampleu:`5C`
+	   | :sampleu:`Figure 1E`:sample:`–`:sampleu:`1G`
 
-	.. image:: /_static/html_fig_callout_variations.png
+	   .. image:: /_static/html_fig_callout_variations.png
    	  	:alt: Figure number
    	  	:scale: 99%
 
-   	|
-	- Check that the word "Figure" as well as number (and letter) are hyperlinked.
+	   |
+	  - Check that the word "Figure" as well as number (and letter) are hyperlinked.
 
-	- Check that each figure has at least 1 callout in the text.
+	  - Check that each figure has at least 1 callout in the text.
 
-	- Check that figure callouts appear in linear order throughout the manuscript. 1, 2, 3 and so on. Once a figure has initially been called out, it can be called out again in any order. For example, 1, 2, 3, 1, 2, 4 is OK.
+	  - Check that figure callouts appear in linear order throughout the manuscript. 1, 2, 3 and so on. Once a figure has initially been called out, it can be called out again in any order. For example, 1, 2, 3, 1, 2, 4 is OK.
 
-	If one or more callouts are missing or are being called out of linear order in the text, please contact author.
+	  If one or more callouts are missing or are being called out of linear order in the text, please contact author.
 
 13.6. Check that each figure is placed after its first callout.
 
-13.7. Check that figures and their legends are displaying properly in pop-out window
+13.7. Check that figures and their legends are displaying properly in pop-out window.
 
 	.. image:: /_static/html_fig_popout.png
    	  	:alt: Figure number
