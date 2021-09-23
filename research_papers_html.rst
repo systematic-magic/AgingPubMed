@@ -622,7 +622,7 @@ If image is hard to read, please contact Production team and ask to provide clea
 
 	  - A panel letter is not required in the case where there is only one image, or panel.
 	  - Both lower case and upper case panel letters are allowed; however, they should be used consistently in the figure and throughout the paper: either all figures have lower case panel letters or all have upper case letters.
-	  - Subpanel letters are allowed and should be kept lowercase while keeping the main panel uppercase alongside keeping consistency of this formatting throughout the paper.
+	  - Subpanel letters are allowed and should be kept lowercase while keeping the main panel uppercase alongside maintaining consistency of this formatting throughout the paper.
 
 
 13.3. Check the figure description text (figure legend):
