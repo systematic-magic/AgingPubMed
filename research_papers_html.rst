@@ -691,12 +691,12 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 	- Check the format of figure callouts (no other variations allowed):
 
-	   | :sampleu:`Figure 1`
+	  | :sampleu:`Figure 1`
 
-	   .. image:: /_static/html_fig_callouts.png
+	  .. image:: /_static/html_fig_callouts.png
    	  	:alt: Figure number
    	  	:scale: 99%
-	   |
+	  |
 	  - If figure has panels, then callout can have a letter (letter case should be the same as on figure image):
 
 	   |
