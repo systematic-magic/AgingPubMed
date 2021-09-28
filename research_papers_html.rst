@@ -421,7 +421,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 		:wtonbl:`Abbreviations` - optional - [title case, in white on blue background]
 
-		:wtonbl:`Author Contributions` - mandatory - [title case, in white on blue background] (let Olga or Elena know in your corrections email if missing - do not email authors)
+		:wtonbl:`Author Contributions` - mandatory - [title case, in white on blue background] - (let Olga or Elena know in your corrections email if missing - do not email authors about it)
 
 		:wtonbl:`Acknowledgments` - optional - [title case, in white on blue background]
 
