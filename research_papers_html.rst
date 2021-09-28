@@ -1158,7 +1158,7 @@ If the link is not valid, please contact author to provide a working link.
 
 16.8.1. There is no standard for books and reports. However at least Title and Year (and author name for book references) should be present.
 
-16.8.2. Add DOI if available. Search the internet and add it if you are sure it is correct. Otherwise leave as-is; it is not necessary to contact author to provide missing links.
+16.8.2. If a link is not present, search the internet and add it (preferably a DOI) if you are sure it is correct. Otherwise leave as-is; it is not necessary to contact author to provide missing links.
 
 
 16.9. Patents
