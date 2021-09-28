@@ -44,7 +44,7 @@ We suggest you use the :ref:`following procedure<correct_case_check>` if you are
 
 	- et al, etc, and via should be formatted in :ref:`plain text<plain_text>`.
 
-	- :ref:`plain text<plain_text>` is acceptable for all other Latin terms not noted above.
+	- :ref:`Plain text<plain_text>` is acceptable for all other Latin terms not noted above.
 
 2.6. Check that species and gene names are written in italics.
 
@@ -600,7 +600,7 @@ If an author requests to remove a link, then the name of the resource (software,
 
 	- et al, etc, and via should be formatted in :ref:`plain text<plain_text>`.
 
-	- :ref:`plain text<plain_text>` is acceptable for all other Latin terms not noted above.
+	- :ref:`Plain text<plain_text>` is acceptable for all other Latin terms not noted above.
 
 	- A period should follow "et al" (et al.).
 
