@@ -602,7 +602,7 @@ If an author requests to remove a link, then the name of the resource (software,
 
 	- :ref:`Plain text<plain_text>` is acceptable for all other Latin terms not noted above.
 
-	- A period should follow "et al" (et al.).
+	- A period should follow "et al": et al.
 
 12.10. Name of cities, countries, institutions, books and manuals should not be in italics. (this applies to all text except References)
 
