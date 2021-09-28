@@ -1133,6 +1133,8 @@ If you find duplicate references, please contact author and ask to correct the r
 
 If you come across a retracted reference that does not have a note to indicate retraction at all, contact the author to inform them that a retracted article is being cited and that we need to reformat it with the appropriate retraction note.
 
+16.6.10. We prefer all non-journal article references to have a working link when possible. When links are missing, it is fine to search the internet and add if you are sure it is correct; however, it is not necessary to contact the author to provide missing links except where specifically noted to do so in these standards.
+
 |
 .. _websites_html_research_papers:
 
@@ -1145,6 +1147,8 @@ If you come across a retracted reference that does not have a note to indicate r
 
 If the link is not valid, please contact author to provide a working link.
 
+16.7.3. If a link is not present, search the internet and add it if you are sure it is correct. Otherwise leave as-is; it is not necessary to contact author to provide missing links.
+
 
 |
 .. _books_html_research_papers:
@@ -1153,6 +1157,9 @@ If the link is not valid, please contact author to provide a working link.
 ^^^^^^^^^^^^^^^^^^^^^
 
 16.8.1. There is no standard for books and reports. However at least Title and Year (and author name for book references) should be present.
+
+16.8.2. Add DOI if available. Search the internet and add it if you are sure it is correct. Otherwise leave as-is; it is not necessary to contact author to provide missing links.
+
 
 16.9. Patents
 ^^^^^^^^^^^^^
