@@ -494,6 +494,8 @@ If you find duplicate references, please contact author and ask to correct the r
 - These should be formatted to the same standards as described above in :ref:`8.1<refs_author_list_pdf_editorials>`, :ref:`8.2<reference_title_pdf_editorials>` and :ref:`8.4<citation_data_other_journals_pdf_editorials>` with the exception that a special ID number will typically be used in place of volume and page numbers.
 
 
+8.5.8. We prefer all non-journal article references to have a working link when possible. When links are missing, it is fine to search the internet and add if you are sure it is correct; however, it is not necessary to contact the author to provide missing links except where specifically noted to do so in these standards.
+
 |
 .. _websites_pdf_editorials:
 
@@ -506,6 +508,8 @@ If you find duplicate references, please contact author and ask to correct the r
 
 If the link is not valid, please contact author to provide a working link.
 
+8.6.3. If a link is not present, search the internet and add it if you are sure it is correct. Otherwise leave as-is; it is not necessary to contact author to provide missing links.
+
 
 |
 .. _books_pdf_editorials:
@@ -514,6 +518,8 @@ If the link is not valid, please contact author to provide a working link.
 ^^^^^^^^^^^^^^^^^^^^^^
 
 8.7.1. There is no standard for books and reports. However at least Title and Year (and author name for book references) should be present.
+
+8.7.2. If a link is not present, search the internet and add it (preferably a DOI) if you are sure it is correct. Otherwise leave as-is; it is not necessary to contact author to provide missing links.
 
 |
 .. _corresp_author_pdf_editorials:
