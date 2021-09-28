@@ -38,8 +38,13 @@ HTML: All Papers (except Editorials)
 2.4. Check that capitalization of scientific terms is correct.
 We suggest you use the :ref:`following procedure<correct_case_check>` if you are in doubt regarding this or that term.
 
-2.5. Check that the following Latin terms are written in italics: *in vitro, in vivo, ex vivo, in situ, in silico*. Via, etc and et al should be formatted in :ref:`plain text<plain_text>`.
-For other Latin terms either italics or :ref:`plain text<plain_text>` is acceptable.
+2.5. Check Latin terms: 
+
+	- The following Latin terms should be formatted in italics: *ex vivo, in silico, in situ, in vitro, in vivo*.
+
+	- et al, etc, and via should be formatted in :ref:`plain text<plain_text>`.
+
+	- :ref:`plain text<plain_text>` is acceptable for all other Latin terms not noted above.
 
 2.6. Check that species and gene names are written in italics.
 
@@ -589,17 +594,17 @@ The authors declare no conflicts of interest related to this study.
 Check with author about nonworking links (see exceptions :ref:`here<links>`). They can choose to replace or remove them.
 If an author requests to remove a link, then the name of the resource (software, database,   tool, etc.) should be/remain present. In cases where the name of the resource is the same as the website URL (ex: MicroRNA.org), the protocol (https:// or http://), “www.” and any other excess information should be removed from the URL, and the remaining resource/website name should no longer be kept as an active link (ex: “http://www.microrna.org/microrna/home.do” would be changed to “MicroRNA.org”).
 
-12.9. Check Latin terms (This applies to all text except References): 
+12.9. Check Latin terms (this applies to all text except References): 
 
-	- The following Latin terms should be formatted in italics: *in vitro, in vivo, ex vivo, in situ, in silico*.
+	- The following Latin terms should be formatted in italics: *ex vivo, in silico, in situ, in vitro, in vivo*.
 
-	- Via, etc and et al should be formatted in :ref:`plain text<plain_text>`.
+	- et al, etc, and via should be formatted in :ref:`plain text<plain_text>`.
 
 	- :ref:`plain text<plain_text>` is acceptable for all other Latin terms not noted above.
 
 	- A period should follow "et al" (et al.).
 
-12.10. Name of cities, countries, institutions, books and manuals should not be in italics. (This applies to all text except References)
+12.10. Name of cities, countries, institutions, books and manuals should not be in italics. (this applies to all text except References)
 
 12.11. Check for consistent formatting of biotech companies in the text (typically appearing in Materials and Methods). Optional elements should be used in all or none, but US and non-US companies can be treated separately with regards to consistency.
 
