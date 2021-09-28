@@ -578,7 +578,7 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 12.6. Check Materials and Methods section (or its alternatives - see in :ref:`Section Headers<section_headers_html_research_papers>`) for erroneously placed hyperlinks (e.g. hyperlinked numbers in compound names).
 
-12.7. Check Acknowledgments section for misplaced funding information and move to FUNDING section. Check with Olga or Elena if you are not sure how to separate the information.
+12.7. Check Acknowledgments section for misplaced funding information and move to Funding section. Check with Olga or Elena if you are not sure how to separate the information.
 
 12.8. Check Conflicts of Interest section for detailed statement. 
 
