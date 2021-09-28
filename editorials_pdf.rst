@@ -125,6 +125,18 @@ If you see that author name does not comply to these standards or you have a dou
 Check with author about nonworking links (see exceptions :ref:`here<links>`). They can choose to replace or remove them.
 If an author requests to remove a link, then the name of the resource (software, database,   tool, etc.) should be/remain present. In cases where the name of the resource is the same as the website URL (ex: MicroRNA.org), the protocol (https:// or http://), “www.” and any other excess information should be removed from the URL, and the remaining resource/website name should no longer be kept as an active link (ex: “http://www.microrna.org/microrna/home.do” would be changed to “MicroRNA.org”).
 
+4.3. Check Latin terms (this applies to all text except References): 
+
+	- The following Latin terms should be formatted in italics: *ex vivo, in silico, in situ, in vitro, in vivo*.
+
+	- et al, etc, and via should be formatted in :ref:`plain text<plain_text>`.
+
+	- :ref:`Plain text<plain_text>` is acceptable for all other Latin terms not noted above.
+
+	- A period should follow "et al": et al.
+
+4.4. British and American English spelling are both acceptable; however, consistency should be maintained.
+
 
 |
 .. _figures_pdf_editorials:
