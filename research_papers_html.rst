@@ -901,12 +901,18 @@ Callouts can be found in text, figures and tables.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 16.1.1. Run reference list through `Edifix <https://edifix.com/jobs/new>`_.
 
+	- title your Edifix job name by anything you want, but at least include the PII number
+
+	- Compare "Show Changes" tab in Edifix and enter the reference number(s) on our `Edifix Notes sheet <https://docs.google.com/spreadsheets/d/1qyClWqmVHfKHFJJhDh3W64skxQBzqaPkm0ExU7v3VfI/edit#gid=1113966999>`_ for any issues found by Edifix that needed to be corrected but our tool didn't.
+
+	   - It's not necessary to note if Edifix points out an erratum unless it actually helps with a correction.
+
 	- Cross-check author lists that include collaborators against `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ and original article.
 
 	- Notify Christopher if half or more of the references are being flagged as being on Cabell’s list.
 
 
-16.1.2. Run references that have been reformatted by Edifix through the External References check in the Jaguar tool.
+16.1.2. Run references that have been reformatted by Edifix through the External References check in the Jaguar tool (only applicable for updated reference lists sent from author).
 
 
 .. _refs_author_list_html_research_papers:
