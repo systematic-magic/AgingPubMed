@@ -901,11 +901,15 @@ Callouts can be found in text, figures and tables.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 16.1.1. Run reference list through `Edifix <https://edifix.com/jobs/new>`_.
 
-	- title your Edifix job name by anything you want, but at least include the PII number
+	- Title Edifix job name as desired, but at least include the PII number.
 
-	- Compare "Show Changes" tab in Edifix and enter the reference number(s) on our `Edifix Notes sheet <https://docs.google.com/spreadsheets/d/1qyClWqmVHfKHFJJhDh3W64skxQBzqaPkm0ExU7v3VfI/edit#gid=1113966999>`_ for any issues found by Edifix that needed to be corrected but our tool didn't.
+.. image:: /_static/edifix_job_name.png
+   :alt: Edifix Job Name
+   :scale: 99%
 
-	   - It's not necessary to note if Edifix points out an erratum unless it actually helps with a correction.
+	- Compare "Show Changes" tab in Edifix and enter the reference number(s) on our `Edifix Notes sheet <https://docs.google.com/spreadsheets/d/1qyClWqmVHfKHFJJhDh3W64skxQBzqaPkm0ExU7v3VfI/edit#gid=1113966999>`_ for any issues found by Edifix that needed to be corrected but Jaguar PubMed feature didn't.
+
+	   - It's not necessary to note if Edifix points out an erratum unless it actually helps with a correction we would have otherwise missed.
 
 	- Cross-check author lists that include collaborators against `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ and original article.
 
