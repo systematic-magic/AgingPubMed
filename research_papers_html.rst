@@ -636,6 +636,8 @@ If image is hard to read, please contact Production team and ask to provide clea
 	  - A panel letter is not required in the case where there is only one image, or panel.
 	  - Both lower case and upper case panel letters are allowed; however, they should be used consistently in the figure and throughout the paper: either all figures have lower case panel letters or all have upper case letters.
 
+	  - Both lower case and upper case subpanel letters as well as numbers are allowed; however, they should be used consistently in the figure and throughout the paper. (Ex. Aa, Bb... **OR** AA, BB... **OR** A1, B1)
+
 
 13.3. Check the figure description text (figure legend):
 
