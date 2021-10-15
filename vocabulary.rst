@@ -78,15 +78,17 @@ Large tables
 .. _shortened_pg_format:
 
 Shortened format for page number ranges
-    | Page ranges between 1–99 should be written in full.
-    | Ending page numbers for ranges 99 and above should be shortened to two digits unless a digit in the hundreds place or greater is different from the beginning page number.
+    | Ending page numbers should be shortened to the greatest changed digit. 
+
 
     | `Examples of properly formatted page ranges:`
-    | :sample:`4–8`
-    | :sample:`11–17` (should not be shortened)
-    | :sample:`102–09` (shortened from 102–109)
-    | :sample:`178–200`
-    | :sample:`1250–350` (shortened from 1250–1350)
+    | :sample:`5–9` (cannot be shortened)
+    | :sample:`1–17` (cannot be shortened)
+    | :sample:`10–8` (shortened from 10–18)
+    | :sample:`12–22` (cannot be shortened)
+    | :sample:`132–9` (shortened from 132–139)
+    | :sample:`303–27` (shortened from 303–327)
+    | :sample:`342–423` (cannot be shortened)
 
     |
 
