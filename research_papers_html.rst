@@ -945,9 +945,9 @@ Callouts can be found in text, figures and tables.
 
 - NO hyphens or spaces allowed in-between initials.
 
-16.2.3. Remove any electronic addresses (Ex. Electronic address: easloffice@easloffice.eu).
+16.2.3. Check that all :ref:`mononyms<mononym>` (names which have no initials) are “true” mononyms (check `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site/original article).
 
-16.2.4. Check that all :ref:`mononyms<mononym>` (names which have no initials) are “true” mononyms (check `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site/original article).
+16.2.4. Remove any electronic addresses (Ex. Electronic address: easloffice@easloffice.eu).
 
 16.2.5. Check that list of authors contains no more than either:
 
