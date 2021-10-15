@@ -155,7 +155,10 @@ If image is hard to read, please contact Production team and ask to provide clea
 5.2. Check whether figures have :ref:`panel letters<figure_pannel>`. 
 
 	  - A panel letter is not required in the case where there is only one image, or panel.
-	  - Both lower case and upper case panel letters are allowed; however, they should be used consistently in the figure and throughout the paper: either all figures have lower case panel letters or all have upper case letters.
+	  - Both lowercase and uppercase panel letters are allowed; however, they should be used consistently in the figure.
+
+	  - Lowercase and uppercase subpanel letters as well as numbers are allowed; however, they should be used consistently in the figure. (Ex. Aa, Bb... **OR** AA, BB... **OR** A1, B1). Subpanels are not mandatory.
+
 
 5.3. Check the figure description text (figure legend):
 
@@ -192,7 +195,7 @@ If image is hard to read, please contact Production team and ask to provide clea
 	  - Check that at least the first instance of each panel letter is enclosed in parentheses. Subsequent callouts of the same panel letter can be enclosed in parentheses, but this is not mandatory.
 	  - Check that the case of each panel letter callout matches case of the panel letter used in the image. Uppercase or lowercase is fine as long as only one case is consistently used in the figure.
 	  - Check that the first instance of each panel letter is called out in alphabetical order (Ex. A, B, A, C, B, D).
-	  - :ref:`Panel letters<figure_pannel>` can be combined in different ways in the figure legend text (The same variations are allowed for lower case :ref:`panel letters<figure_pannel>`):
+	  - :ref:`Panel letters<figure_pannel>` can be combined in different ways in the figure legend text (The same variations are allowed for lowercase :ref:`panel letters<figure_pannel>`):
 
 	   |
 	   | :sample:`(`:sampleb:`A` :sample:`and` :sampleb:`B`:sample:`)`
@@ -677,7 +680,7 @@ Keywords section can be found at the end of the article right after the Email se
 
 12.5. Check that keyword (or list of keywords) is formatted in italic font.
 
-12.6. Check that keywords are written in lower case, unless proper nouns as well as exceptions such as special terms, genes, proteins, species names etc, which normally start with capital letter. Check that capitalization of scientific terms is correct.
+12.6. Check that keywords are written in lowercase, unless proper nouns as well as exceptions such as special terms, genes, proteins, species names etc, which normally start with capital letter. Check that capitalization of scientific terms is correct.
 
 We suggest you use the :ref:`following procedure<correct_case_check>` if you are in doubt regarding this or that term. If any doubts remain or any keywords are found to be formatted inconsistently throughout the MS when using the previously mentioned procedure, please contact the author.
 
