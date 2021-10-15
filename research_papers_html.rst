@@ -705,38 +705,38 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 	- Check the format of figure callouts (no other variations allowed):
 
-	  | :sampleu:`Figure 1`
+	| :sampleu:`Figure 1`
 
 	  .. image:: /_static/html_fig_callouts.png
    	  	:alt: Figure number
    	  	:scale: 99%
-	  |
+	|
 	  - If figure has panels, then callout can have a letter (letter case should be the same as on figure image):
 
-	   |
-	   | :sampleu:`Figure 1A`
-	   | :sampleu:`Figure 1a`
+	|
+	| :sampleu:`Figure 1A`
+	| :sampleu:`Figure 1a`
 
 	   .. image:: /_static/html_fig_callout_full_letters.png
    	  	:alt: Figure number
    	  	:scale: 99%
-	   |
+	|
 
-	   | `Examples of callout combinations:`
-	   | :sampleu:`Figure 1`
-	   | :sampleu:`Figure 3C`
-	   | :sampleu:`Figure 2B` :sample:`and` :sampleu:`2C` (note that there is no "s" at the end of "Figure" word)
-	   | :sampleu:`Figure 5B`:sample:`,` :sampleu:`5C`
-	   | :sampleu:`Figure 1E`:sample:`–`:sampleu:`1G`
+	| `Examples of callout combinations:`
+	| :sampleu:`Figure 1`
+	| :sampleu:`Figure 3C`
+	| :sampleu:`Figure 2B` :sample:`and` :sampleu:`2C` (note that there is no "s" at the end of "Figure" word)
+	| :sampleu:`Figure 5B`:sample:`,` :sampleu:`5C`
+	| :sampleu:`Figure 1E`:sample:`–`:sampleu:`1G`
 
 	   .. image:: /_static/html_fig_callout_variations.png
    	  	:alt: Figure number
    	  	:scale: 99%
 
-	   |
+	|
 	  - Check that the word "Figure" as well as number (and letter) are hyperlinked.
 
-	   |
+	|
 	- Check that each figure has at least 1 callout in the text. 
 
 	- Check that the first instance of each figure's callout is in numerical order throughout the manuscript (Ex. 1, 2, 3, 1, 2, 4).
