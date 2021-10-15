@@ -743,7 +743,7 @@ If you see that there are gaps in number sequence, then check with corresponding
 
 	  - We're not concerned with alphabetical order when panels are included.
 
-	 | If one or more callouts are missing or are being called out of linear order in the text, please contact author.
+	If one or more callouts are missing or are being called out of linear order in the text, please contact author.
 
 13.6. Check that each figure is placed after its first callout.
 
