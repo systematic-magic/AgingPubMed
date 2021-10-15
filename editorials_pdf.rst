@@ -352,7 +352,9 @@ Callouts can be found in text and figures.
 - NO hyphens or spaces allowed in-between initials.
 8.1.3. Check that all :ref:`mononyms<mononym>` (names which have no initials) are “true” mononyms (check `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site).
 
-8.1.4. Check that list of authors contains either of the following:
+8.1.4. Remove any electronic addresses (Ex. Electronic address: easloffice@easloffice.eu).
+
+8.1.5. Check that list of authors contains either of the following:
 
 - One author name followed by comma (,) and “et al.”
 
