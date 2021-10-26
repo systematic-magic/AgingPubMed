@@ -121,7 +121,6 @@ How to check whether term, keyword, etc is in correct case?
 
 Optional sections for Editorials
     There are optional sections for Editorials that can appear after Keywords section and before Copyright section in this order: Abbreviations, Acknowledgments, Conflicts of Interest and Funding.
-
     |
 
 .. _country_abbr:
@@ -138,6 +137,14 @@ Accepted variations Taiwan
 	- ROC (or R.O.C.)
 	- Taiwan, Republic of China
 	- Taiwan, ROC (or R.O.C.)
+
+Accepted variations Hong Kong
+	- Hong Kong
+	- Hong Kong SAR
+
+.. Note::
+	
+	Taiwan and Hong Kong can optionally include China (or any of its allowed variations) as the ultimate country as long as consistency is maintained throughout the affiliations.
 
     |
 
