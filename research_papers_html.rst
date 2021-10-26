@@ -140,7 +140,7 @@ If there is only one affiliation text for all authors, then each author name sho
 4.4. Check that country and city names are NOT written in ALL CAPS (capital letters).
 
 4.5. Check that each individual country is formatted consistently.
-Allowed variations for China and Taiwan can be found :ref:`here<country_abbr>`. 
+Allowed variations for China, Taiwan and Hong Kong can be found :ref:`here<country_abbr>`. 
 
 4.6. Chinese affiliations: zip code is allowed for both city and county/district. If zip code is present, it must be positioned after city/county/district and there must be no comma between city/county/district and zip code. Zip code is optional for any of the elements (city/county/district).
 
