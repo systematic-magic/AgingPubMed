@@ -131,14 +131,14 @@ Accepted variations for China
 	- PRC (or P.R.C.)
 	- PR (or P.R.) China
 
-Accepted variations Taiwan
+Accepted variations for Taiwan
 	- Taiwan
 	- Republic of China
 	- ROC (or R.O.C.)
 	- Taiwan, Republic of China
 	- Taiwan, ROC (or R.O.C.)
 
-Accepted variations Hong Kong
+Accepted variations for Hong Kong
 	- Hong Kong
 	- Hong Kong SAR
 
