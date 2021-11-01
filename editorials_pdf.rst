@@ -253,6 +253,7 @@ If image is hard to read, please contact Production team and ask to provide clea
 	   .. image:: /_static/pdf_fig_callout_full_letters.png
    	      :alt: Figure number
    	      :scale: 99%
+	      
 	   |
 
 	   | `Examples of callout combinations:`
@@ -308,7 +309,9 @@ Tables are not used for editorials.
 	.. image:: /_static/pdf_editorials_reference_callouts.png
 	   :alt: Reference callouts
 	   :scale: 99%
+	   
 	|
+	
 	- Check that only comma (,) and :ref:`en dash<en_dash>` (–) are used as a separators. No other separators are allowed. 
 
 	- Check that there is a space after comma (,) and no space before and after en dash (–).
@@ -363,6 +366,7 @@ Callouts can be found in text and figures.
   - Allow the number of initials author has supplied if different from PubMed and/or original article (within the 3 initial limit).
 
 - NO hyphens or spaces allowed in-between initials.
+
 8.1.3. Check that all :ref:`mononyms<mononym>` (names which have no initials) are “true” mononyms (check `PubMed <https://pubmed.ncbi.nlm.nih.gov/>`_ site).
 
 8.1.4. Remove any electronic addresses (Ex. Electronic address: easloffice@easloffice.eu).
