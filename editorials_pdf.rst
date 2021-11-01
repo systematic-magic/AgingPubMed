@@ -597,7 +597,7 @@ Corresponding author and affiliation can be found at the end of the article righ
 .. _correspondence_pdf_editorials:
 
 10. Correspondence
------------------
+------------------
 
 Correspondence section can be found at the end of the article right after the corresponding author and affiliation section.
 
