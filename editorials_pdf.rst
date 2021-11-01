@@ -21,6 +21,7 @@ PDF: Editorials
 
 
 |
+
 .. _title_pdf_editorials:
 
 2. Title
