@@ -174,6 +174,7 @@ If image is hard to read, please contact Production team and ask to provide clea
 	  - Check that figure number is formatted in bold and colored in black.
 
 	  |
+	  
 	- If figure number is followed by text, then check that the first sentence of that text is formatted in bold and colored in black. The rest of the text should be in :ref:`plain text<plain_text>`.
 
 	  |	:sampleb:`Figure 1. First sentence of legend text in sentence case.` :sample:`Second sentence and rest of text.`
@@ -204,11 +205,13 @@ If image is hard to read, please contact Production team and ask to provide clea
 	  - :ref:`Panel letters<figure_pannel>` can be combined in different ways in the figure legend text (The same variations are allowed for lowercase :ref:`panel letters<figure_pannel>`):
 
 	   |
+	   
 	   | :sample:`(`:sampleb:`A` :sample:`and` :sampleb:`B`:sample:`)`
 
 	   .. image:: /_static/html_fig_reference_br_anb.png
    	      :alt: Figure number
    	      :scale: 99%
+	      
 	   |
 
 	   | :sample:`(`:sampleb:`A`:sample:`,` :sampleb:`B`:sample:`)`
@@ -216,6 +219,7 @@ If image is hard to read, please contact Production team and ask to provide clea
 	   .. image:: /_static/html_fig_reference_br_acomb.png
    	      :alt: Figure number
    	      :scale: 99%
+	      
 	   |
 
 	   | :sample:`(`:sampleb:`A–C`:sample:`)`
@@ -223,6 +227,7 @@ If image is hard to read, please contact Production team and ask to provide clea
 	   .. image:: /_static/html_fig_reference_br_a-c.png
    	      :alt: Figure number
    	      :scale: 99%
+	      
 	   |
 
 
@@ -237,9 +242,11 @@ If image is hard to read, please contact Production team and ask to provide clea
    	     :scale: 99%
 
 	  |
+	  
 	  - If figure has panels, then callout can have a letter (letter case should be the same as on figure image):
 
 	   |
+	   
 	   | :sample:`Figure 1A`
 	   | :sample:`Figure 1a`
 
@@ -260,9 +267,11 @@ If image is hard to read, please contact Production team and ask to provide clea
    	      :scale: 99%
 
 	   |
+	   
 	  - Check that the word "Figure" as well as number (and letter) are hyperlinked.
 
 	   |
+	   
 	- Check that each figure has at least 1 callout in the text.
 
 	 | If callout is missing, please contact author.
