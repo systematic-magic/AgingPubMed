@@ -123,7 +123,7 @@ Each supplementary PDF file should have a heading; seek guidance from both Olga 
 .. _tables_supplementary_html_research_papers:
 
 5. Tables
-^^^^^^^^^^^^
+^^^^^^^^^
 
 .. IMPORTANT::
 
@@ -175,7 +175,7 @@ Each supplementary PDF file should have a heading; seek guidance from both Olga 
 .. _large_tables_check:
 
 7. Large Tables
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^
 
 Tables which fit into 2 pages are "normal tables" and should be published as PDF for convenient printing. Tables which span across 3 or more pages are considered ":ref:`large tables<large_tables>`". Large tables should be published as separate supplementary files (preferably in Excel (.xlsx) format).
 
