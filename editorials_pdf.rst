@@ -179,16 +179,16 @@ If image is hard to read, please contact Production team and ask to provide clea
 	  |	:sampleb:`Figure 1. First sentence of legend text in sentence case.` :sample:`Second sentence and rest of text.`
 	
 	  .. image:: /_static/html_figure_number.png
-   	  	:alt: Figure number
-   	  	:scale: 99%
+   	     :alt: Figure number
+   	     :scale: 99%
 
 	  `Exclusion:` if first sentence contains :ref:`panel letters<figure_pannel>`, then it should be formatted in :ref:`plain text<plain_text>`.
 
 	  |	:sampleb:`Figure 1.` :sample:`First sentence of legend text containing panel letter (`:sampleb:`A`:sample:`) and letter (`:sampleb:`B`:sample:`) in a sentence case. Second sentence and rest of text.`
 
 	  .. image:: /_static/html_figure_number_exception.png
-   	  	:alt: Figure number
-   	  	:scale: 99%
+   	     :alt: Figure number
+   	     :scale: 99%
 
 	- If figure image has :ref:`panel letters<figure_pannel>`, then check that reference to each panel is present in figure legend. Reference is denoted by panel letter and is formatted in bold. Subpanels are allowed (Ex. Aa, Ab, Ac, etc.) but do not require individual callouts in the legend or text.
 
@@ -207,22 +207,22 @@ If image is hard to read, please contact Production team and ask to provide clea
 	   | :sample:`(`:sampleb:`A` :sample:`and` :sampleb:`B`:sample:`)`
 
 	   .. image:: /_static/html_fig_reference_br_anb.png
-   	  	:alt: Figure number
-   	  	:scale: 99%
+   	      :alt: Figure number
+   	      :scale: 99%
 	   |
 
 	   | :sample:`(`:sampleb:`A`:sample:`,` :sampleb:`B`:sample:`)`
 
 	   .. image:: /_static/html_fig_reference_br_acomb.png
-   	  	:alt: Figure number
-   	  	:scale: 99%
+   	      :alt: Figure number
+   	      :scale: 99%
 	   |
 
 	   | :sample:`(`:sampleb:`A–C`:sample:`)`
 
 	   .. image:: /_static/html_fig_reference_br_a-c.png
-   	  	:alt: Figure number
-   	  	:scale: 99%
+   	      :alt: Figure number
+   	      :scale: 99%
 	   |
 
 
@@ -233,8 +233,8 @@ If image is hard to read, please contact Production team and ask to provide clea
 	  | :sample:`Figure 1`
 
 	  .. image:: /_static/pdf_figure_callouts.png
-   	  	:alt: Figure callouts
-   	  	:scale: 99%
+   	     :alt: Figure callouts
+   	     :scale: 99%
 
 	  |
 	  - If figure has panels, then callout can have a letter (letter case should be the same as on figure image):
@@ -244,8 +244,8 @@ If image is hard to read, please contact Production team and ask to provide clea
 	   | :sample:`Figure 1a`
 
 	   .. image:: /_static/pdf_fig_callout_full_letters.png
-   	  	:alt: Figure number
-   	  	:scale: 99%
+   	      :alt: Figure number
+   	      :scale: 99%
 	   |
 
 	   | `Examples of callout combinations:`
@@ -256,8 +256,8 @@ If image is hard to read, please contact Production team and ask to provide clea
 	   | :sample:`Figure 1E`:sample:`–`:sample:`1G`
 
 	   .. image:: /_static/pdf_fig_callout_variations.png
-   	  	:alt: Figure number
-   	  	:scale: 99%
+   	      :alt: Figure number
+   	      :scale: 99%
 
 	   |
 	  - Check that the word "Figure" as well as number (and letter) are hyperlinked.
@@ -297,8 +297,8 @@ Tables are not used for editorials.
 	| :sample:`[1, 3–4]`
 
 	.. image:: /_static/pdf_editorials_reference_callouts.png
-		:alt: Reference callouts
-		:scale: 99%
+	   :alt: Reference callouts
+	   :scale: 99%
 	|
 	- Check that only comma (,) and :ref:`en dash<en_dash>` (–) are used as a separators. No other separators are allowed. 
 
@@ -518,8 +518,8 @@ If you find duplicate references, please contact author and ask to correct the r
    | :sampleb:`(Suppl N)` (where “N” is the supplemental issue number)
 
 	.. image:: /_static/suppl_issue_formatting.png
-   	  	:alt: Supplemental issue formatting
-   	  	:scale: 99%
+   	   :alt: Supplemental issue formatting
+   	   :scale: 99%
 
 8.5.7. Preprint articles are allowed in references. A couple of examples (not limited to) would be from sources such as `BioRxiv <https://www.biorxiv.org/>`_ and `Preprints <https://www.preprints.org/>`_.
 
