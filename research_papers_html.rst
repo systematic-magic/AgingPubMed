@@ -357,7 +357,7 @@ We suggest you use the :ref:`following procedure<correct_case_check>` if you are
 .. _copyright_html_research_papers:
 
 10. Copyright
-------------
+-------------
 
 10.1. Check that copyright section has a title “Copyright:” (:ref:`title case<title_case>`).
 
@@ -387,7 +387,7 @@ and followed by:
 .. _section_headers_html_research_papers:
 
 11. Section Headers
-------------------
+-------------------
 .. _start_of_check_html_research_papers:
 
 Section headers should comply with below mentioned requirements in respect to order, letter case, color and spelling. Also, no variations (except for alternatives explicitly mentioned in these standards) are allowed. For example, standards have "Author Contributions" section with no alternatives specified, which means that all other variations (like "Authors' Contributions, Author Contribution, Contribution of Author, etc") are not allowed. |br|
@@ -929,7 +929,7 @@ Callouts can be found in text, figures and tables.
 .. _refs_author_list_html_research_papers:
 
 16.2. Author List
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^
 16.2.1. Check that author names in the list of authors are in-line with the following format: |br|
 |span_format_start| LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th) |span_end|
 
@@ -995,7 +995,7 @@ Callouts can be found in text, figures and tables.
 .. _reference_title_html_research_papers:
 
 16.3. Reference Title
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^
 
 16.3.1. Title can be written in :ref:`sentence case<sentence_case>`, :ref:`title case<title_case>` or in ALL CAPS. All these formats are allowed.
 
@@ -1067,7 +1067,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 .. _citation_data_other_journals_html_research_papers:
 
 16.5. Citation-Data (other journals)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. ATTENTION::
 	
@@ -1115,7 +1115,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 .. _general_checks_html_research_papers:
 
 16.6. General Checks
-^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
 
 16.6.1. Check for duplicates in the reference list. 
 
@@ -1178,7 +1178,7 @@ If you come across a retracted reference that does not have a note to indicate r
 .. _websites_html_research_papers:
 
 16.7. Websites
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^
 
 16.7.1. There is no standard for website references. Authors are allowed to accompany a web link with any information they think appropriate. 
 
@@ -1193,7 +1193,7 @@ If the link is not valid, please contact author to provide a working link.
 .. _books_html_research_papers:
 
 16.8. Books and Reports
-^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
 
 16.8.1. There is no standard for books and reports. However at least Title and Year (and author name for book references) should be present.
 
