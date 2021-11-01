@@ -123,7 +123,7 @@ If you see that author name does not comply to these standards or you have a dou
 	- Check that all website addresses lead to valid page.
 
 Check with author about nonworking links (see exceptions :ref:`here<links>`). They can choose to replace or remove them.
-If an author requests to remove a link, then the name of the resource (software, database,   tool, etc.) should be/remain present. In cases where the name of the resource is the same as the website URL (ex: MicroRNA.org), the protocol (https:// or http://), “www.” and any other excess information should be removed from the URL, and the remaining resource/website name should no longer be kept as an active link (ex: “http://www.microrna.org/microrna/home.do” would be changed to “MicroRNA.org”).
+If an author requests to remove a link, then the name of the resource (software, database, tool, etc.) should be/remain present. In cases where the name of the resource is the same as the website URL (ex: MicroRNA.org), the protocol (https:// or http://), “www.” and any other excess information should be removed from the URL, and the remaining resource/website name should no longer be kept as an active link (ex: “http://www.microrna.org/microrna/home.do” would be changed to “MicroRNA.org”).
 
 4.3. Check Latin terms (this applies to all text except References): 
 
@@ -182,7 +182,6 @@ If image is hard to read, please contact Production team and ask to provide clea
 
 	  |	:sampleb:`Figure 1.` :sample:`First sentence of legend text containing panel letter (`:sampleb:`A`:sample:`) and letter (`:sampleb:`B`:sample:`) in a sentence case. Second sentence and rest of text.`
 
-
 	  .. image:: /_static/html_figure_number_exception.png
    	  	:alt: Figure number
    	  	:scale: 99%
@@ -205,7 +204,6 @@ If image is hard to read, please contact Production team and ask to provide clea
    	  	:alt: Figure number
    	  	:scale: 99%
 	   |
-
 
 	   | :sample:`(`:sampleb:`A`:sample:`,` :sampleb:`B`:sample:`)`
 
@@ -264,7 +262,6 @@ If image is hard to read, please contact Production team and ask to provide clea
 	 | If callout is missing, please contact author.
 
 
-
 |
 .. _tables_pdf_editorials:
 
@@ -274,7 +271,6 @@ If image is hard to read, please contact Production team and ask to provide clea
 Tables are not used for editorials.
 
 |
-
 .. _reference_callouts_pdf_editorials:
 
 7. Reference Callouts
@@ -291,7 +287,6 @@ Tables are not used for editorials.
 	| :sample:`[1, 2]`
 	| :sample:`[1–3]`
 	| :sample:`[1, 3–4]`
-
 
 	.. image:: /_static/pdf_editorials_reference_callouts.png
 		:alt: Reference callouts
@@ -316,7 +311,6 @@ Callouts can be found in text and figures.
 
 
 |
-
 .. _references_pdf_editorials:
 
 8. References
@@ -338,7 +332,6 @@ Callouts can be found in text and figures.
 
 8.1.1. Check that author names in the list of authors are in-line with the following format: |br|
 |span_format_start| LastName INITIALS optional Suffix (e.g. Sr, Jr, 2nd, 3rd, 4th) |span_end|
-
 
 .. image:: /_static/author_name_format.png
    :alt: Author Names format
@@ -428,7 +421,6 @@ Citation data is a part of a reference, which contains journal title, year, volu
 - Check that “[Epub ahead of print]” appears after year and before DOI.
 - If you come across an Epub reference, be sure to verify whether publishing information has since been released. If publishing information is available, then please add vol, pg numbers, etc. and format as directed above in section :ref:`8.3.2<citation_data_in_house_format_pdf_editorials>`.
 
-
 .. image:: /_static/editorial_ref_ahead_of_print.png
    :alt: Ahead of Print
    :scale: 99%
@@ -480,7 +472,6 @@ Citation data is a part of a reference, which contains journal title, year, volu
 - Check that “[Epub ahead of print]” appears after year and before DOI.
 - If you come across an Epub reference, be sure to verify whether publishing information has since been released. If publishing information is available, then please add vol, pg numbers, etc. and format as directed above in section :ref:`8.4.1<citation_data_other_journals_pdf_editorials>`.
 
-
 .. image:: /_static/editorial_ref_ahead_of_print_oj.png
    :alt: Ahead of Print
    :scale: 99%
@@ -511,7 +502,6 @@ If you find duplicate references, please contact author and ask to correct the r
 8.5.6. Check formatting for references that have been cited from supplemental issues. This information should appear in between the publishing year and semicolon in this format:
 
    | :sampleb:`(Suppl N)` (where “N” is the supplemental issue number)
-
 
 	.. image:: /_static/suppl_issue_formatting.png
    	  	:alt: Supplemental issue formatting
@@ -617,7 +607,6 @@ Correspondence section can be found at the end of the article right after the co
 
 10.8. Check that author’s full name matches the author list (at the top of the paper) and the corresponding author and affiliation section (above).
 
-
 .. image:: /_static/correspondence.png
    :alt: Correspondence
    :scale: 99%
@@ -657,7 +646,6 @@ Email section can be found at the end of the article right after the Corresponde
 11.8. Check that ORCID iD (when present) is formatted in blue, underlined, italic font.
 
 11.9. Check that there are no punctuation marks at the end of email line.
-
 
 .. image:: /_static/editorial_email.png
    :alt: Email
