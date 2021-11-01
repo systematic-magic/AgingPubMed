@@ -52,6 +52,7 @@ We suggest you use the :ref:`following procedure<correct_case_check>` if you are
 
 
 |
+
 .. _author_list_pdf_editorials:
 
 3. Author List
@@ -108,6 +109,7 @@ If you see that author name does not comply to these standards or you have a dou
 
 
 |
+
 .. _text_pdf_editorials:
 
 4. Text
@@ -140,6 +142,7 @@ If an author requests to remove a link, then the name of the resource (software,
 
 
 |
+
 .. _figures_pdf_editorials:
 
 5. Figure
@@ -266,6 +269,7 @@ If image is hard to read, please contact Production team and ask to provide clea
 
 
 |
+
 .. _tables_pdf_editorials:
 
 6. Tables
@@ -274,6 +278,7 @@ If image is hard to read, please contact Production team and ask to provide clea
 Tables are not used for editorials.
 
 |
+
 .. _reference_callouts_pdf_editorials:
 
 7. Reference Callouts
@@ -314,6 +319,7 @@ Callouts can be found in text and figures.
 
 
 |
+
 .. _references_pdf_editorials:
 
 8. References
@@ -328,6 +334,7 @@ Callouts can be found in text and figures.
    	Font of the references differs from rest of the article. This is OK. |br|
 
 |
+
 .. _refs_author_list_pdf_editorials:
 
 8.1. Author List
@@ -362,6 +369,7 @@ Callouts can be found in text and figures.
    :scale: 99%
 
 |
+
 .. _reference_title_pdf_editorials:
 
 8.2. Reference Title
@@ -370,6 +378,7 @@ Callouts can be found in text and figures.
 Reference title should not be present.
 
 |
+
 .. _citation_data_in_house_pdf_editorials:
 
 8.3. Citation-Data (in-house)
@@ -430,6 +439,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 
 
 |
+
 .. _citation_data_other_journals_pdf_editorials:
 
 8.4. Citation-Data (other journals)
@@ -481,6 +491,7 @@ Citation data is a part of a reference, which contains journal title, year, volu
 
 
 |
+
 .. _general_checks_pdf_editorials:
 
 8.5. General Checks
@@ -518,6 +529,7 @@ If you find duplicate references, please contact author and ask to correct the r
 8.5.8. We prefer all non-journal article references to have a working link when possible. When links are missing, it is fine to search the internet and add if you are sure it is correct; however, it is not necessary to contact the author to provide missing links except where specifically noted to do so in these standards.
 
 |
+
 .. _websites_pdf_editorials:
 
 8.6. Websites
@@ -533,6 +545,7 @@ If the link is not valid, please contact author to provide a working link.
 
 
 |
+
 .. _books_pdf_editorials:
 
 8.7. Books and Reports
@@ -543,6 +556,7 @@ If the link is not valid, please contact author to provide a working link.
 8.7.2. If a link is not present, search the internet and add it (preferably a DOI) if you are sure it is correct. Otherwise leave as-is; it is not necessary to contact author to provide missing links.
 
 |
+
 .. _corresp_author_pdf_editorials:
 
 9. Corresponding Author and Affiliation
@@ -587,6 +601,7 @@ Corresponding author and affiliation can be found at the end of the article righ
    :scale: 99%
 
 |
+
 .. _correspondence_pdf_editorials:
 
 10. Correspondence
@@ -615,6 +630,7 @@ Correspondence section can be found at the end of the article right after the co
    :scale: 99%
 
 |
+
 .. _email_pdf_editorials:
 
 11. Email
@@ -655,6 +671,7 @@ Email section can be found at the end of the article right after the Corresponde
    :scale: 99%
 
 |
+
 .. _keywords_pdf_editorials:
 
 12. Keywords
@@ -683,6 +700,7 @@ We suggest you use the :ref:`following procedure<correct_case_check>` if you are
    :scale: 99%
 
 |
+
 .. _abbreviations_pdf_editorials:
 
 13. Abbreviations
@@ -714,6 +732,7 @@ We suggest you use the :ref:`following procedure<correct_case_check>` if you are
 13.6. Check that there are no punctuation marks at the end of abbreviations line.
 
 |
+
 .. _acknowledgments_pdf_editorials:
 
 14. Acknowledgments
@@ -732,6 +751,7 @@ This is an optional section that should appear after Keywords section and before
 14.5. Check that there are no punctuation marks at the end of Acknowledgments line.
 
 |
+
 .. _coi_pdf_editorials:
 
 15. Conflicts of Interest
@@ -750,6 +770,7 @@ This is an optional section that should appear after Keywords section and before
 15.5. Check that there are no punctuation marks at the end of Conflicts of Interest line.
 
 |
+
 .. _funding_pdf_editorials:
 
 16. Funding
@@ -768,6 +789,7 @@ This is an optional section that should appear after Keywords section and before
 16.5. Check that there are no punctuation marks at the end of Funding line.
 
 |
+
 .. _copyright_pdf_editorials:
 
 17. Copyright
@@ -809,6 +831,7 @@ Copyright section can be found at the end of the article right after the Keyword
 
 
 |
+
 .. _dates_pdf_editorials:
 
 18. Dates
