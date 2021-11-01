@@ -26,8 +26,6 @@ Check each supplementary file to verify contents. Google Drive and `VLC <https:/
 ^^^^^^^^
 The titles of each supplementary PDF file will vary depending on their contents. Please see all possible variations below. No other variations allowed.
 
-Each supplementary PDF file should have a heading; seek guidance from both Olga and Elena  while copying Christopher in your corrections email if a heading is missing.
-
 1.1. Supplementary Figures
 
 - When multiple figures are contained in a PDF, title should be SUPPLEMENTARY FIGURES - ALL CAPS, blue and bold font.
