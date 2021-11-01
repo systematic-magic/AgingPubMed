@@ -113,7 +113,7 @@ No PDF-specific checks
 .. _abbreviations_pdf_research_papers:
 
 8. Abbreviations
----------------
+----------------
 
 8.1. Abbreviations should be kept underneath keywords in the Abstract section when there are 5 or less present. Please note that this is only applicable to the PDF, and abbreviations are always kept in the final sections in HTML.
 
@@ -154,7 +154,7 @@ No PDF-specific checks
 .. _copyright_pdf_research_papers:
 
 10. Copyright
-------------
+-------------
 
 10.1. Check that "Copyright:" is formatted in black and bold font.
 
@@ -218,7 +218,7 @@ No PDF-specific checks
 .. _text_pdf_research_papers:
 
 12. Text
---------------
+--------
 
 12.1. Check that font type and size is consistent across all sections (except for References) of the article. 
 
@@ -235,7 +235,7 @@ No PDF-specific checks
 .. _figures_pdf_research_papers:
 
 13. Figures
---------------
+-----------
 13.1. Check that callouts are formatted in :ref:`plain text<plain_text>` and are not hyperlinked.
 
 .. image:: /_static/pdf_figure_callouts.png
@@ -256,7 +256,7 @@ No PDF-specific checks
 .. _tables_pdf_research_papers:
 
 14. Tables
---------------
+----------
 14.1. Check that callouts are formatted in :ref:`plain text<plain_text>` and are not hyperlinked.
 
 .. image:: /_static/pdf_table_callouts.png
@@ -304,7 +304,7 @@ No PDF-specific checks
 .. _references_pdf_research_papers:
 
 16. References
--------------
+--------------
 
 .. ATTENTION::
    	Font of the references differs from rest of the article. This is OK. 
@@ -313,7 +313,7 @@ No PDF-specific checks
 .. _refs_author_list_pdf_research_papers:
 
 16.1. Author List
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^
 No PDF-specific checks
 
 :ref:`+ HTML checks<refs_author_list_html_research_papers>`
@@ -322,7 +322,7 @@ No PDF-specific checks
 .. _reference_title_pdf_research_papers:
 
 16.2. Reference Title
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^
 No PDF-specific checks
 
 :ref:`+ HTML checks<reference_title_html_research_papers>`
@@ -368,7 +368,7 @@ No PDF-specific checks
 .. _general_checks_pdf_research_papers:
 
 16.5. General Checks
-^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
 No PDF-specific checks
 
 :ref:`+ HTML checks<general_checks_html_research_papers>`
@@ -378,7 +378,7 @@ No PDF-specific checks
 .. _websites_pdf_research_papers:
 
 16.6. Websites
-^^^^^^^^^^^^^
+^^^^^^^^^^^^^^
 No PDF-specific checks
 
 :ref:`+ HTML checks<websites_html_research_papers>`
@@ -387,7 +387,7 @@ No PDF-specific checks
 .. _books_pdf_research_papers:
 
 16.7. Books and Reports
-^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
 No PDF-specific checks
 
 :ref:`+ HTML checks<books_html_research_papers>`
