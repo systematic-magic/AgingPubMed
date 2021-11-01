@@ -51,8 +51,8 @@ No PDF-specific checks
 5.1. Check that a no space (soft return) is used between the last affiliation and the author note(s).
 
 .. image:: /_static/pdf_author_notes_division.png
-   	:alt: Author Notes Examples
-	:scale: 99%
+   :alt: Author Notes Examples
+   :scale: 99%
 
 :ref:`+ HTML checks<author_notes>`
 
@@ -124,8 +124,8 @@ No PDF-specific checks
 8.4. Check that there is no punctuation mark at the end of the abbreviations line.
 
 .. image:: /_static/html_abbreviations.png
-	:alt: Abbreviations
-	:scale: 99%
+   :alt: Abbreviations
+   :scale: 99%
 
 :ref:`+ HTML checks<abbreviations_html_research_papers>`
 
@@ -200,16 +200,16 @@ No PDF-specific checks
 
 
 .. image:: /_static/pdf_single_header_spacing.png
-	:alt: Single main header spacing
-	:scale: 99%
+   :alt: Single main header spacing
+   :scale: 99%
 
 .. image:: /_static/pdf_header_spacing.png
-	:alt: Main and sub header spacing
-	:scale: 99%
+   :alt: Main and sub header spacing
+   :scale: 99%
 
 .. image:: /_static/pdf_subsubheader_spacing.png
-	:alt: Subsubheader spacing
-	:scale: 99%
+   :alt: Subsubheader spacing
+   :scale: 99%
 
 
 :ref:`+ HTML checks<section_headers_html_research_papers>`
@@ -276,12 +276,12 @@ No PDF-specific checks
 
 
 .. image:: /_static/pdf_table_notes.png
-	:alt: Table notes
-	:scale: 99%
+   :alt: Table notes
+   :scale: 99%
 
 .. image:: /_static/pdf_sep_table_notes.png
-	:alt: Table notes
-	:scale: 99%
+   :alt: Table notes
+   :scale: 99%
 
 :ref:`+ HTML checks<tables_html_research_papers>`
 
@@ -415,8 +415,8 @@ No PDF-specific checks
 Supplementary materials should be located after the references of the main MS in the PDF.
 
 .. image:: /_static/suppl_location_ms_pdf.png
-  	:alt: Supplementary Materials location
-  	:scale: 99%
+   :alt: Supplementary Materials location
+   :scale: 99%
 
 Check to make sure that all supplementary materials in the PDF match what we have on the website.
 
@@ -430,44 +430,44 @@ Check to make sure that all supplementary materials in the PDF match what we hav
 - Main title should appear at the top of the first page of the supplementary materials and should appear as SUPPLEMENTARY MATERIALS - ALL CAPS, blue and bold font (always kept plural).
 
 .. image:: /_static/suppl_main_ms_pdf.png
-  	:alt: Supplementary Materials main title
-  	:scale: 99%
+   :alt: Supplementary Materials main title
+   :scale: 99%
 
 **17.1.2. Supplementary Figures**
 
 - When multiple figures are present, title should be Supplementary Figures - :ref:`Title case<title_case>`, blue and bold font.
 
 .. image:: /_static/suppl_mult_figs_ms_pdf.png
-  	:alt: Supplementary Figures title
-  	:scale: 99%
+   :alt: Supplementary Figures title
+   :scale: 99%
 
 - When only a single figure is present, title should be Supplementary Figure - :ref:`Title case<title_case>`, blue and bold font.
 
 .. image:: /_static/suppl_one_fig_ms_pdf.png
-  	:alt: Supplementary Figure title
-  	:scale: 99%
+   :alt: Supplementary Figure title
+   :scale: 99%
 
 **17.1.3. Supplementary Tables**
 
 - When multiple tables are present, title should be Supplementary Tables - :ref:`Title case<title_case>`, blue and bold font.
 
 .. image:: /_static/suppl_mult_tables_ms_pdf.png
-  	:alt: Supplementary Tables title
-  	:scale: 99%
+   :alt: Supplementary Tables title
+   :scale: 99%
 
 - When only a single table is present, title should be Supplementary Table - :ref:`Title case<title_case>`, blue and bold font.
 
 .. image:: /_static/suppl_one_table_ms_pdf.png
-  	:alt: Supplementary Table title
-  	:scale: 99%
+   :alt: Supplementary Table title
+   :scale: 99%
 
 **17.1.4. Supplementary References**
 
 - Title should be Supplementary References - :ref:`Title case<title_case>`, blue and bold font.
 
 .. image:: /_static/suppl_refs_ms_pdf.png
-  	:alt: Supplementary References title
-  	:scale: 99%
+   :alt: Supplementary References title
+   :scale: 99%
 
 **17.1.5. Supplementary Materials**
 
@@ -475,8 +475,8 @@ Check to make sure that all supplementary materials in the PDF match what we hav
 
 
 .. image:: /_static/suppl_materials_ms_pdf.png
-  	:alt: Supplementary materials title
-  	:scale: 99%
+   :alt: Supplementary materials title
+   :scale: 99%
 
 **17.1.6. Footer**
 
@@ -494,8 +494,8 @@ Not applicable to PDF check - Numbered footers will most likely be present, but 
 - Any applicable information such as table title should appear below the callout.
 
 .. image:: /_static/suppl_ext_callouts_ms_pdf.png
-  	:alt: Supplementary materials title
-  	:scale: 99%
+   :alt: Supplementary materials title
+   :scale: 99%
 
 :ref:`+ HTML checks<text_supplementary_html_research_papers>`
 
