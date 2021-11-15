@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-extensions = []
+extensions = ['sphinx_rtd_theme']
 
 templates_path = ['_templates']
 source_suffix = '.rst'
@@ -77,10 +77,10 @@ intersphinx_mapping = {'https://docs.python.org/': None}
 
 # on_rtd is whether we are on readthedocs.org, this line of code grabbed from docs.readthedocs.org
 
-# html_context = {
-#     'css_files': [
-#         'https://media.readthedocs.org/css/sphinx_rtd_theme.css',
-#         'https://media.readthedocs.org/css/readthedocs-doc-embed.css',
-#         '_static/theme_overrides.css',
-#     ],
-# }
+html_context = {
+    'css_files': [
+        'https://media.readthedocs.org/css/sphinx_rtd_theme.css',
+        'https://media.readthedocs.org/css/readthedocs-doc-embed.css',
+        '_static/theme_overrides.css',
+    ],
+}
