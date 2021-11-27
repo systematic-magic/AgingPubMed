@@ -185,7 +185,7 @@ All acceptable combinations of “Current/Present address” are depicted on the
 
  - If you find deviations from this order check PubMed to see if you can find a few consistent listings of the affiliation in question to help in determining if an edit may be necessary.
 
- - Please provide your suggested edits to the author for approval (check with Lisa in the case of PMC) before making any changes to affiliation order.
+ - Please provide your suggested edits to the author for approval before making any changes to affiliation order.
 
 |
 .. _author_notes:
