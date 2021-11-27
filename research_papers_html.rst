@@ -769,6 +769,8 @@ If you see that there are gaps in number sequence, then check with corresponding
 	
 	Acceptable file format when requesting an updated table from author is Word doc.
 
+	Any additions or changes outside of spelling or grammar the tables need approval from Olga or Elena before implementation.
+
 
 14.1.  Check that table font size is large enough to read.
 
