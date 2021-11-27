@@ -150,7 +150,9 @@ If an author requests to remove a link, then the name of the resource (software,
 
 .. Note::
 	
-	Only one figure should be used for editorials. |br|
+	Only one figure should be used for editorials.
+
+	Any additions or changes outside of spelling, grammar or resolution to the figure needs approval from Olga or Elena before implementation.
 
 5.1. Check that figure image has text and graphics which are clear and large enough to read.
 
