@@ -108,6 +108,8 @@ Each supplementary PDF file should have a heading; seek guidance from both Olga 
 
 	Acceptable file formats when requesting an updated figure from author are TIFF (preferable), PNG, JPG (not recommended) or EPS format and at no less than 300 ppi.
 
+	Any additions or changes outside of spelling, grammar or resolution to the figures need approval from Olga or Elena before implementation.
+
 4.1. HTML :ref:`Figures checks from 13.1. to 13.4<figures_html_research_papers>` (inclusive) are applicable to supplementary figures with one exclusion: instead of **Figure N**, figure legends should be named as **Supplementary Figure N**.
 
 .. image:: /_static/suppl_fig_name.png
