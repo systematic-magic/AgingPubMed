@@ -626,6 +626,8 @@ If an author requests to remove a link, then the name of the resource (software,
 	
 	Acceptable file formats when requesting an updated figure from author are TIFF (preferable), PNG, JPG (not recommended) or EPS format and at no less than 300 ppi.
 
+	Any additions or changes outside of spelling, grammar or resolution to the figures need approval from Olga or Elena before implementation.
+
 
 13.1. Check that figure image has text and graphics which are clear and large enough to read.
 
