@@ -177,6 +177,16 @@ All acceptable combinations of “Current/Present address” are depicted on the
    :alt: Affiliation format
    :scale: 99%
 
+4.12. Check that each affiliation generally maintains a hierarchical order from the smallest to largest unit.
+
+- Here is a broad guide that shows the hierarchical order of many types of information you may see where information inside the brackets could appear in any order within that bracket:
+
+ [Group/Network/Organization], [Laboratory/Section/Division/Unit/Department], [Hospital/Program], [Faculty of.../School of…/Institute of…], [Campus], [University/Agency], [City], [State/Province] [Zip], [Country]
+
+ - If you find deviations from this order check PubMed to see if you can find a few consistent listings of the affiliation in question to help in determining if an edit may be necessary.
+
+ - Please provide your suggested edits to the author for approval (check with Lisa in the case of PMC) before making any changes to affiliation order.
+
 |
 .. _author_notes:
 
