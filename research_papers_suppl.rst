@@ -143,6 +143,8 @@ Each supplementary PDF file should have a heading; seek guidance from both Olga 
 
 	Acceptable file formats when requesting an updated table from author are Excel (preferable), Word and CSV. Flexibility for Text files is the same as mentioned in above paragraph.
 
+	Any additions or changes outside of spelling or grammar the tables need approval from Olga or Elena before implementation.
+
 
 
 5.1. HTML :ref:`Tables checks from 14.1. to 14.5<tables_html_research_papers>` (inclusive) are applicable to supplementary tables with one exclusion: instead of **Table N**, tables should be named as **Supplementary Table N**.
