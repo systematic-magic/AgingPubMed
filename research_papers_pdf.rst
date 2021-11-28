@@ -487,14 +487,16 @@ Not applicable to PDF check - Numbered footers will most likely be present, but 
 17.2. Text
 ^^^^^^^^^^
 
-17.2.1. Check that there are callouts to any external supplementary files (e.g. tables, video etc) that could not be included in the PDF due to size or format.
+17.2.1. Check that there are callouts to any external supplementary files (e.g. tables, videos, etc.) that cannot not be included in the PDF due to size or format.
 
-- Callout text should be “Please browse Full Text version to see the data of”…
+- A single consolidated callout for each type of supplementary materials should appear below the top of its associated section heading (one for tables, one for figures, etc.).
 
-- Any applicable information such as table title should appear below the callout.
+- Callout text should be “Please browse Full Text version to see the data of..."
+
+- The applicable title should still be used in place of where the missing materials would normally appear.
 
 .. image:: /_static/suppl_ext_callouts_ms_pdf.png
-   :alt: Supplementary materials title
+   :alt: Supplementary materials ext callout
    :scale: 99%
 
 :ref:`+ HTML checks<text_supplementary_html_research_papers>`
