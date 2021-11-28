@@ -491,7 +491,7 @@ Not applicable to PDF check - Numbered footers will most likely be present, but 
 
 - A single consolidated callout for each type of supplementary materials should appear below its associated section heading (one for tables, one for figures, etc.).
 
- - We only use these callouts in the PDF, not the external files.
+  - We only use these callouts in the PDF, not the external files.
 
 - Callout text should be “Please browse Full Text version to see the data of..."
 
