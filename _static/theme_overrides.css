@@ -75,8 +75,9 @@ body span.sampleu {
 
 span.calibri {
     font-family: Calibri;
+    font-style: normal;
 }
 
 span.ntr {
-    font-family: 'Times New Roman';
+    font-family: `Times New Roman`;
 }
