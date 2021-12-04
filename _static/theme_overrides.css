@@ -73,11 +73,11 @@ body span.sampleu {
   text-decoration: line-through;
 }
 
-span.calibri {
-    font-family: Calibri;
-    font-style: normal;
+body span.calibri {
+  font-family: Calibri;
+  font-style: normal;
 }
 
-span.ntr {
-    font-family: `Times New Roman`;
+body span.ntr {
+  font-family: `Times New Roman`;
 }
