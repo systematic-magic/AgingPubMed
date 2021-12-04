@@ -17,7 +17,7 @@ Request MS from Alex and Christopher if one is unavailable.
 1. Spelling
 -----------
 
-1.1. Review spelling errors presented by spelling checker and correct where necessary.
+1.1. Check for spelling errors presented by spelling checker.
 
  - These are indicated by red, wavy underlining.
 
@@ -28,7 +28,7 @@ Request MS from Alex and Christopher if one is unavailable.
 2. Grammar
 ----------
 
-2.1. Review grammar errors presented by grammar checker and correct where necessary.
+2.1. Check for grammar errors presented by grammar checker.
 
  - These are indicated by with blue, double underlining.
 
