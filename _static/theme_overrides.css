@@ -73,10 +73,10 @@ body span.sampleu {
   text-decoration: line-through;
 }
 
-body span.calibri {
+span.calibri {
     font-family: calibri;
 }
 
-body span.ntr {
+span.ntr {
     font-family: new times roman;
 }
