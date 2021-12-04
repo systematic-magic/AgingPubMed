@@ -30,7 +30,7 @@ Happy hunting!
    :maxdepth: 2
    :caption: ALL PAPERS (except Editorials):
    
-   WORD DOC <research_papers_word>
+   WORD DOC <research_papers_word_doc>
    HTML <research_papers_html>
    SUPPLEMENTARY MATERIALS <research_papers_suppl>
    PDF <research_papers_pdf>
