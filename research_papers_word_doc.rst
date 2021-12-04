@@ -1,3 +1,6 @@
+.. role:: calibri
+.. role:: ntr
+
 .. _research_papers_word:
 
 WORD DOC: All Papers (except Editorials)
