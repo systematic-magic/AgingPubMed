@@ -72,3 +72,11 @@ body span.sampleu {
 .strike {
   text-decoration: line-through;
 }
+
+body span.calibri {
+    font-family: calibri;
+}
+
+body span.ntr {
+    font-family: new times roman;
+}
