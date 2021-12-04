@@ -9,7 +9,7 @@ Request MS from Alex and Christopher if one is unavailable.
 
 .. image:: /_static/html_dl_ms.png
 	:alt: Download MS link
-	:scale: 99%
+	:scale: 75%
 
 .. Important::
 	Open the Word doc with Microsoft Word (other word processors such as Google Docs and Apple Pages do not reliably render the correct font) and with the spelling and grammar checker enabled.
