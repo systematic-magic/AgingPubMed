@@ -12,7 +12,9 @@ Request MS from Alex and Christopher if one is unavailable.
 	:scale: 75%
 
 .. Important::
-	Open the Word doc with Microsoft Word (other word processors such as Google Docs and Apple Pages do not reliably render the correct font) and with the spelling and grammar checker enabled.
+ Open the Word doc with Microsoft Word (other word processors such as Google Docs and Apple Pages do not reliably render the correct font) and with the spelling and grammar checker enabled.
+
+Word docs can be uploaded to the team Google Drive if necessary, but it would not be advisable to open them there as the font will be permanently corrupted if saved as a Google Doc, which could be done inadvertently due to Google's auto-save feature.
 
 1. Spelling
 -----------
