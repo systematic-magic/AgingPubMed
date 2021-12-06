@@ -1,3 +1,5 @@
+.. role:: Calibri
+
 .. _research_papers_word:
 
 WORD DOC: All Papers (except Editorials)
@@ -46,7 +48,7 @@ Request MS from Alex and Christopher if one is unavailable.
 .. note::
  We report these errors because the final PDF is directly generated from the Word doc. Still report these issues even if there is not an evident effect in the current PDF so as to avoid any potential future issues.
 
-- We only use Times New Roman and Calibri fonts:
+- We only use Times New Roman and fonts: :Calibri:`Calibri`
 
     .. csv-table::
        :header: "Section", "Font"
