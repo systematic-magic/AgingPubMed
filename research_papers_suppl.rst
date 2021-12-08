@@ -143,7 +143,7 @@ Each supplementary PDF file should have a heading; seek guidance from both Olga 
 
 	Acceptable file formats when requesting an updated table from author are Excel (preferable), Word and CSV. Flexibility for Text files is the same as mentioned in above paragraph.
 
-	Any additions or changes outside of spelling or grammar the tables need approval from Olga or Elena before implementation.
+	Any additions or changes outside of spelling or grammar to the tables need approval from Olga or Elena before implementation.
 
 
 
