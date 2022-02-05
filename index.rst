@@ -47,4 +47,4 @@ Happy hunting!
 .. toctree::
    :caption: Appendix:
 
-   vocabulary
+   appendix
