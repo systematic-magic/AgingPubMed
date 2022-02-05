@@ -1,3 +1,5 @@
+.. role:: sample
+
 
 Vocabulary
 ==========
@@ -222,4 +224,7 @@ Nonworking link exceptions
     | http://www.microrna.org/
     | http://www.microrna.org/microrna/home.do
 
+
+Author Query Templates
+=======================
 
