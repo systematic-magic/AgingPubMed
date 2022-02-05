@@ -245,7 +245,7 @@ I have been working with your article, "**XXX**", in preparation for its publica
 
 Please respond within 48 hours to accommodate our stringent production deadlines and ensure timely publication of your article.
 
-Kind thanks,
+| Kind thanks,
 | **XXX**
 
 
