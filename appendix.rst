@@ -230,7 +230,7 @@ Author Query Templates
 
 .. Note::
 
- Please provide a PDF to the authors whenever you are contacting them. Depending on the situation and the amount of issues, mark the PDF to specifically show them where the issues are, and you can also add suggested edits when applicable. Abstain from sending the authors a Word doc to make changes unless it's absolutely necessary. Let the authors know that they need to use "Track Changes" if a Word doc is being edited.
+ Please provide a PDF to the authors whenever you are contacting them about any potential changes to their paper. Depending on the situation and the amount of issues, mark the PDF to specifically show them where the issues are, and you can also add suggested edits when applicable. Abstain from sending the authors a Word doc to make changes unless it's absolutely necessary. Let the authors know that they need to use "Track Changes" if a Word doc is being edited.
 
 Email Title
 -----------
