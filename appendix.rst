@@ -228,3 +228,31 @@ Nonworking link exceptions
 Author Query Templates
 =======================
 
+Email Title
+-----------
+
+*Response Required* - Aging MS XXXXX | PII XXXXXX - XX
+
+
+Body
+----
+I have been working with your article, "**XXX**", in preparation for its publication in the Aging, and I have a few questions for you:
+
+**XXX**
+
+Please respond within 48 hours to accommodate our stringent production deadlines and ensure timely publication of your article.
+
+Kind thanks,
+**XXX**
+
+
+Issues
+------
+
+Alphabetical Figure Legend Panel Callouts
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Each figure legend should be formatted so that the first instance of each panel letter is called out in alphabetical order (Ex. A, B, A, C, B, D).
+
+Could you please use the attached PDF to mark the necessary changes to bring your paper into accordance with this standard? Keep in mind that changes made to the panel letters in the figure or the legend may affect in-text callouts throughout the rest of your paper as well.
+
