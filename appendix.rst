@@ -247,6 +247,7 @@ Please respond within 48 hours to accommodate our stringent production deadlines
 
 | Kind thanks,
 | **XXX**
+| PubMed Team
 
 
 Issues
