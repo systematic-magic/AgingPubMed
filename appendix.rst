@@ -239,7 +239,7 @@ Body
 
 Dear Dr. **XXX**,
 
-I have been working with your article, "**XXX**", in preparation for its publication in the Aging, and I have a few questions for you:
+I have been working with your article, "**XXX**", in preparation for its publication in Aging, and I have a few questions for you:
 
 **XXX**
 
