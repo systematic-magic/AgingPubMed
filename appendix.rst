@@ -236,14 +236,16 @@ Response Required - Aging MS **XXXXX** | PII **XXXXXX** - **XX**
 
 Body
 ----
+
+Dear Dr. **XXX**,
+
 I have been working with your article, "**XXX**", in preparation for its publication in the Aging, and I have a few questions for you:
 
 **XXX**
 
 Please respond within 48 hours to accommodate our stringent production deadlines and ensure timely publication of your article.
 
-Kind thanks,
-
+Kind thanks, |br|
 **XXX**
 
 
