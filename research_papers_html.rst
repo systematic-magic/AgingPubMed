@@ -569,37 +569,22 @@ Also, if you notice that the order of the sections need to be changed (to comply
 
 12.1. Check that font type and size is consistent across all sections of the article. 
 
+12.2. Check that there is a period (.) at the end of the Abstract text.
 
-.. _spell_check_html_research_papers:
+12.3. Check that no references are being called out in the Abstract text.
 
-12.2. Some (not all) articles will have a “Download MS” link below “Download PDF” link. If present, download the Word doc and scan it expeditiously by eye for any spelling errors (indicated by red, wavy underlining). If not present, request MS from Alex and Christopher.
+12.4. Check that nothing is hyperlinked in the Abstract text.
 
-	- The paper must be accessed by the special link shown in :ref:`Accessing Papers<paper_access>` section in order for the Word doc link to be visible.
+12.5. Check Materials and Methods section (or its alternatives - see in :ref:`Section Headers<section_headers_html_research_papers>`) for erroneously placed hyperlinks (e.g. hyperlinked numbers in compound names).
 
-.. image:: /_static/html_dl_ms.png
-	:alt: Download MS link
-	:scale: 99%
+12.6. Check Acknowledgments section for misplaced funding information and move to Funding section. Check with Olga or Elena if you are not sure how to separate the information.
 
-.. image:: /_static/html_spell_check.png
-	:alt: Spelling check
-	:scale: 99%
-
-12.3. Check that there is a period (.) at the end of the Abstract text.
-
-12.4. Check that no references are being called out in the Abstract text.
-
-12.5. Check that nothing is hyperlinked in the Abstract text.
-
-12.6. Check Materials and Methods section (or its alternatives - see in :ref:`Section Headers<section_headers_html_research_papers>`) for erroneously placed hyperlinks (e.g. hyperlinked numbers in compound names).
-
-12.7. Check Acknowledgments section for misplaced funding information and move to Funding section. Check with Olga or Elena if you are not sure how to separate the information.
-
-12.8. Check Conflicts of Interest section for detailed statement. 
+12.7. Check Conflicts of Interest section for detailed statement. 
 
 	- If statement is simply “none.” or something similarly vague, then ask the production team to check the COI in the submission system and use the standard statement if applicable:  |br|
 The authors declare no conflicts of interest related to this study.
 
-12.9. Check all website addresses in article text:
+12.8. Check all website addresses in article text:
 
 	- Check that all website addresses are hyperlinked (except when in Abstract section).
 
@@ -610,7 +595,7 @@ The authors declare no conflicts of interest related to this study.
 Check with author about nonworking links (see exceptions :ref:`here<links>`). They can choose to replace or remove them.
 If an author requests to remove a link, then the name of the resource (software, database,   tool, etc.) should be/remain present. In cases where the name of the resource is the same as the website URL (ex: MicroRNA.org), the protocol (https:// or http://), “www.” and any other excess information should be removed from the URL, and the remaining resource/website name should no longer be kept as an active link (ex: “http://www.microrna.org/microrna/home.do” would be changed to “MicroRNA.org”).
 
-12.10. Check Latin terms (this applies to all text except References): 
+12.9. Check Latin terms (this applies to all text except References): 
 
 	- The following Latin terms should be formatted in italics: *ex vivo, in silico, in situ, in vitro, in vivo*.
 
@@ -620,14 +605,14 @@ If an author requests to remove a link, then the name of the resource (software,
 
 	- A period should follow "et al": et al.
 
-12.11. Name of cities, countries, institutions, books and manuals should not be in italics. (this applies to all text except References)
+12.10. Name of cities, countries, institutions, books and manuals should not be in italics. (this applies to all text except References)
 
-12.12. Check for consistent formatting of biotech companies in the text (typically appearing in Materials and Methods). Optional elements should be used in all or none, but US and non-US companies can be treated separately with regards to consistency.
+12.11. Check for consistent formatting of biotech companies in the text (typically appearing in Materials and Methods). Optional elements should be used in all or none, but US and non-US companies can be treated separately with regards to consistency.
 
 	- USA companies: Company Name, City (optional), State (optional), USA
 	- Non-US companies: Company Name, City (optional), State or Province (optional), Country Name
 
-12.13. British and American English spelling are both acceptable; however, consistency should be maintained.
+12.12. British and American English spelling are both acceptable; however, consistency should be maintained.
 
 
 |
