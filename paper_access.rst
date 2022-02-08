@@ -5,7 +5,7 @@
 Accessing Papers
 ================
 
-Access papers from the Aging Pubmed Team Console by replacing “{pii}” with the PII number of the paper you are going to check: |br|
+Access papers from the Aging Pubmed Team Console by replacing “{pii}” with the PII number of the paper you are going to check in the following URL: |br|
 https://aging-prod2-pubmed-team.impactaging.com/aging-prod2/article/**{pii}**/3HxqagulPZvz9C4VZnO86vG63ZDdafCJ
 
 Example for accessing PII 203882: |br|
