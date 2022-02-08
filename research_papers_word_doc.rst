@@ -3,13 +3,10 @@
 WORD DOC: All Papers (except Editorials)
 ========================================
 
-The Word doc can be downloaded by clicking the “Download MS” link at the top-right corner of HTML page (The paper must be accessed by the special link shown in :ref:`Accessing Papers<paper_access>` section in order for the Word doc link to be visible).
+The Word doc can be downloaded by clicking the "Download manuscript" button in the :ref:`Aging PubMed Team Console <paper_access>`.
 
 Request MS from Alex and Christopher if one is unavailable.
 
-.. image:: /_static/html_dl_ms.png
-	:alt: Download MS link
-	:scale: 75%
 
 .. Important::
  Open the Word doc with Microsoft Word (other word processors such as Google Docs and Apple Pages do not reliably render the correct font) and with the spelling and grammar checker enabled.
